@@ -1,4 +1,4 @@
-# Gro�kosh
+# Gro-kosh
 
 No description for this creature yet.
 
