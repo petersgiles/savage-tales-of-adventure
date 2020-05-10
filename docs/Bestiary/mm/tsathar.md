@@ -1,4 +1,4 @@
-Tsathar
+# Tsathar
 
 The tsathar are bulky froglike humanoids who live in swamps or dark
 caves. They worship Tsathogga, and reproduce by implanting eggs into
@@ -12,6 +12,7 @@ d8, Swimming d12, Throwing d4
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **And Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 18").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -36,6 +37,7 @@ d10, Swimming d12, Throwing d4
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 18").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -45,4 +47,3 @@ to foe.
 - **Amphibious:** Swimming Pace of 12", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Very Tough:** +1 Toughness.
-

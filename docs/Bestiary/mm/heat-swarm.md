@@ -1,4 +1,4 @@
-Heat swarm
+# Heat swarm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Powers d10
 **Edges:** Arcane Background (Super Powers), Dodge, Level Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -26,4 +27,3 @@ extra damage from called shots.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
-

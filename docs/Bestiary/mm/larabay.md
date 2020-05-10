@@ -1,4 +1,4 @@
-Larabay
+# Larabay
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Improved Dodge, Level Headed
 **Powers:** Invisibility, Obscure (illusionary terrain), Obscure
 (illusion), Pummel (wind), Puppet
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 8" and Climb 2.
@@ -21,4 +22,3 @@ Improved Dodge, Level Headed
 to resist.
 - **Resistances:** -2 damage from cold, electricity and fire.
 - **Mischief:** Make a Spirit roll or suffer a level of Fatigue.
-

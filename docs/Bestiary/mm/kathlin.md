@@ -1,4 +1,4 @@
-Kathlin
+# Kathlin
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Hooves:** Str+d4.
 - **Bite:** Str+d6.
@@ -18,4 +19,3 @@ d12
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Fast Runner:** Roll d8 when running instead of d6.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Blood queen
+# Blood queen
 
 The Blood Queen appears as a massive swollen maggot, with three
 tentacles surrounding her gaping maw, and five more tentacles projecting
@@ -18,6 +18,7 @@ d12+7, Knowledge (Religion) d12+5, Knowledge (Planes) d12+5, Knowledge
 Strong Willed
 **Powers:** Obscure (darkness), Puppet (willing followers)
 **Special Abilities**
+
 - **Armour +7:** Bruised flesh.
 - **Bite:** Str+d8.
 - **Stings:** Str+d8; Electricity.
@@ -41,4 +42,3 @@ effects.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

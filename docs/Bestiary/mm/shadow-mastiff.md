@@ -1,4 +1,4 @@
-Shadow mastiff
+# Shadow mastiff
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Tail Slap:** Str+d4.
@@ -27,6 +28,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,6 +52,7 @@ d10, Spellcasting d4
 **Powers:** Disguise (shapechange), Invisibility, Obscure (darkness),
 Slumber
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,4 +65,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Resistance:** -1 damage from cold.
-

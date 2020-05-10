@@ -1,4 +1,4 @@
-Cikavak
+# Cikavak
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic)
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

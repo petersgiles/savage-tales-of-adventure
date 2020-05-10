@@ -1,4 +1,4 @@
-Hag
+# Hag
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d8, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Disguise (shapechange), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +3:** A-coloured skin.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -31,6 +32,7 @@ Stealth d8, Tracking d10, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Disguise (shapechange), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +3:** White skin.
 - **Bite:** Str+d8; Cold.
 - **Claws:** Str+d8; Cold.
@@ -57,6 +59,7 @@ d12+1, Persuasion d10, Repair d10, Stealth d12, Spellcasting d12
 **Powers:** Disguise (illusion), Lower Trait (curse), Invisibility,
 Speak Language
 **Special Abilities**
+
 - **Armour +3:** Leathery flesh.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -79,6 +82,7 @@ Spellcasting d10
 **Powers:** Disguise (shapechange), Light (dancing lights),
 Invisibility, Speak Language
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Weakness.
 - **Darkvision:** No vision penalties for darkness (range 18").
@@ -98,6 +102,7 @@ Repair d12, Stealth d12+1, Tracking d12+2, Spellcasting d12
 **Powers:** Detect Arcana (sense magic), Dispel (plant trappings only),
 Healing, Lower Trait (curse), Invisibility, Mind Reading, Obscure (fog)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Bleed.
 - **Bite:** Str+d4.
@@ -128,6 +133,7 @@ Vigor d12+2
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic), Lower
 Trait (Strength), Invisibility, Intangibility, Slumber
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Disease.
@@ -152,6 +158,7 @@ Vigor d12+1
 **Gear:** Pitchfork (Str+d8)
 **Edges:** Alertness, Dodge, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Blistered skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -171,9 +178,9 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Algae-colored skin.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Amphibious:** Swimming Pace of 13", and cannot drown, but can also
 breathe air and survive indefinitely on land.
-

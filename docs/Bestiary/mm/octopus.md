@@ -1,4 +1,4 @@
-Octopus
+# Octopus
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d8
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,6 +27,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Edges:** Ambidextrous
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Tentacles:** Str; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -47,6 +49,7 @@ Vigor d12
 Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
@@ -67,6 +70,7 @@ Vigor d12+2
 Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
@@ -78,4 +82,3 @@ raise on an opposed Strength roll to escape.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

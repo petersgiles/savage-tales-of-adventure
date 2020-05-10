@@ -1,4 +1,4 @@
-Jinmenju
+# Jinmenju
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 20 (4)
 **Edges:** Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Slams:** Str+d8.
@@ -20,4 +21,3 @@ bonuses.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

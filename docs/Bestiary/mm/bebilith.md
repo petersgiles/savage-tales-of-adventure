@@ -1,4 +1,4 @@
-Bebilith
+# Bebilith
 
 Bebiliths are intelligent giant spiders from another dimension.
 
@@ -11,6 +11,7 @@ Survival d12, Tracking d12, Spellcasting d6
 Willed
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Rot.
 - **Claws:** Str+d8.
@@ -33,4 +34,3 @@ melts and rots.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

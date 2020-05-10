@@ -1,4 +1,4 @@
-Hoar fox
+# Hoar fox
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ Agility roll at -2 or suffer 2d4 cold damage.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size -1:** Reduces Toughness by -1.
-

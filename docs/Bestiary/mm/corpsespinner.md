@@ -1,4 +1,4 @@
-Corpsespinner
+# Corpsespinner
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 16 (3)
 **Edges:** Alertness, Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d10; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ surfaces with Pace 5".
 - **Size +5:** Increases Toughness by +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

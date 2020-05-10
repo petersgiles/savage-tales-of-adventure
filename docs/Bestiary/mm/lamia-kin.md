@@ -1,4 +1,4 @@
-Lamia-kin
+# Lamia-kin
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+1, Spellcasting d8
 Headed, Quick, Strong Willed
 **Powers:** Pummel (wind), Puppet, Slumber
 **Special Abilities**
+
 - **Armour +5:** Flapping flesh.
 - **Bite:** Str+d8; Acid Damage; Wisdom Drain.
 - **Claws:** Str+d8; Wisdom Drain.
@@ -35,6 +36,7 @@ Vigor d12+1
 2d6)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Disease.
 - **Talons:** Str+d4.
@@ -46,4 +48,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 9" and Climb 2.
 - **Immunities:** Disease and magic.
 - **Disease:** Make a Vigor roll or become afflicted.
-

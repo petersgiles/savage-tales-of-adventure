@@ -1,4 +1,4 @@
-Undine
+# Undine
 
 No description for this creature yet.
 
@@ -12,7 +12,7 @@ Swimming d6, Faith d12
 **Edges:** Arcane Background (Miracles), Champion
 **Powers:** Boost Trait (bless), Elemental Manipulation (water)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
 - **Resistance:** -1 damage from cold.
-

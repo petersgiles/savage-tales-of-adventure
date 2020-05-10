@@ -1,4 +1,4 @@
-Ursikka
+# Ursikka
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 21 (4)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +4:** White fur.
 - **Bite:** Str+d8; Freezing Viscosity.
 - **Coat Claws:** Str+d8.
@@ -23,4 +24,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

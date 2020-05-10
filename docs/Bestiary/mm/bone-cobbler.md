@@ -1,4 +1,4 @@
-Bone cobbler
+# Bone cobbler
 
 Bone cobblers are tattered, desiccated humanoids that are sometimes
 mistaken for zombies. They take great pleasure in flaying their victims
@@ -14,8 +14,8 @@ d10, Innate Powers d8
 **Edges:** Arcane Background (Super Powers), Dodge, Frenzy, Two-Fisted
 **Powers:** Summon Ally (animate skeleton)
 **Special Abilities**
+
 - **Armour +1:** Grayish flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 damage.
-

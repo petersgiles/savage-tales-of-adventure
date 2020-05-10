@@ -1,4 +1,4 @@
-Mantidrake
+# Mantidrake
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -29,6 +30,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -52,6 +54,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -75,6 +78,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -99,6 +103,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -122,6 +127,7 @@ d12+1
 Tracking d12, Throwing d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -136,4 +142,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 Agility roll at -2 or suffer 2d8 cold damage.
 - **Immunities:** Cold, sleep and paralysis.
 - **Size +3:** Twelve feet long; Toughness +3.
-

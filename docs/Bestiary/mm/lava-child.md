@@ -1,4 +1,4 @@
-Lava child
+# Lava child
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d4, Knowledge (Nature) d4
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Fire.
@@ -19,4 +20,3 @@ that's in contact with the ground.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Fire and magic.
 - **Weaknesses:** Cold (double damage) and water.
-

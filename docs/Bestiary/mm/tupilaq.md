@@ -1,4 +1,4 @@
-Tupilaq
+# Tupilaq
 
 Tupilaqs are small humanoid constructs carved from whale bones,
 possessed by the spirit of a child, and utilised as assassins. If their
@@ -13,6 +13,7 @@ Vigor d12
 **Edges:** Arcane Background (Magic)
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -26,4 +27,3 @@ raise on an opposed Strength roll to escape.
 disease, poison, and extra damage from called shots.
 - **Natural Swimmer:** Swimming Pace of 9", and +2 to resist drowning.
 - **Size -1:** Three feet tall; Toughness -1.
-

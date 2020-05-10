@@ -1,4 +1,4 @@
-Akata
+# Akata
 
 The akata looks like a hairless lion with blue skin. It has quivering
 tentacles for a mane, and two long tentacles instead of a tail.
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Void Bite.
 - **Tentacles:** Str+d4; Reach 1".
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -24,4 +25,3 @@ surfaces with Pace 5".
 This is treated as if the character had the Terminally Ill Hindrance,
 except that 2d4 hours after death they will rise again as a void
 zombie.
-

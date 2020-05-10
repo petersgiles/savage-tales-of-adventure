@@ -1,4 +1,4 @@
-Fungoid
+# Fungoid
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Mushroom flesh.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -15,4 +16,3 @@ d12
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Resistance:** -2 damage from electricity.
-

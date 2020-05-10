@@ -1,4 +1,4 @@
-Fire lizard
+# Fire lizard
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Scales.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -20,4 +21,3 @@ Agility roll at -2 or suffer 2d10 fire damage.
 - **Size +7:** Thirty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

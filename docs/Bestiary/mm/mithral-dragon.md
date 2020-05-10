@@ -1,4 +1,4 @@
-Mithral dragon
+# Mithral dragon
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Trait (Strength), Boost Trait (Agility), Detect Arcana (sense magic),
 Dispel, Obscure (fog cloud), Puppet (living humanoids only), Quickness,
 Stun (daze)
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Razor Claws:** Str+d8; Bleed.
@@ -49,6 +50,7 @@ Headed, Quick
 (fog cloud), Puppet (living humanoids only), Quickness, Stun (daze),
 Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Razor Claws:** Str+d8; Bleed.
@@ -68,4 +70,3 @@ they become Shaken (this can cause a wound)
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

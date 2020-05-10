@@ -1,4 +1,4 @@
-Ant
+# Ant
 
 Giant ants are tough and adaptable, growing to around six feet in
 length.
@@ -9,6 +9,7 @@ Vigor d12+2
 d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Sting:** Str+d4; Poison.
@@ -36,6 +37,7 @@ Vigor d12+3
 d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 16 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Sting:** Str+d6; Poison.
@@ -61,6 +63,7 @@ d12
 d6
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Sting:** Str+d4; Poison.
@@ -88,6 +91,7 @@ Climbing d10, Notice d6, Tracking d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -107,6 +111,7 @@ d12
 d6
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -128,6 +133,7 @@ Vigor d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -151,6 +157,7 @@ Vigor d12+1
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 16 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -173,6 +180,7 @@ Climbing d10, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -181,4 +189,3 @@ Climbing d10, Innate Powers d10
 surfaces with Pace 5".
 - **Immunity:** Mind-affecting effects.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

@@ -1,4 +1,4 @@
-Seaweed siren
+# Seaweed siren
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Throwing d12, Spellcasting d6
 **Edges:** Alertness, Arcane Background (Magic), Marksman
 **Powers:** Confusion, Speak Language
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ to resist.
 - **Size +4:** Eight feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

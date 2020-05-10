@@ -1,4 +1,4 @@
-Scylla
+# Scylla
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Invisibility, Obscure (illusion), Obscure (fog), Obscure (fog cloud),
 Summon Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8; Bleed.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -39,4 +40,3 @@ they become Shaken (this can cause a wound)
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Zoog
+# Zoog
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic)
 **Powers:** Beast Friend, Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Bite:** Str; Bleed.
 - **Claws:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,4 +26,3 @@ they become Shaken (this can cause a wound)
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

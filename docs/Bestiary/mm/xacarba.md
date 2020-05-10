@@ -1,4 +1,4 @@
-Xacarba
+# Xacarba
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Spellcasting d12
 Dodge, Level Headed, Quick, Strong Willed
 **Powers:** Invisibility, Mind Reading, Puppet, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,4 +40,3 @@ creatures.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Danse macabre
+# Danse macabre
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6
 **Edges:** Alertness, Combat Reflexes, Dodge, Improved Dodge, Level
 Headed, Quick
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
 within 12".
@@ -25,4 +26,3 @@ bleeding and death magic.
 Fatigue.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Ten feet tall; Toughness +2.
-

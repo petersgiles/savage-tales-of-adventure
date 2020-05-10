@@ -1,4 +1,4 @@
-Sentinel
+# Sentinel
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d4, Spellcasting d4
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -33,6 +34,7 @@ d4, Spellcasting d4
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -45,4 +47,3 @@ surfaces with Pace 5".
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Size -1:** Reduces Toughness by -1.
-

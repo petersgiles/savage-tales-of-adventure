@@ -1,4 +1,4 @@
-Cobra construct
+# Cobra construct
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,6 +26,7 @@ Vigor d8
 **Skills:** Fighting d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -45,6 +47,7 @@ d8
 **Skills:** Fighting d6, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -57,4 +60,3 @@ against offensive magic.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

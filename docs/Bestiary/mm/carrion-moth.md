@@ -1,4 +1,4 @@
-Carrion moth
+# Carrion moth
 
 Carrion moths cab grow up to twenty feet in length, with vast wings
 covered in shimmering skull-like patterns. They have a centipede-like
@@ -11,6 +11,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +2:** Decaying flesh.
 - **Bite Bite:** Str+d6.
 - **Tentacles:** Str+d6; Reach 1"; Paralysis.
@@ -21,4 +22,3 @@ surfaces with Pace 4".
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Size +2:** Twenty feet long; Toughness +2.
-

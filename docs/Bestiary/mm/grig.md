@@ -1,4 +1,4 @@
-Grig
+# Grig
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Disguise (illusion), Entangle, Invisibility
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 7" and Climb 0.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
@@ -29,6 +30,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Disguise (illusion), Entangle, Invisibility
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -49,6 +51,7 @@ Notice d12, Repair d10, Stealth d12+3, Spellcasting d4
 **Powers:** Stun (distraction), Disguise (illusion), Entangle,
 Invisibility
 **Special Abilities**
+
 - **Armour +1:** Blue skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Swarm:** +2 Parry, immune to most weapons.
@@ -57,4 +60,3 @@ Invisibility
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

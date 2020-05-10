@@ -1,4 +1,4 @@
-Grootslang
+# Grootslang
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Tracking d12+4, Swimming d12+9
 **Edges:** Ambidextrous, Dodge, Improved Dodge, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -23,4 +24,3 @@ drowning.
 - **Size +10:** Twenty feet tall; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

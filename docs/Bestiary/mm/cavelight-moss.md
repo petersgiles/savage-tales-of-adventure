@@ -1,4 +1,4 @@
-Cavelight moss
+# Cavelight moss
 
 Cavelight moss glows with a faint yellow luminescence, although the
 colour shifts to pale blue when it is agitated. It is carnivorous but
@@ -10,6 +10,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tendrils:** Str+d8; Reach 1"; Draining.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,4 +27,3 @@ surfaces with Pace 1".
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

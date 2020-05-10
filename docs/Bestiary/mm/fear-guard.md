@@ -1,4 +1,4 @@
-Fear guard
+# Fear guard
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Edges:** Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Fear, Lower Trait (Strength), Obscure (darkness)
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Wis Damage.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -21,4 +22,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 6" and Climb 2.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

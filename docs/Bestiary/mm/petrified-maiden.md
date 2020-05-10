@@ -1,4 +1,4 @@
-Petrified maiden
+# Petrified maiden
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Scimitar (Str+d8)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Curse of Stone.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ modifiers, disease, poison, and extra damage from called shots.
 against offensive magic.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

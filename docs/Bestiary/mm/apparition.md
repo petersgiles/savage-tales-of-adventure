@@ -1,4 +1,4 @@
-Apparition
+# Apparition
 
 An apparition appears as a ghostly humanoid figure with glowing red
 eyes.
@@ -10,6 +10,7 @@ eyes.
 **Edges:** Level Headed, Strong Willed
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
 within 12".
@@ -24,4 +25,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Weaknesses:** Resurrection vulnerability and powerless in sunlight.
-

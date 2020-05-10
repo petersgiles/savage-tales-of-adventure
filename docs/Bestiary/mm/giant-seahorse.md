@@ -1,4 +1,4 @@
-Giant seahorse
+# Giant seahorse
 
 No description for this creature yet.
 
@@ -8,9 +8,9 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Size +2:** Eight feet long; Toughness +2.
-

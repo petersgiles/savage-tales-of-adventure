@@ -1,4 +1,4 @@
-Norn
+# Norn
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Level Headed, Quick, Strong Willed
 **Powers:** Dispel, Fear (phantasmal killer), Flight (wind walk), Lower
 Trait (curse), Speak Language
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Touch:** Str+d8; Energy Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -46,6 +47,7 @@ Level Headed, Quick, Strong Willed
 **Powers:** Dispel, Fear (phantasmal killer), Flight (wind walk), Lower
 Trait (curse), Speak Language
 **Special Abilities**
+
 - **Armour +1:** Pale skin.
 - **Touch:** Str+d8; Energy Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -63,4 +65,3 @@ damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

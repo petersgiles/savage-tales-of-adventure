@@ -1,4 +1,4 @@
-Huggermugger
+# Huggermugger
 
 No description for this creature yet.
 
@@ -8,7 +8,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 4
 **Gear:** Hook-blade (Str+d6)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Four feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Deathweb
+# Deathweb
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ bleeding and death magic.
 - **Size +4:** Ten feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

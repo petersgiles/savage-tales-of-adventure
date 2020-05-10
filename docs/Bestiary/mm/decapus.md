@@ -1,4 +1,4 @@
-Decapus
+# Decapus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 Repair d6, Stealth d8
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
@@ -17,4 +18,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Very Tough:** +1 Toughness.
-

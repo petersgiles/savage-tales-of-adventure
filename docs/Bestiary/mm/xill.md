@@ -1,4 +1,4 @@
-Xill
+# Xill
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d8
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ by Banish.
 raise on an opposed Strength roll to escape.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
-

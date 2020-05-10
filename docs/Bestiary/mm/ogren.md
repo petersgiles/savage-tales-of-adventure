@@ -1,4 +1,4 @@
-Ogren
+# Ogren
 
 No description for this creature yet.
 
@@ -8,6 +8,6 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Gear:** Longspear (Str+d6; Reach 1"; Parry +1; Crit)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 6").
-

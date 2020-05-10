@@ -1,4 +1,4 @@
-Changling
+# Changling
 
 No description for this creature yet.
 
@@ -8,5 +8,5 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 3; **Toughness:** 6
 **Gear:** Quarterstaff (Str+d4; Reach 1"; Parry +1)
 **Special Abilities**
-- **Darkvision:** No vision penalties for darkness (range 12").
 
+- **Darkvision:** No vision penalties for darkness (range 12").

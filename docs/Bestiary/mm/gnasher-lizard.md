@@ -1,4 +1,4 @@
-Gnasher lizard
+# Gnasher lizard
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,4 +27,3 @@ opposed Strength roll, although it still remains pinned by the bite.
 This ability only works on targets at least one Size category smaller
 than the swallower.
 - **Size +3:** Ten feet long; Toughness +3.
-

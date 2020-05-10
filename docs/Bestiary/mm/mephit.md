@@ -1,4 +1,4 @@
-Mephit
+# Mephit
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Deflection (blur), Pummel (wind), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,6 +27,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Barrier (wind), Deflection (blur), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -43,6 +45,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -60,6 +63,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -79,6 +83,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Bolt (magic missile), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -99,6 +104,7 @@ Stealth d8, Spellcasting d4
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Bolt (lightning bolt), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -119,6 +125,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -139,6 +146,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -156,6 +164,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Blind (glitterdust), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -173,6 +182,7 @@ Stealth d8, Spellcasting d4
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Deflection (blur), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Soot-colored skin.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -193,6 +203,7 @@ d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Deflection (blur), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -213,6 +224,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -220,4 +232,3 @@ Spellcasting d4
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d4 half damage.
 - **Size -1:** Reduces Toughness by -1.
-

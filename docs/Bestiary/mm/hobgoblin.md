@@ -1,4 +1,4 @@
-Hobgoblin
+# Hobgoblin
 
 No description for this creature yet.
 
@@ -9,6 +9,6 @@ d10
 **Gear:** Studded leather armour (+1), longsword (Str+d8), medium shield
 (+1 Parry), longbow (Shooting; range 15/30/60; 2d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Very Tough:** +1 Toughness.
-

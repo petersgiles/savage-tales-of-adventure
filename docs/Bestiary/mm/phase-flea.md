@@ -1,4 +1,4 @@
-Phase flea
+# Phase flea
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Touch:** Str; Draining; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ d10
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

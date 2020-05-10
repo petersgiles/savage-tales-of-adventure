@@ -1,4 +1,4 @@
-Buckawn
+# Buckawn
 
 Buckawns are two-foot tall fae who prefer to avoid contact with
 outsiders, but defend themselves when disturbed. They use poison to deal
@@ -15,6 +15,7 @@ Poison)
 **Powers:** Disguise (illusion), Entangle, Light (dancing lights),
 Invisibility
 **Special Abilities**
+
 - **Armour +1:** Swarthy skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +2 to resist opposed magic, and +2 armour
@@ -22,4 +23,3 @@ against offensive magic.
 - **Poison:** Dagger and dart inflict lethal poison if foe is Shaken or
 wounded.
 - **Size -1:** Two feet tall; Toughness -1.
-

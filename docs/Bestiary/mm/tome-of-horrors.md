@@ -1,4 +1,4 @@
-Tome of horrors
+# Tome of horrors
 
 This thick book is bound in human skin and imbued with sinister
 intelligence.
@@ -13,6 +13,7 @@ Spellcasting d10
 Level Headed, Quick, Strong Willed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Scaly flesh.
 - **Bites:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,4 +40,3 @@ damage.
 - **Resistance:** -4 damage from fire.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

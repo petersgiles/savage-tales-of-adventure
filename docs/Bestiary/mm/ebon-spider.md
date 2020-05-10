@@ -1,4 +1,4 @@
-Ebon spider
+# Ebon spider
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d10
 **Gear:** Bite melee (Str+d8; Poison)
 **Edges:** Dodge, Improved Dodge, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ surfaces with Pace 5".
 - **Poison:** Bite melee inflicts lethal poison if foe is Shaken or
 wounded.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Clawbat
+# Clawbat
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d6
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Bite:** Str+d4; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Size -1:** Reduces Toughness by -1.
-

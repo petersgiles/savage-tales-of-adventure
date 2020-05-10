@@ -1,4 +1,4 @@
-Devil
+# Devil
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+2
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Barrier (fire), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Scarlet flesh.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -38,6 +39,7 @@ d8
 **Charisma:** +2; **Pace:** 6; **Parry:** 4; **Toughness:** 6 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -61,6 +63,7 @@ Vigor d12+1
 **Powers:** Detect Arcana (sense magic), Dispel, Invisibility, Puppet
 (living humanoids only), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Wings:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -90,6 +93,7 @@ Headed
 **Powers:** Dispel, Invisibility, Mind Reading (speak with dead),
 Obscure (darkness), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Bite:** Str+d8.
@@ -118,6 +122,7 @@ Stealth d10, Spellcasting d4
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -142,6 +147,7 @@ Strong Willed
 **Powers:** Banish (plane shift self), Dispel, Obscure (illusion),
 Puppet, Puppet (living humanoids only), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -169,6 +175,7 @@ Willed
 **Powers:** Puppet, Puppet (living humanoids only), Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -201,6 +208,7 @@ Headed
 **Powers:** Deflection (blur), Dispel, Puppet (living humanoids only),
 Quickness, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -231,6 +239,7 @@ Spellcasting d8
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -266,6 +275,7 @@ Spellcasting d8
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -302,6 +312,7 @@ Headed, Strong Willed
 (living humanoids only), Summon Ally, Teleport, Voice on the Wind (dream
 message)
 **Special Abilities**
+
 - **Claws:** Str+d4; Wisdom Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -325,6 +336,7 @@ Swimming d12+2, Spellcasting d10
 **Powers:** Detect Arcana (see invisibility), Invisibility, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Slams:** Str+d6; Poison.
@@ -354,6 +366,7 @@ Shooting d8, Spellcasting d8
 Dodge, Marksman
 **Powers:** Fear, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -382,6 +395,7 @@ d12, Stealth d12+1, Spellcasting d8
 humanoids only), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -405,6 +419,7 @@ d8
 **Powers:** Detect Arcana (sense magic), Light (dancing lights), Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -430,6 +445,7 @@ d8
 **Powers:** Barrier (fire), Bolt (lightning bolt), Invisibility, Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Leathery flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -458,6 +474,7 @@ Headed, Sweep, Strong Willed
 **Powers:** Blast (ice storm), Obscure (illusion), Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -490,6 +507,7 @@ Sweep, Improved Sweep
 **Powers:** Barrier (fire), Bolt (lightning bolt), Obscure (illusion),
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8; Vorpal Bite.
@@ -523,6 +541,7 @@ d12+1, Repair d12, Stealth d10, Spellcasting d12
 **Powers:** Mind Reading, Puppet, Puppet (living humanoids only),
 Teleport
 **Special Abilities**
+
 - **Or Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -542,6 +561,7 @@ Knowledge (Planes) d10
 **Gear:** Breastplate (+3), dire flail (Str+d6)
 **Edges:** Combat Reflexes, Level Headed, Two-Fisted
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -566,6 +586,7 @@ Frenzy, Level Headed
 Teleport, Wall Walker
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
@@ -594,6 +615,7 @@ Spellcasting d8
 Frenzy, Sweep, Strong Willed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Fear; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -621,6 +643,7 @@ Spellcasting d8
 **Powers:** Detect Arcana (sense magic), Divination, Invisibility,
 Puppet
 **Special Abilities**
+
 - **Sting:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -649,6 +672,7 @@ d12
 **Powers:** Detect Arcana (sense magic), Invisibility, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -670,6 +694,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -695,6 +720,7 @@ d10, Throwing d8, Spellcasting d8
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -722,6 +748,7 @@ d10
 **Powers:** Puppet, Summon Ally, Summon Ally (skeletons and zombies),
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Crimson skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -748,6 +775,7 @@ Spellcasting d6
 Dodge
 **Powers:** Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -773,6 +801,7 @@ range 3/6/12; Str+d6; Bellows)
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Rubbery flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -795,6 +824,7 @@ Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Sweep
 **Powers:** Barrier (fire), Teleport
 **Special Abilities**
+
 - **Armour +4:** Crimson skin.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8.
@@ -821,6 +851,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 6 (1)
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1)
 **Special Abilities**
+
 - **Armour +1:** Grayish-black flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -846,6 +877,7 @@ d10
 Headed, Strong Willed
 **Powers:** Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -875,6 +907,7 @@ Level Headed, Strong Willed
 **Powers:** Banish (plane shift self), Dispel, Lower Trait (curse), Mind
 Reading, Speak Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Rust-colored skin.
 - **Horns:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -903,6 +936,7 @@ Headed, Sweep, Improved Sweep, Strong Willed
 (illusion), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claws:** Str+d8.
 - **Wings:** Str+d8.
@@ -937,6 +971,7 @@ Strong Willed
 Obscure (illusion), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Burn.
 - **Claw:** Str+d8; Burn.
@@ -969,6 +1004,7 @@ Level Headed
 **Powers:** Deflection (blur), Dispel, Obscure (darkness), Puppet,
 Summon Ally, Teleport, Wall Walker
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tail:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -993,6 +1029,7 @@ d12+1, Stealth d12+1, Spellcasting d12
 **Edges:** Arcane Background (Magic), Dodge, War Cry
 **Powers:** Obscure (darkness), Summon Ally
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -1019,6 +1056,7 @@ range 3/6/12; Str+d6; Grapple)
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Mind Reading, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -1039,6 +1077,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 4
 **Gear:** Tail slap melee (Str+d6; Stun), bite melee (Str+d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -1059,6 +1098,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Acid; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1071,4 +1111,3 @@ creatures.
 - **Resistances:** -2 damage from acid and cold.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size -1:** Two feet tall; Toughness -1.
-

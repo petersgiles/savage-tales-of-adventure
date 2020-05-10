@@ -1,4 +1,4 @@
-Biloko
+# Biloko
 
 Biloko are a gnome-like race of vicious jungle-dwelling man-eaters,
 with blood-red skin, and large mouths filled with sharp teeth.
@@ -14,10 +14,10 @@ Str+d6)
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size -1:** Four feet tall; Toughness -1.
-

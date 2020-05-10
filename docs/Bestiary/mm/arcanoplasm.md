@@ -1,4 +1,4 @@
-Arcanoplasm
+# Arcanoplasm
 
 The arcanoplasm looks like a translucent blob containing various
 semi-digested victims. It can sense and absorb magical energy.
@@ -10,6 +10,7 @@ Stealth d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Acid; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,4 +29,3 @@ surfaces with Pace 4".
 shots.
 - **Immunities:** Sleep, poison, shapechanging and paralysis.
 - **Size +2:** Increases Toughness by +2.
-

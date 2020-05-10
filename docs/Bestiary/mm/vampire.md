@@ -1,4 +1,4 @@
-Vampire
+# Vampire
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Stealth d10
 **Charisma:** +4; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Alertness, Combat Reflexes, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,6 +35,7 @@ No description for this creature yet.
 (Religion) d8, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -56,6 +58,7 @@ d10
 **Skills:** Fighting d8, Intimidation d10, Notice d10, Stealth d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -85,6 +88,7 @@ Str+d4)
 Headed, Quick, Strong Willed, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d4; Draining.
 - **Claws:** Str+d4; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -110,6 +114,7 @@ Knowledge (Nobility) d4, Persuasion d8, Stealth d10
 **Gear:** Shortbow (Shooting; range 12/24/48; 2d6)
 **Edges:** Alertness, Combat Reflexes, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Draining.
 - **Claws:** Str+d4; Bleed.
@@ -133,6 +138,7 @@ d4
 **Charisma:** +1; **Pace:** 6; **Parry:** 7; **Toughness:** 8 (2)
 **Gear:** Chainmail (+2), rapier (Str+d4; Parry +1)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
@@ -150,6 +156,7 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Alertness, Brave, Combat Reflexes, Dodge, Improved Dodge,
 Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Gaseous Form:** Can change form as a free action, in gaseous form
@@ -174,6 +181,7 @@ d10, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Alertness, Combat Reflexes, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Energy Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -204,6 +212,7 @@ d10
 **Edges:** Alertness, Combat Reflexes, Dodge, Improved Dodge, Level
 Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Gaseous Form:** Can change form as a free action, in gaseous form
@@ -234,6 +243,7 @@ Quick, Strong Willed
 Deflection (forcefield), Detect Arcana (sense magic), Disguise
 (illusion), Dispel, Lower Trait (Strength), Invisibility
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -258,6 +268,7 @@ d12+2, Stealth d12+3
 **Edges:** Alertness, Combat Reflexes, Dodge, Frenzy, Level Headed,
 Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Claws:** Str+d4; Energy Drain Once Per Round.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -285,6 +296,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Energy Drain Once Per Round.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -304,6 +316,7 @@ d10, Persuasion d12, Repair d10, Stealth d12
 **Gear:** Chainmail (+2)
 **Edges:** Alertness, Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Claws:** Str+d4; Paralysis.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
@@ -327,6 +340,7 @@ Spellcasting d6
 Quick
 **Powers:** Disguise (illusion), Fear, Puppet (animals only)
 **Special Abilities**
+
 - **Armour +2:** Pallid skin.
 - **Claws:** Str+d4; Energy Drain.
 - **Bite:** Str+d4.
@@ -340,4 +354,3 @@ bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Energy Drain:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

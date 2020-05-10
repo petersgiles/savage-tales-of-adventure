@@ -1,4 +1,4 @@
-Bhuta
+# Bhuta
 
 The bhuta is an incorporeal humanoid with feet that point backwards,
 although it can disguise its nature by appearing solid and wearing long
@@ -15,6 +15,7 @@ Strong Willed
 **Powers:** Beast Friend, Disguise (only as animals), Puppet (animals
 only), Puppet (animal possession)
 **Special Abilities**
+
 - **Incorporeal Claws:** Str+d4; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -30,4 +31,3 @@ bleeding and death magic.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

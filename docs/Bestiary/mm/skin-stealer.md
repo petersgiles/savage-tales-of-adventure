@@ -1,4 +1,4 @@
-Skin stealer
+# Skin stealer
 
 No description for this creature yet.
 
@@ -8,7 +8,7 @@ d8
 **Charisma:** +2; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Assassin, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Pink flesh.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
-

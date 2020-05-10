@@ -1,4 +1,4 @@
-Dust digger
+# Dust digger
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Tentacles:** Str+d6; Reach 1"; Grab.
@@ -27,4 +28,3 @@ This ability only works on targets at least one Size category smaller
 than the swallower.
 - **Burrow:** Can burrow and reappear within 5".
 - **Size +2:** Increases Toughness by +2.
-

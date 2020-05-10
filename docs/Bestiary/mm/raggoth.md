@@ -1,4 +1,4 @@
-Raggoth
+# Raggoth
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Level Headed, Strong Willed, War Cry
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6; Grab.
@@ -22,4 +23,3 @@ raise on an opposed Strength roll to escape.
 - **Pounce:** +4 attack/damage and -2 Parry when first moving adjacent
 to foe.
 - **Size +3:** Eight feet long; Toughness +3.
-

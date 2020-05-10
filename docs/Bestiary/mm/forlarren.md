@@ -1,4 +1,4 @@
-Forlarren
+# Forlarren
 
 No description for this creature yet.
 
@@ -8,7 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
-

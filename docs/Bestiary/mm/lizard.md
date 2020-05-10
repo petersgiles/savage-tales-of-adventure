@@ -1,4 +1,4 @@
-Lizard
+# Lizard
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d10, Stealth d12
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
@@ -23,6 +24,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,6 +41,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail:** Str+d6.
@@ -59,6 +62,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -73,6 +77,7 @@ Vigor d12
 d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -86,6 +91,7 @@ Vigor d12
 d8, Swimming d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -97,4 +103,3 @@ raise on an opposed Strength roll to escape.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

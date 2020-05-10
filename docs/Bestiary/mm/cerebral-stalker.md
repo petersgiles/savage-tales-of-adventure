@@ -1,4 +1,4 @@
-Cerebral stalker
+# Cerebral stalker
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Blackish-gray scales.
 - **Claws:** Str+d4; Grab.
 - **Bite:** Str+d4.
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Fear Gaze:** All creatures within 12" must make a Spirit roll to
 resist.
-

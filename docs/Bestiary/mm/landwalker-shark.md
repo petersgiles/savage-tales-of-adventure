@@ -1,4 +1,4 @@
-Landwalker shark
+# Landwalker shark
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 breathe air and survive indefinitely on land.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +3:** Increases Toughness by +3.
-

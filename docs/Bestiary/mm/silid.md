@@ -1,4 +1,4 @@
-Silid
+# Silid
 
 No description for this creature yet.
 
@@ -11,6 +11,6 @@ d8
 **Edges:** Arcane Background (Magic), Assassin
 **Powers:** Deflection (blur)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Reduces Toughness by -1.
-

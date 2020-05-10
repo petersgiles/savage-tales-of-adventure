@@ -1,4 +1,4 @@
-Demodand
+# Demodand
 
 No description for this creature yet.
 
@@ -17,6 +17,7 @@ Intangibility (gaseous form), Mind Reading, Obscure (fog cloud), Summon
 Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Obsidian skin.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -42,6 +43,7 @@ Spellcasting d8
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Fear, Invisibility, Mind Reading, Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Tattered flesh.
 - **Bite:** Str+d4; Acid.
 - **Dread Claws:** Str+d4; Acid; Grab.
@@ -71,6 +73,7 @@ Two-Fisted
 **Powers:** Detect Arcana (sense magic), Dispel, Summon Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -79,4 +82,3 @@ by Banish.
 creatures.
 - **Immunities:** Acid and poison.
 - **Resistances:** -2 damage from cold and fire.
-

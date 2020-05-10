@@ -1,4 +1,4 @@
-Kappa
+# Kappa
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -17,4 +18,3 @@ breathe air and survive indefinitely on land.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Resistances:** -1 damage from acid and cold.
 - **Size -1:** Reduces Toughness by -1.
-

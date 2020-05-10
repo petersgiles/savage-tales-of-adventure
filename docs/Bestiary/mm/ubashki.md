@@ -1,4 +1,4 @@
-Ubashki
+# Ubashki
 
 The Ubashki are mummified beasts who guard tombs.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Level Headed, Quick, War Cry
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Ubashki Rot.
 - **Claws:** Str+d6.
@@ -30,6 +31,7 @@ Climbing d6, Notice d6, Stealth d12, Innate Powers d10
 **Edges:** Arcane Background (Super Powers), Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
@@ -38,4 +40,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Disease:** Make a Vigor roll or become afflicted.
-

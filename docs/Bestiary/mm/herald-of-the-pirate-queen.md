@@ -1,4 +1,4 @@
-Herald of the pirate queen
+# Herald of the pirate queen
 
 This seemingly haunted pirate ship flickers with ominous lights, but
 there is no crew. The vessel is actually a living creature with
@@ -21,6 +21,7 @@ Headed
 Light (dancing lights), Invisibility, Obscure (fog cloud), Puppet
 (living humanoids only), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Incorporeal Touch:** Str+d8; Electricity; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -49,4 +50,3 @@ against offensive magic.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

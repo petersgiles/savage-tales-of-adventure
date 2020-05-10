@@ -1,4 +1,4 @@
-Hollow serpent
+# Hollow serpent
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** +4; **Pace:** 8; **Parry:** 8; **Toughness:** 18 (3)
 **Edges:** Dodge, Frenzy, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,4 +27,3 @@ bleeding and death magic.
 - **Size +4:** Fifteen feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

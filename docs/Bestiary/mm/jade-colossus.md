@@ -1,4 +1,4 @@
-Jade colossus
+# Jade colossus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+7
 **Charisma:** -; **Pace:** 7; **Parry:** 10; **Toughness:** 37 (7)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ Agility roll at -2 or suffer 2d12 damage.
 - **Size +19:** Thirty-five feet tall; Toughness +19.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

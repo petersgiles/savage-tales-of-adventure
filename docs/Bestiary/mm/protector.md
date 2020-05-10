@@ -1,4 +1,4 @@
-Protector
+# Protector
 
 No description for this creature yet.
 
@@ -13,8 +13,8 @@ d10, Persuasion d12, Repair d10, Survival d12, Spellcasting d12
 (sense magic), Elemental Manipulation (water), Environmental Protection
 (heat and cold)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
-

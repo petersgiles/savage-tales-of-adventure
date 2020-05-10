@@ -1,4 +1,4 @@
-Ogre
+# Ogre
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Greatclub (Str+d8), javelin (Throwing; range 3/6/12; Str+d6)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,6 +25,7 @@ d12+1
 **Gear:** Greatclub (Str+d8), javelin (Throwing; range 3/6/12; Str+d6)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -43,6 +45,7 @@ d4
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8.
 - **Bite:** Str+d8.
@@ -53,4 +56,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

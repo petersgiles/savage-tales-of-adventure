@@ -1,4 +1,4 @@
-Gohl (hydra cloud)
+# Gohl (hydra cloud)
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Edges:** Ambidextrous, Frenzy, Level Headed, Quick, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Gray flesh.
 - **Bites:** Str+d6; Acid.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
@@ -17,4 +18,3 @@ d12+1
 that, they require a raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 6" and Climb 2.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Midnight peddler
+# Midnight peddler
 
 No description for this creature yet.
 
@@ -9,10 +9,10 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Alertness, Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Touch:** Str+d4; Death Chill.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

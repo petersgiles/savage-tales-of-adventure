@@ -1,4 +1,4 @@
-Warsworn
+# Warsworn
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Throwing d10
 **Gear:** Scrap ball (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy, Improved Frenzy, Quick
 **Special Abilities**
+
 - **Armour +5:** Steel-girded flesh.
 - **Slams:** Str+d8; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ bleeding and death magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

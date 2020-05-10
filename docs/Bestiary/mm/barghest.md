@@ -1,4 +1,4 @@
-Barghest
+# Barghest
 
 Barghests are intelligent lupine fiends who are able to shapechange
 into the form of a goblin.
@@ -12,6 +12,7 @@ Stealth d10, Survival d10, Tracking d10, Spellcasting d8
 **Powers:** Deflection (blink between dimensions), Flight (levitate),
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -40,6 +41,7 @@ Quick
 **Powers:** Boost Trait (Strength), Deflection (blink between
 dimensions), Flight (levitate), Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -54,4 +56,3 @@ creatures.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +3:** Increases Toughness by +3.
-

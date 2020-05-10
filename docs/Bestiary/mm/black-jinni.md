@@ -1,4 +1,4 @@
-Black jinni
+# Black jinni
 
 The black jinn are a forgotten tribe of accursed genies, so rare that
 most consider them only a dark myth. They appear as tall and powerful
@@ -13,6 +13,7 @@ Vigor d12+2
 Improved Dodge, Frenzy, Level Headed
 **Powers:** Obscure (obscuring cloud), Damage Field (dust vortex)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Electricity.
 - **Horns:** Str+d8.
@@ -30,4 +31,3 @@ creatures.
 - **Size +4:** Twelve feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

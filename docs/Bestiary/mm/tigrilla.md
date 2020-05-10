@@ -1,4 +1,4 @@
-Tigrilla
+# Tigrilla
 
 The tigrilla has the head of a tiger and the body of a gorilla, with
 black-and-orange striped fur and retractable cat-like claws.
@@ -10,6 +10,7 @@ d8, Swimming d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Orange-brown fur.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6; Grab.
@@ -26,4 +27,3 @@ to foe.
 surfaces with Pace 4".
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +2:** Increases Toughness by +2.
-

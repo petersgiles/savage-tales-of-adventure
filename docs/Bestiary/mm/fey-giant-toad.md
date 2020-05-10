@@ -1,4 +1,4 @@
-Fey giant toad
+# Fey giant toad
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Spellcasting d4
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Blind (glitterdust), Entangle, Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Pink skin.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -30,4 +31,3 @@ than the swallower.
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
 - **Resistances:** -2 damage from cold and electricity.
 - **Size +2:** Increases Toughness by +2.
-

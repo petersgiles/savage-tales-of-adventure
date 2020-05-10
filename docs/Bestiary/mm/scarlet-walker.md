@@ -1,4 +1,4 @@
-Scarlet walker
+# Scarlet walker
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+1, Spellcasting d8
 Dodge, Frenzy
 **Powers:** Confusion, Mind Reading
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Bleed.
 - **Tentacles:** Str+d8; Reach 1"; Bleed; Paralysis.
@@ -38,4 +39,3 @@ they become Shaken (this can cause a wound)
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

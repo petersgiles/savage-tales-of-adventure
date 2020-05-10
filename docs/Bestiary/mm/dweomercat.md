@@ -1,4 +1,4 @@
-Dweomercat
+# Dweomercat
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Tracking d12, Spellcasting d8
 Level Headed
 **Powers:** Detect Arcana (sense magic), Dispel, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -31,6 +32,7 @@ d6, Spellcasting d6
 **Edges:** Arcane Background (Magic), Dodge, Frenzy
 **Powers:** Detect Arcana (sense magic), Teleport
 **Special Abilities**
+
 - **Claws:** Str.
 - **Bite:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -42,4 +44,3 @@ to foe.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

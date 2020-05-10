@@ -1,4 +1,4 @@
-Allip
+# Allip
 
 The allip looks like a cloud of swirling shadows with a bestial skull
 and boney claws.
@@ -8,6 +8,7 @@ and boney claws.
 **Charisma:** +1; **Pace:** -; **Parry:** 4; **Toughness:** 7
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Incorporeal Touch:** Victims must make a Spirit roll or suffer a
 level of Fatigue.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,4 +26,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 6" and Climb 3.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

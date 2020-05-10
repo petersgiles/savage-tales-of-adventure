@@ -1,4 +1,4 @@
-Bakekujira
+# Bakekujira
 
 The bakekujira looks like a decomposing whale, and its eyes flicker
 with ghostly fire. It is frequently accompanied by other undead,
@@ -12,6 +12,7 @@ d12+4
 **Charisma:** +4; **Pace:** 4; **Parry:** 8; **Toughness:** 36 (7)
 **Edges:** Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +7:** Flesh.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8.
@@ -24,4 +25,3 @@ bleeding and death magic.
 - **Size +17:** Sixty feet long; Toughness +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

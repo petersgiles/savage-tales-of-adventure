@@ -1,4 +1,4 @@
-Blood hawk
+# Blood hawk
 
 Blood hawks look very much like normal hawks, except for their red
 claws and beak. They are relentless and extremely aggressive, and love
@@ -9,6 +9,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Talons:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ Vigor d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 11" and Climb 0.
 - **Size -1:** Reduces Toughness by -1.
-

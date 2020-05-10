@@ -1,4 +1,4 @@
-Eel
+# Eel
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Tail Touch:** Str+d4; Electricity.
@@ -25,6 +26,7 @@ Vigor d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Scales.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -42,6 +44,7 @@ Vigor d8
 **Skills:** Fighting d8, Notice d10, Tracking d10, Swimming d12
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -71,6 +74,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -81,4 +85,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 raise on an opposed Strength roll to escape.
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Charda
+# Charda
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 9 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Cold.
 - **Claws:** Str+d4.
@@ -17,4 +18,3 @@ d12+1
 breathe air and survive indefinitely on land.
 - **Immunities:** Cold and poison.
 - **Size -1:** Four feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Tanuki
+# Tanuki
 
 No description for this creature yet.
 
@@ -13,8 +13,8 @@ Parry), sling (Throwing; range 4/8/16; Str+d4)
 **Edges:** Arcane Background (Magic), Florentine, Two-Fisted
 **Powers:** Disguise (illusion)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Change Form:** Can assume an alternate form as a normal action.
-

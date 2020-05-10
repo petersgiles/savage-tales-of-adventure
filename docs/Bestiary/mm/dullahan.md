@@ -1,4 +1,4 @@
-Dullahan
+# Dullahan
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Riding d8, Stealth d10
 **Gear:** Keen longsword (Str+d8; Cold)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Fear -1:** Anyone who sees this creature must make a Fear check at
 -1.
@@ -17,4 +18,3 @@ Riding d8, Stealth d10
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

@@ -1,4 +1,4 @@
-Harridan
+# Harridan
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Stealth d10
 **Gear:** Breastplate (+3), masterwork greatsword (Str+d10; Parry -1)
 **Edges:** Ambidextrous, Dodge, Improved Dodge, Strong Willed
 **Special Abilities**
+
 - **Claws:** Str+d10.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ to foe.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

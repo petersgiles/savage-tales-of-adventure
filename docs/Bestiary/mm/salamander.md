@@ -1,4 +1,4 @@
-Salamander
+# Salamander
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1; Fire)
 **Edges:** Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Fiery-red scales.
 - **Tail Slap:** Str+d4; Fire; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,6 +33,7 @@ d8, Repair d10, Stealth d10
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1; Fire)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tail Slap:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -57,6 +59,7 @@ d12+2
 Improved Sweep, Strong Willed
 **Powers:** Barrier (fire), Dispel, Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Fiery-red scales.
 - **Tail Slap:** Str+d8; Fire; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -71,4 +74,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

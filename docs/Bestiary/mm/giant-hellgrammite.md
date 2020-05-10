@@ -1,4 +1,4 @@
-Giant hellgrammite
+# Giant hellgrammite
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Constrict.
 - **Tail Slap:** Str+d6.
@@ -20,4 +21,3 @@ that, they require a raise on an opposed Strength roll to escape.
 breathe air and survive indefinitely on land.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Ten feet long; Toughness +2.
-

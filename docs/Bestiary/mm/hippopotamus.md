@@ -1,4 +1,4 @@
-Hippopotamus
+# Hippopotamus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,6 +26,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 7; **Toughness:** 20 (4)
 **Edges:** Hard to Kill, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -43,6 +45,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 20 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -56,4 +59,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +7:** Twenty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

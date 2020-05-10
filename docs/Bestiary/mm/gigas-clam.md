@@ -1,4 +1,4 @@
-Gigas clam
+# Gigas clam
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Gear:** Siphon dart (Shooting; range 3/6/12; 2d4; Poison)
 **Edges:** Combat Reflexes, Marksman, Quick
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Slams:** Str+d8; Grab.
@@ -31,4 +32,3 @@ wounded.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

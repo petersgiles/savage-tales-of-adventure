@@ -1,4 +1,4 @@
-Kraken
+# Kraken
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Headed, Sweep
 **Powers:** Obscure (fog), Puppet
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +10:** One hundred feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

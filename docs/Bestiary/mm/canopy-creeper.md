@@ -1,4 +1,4 @@
-Canopy creeper
+# Canopy creeper
 
 Canopy creepers are semi-sentient plants that resemble a mass of
 twisted vines. Within the centre of the mass is a powerful beak-like
@@ -11,6 +11,7 @@ Tracking d10, Throwing d6
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 19 (3)
 **Edges:** Ambidextrous, Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Vine Tendrils:** Throwing; range 3/6/12; Str+d6; Grab; Feed; Pull.
@@ -32,4 +33,3 @@ to this creature as if pushed.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

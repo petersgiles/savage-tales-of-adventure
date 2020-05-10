@@ -1,4 +1,4 @@
-Fen witch
+# Fen witch
 
 No description for this creature yet.
 
@@ -9,10 +9,10 @@ Stealth d10, Survival d10, Swimming d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swamp Stride:** Swamps and marshy terrain are not treated as
 difficult ground.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

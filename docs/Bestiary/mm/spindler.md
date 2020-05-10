@@ -1,4 +1,4 @@
-Spindler
+# Spindler
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d8
 **Gear:** Needle (Str+d8; Poison)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Poison:** Needle inflicts lethal poison if foe is Shaken or
 wounded.
-

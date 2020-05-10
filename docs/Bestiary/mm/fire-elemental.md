@@ -1,4 +1,4 @@
-Fire elemental
+# Fire elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Knowledge (Planes) d4
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 5 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,6 +29,7 @@ Knowledge (Planes) d4
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -47,6 +49,7 @@ Knowledge (Planes) d6
 **Charisma:** -; **Pace:** 8; **Parry:** 7; **Toughness:** 9 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -68,6 +71,7 @@ Knowledge (Planes) d8
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -91,6 +95,7 @@ Knowledge (Planes) d10
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -114,6 +119,7 @@ d12+1, Knowledge (Planes) d12+1
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -126,4 +132,3 @@ extra damage from called shots.
 - **Size +7:** Forty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

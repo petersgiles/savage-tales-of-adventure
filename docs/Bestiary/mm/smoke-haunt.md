@@ -1,4 +1,4 @@
-Smoke haunt
+# Smoke haunt
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Edges:** Arcane Background (Magic), Dodge, Level Headed, Quick
 **Powers:** Deflection (forcefield), Puppet, Slumber
 **Special Abilities**
+
 - **Armour +1:** Burning flesh.
 - **Slam:** Str+d4; Negative Energy.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Cold (double damage).
 - **Size -1:** Reduces Toughness by -1.
-

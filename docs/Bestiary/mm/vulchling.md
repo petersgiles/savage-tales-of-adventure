@@ -1,4 +1,4 @@
-Vulchling
+# Vulchling
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5
 **Edges:** Dodge
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -15,4 +16,3 @@ No description for this creature yet.
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 4" and Climb 0.
-

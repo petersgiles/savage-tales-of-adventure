@@ -1,4 +1,4 @@
-Sleipnir
+# Sleipnir
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Quick, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
@@ -18,4 +19,3 @@ Vigor d12+2
 - **Immunity:** Electricity.
 - **Resistance:** -2 damage from cold.
 - **Size +3:** Seven feet tall; Toughness +3.
-

@@ -1,4 +1,4 @@
-Vodyanoi
+# Vodyanoi
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ d6, Persuasion d4, Swimming d12+1, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Amphibious:** Swimming Pace of 13", and cannot drown, but can also
 breathe air and survive indefinitely on land.
-

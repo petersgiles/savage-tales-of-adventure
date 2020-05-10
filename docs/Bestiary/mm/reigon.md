@@ -1,4 +1,4 @@
-Reigon
+# Reigon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Psionics d6
 **Edges:** Alertness, Arcane Background (Psionics), Dodge
 **Powers:** Bolt (mind thrust)
 **Special Abilities**
+
 - **Armour +1:** Brownish-black fur.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Size +2:** Eight feet tall; Toughness +2.
-

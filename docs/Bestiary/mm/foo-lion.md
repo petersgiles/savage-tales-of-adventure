@@ -1,4 +1,4 @@
-Foo lion
+# Foo lion
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Claws:** Str+d6.
@@ -27,4 +28,3 @@ to foe.
 creatures.
 - **Immunities:** Sleep, disease, poison and paralysis.
 - **Size +3:** Increases Toughness by +3.
-

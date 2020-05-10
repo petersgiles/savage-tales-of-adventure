@@ -1,4 +1,4 @@
-Nightmare
+# Nightmare
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +2:** An skin.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4; Fire.
@@ -32,6 +33,7 @@ Vigor d12+1
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4; Fire.
@@ -55,6 +57,7 @@ Spellcasting d10
 Strong Willed
 **Powers:** Banish (plane shift self), Intangibility
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Hooves:** Str+d4; Fire.
@@ -80,6 +83,7 @@ d10
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Hooves:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -93,4 +97,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Increases Toughness by +2.
-

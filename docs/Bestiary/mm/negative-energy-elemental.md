@@ -1,4 +1,4 @@
-Negative energy elemental
+# Negative energy elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Negative Energy.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Negative Energy; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -51,6 +53,7 @@ d10
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 10 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6; Negative Energy; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -74,6 +77,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 14 (1)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d8; Negative Energy; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -99,6 +103,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Negative Energy; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -126,6 +131,7 @@ Stealth d12+2, Innate Powers d6
 Improved Dodge, Frenzy, Level Headed, Sweep
 **Powers:** Puppet (undead)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Negative Energy; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -141,4 +147,3 @@ extra damage from called shots.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

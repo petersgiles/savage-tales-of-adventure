@@ -1,4 +1,4 @@
-Totenmaske
+# Totenmaske
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** +4; **Pace:** 8; **Parry:** 7; **Toughness:** 10 (1)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Green flesh.
 - **Bite:** Str+d4; Drain.
 - **Claws:** Str+d4.
@@ -29,6 +30,7 @@ d12, Repair d12+1, Stealth d12+2
 **Charisma:** +4; **Pace:** 8; **Parry:** 7; **Toughness:** 12 (2)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Green flesh.
 - **Bite:** Str+d4; Charisma Drain.
 - **Claws:** Str+d4.
@@ -40,4 +42,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Resistance:** -4 damage from cold.
 - **Charisma Drain:** Make a Spirit roll or suffer a level of Fatigue.
-

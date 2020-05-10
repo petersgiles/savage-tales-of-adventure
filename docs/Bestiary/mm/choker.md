@@ -1,4 +1,4 @@
-Choker
+# Choker
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,6 +26,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,4 +35,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 4".
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Rakklethorn toad
+# Rakklethorn toad
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 d4
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Green skin.
 - **Bite:** Str+d4.
 - **Thorn Volley:** Throwing; range 12/24/48; Str+d6; Poison.
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Poison:** Thorn volley inflicts lethal poison if foe is Shaken or
 wounded.
 - **Size -1:** Three feet long; Toughness -1.
-

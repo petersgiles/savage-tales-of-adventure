@@ -1,4 +1,4 @@
-Drake
+# Drake
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes, Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -30,6 +31,7 @@ Survival d10, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6; Electricity.
 - **Tail Slap:** Str+d6; Push.
@@ -52,6 +54,7 @@ No description for this creature yet.
 **Skills:** Fighting d8, Notice d8, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -73,6 +76,7 @@ Survival d10, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d6; Fire.
 - **Tail Slap:** Str+d6.
@@ -95,6 +99,7 @@ Tracking d10, Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6.
@@ -120,6 +125,7 @@ Stealth d8, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6; Cold.
 - **Tail Slap:** Str+d6.
@@ -142,6 +148,7 @@ No description for this creature yet.
 **Edges:** Arcane Background (Magic)
 **Powers:** Fear, Slumber
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -166,6 +173,7 @@ Stealth d10, Survival d10, Tracking d12
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 15 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8; Bleed.
 - **Tail Slap:** Str+d8; Go for the Throat.
@@ -198,6 +206,7 @@ Survival d8, Tracking d8, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d4.
 - **Tail Slap:** Str+d4.
@@ -223,6 +232,7 @@ d10
 **Edges:** Ambidextrous, Sweep, Improved Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -243,6 +253,7 @@ Tracking d10, Swimming d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d6; Electricity.
 - **Tail Slap:** Str+d6.
@@ -265,6 +276,7 @@ d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 16 (3)
 **Edges:** Combat Reflexes, Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Dark brown bark.
 - **Bite:** Str+d10.
 - **Claws:** Str+d10.
@@ -294,6 +306,7 @@ Stealth d10, Survival d12, Spellcasting d12
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -306,4 +319,3 @@ against offensive magic.
 Agility roll at -2 or suffer 2d8 fire damage.
 - **Immunities:** Fire, cold, sleep and paralysis.
 - **Size +3:** Increases Toughness by +3.
-

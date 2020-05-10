@@ -1,4 +1,4 @@
-Addanc
+# Addanc
 
 The addanc is a solitary predator that combines both the appearance
 and behaviour of a crocodile and a beaver.
@@ -11,6 +11,7 @@ d6
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Fur.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -25,4 +26,3 @@ raise on an opposed Strength roll to escape.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +3:** Seven feet long; Toughness +3.
-

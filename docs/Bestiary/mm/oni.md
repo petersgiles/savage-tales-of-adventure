@@ -1,4 +1,4 @@
-Oni
+# Oni
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+1
 **Powers:** Barrier (fire), Detect Arcana (see invisibility),
 Invisibility, Quickness, Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fast Regeneration:** May make a Vigor roll every round to heal
@@ -35,6 +36,7 @@ Willed
 **Powers:** Blast (earthquake), Elemental Manipulation (earth),
 Invisibility, Obscure (darkness)
 **Special Abilities**
+
 - **Armour +3:** Rocky skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,6 +64,7 @@ Quick, Sweep, Improved Sweep, Strong Willed
 **Powers:** Barrier (fire), Deflection (forcefield), Invisibility,
 Obscure (darkness), Slumber
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb 2.
@@ -89,6 +92,7 @@ Dodge, Frenzy, Improved Frenzy, Sweep, Improved Sweep
 **Powers:** Armor, Invisibility, Intangibility (gaseous form), Obscure
 (darkness), Slumber
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -117,6 +121,7 @@ Shooting d6, Spellcasting d8
 **Edges:** Arcane Background (Magic), Sweep
 **Powers:** Boost Trait (Strength)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fast Regeneration:** May make a Vigor roll every round to heal
 damage.
@@ -135,6 +140,7 @@ composite longbow (Shooting; range 15/30/60; 2d6)
 **Powers:** Invisibility, Obscure (darkness), Puppet (living humanoids
 only), Slumber
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fast Regeneration:** May make a Vigor roll every round to heal
@@ -154,6 +160,7 @@ Spellcasting d12
 **Powers:** Deflection (displacement), Flight (feather fall), Mind
 Reading, Quickness
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4; Poison.
@@ -183,6 +190,7 @@ Strong Willed
 **Powers:** Invisibility, Intangibility (gaseous form), Obscure
 (darkness), Slumber
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb 2.
@@ -202,6 +210,7 @@ d10, Spellcasting d6
 **Powers:** Light (dancing lights), Invisibility, Intangibility (gaseous
 form), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Green skin.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -229,6 +238,7 @@ Spellcasting d8
 **Powers:** Detect Arcana (sense magic), Divination, Invisibility,
 Slumber
 **Special Abilities**
+
 - **Bite:** Str.
 - **Horns:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -254,6 +264,7 @@ Sweep, Strong Willed
 Invisibility, Intangibility (gaseous form), Obscure (darkness), Puppet
 (living humanoids only), Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -282,6 +293,7 @@ d12+2, Swimming d12+8, Throwing d12+1, Spellcasting d10
 Sweep
 **Powers:** Invisibility, Intangibility (gaseous form)
 **Special Abilities**
+
 - **Armour +4:** Blue skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -310,6 +322,7 @@ Sweep, War Cry
 **Powers:** Barrier (wind), Flight (levitate), Invisibility,
 Intangibility (gaseous form), Obscure (fog), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -340,6 +353,7 @@ d10, Shooting d4, Spellcasting d8
 **Powers:** Blind (glitterdust), Deflection (blur), Detect Arcana (see
 invisibility), Lower Trait (Strength), Invisibility, Teleport
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -347,4 +361,3 @@ invisibility), Lower Trait (Strength), Invisibility, Teleport
 - **Fast Regeneration:** May make a Vigor roll every round to heal
 damage.
 - **Change Form:** Can assume an alternate form as a normal action.
-

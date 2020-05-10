@@ -1,4 +1,4 @@
-Onyx deer
+# Onyx deer
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Onyx Bite.
 - **Horns:** Str+d8.
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Immunity:** Petrification.
 - **Onyx Bite:** Make a Vigor roll or suffer a level of Fatigue.
 - **Size +2:** Five feet tall; Toughness +2.
-

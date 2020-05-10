@@ -1,4 +1,4 @@
-Zombie
+# Zombie
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,6 +26,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d10, Tracking d4
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Disease; Grab.
 - **Slam:** Str+d4; Disease; Grab.
@@ -57,6 +59,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Gear:** Cutlass (Str+d8)
 **Special Abilities**
+
 - **Armour +1:** Blue-green flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -76,6 +79,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -95,6 +99,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -113,6 +118,7 @@ Vigor d8
 **Skills:** Fighting d6, Stealth d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -134,6 +140,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Slam:** Str+d4.
@@ -156,6 +163,7 @@ Vigor d12+5
 **Gear:** Breastplate (+3), masterwork broken greatsword (Str+d10; Parry
 -1)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -177,6 +185,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Gear:** Leather armour (+1), spear (Str+d6; Reach 1"; Parry +1)
 **Special Abilities**
+
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -195,6 +204,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Slam:** Str+d4; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -216,6 +226,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -234,6 +245,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -253,6 +265,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4.
 - **Tongue:** Str; Reach 1".
@@ -272,6 +285,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (3)
 **Edges:** Frenzy, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Gray skin.
 - **Melee Touch:** Str+d4; Negative Energy.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -283,4 +297,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

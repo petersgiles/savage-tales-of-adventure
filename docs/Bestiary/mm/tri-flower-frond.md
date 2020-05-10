@@ -1,4 +1,4 @@
-Tri-flower frond
+# Tri-flower frond
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 7 (1)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tendrils:** Str+d4; Reach 1"; Sleep Pollen.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ d8
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Sleep Pollen:** Make a Vigor roll or suffer a level of Fatigue.
-

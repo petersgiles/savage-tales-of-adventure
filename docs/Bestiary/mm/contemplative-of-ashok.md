@@ -1,4 +1,4 @@
-Contemplative of ashok
+# Contemplative of ashok
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ Spellcasting d12
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic), Mind
 Reading, Speak Language, Stun (daze), Telekinesis
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Flight:** Flying Pace of 6" and Climb 3.
 - **Immunity:** Mind-affecting effects.
-

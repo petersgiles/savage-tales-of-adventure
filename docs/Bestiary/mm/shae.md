@@ -1,4 +1,4 @@
-Shae
+# Shae
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Persuasion d10, Stealth d10, Spellcasting d12
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Deflection (blur)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -18,4 +19,3 @@ by Banish.
 - **Amorphous:** Doesn't suffer additional damage from raises or called
 shots.
 - **Immunity:** Cold.
-

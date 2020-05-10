@@ -1,4 +1,4 @@
-Flytrap
+# Flytrap
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 18 (3)
 **Edges:** Frenzy, Improved Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d10; Grab.
 - **Bite:** Str+d10.
@@ -30,6 +31,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 4; **Parry:** 7; **Toughness:** 19 (3)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -50,4 +52,3 @@ mind-affecting effects.
 - **Size +7:** Twenty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

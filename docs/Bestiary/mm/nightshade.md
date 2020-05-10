@@ -1,4 +1,4 @@
-Nightshade
+# Nightshade
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Swimming d12+7, Spellcasting d12
 magic), Dispel, Entangle, Invisibility, Obscure (darkness), Quickness,
 Summon Ally, Puppet (undead)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bite:** Str+d8; Cold; Grab.
 - **Sting:** Str+d8; Cold; Poison.
@@ -57,6 +58,7 @@ Dodge, Quick
 Dispel, Entangle, Invisibility, Obscure (darkness), Quickness, Summon
 Ally, Puppet (undead)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Cold; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -92,6 +94,7 @@ Swimming d12+5, Spellcasting d12
 magic), Dispel, Entangle, Invisibility, Obscure (darkness), Quickness,
 Summon Ally, Puppet (undead)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claws:** Str+d8; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -126,6 +129,7 @@ Invisibility, Obscure (darkness), Quickness, Summon Ally, Puppet
 (undead)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -165,6 +169,7 @@ magic), Dispel, Entangle, Invisibility, Obscure (darkness), Quickness,
 Summon Ally, Puppet (undead)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -180,4 +185,3 @@ bleeding and death magic.
 - **Size +8:** Twenty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

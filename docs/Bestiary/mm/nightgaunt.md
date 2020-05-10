@@ -1,4 +1,4 @@
-Nightgaunt
+# Nightgaunt
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Dodge, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -17,4 +18,3 @@ raise on an opposed Strength roll to escape.
 - **Immunities:** Cold, sleep, poison, shapechanging, paralysis and Gang
 Up bonuses.
 - **Size +1:** Increases Toughness by +1.
-

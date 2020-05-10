@@ -1,4 +1,4 @@
-Bonesnapper
+# Bonesnapper
 
 Bonesnappers are upright dinosaurs, slightly shorter than the average
 human, with mottled green scales and a powerful bite. They collect the
@@ -11,6 +11,7 @@ d10
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Gray-green flesh.
 - **Bite:** Str+d4; Grab.
 - **Tail Slap:** Str+d4.
@@ -18,4 +19,3 @@ d10
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
-

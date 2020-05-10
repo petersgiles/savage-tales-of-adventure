@@ -1,4 +1,4 @@
-Executioner�s hood
+# Executioner�s hood
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,4 +29,3 @@ surfaces with Pace 1".
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

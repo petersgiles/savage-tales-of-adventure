@@ -1,4 +1,4 @@
-Slaughterford
+# Slaughterford
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d12
 **Gear:** Arm blades (Str+d8)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Very Tough:** +1 Toughness.
-

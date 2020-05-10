@@ -1,4 +1,4 @@
-Winter wolf
+# Winter wolf
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Bite:** Str+d6; Cold; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -33,6 +34,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Alertness, Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Bite:** Str+d6; Cold; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -47,4 +49,3 @@ Agility roll at -2 or suffer 2d8 cold damage.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size +2:** Eight feet long; Toughness +2.
-

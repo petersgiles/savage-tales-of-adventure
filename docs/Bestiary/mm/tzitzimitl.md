@@ -1,4 +1,4 @@
-Tzitzimitl
+# Tzitzimitl
 
 Tzitzimitls are gaunt giants surrounded by swirling shadows. They
 thrive of death and destruction.
@@ -15,6 +15,7 @@ Marksman, Quick
 **Powers:** Lower Trait (curse), Obscure (darkness), Quickness, Summon
 Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Electricity; Energy Drain.
 - **Claws:** Str+d8; Electricity.
@@ -31,4 +32,3 @@ effects, aging, bleeding and death magic.
 - **Size +10:** Fifty feet tall; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Basilisk
+# Basilisk
 
 The common basilisk is a squat reptilian beast with eight legs, a
 long tail, and pale green glowing eyes.
@@ -9,6 +9,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ Spellcasting d4
 Strong Willed
 **Powers:** Smite (Good)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -51,6 +53,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Berserk, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Acid.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -67,6 +70,7 @@ Vigor d12+1
 **Skills:** Fighting d10, Notice d12, Stealth d6
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 15 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6; Poison.
@@ -90,6 +94,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 10 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Transparent flesh.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -98,4 +103,3 @@ Vigor d10
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Gaze Attack:** All creatures within 12" must make a Spirit roll to
 resist.
-

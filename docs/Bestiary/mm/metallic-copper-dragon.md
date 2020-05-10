@@ -1,4 +1,4 @@
-Metallic copper dragon
+# Metallic copper dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 5 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -27,6 +28,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -46,6 +48,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -64,6 +67,7 @@ Stealth d12, Spellcasting d10
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -83,6 +87,7 @@ Stealth d10, Spellcasting d10
 **Powers:** Bolt (magic missile), Deflection (forcefield), Detect Arcana
 (sense magic), Invisibility
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -106,6 +111,7 @@ Stealth d12, Spellcasting d12
 (forcefield), Detect Arcana (sense magic), Dispel, Elemental
 Manipulation (earth), Invisibility
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -134,6 +140,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Elemental Manipulation (earth), Invisibility,
 Quickness
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -162,6 +169,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Elemental Manipulation (earth), Light (dancing
 lights), Invisibility, Quickness, Speak Language, Teleport
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -190,6 +198,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Elemental Manipulation (earth), Light (dancing
 lights), Invisibility, Quickness, Speak Language, Teleport
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -218,6 +227,7 @@ Persuasion d12+5, Repair d12+8, Stealth d12+1, Spellcasting d12
 invisibility), Dispel, Elemental Manipulation (earth), Light (dancing
 lights), Invisibility, Puppet, Quickness, Speak Language, Teleport
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -247,6 +257,7 @@ invisibility), Dispel, Elemental Manipulation (earth), Light (dancing
 lights), Invisibility, Puppet, Quickness, Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -276,6 +287,7 @@ invisibility), Dispel, Elemental Manipulation (earth), Light (dancing
 lights), Invisibility, Puppet, Quickness, Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -290,4 +302,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

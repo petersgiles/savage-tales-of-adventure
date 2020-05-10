@@ -1,4 +1,4 @@
-Arach
+# Arach
 
 Arachs are a race of sentient humanoid-spider hybrids, with six arms,
 a narrow face, and plates of thick carapace protecting their limbs and
@@ -14,10 +14,10 @@ Two-Fisted
 **Powers:** Summon Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Thick carapace.
 - **Bite:** Str+d4.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 4".
-

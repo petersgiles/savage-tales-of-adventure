@@ -1,4 +1,4 @@
-Will-o�-wisp
+# Will-o�-wisp
 
 No description for this creature yet.
 
@@ -8,10 +8,10 @@ Vigor d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 4
 **Edges:** Alertness, Dodge, Level Headed
 **Special Abilities**
+
 - **Shock Touch:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Invisible:** Enemies suffer -4 to their attacks.
 - **Flight:** Flying Pace of 8" and Climb 3.
 - **Immunity:** Magic.
 - **Size -1:** Reduces Toughness by -1.
-

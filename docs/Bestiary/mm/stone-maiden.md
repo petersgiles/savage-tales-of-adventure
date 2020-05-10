@@ -1,4 +1,4 @@
-Stone maiden
+# Stone maiden
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ d10
 Willed
 **Powers:** Barrier (stone), Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +3:** The skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -21,4 +22,3 @@ by Banish.
 extra damage from called shots.
 - **Burrow:** Can burrow and reappear within 6".
 - **Immunity:** Magic.
-

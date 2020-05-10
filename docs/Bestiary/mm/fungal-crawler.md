@@ -1,4 +1,4 @@
-Fungal crawler
+# Fungal crawler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 6
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ surfaces with Pace 7".
 mind-affecting effects.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size -1:** Three feet long; Toughness -1.
-

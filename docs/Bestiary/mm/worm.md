@@ -1,4 +1,4 @@
-Worm
+# Worm
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+3
 **Skills:** Fighting d12, Notice d12+1, Swimming d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 24 (5)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Sting:** Str+d8; Poison.
@@ -36,6 +37,7 @@ Vigor d12+3
 **Skills:** Fighting d12, Notice d12+1, Swimming d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 30 (6)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Sting:** Str+d8; Poison.
@@ -66,6 +68,7 @@ Vigor d12+3
 **Skills:** Fighting d12, Notice d12+1, Swimming d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 24 (5)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Sting:** Str+d8; Poison.
@@ -88,4 +91,3 @@ than the swallower.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

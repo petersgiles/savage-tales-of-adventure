@@ -1,4 +1,4 @@
-Chuul
+# Chuul
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8, Swimming d12+4
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Alertness, Combat Reflexes, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ breathe air and survive indefinitely on land.
 - **Size +4:** Eight feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

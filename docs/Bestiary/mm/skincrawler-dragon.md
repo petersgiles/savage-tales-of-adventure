@@ -1,4 +1,4 @@
-Skincrawler dragon
+# Skincrawler dragon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Tracking d12
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d10.
 - **Claws:** Str+d10.
@@ -31,4 +32,3 @@ Agility roll at -2 or suffer 2d10 damage.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Magmoid
+# Magmoid
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 11 (2)
 **Edges:** Dodge, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Fire.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -20,4 +21,3 @@ extra damage from called shots.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
 - **Size +2:** Increases Toughness by +2.
-

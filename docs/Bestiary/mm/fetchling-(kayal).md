@@ -1,4 +1,4 @@
-Fetchling (kayal)
+# Fetchling (kayal)
 
 No description for this creature yet.
 
@@ -11,7 +11,7 @@ d6, Stealth d8, Spellcasting d6
 **Edges:** Arcane Background (Magic), Assassin, Thief
 **Powers:** Disguise (illusion)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistances:** -1 damage from cold and electricity.
-

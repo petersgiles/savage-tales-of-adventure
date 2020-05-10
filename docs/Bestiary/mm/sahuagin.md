@@ -1,4 +1,4 @@
-Sahuagin
+# Sahuagin
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Swimming d12, Shooting d4
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ Swimming d12
 **Gear:** Trident (Str+d6; Reach 1"; Parry +1)
 **Edges:** Ambidextrous, Berserk
 **Special Abilities**
+
 - **Armour +2:** Sharp scales.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -47,6 +49,7 @@ Swimming d12, Shooting d4
 range 15/30/60; 2d6; AP 2)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -65,6 +68,7 @@ Swimming d12, Shooting d4
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -84,6 +88,7 @@ Swimming d12, Shooting d4
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -102,6 +107,7 @@ Swimming d12, Shooting d4
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -111,4 +117,3 @@ Swimming d12, Shooting d4
 weapons suffers 2d4 damage.
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

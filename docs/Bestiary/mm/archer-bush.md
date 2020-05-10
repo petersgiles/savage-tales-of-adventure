@@ -1,4 +1,4 @@
-Archer bush
+# Archer bush
 
 The archer bush has a gnarled trunk sporting several stumpy branches,
 each covered in rows of long thorns. The archer bush is actually mobile,
@@ -10,6 +10,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 7 (1)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Thorns:** Throwing; range 3/6/12; Str+d6.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -17,4 +18,3 @@ d10
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Size -1:** Reduces Toughness by -1.
-

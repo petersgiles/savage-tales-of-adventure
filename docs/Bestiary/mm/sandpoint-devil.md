@@ -1,4 +1,4 @@
-Sandpoint devil
+# Sandpoint devil
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Survival d12+1, Tracking d12+1, Spellcasting d6
 **Powers:** Fear (phantasmal killer), Obscure (fog cloud), Pummel
 (wind), Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
@@ -22,4 +23,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 9" and Climb -1.
 - **Immunities:** Fire and fear.
 - **Size +3:** Increases Toughness by +3.
-

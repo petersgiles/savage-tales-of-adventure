@@ -1,4 +1,4 @@
-Inphidian
+# Inphidian
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Blue-green scales.
 - **Snake-hand Bites:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,6 +23,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Green scales.
 - **Snake-hand Bites:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -37,6 +39,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Green scales.
 - **Snake-hand Bites:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -54,6 +57,7 @@ Stealth d12, Spellcasting d8
 **Powers:** Confusion (hypnotic pattern), Fear, Obscure (darkness),
 Puppet
 **Special Abilities**
+
 - **Armour +1:** Black scales.
 - **Snake-hand Bites:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -70,6 +74,7 @@ Persuasion d8, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Snake-hand Bites:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -79,4 +84,3 @@ surfaces with Pace 5".
 - **Poison:** Snake-hand bites inflict lethal poison if foe is Shaken or
 wounded.
 - **Size +1:** Increases Toughness by +1.
-

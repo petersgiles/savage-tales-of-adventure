@@ -1,4 +1,4 @@
-Drowned maiden
+# Drowned maiden
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d10
 Willed
 **Powers:** Disguise (illusion)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
-

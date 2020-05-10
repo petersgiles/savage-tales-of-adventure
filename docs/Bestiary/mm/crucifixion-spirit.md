@@ -1,4 +1,4 @@
-Crucifixion spirit
+# Crucifixion spirit
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+1, Throwing d8
 **Edges:** Alertness, Dodge, Improved Dodge, Level Headed, Quick, Strong
 Willed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Paralysis.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -23,4 +24,3 @@ against offensive magic.
 bleeding and death magic.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
-

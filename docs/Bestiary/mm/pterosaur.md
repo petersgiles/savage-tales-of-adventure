@@ -1,4 +1,4 @@
-Pterosaur
+# Pterosaur
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -23,6 +24,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -40,6 +42,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 17 (2)
 **Edges:** Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Wings:** Str+d8.
@@ -60,6 +63,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 3
 **Edges:** Dodge, Quick
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -69,4 +73,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

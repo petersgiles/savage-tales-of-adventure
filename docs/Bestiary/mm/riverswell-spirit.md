@@ -1,4 +1,4 @@
-Riverswell spirit
+# Riverswell spirit
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d6
 **Skills:** Fighting d8, Notice d12, Stealth d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 8
 **Special Abilities**
+
 - **Chilling Touch:** Str+d4; Cold; Drowning Touch.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Mobogo
+# Mobogo
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Willed
 (plant growth), Obscure (fog cloud), Pummel (wind), Puppet (animals
 only)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Slams:** Str+d8.
@@ -35,4 +36,3 @@ damage.
 - **Size +7:** Eighteen feet tall; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

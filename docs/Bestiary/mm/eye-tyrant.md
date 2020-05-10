@@ -1,4 +1,4 @@
-Eye tyrant
+# Eye tyrant
 
 The Eye Tyrant is a massive fleshy eyeball with a mouth full of sharp
 fangs and a crown of eyestalks.
@@ -10,6 +10,7 @@ Stealth d12, Survival d12+1, Shooting d8
 **Charisma:** -; **Pace:** 1; **Parry:** 6; **Toughness:** 14 (4)
 **Edges:** Level Headed, Marksman, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Tough flesh.
 - **Bite:** Str+d6.
 - **Anti-Magic Eye:** At the end of the creature's movement for the
@@ -49,4 +50,3 @@ creature's Spirit+d6 as damage.
 - **Eye Ray (Damage)** The victim suffers 2d8 damage. If the victim is
 incapacitated by the damage, the creature can choose to disintegrate or
 petrify them instead (but only a maximum of one of each per attack).
-

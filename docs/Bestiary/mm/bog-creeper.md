@@ -1,4 +1,4 @@
-Bog creeper
+# Bog creeper
 
 Bog creepers look like human-sized rotting tree trunks, with several
 thorny tendrils and a single twisted limb sprouting from their bodies.
@@ -12,6 +12,7 @@ d12+1
 **Edges:** Ambidextrous, Hard to Kill, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Tendrils:** Str+d4; Reach 1"; Constrict.
@@ -27,4 +28,3 @@ and extra damage from called shots.
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 acid damage.
-

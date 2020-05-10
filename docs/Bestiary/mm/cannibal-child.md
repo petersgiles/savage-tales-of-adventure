@@ -1,4 +1,4 @@
-Cannibal child
+# Cannibal child
 
 The cannibal child is a type of flesh-eating undead that disguises
 itself as a lost child.
@@ -9,6 +9,7 @@ d8
 **Charisma:** +1; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Your flesh.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ resist.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Size -1:** Reduces Toughness by -1.
-

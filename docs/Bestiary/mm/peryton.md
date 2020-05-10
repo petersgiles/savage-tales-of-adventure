@@ -1,4 +1,4 @@
-Peryton
+# Peryton
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d4.
 - **Hooves:** Str+d4.
@@ -15,4 +16,3 @@ d12
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Flight:** Flying Pace of 9" and Climb 2.
-

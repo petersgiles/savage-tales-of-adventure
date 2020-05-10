@@ -1,4 +1,4 @@
-Tumblespark
+# Tumblespark
 
 Tumblesparks are elementals from the plane of lightning. They build
 up electricity as they roll around like large spheres of tumbleweed, and
@@ -10,6 +10,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ extra damage from called shots.
 shots.
 - **Immunity:** Electricity.
 - **Weakness:** Water.
-

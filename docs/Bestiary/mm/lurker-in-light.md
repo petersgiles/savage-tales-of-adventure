@@ -1,4 +1,4 @@
-Lurker in light
+# Lurker in light
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+1, Survival d10, Spellcasting d8
 Headed
 **Powers:** Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -19,4 +20,3 @@ by Banish.
 - **Flight:** Flying Pace of 6" and Climb 0.
 - **Immunity:** Cold.
 - **Size -1:** Three feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Lich
+# Lich
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ d6
 invisibility), Dispel, Lower Trait (Strength), Invisibility, Obscure
 (darkness), Puppet, Teleport, Zombie
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Touch:** Str+d4; Paralyzing Touch.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,6 +35,7 @@ Vigor d12
 **Edges:** Combat Reflexes, Dodge, Frenzy, Level Headed, Quick, Strong
 Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,6 +64,7 @@ Level Headed, Quick, Strong Willed
 **Powers:** Lower Trait (curse), Telekinesis
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -90,6 +93,7 @@ invisibility), Dispel, Lower Trait (curse), Invisibility, Obscure
 (darkness), Puppet, Telekinesis, Teleport, Zombie
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -104,4 +108,3 @@ magic.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

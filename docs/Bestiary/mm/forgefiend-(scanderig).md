@@ -1,4 +1,4 @@
-Forgefiend (scanderig)
+# Forgefiend (scanderig)
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Strong Willed
 **Powers:** Barrier (stone), Barrier (fire), Elemental Manipulation
 (earth), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Rend Armor.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -20,4 +21,3 @@ by Banish.
 - **Immunities:** Fire and poison.
 - **Resistances:** -2 damage from acid and cold.
 - **Size +3:** Ten feet tall; Toughness +3.
-

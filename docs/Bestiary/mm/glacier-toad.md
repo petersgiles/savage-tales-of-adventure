@@ -1,4 +1,4 @@
-Glacier toad
+# Glacier toad
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Blue flesh.
 - **Bite:** Str+d6; Cold; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,4 +30,3 @@ than the swallower.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size +3:** Increases Toughness by +3.
-

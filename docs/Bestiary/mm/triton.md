@@ -1,4 +1,4 @@
-Triton
+# Triton
 
 No description for this creature yet.
 
@@ -11,8 +11,8 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Arcane Background (Magic)
 **Powers:** Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Natural Swimmer:** Swimming Pace of 7", and +2 to resist drowning.
-

@@ -1,4 +1,4 @@
-Dolgrim
+# Dolgrim
 
 No description for this creature yet.
 
@@ -11,6 +11,6 @@ d8
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Ambidextrous, Dodge, Two-Fisted
 **Special Abilities**
+
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

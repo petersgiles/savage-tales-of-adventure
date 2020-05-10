@@ -1,4 +1,4 @@
-Jubjub bird
+# Jubjub bird
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 8; **Toughness:** 22 (5)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Purple feathers.
 - **Bite:** Str+d8; Grab.
 - **Talons:** Str+d8.
@@ -32,4 +33,3 @@ than the swallower.
 - **Size +8:** Twenty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

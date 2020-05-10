@@ -1,4 +1,4 @@
-Adamantine wasp swarm
+# Adamantine wasp swarm
 
 The swarm consists of thousands of one-foot long metal wasps with
 adamantine wings and stingers.
@@ -11,6 +11,7 @@ Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -22,4 +23,3 @@ disease, poison, and extra damage from called shots.
 - **Arcane Resistance:** +4 to resist opposed magic, and +4 armour
 against offensive magic.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

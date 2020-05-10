@@ -1,4 +1,4 @@
-Grave risen
+# Grave risen
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Summon Ally (skeletons and zombies)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Blood Poisoning.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Blood Poisoning:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

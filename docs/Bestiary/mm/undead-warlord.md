@@ -1,4 +1,4 @@
-Undead warlord
+# Undead warlord
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Keen greatsword (Str+d10; Parry -1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -16,4 +17,3 @@ modifiers, disease, poison, and extra damage from called shots.
 against offensive magic.
 - **Immunities:** Sleep, disease, poison, fatigue, paralysis,
 mind-affecting effects, aging, bleeding and death magic.
-

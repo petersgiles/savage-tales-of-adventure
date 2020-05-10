@@ -1,4 +1,4 @@
-Lythic
+# Lythic
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ by Banish.
 - **Elemental:** Immune to fear, ignore wound modifiers, poison, and
 extra damage from called shots.
 - **Burrow:** Can burrow and reappear within 5".
-

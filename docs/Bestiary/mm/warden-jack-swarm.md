@@ -1,4 +1,4 @@
-Warden jack swarm
+# Warden jack swarm
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -19,4 +20,3 @@ that's in contact with the ground.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
 disease, poison, and extra damage from called shots.
-

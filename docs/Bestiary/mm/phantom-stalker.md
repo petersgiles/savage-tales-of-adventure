@@ -1,4 +1,4 @@
-Phantom stalker
+# Phantom stalker
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Red flesh.
 - **Burning Claws:** Str+d4; Fire; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ extra damage from called shots.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
-

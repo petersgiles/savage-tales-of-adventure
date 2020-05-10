@@ -1,4 +1,4 @@
-Volt
+# Volt
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Attach.
 - **Tail Slap:** Str+d4; Shock.
@@ -15,4 +16,3 @@ Vigor d8
 - **Flight:** Flying Pace of 6" and Climb 2.
 - **Immunity:** Electricity.
 - **Size -1:** Three feet long; Toughness -1.
-

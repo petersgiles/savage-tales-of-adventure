@@ -1,4 +1,4 @@
-Tear of nuruu�gal
+# Tear of nuruu�gal
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic)
 **Powers:** Mind Reading
 **Special Abilities**
+
 - **Slam:** Str+d4; Burn; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -26,4 +27,3 @@ Up bonuses.
 - **Weakness:** Cold (double damage).
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

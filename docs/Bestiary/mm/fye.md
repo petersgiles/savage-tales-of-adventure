@@ -1,4 +1,4 @@
-Fye
+# Fye
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Fear, Mind Reading
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Possession.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -20,4 +21,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Possession:** Make a Spirit roll or suffer a level of Fatigue.
-

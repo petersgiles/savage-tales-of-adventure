@@ -1,4 +1,4 @@
-Plant-imbued ape
+# Plant-imbued ape
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +2:** Entirely flesh.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,4 +26,3 @@ surfaces with Pace 6".
 against offensive magic.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +2:** Increases Toughness by +2.
-

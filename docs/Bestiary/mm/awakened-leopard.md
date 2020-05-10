@@ -1,4 +1,4 @@
-Awakened leopard
+# Awakened leopard
 
 Khatzi is a specific example of an awakened leopard, who has taken on
 the role of tribal protector.
@@ -10,6 +10,7 @@ d10, Survival d6, Tracking d6, Swimming d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -21,4 +22,3 @@ raise on an opposed Strength roll to escape.
 to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

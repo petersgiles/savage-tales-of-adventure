@@ -1,4 +1,4 @@
-Sceaduinar
+# Sceaduinar
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12
 **Powers:** Deflection (entropic shield), Deflection (forcefield),
 Dispel, Obscure (darkness), Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Negative Energy; Energy Drain.
 - **Wings:** Str+d4; Negative Energy.
@@ -26,4 +27,3 @@ against offensive magic.
 - **Immunities:** Cold, disease, poison and death magic.
 - **Resistances:** -2 damage from acid, electricity and sonic.
 - **Energy Drain:** Make a Vigor roll or suffer a level of Fatigue.
-

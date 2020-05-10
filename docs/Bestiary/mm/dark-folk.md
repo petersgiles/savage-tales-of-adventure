@@ -1,4 +1,4 @@
-Dark folk
+# Dark folk
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Assassin
 **Powers:** Detect Arcana (sense magic), Obscure (darkness)
 **Special Abilities**
+
 - **Death Throes:** Immediately after being incapacitated, this creature
 makes an attack against all adjacent targets (as if using Improved
 Sweep).
@@ -30,6 +31,7 @@ Spellcasting d6
 **Powers:** Detect Arcana (sense magic), Obscure (darkness), Obscure
 (fog cloud)
 **Special Abilities**
+
 - **Death Throes:** Immediately after being incapacitated, this creature
 makes an attack against all adjacent targets (as if using Improved
 Sweep).
@@ -46,9 +48,9 @@ Spellcasting d6
 **Powers:** Detect Arcana (sense magic), Obscure (darkness), Stun
 (daze)
 **Special Abilities**
+
 - **Death Throes:** Immediately after being incapacitated, this creature
 makes an attack against all adjacent targets (as if using Improved
 Sweep).
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size -1:** Four feet tall; Toughness -1.
-

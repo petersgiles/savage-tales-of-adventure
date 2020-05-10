@@ -1,4 +1,4 @@
-Fleshdreg
+# Fleshdreg
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Transparent flesh.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ Notice d6, Stealth d10, Tracking d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Squirming flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -41,4 +43,3 @@ surfaces with Pace 4".
 - **Arcane Resistance:** +2 to resist opposed magic, and +2 armour
 against offensive magic.
 - **Immunity:** Mind-affecting effects.
-

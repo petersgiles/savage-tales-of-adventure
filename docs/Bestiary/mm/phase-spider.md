@@ -1,4 +1,4 @@
-Phase spider
+# Phase spider
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Fur.
 - **Bite:** Str+d6; Poison; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ raise on an opposed Strength roll to escape.
 surfaces with Pace 5".
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Eight feet long; Toughness +2.
-

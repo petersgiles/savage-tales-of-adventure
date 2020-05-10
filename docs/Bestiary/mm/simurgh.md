@@ -1,4 +1,4 @@
-Simurgh
+# Simurgh
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Dodge, Improved Dodge, Level Headed, Strong Willed
 **Powers:** Detect Arcana (sense magic), Healing, Speak Language
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8; Fire.
@@ -26,4 +27,3 @@ against offensive magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

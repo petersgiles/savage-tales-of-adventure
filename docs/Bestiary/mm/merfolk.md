@@ -1,4 +1,4 @@
-Merfolk
+# Merfolk
 
 No description for this creature yet.
 
@@ -8,8 +8,8 @@ No description for this creature yet.
 **Gear:** Trident (Str+d6; Reach 1"; Parry +1), heavy crossbow
 (Shooting; range 15/30/60; 2d6; AP 2)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
 breathe air and survive indefinitely on land.
-

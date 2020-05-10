@@ -1,4 +1,4 @@
-Mold
+# Mold
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d4, Spellcasting d8
 **Powers:** Puppet (living humanoids only)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Spores:** Cone Template; victims must make a Vigor roll or suffer
 Fatigue.
@@ -33,6 +34,7 @@ Vigor d12+2
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Disease.
 - **Engulf:** This creature may engulf creatures it moves over, as long
 as it doesn't make any other attacks the same round. Victims who fail
@@ -47,4 +49,3 @@ bonuses.
 - **Resistance:** -2 damage from fire.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size +2:** Twelve feet long; Toughness +2.
-

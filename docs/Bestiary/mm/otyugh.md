@@ -1,4 +1,4 @@
-Otyugh
+# Otyugh
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Disease.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
@@ -29,6 +30,7 @@ d8
 **Skills:** Fighting d6, Notice d10, Stealth d4, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Disease.
 - **Tentacles:** Str+d6; Reach 1".
@@ -48,6 +50,7 @@ d8
 **Skills:** Fighting d6, Notice d10, Stealth d4, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Disease.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
@@ -69,6 +72,7 @@ d8
 **Skills:** Fighting d6, Notice d10, Stealth d4, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Acid.
 - **Tentacles:** Str+d6; Reach 1"; Acid; Constrict.
@@ -90,6 +94,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 15 (3)
 **Edges:** Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
 - **Bite:** Str+d6; Disease.
@@ -103,4 +108,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

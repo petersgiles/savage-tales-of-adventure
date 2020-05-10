@@ -1,4 +1,4 @@
-Asura
+# Asura
 
 The adhukaits are warrior asuras that appear as two interwoven
 humanoid fiends.
@@ -14,6 +14,7 @@ Dodge, Frenzy, Quick
 **Powers:** Deflection (blink between dimensions), Flight (feather
 fall), Summon Ally, Teleport, Wall Walker
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -42,6 +43,7 @@ Sweep, Improved Sweep, Two-Fisted
 **Powers:** Obscure (darkness), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8; Grab; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -87,6 +89,7 @@ Dodge, Level Headed, Quick, Sweep, Improved Sweep
 **Powers:** Barrier (whirling blades), Dispel, Obscure (darkness), Speak
 Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab; Poison.
 - **Claws:** Str+d8; Curse.
@@ -139,6 +142,7 @@ Stealth d12, Spellcasting d8
 **Powers:** Detect Arcana (sense magic), Divination, Flight (levitate),
 Wall Walker
 **Special Abilities**
+
 - **Sting:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -169,6 +173,7 @@ Dodge, Improved Dodge, Sweep, Improved Sweep, Two-Fisted
 Entangle, Flight (levitate), Invisibility, Obscure (darkness),
 Quickness, Summon Ally, Teleport, Wall Walker
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -180,4 +185,3 @@ damage.
 - **Immunities:** Sleep, disease, poison, shapechanging, paralysis, Gang
 Up bonuses and curses.
 - **Resistances:** -2 damage from acid and electricity.
-

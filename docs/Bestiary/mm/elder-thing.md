@@ -1,4 +1,4 @@
-Elder thing
+# Elder thing
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Lockpicking d8, Swimming d12+1
 **Charisma:** +2; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes, Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ smell-based effects.
 - **Immunities:** Cold, sleep, poison, shapechanging, paralysis and Gang
 Up bonuses.
 - **Resistance:** -2 damage from fire.
-

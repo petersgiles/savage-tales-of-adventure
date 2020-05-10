@@ -1,4 +1,4 @@
-Lion beast of chaos
+# Lion beast of chaos
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Berserk, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Blackened fur.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6; Grab.
@@ -25,4 +26,3 @@ raise on an opposed Strength roll to escape.
 to foe.
 - **Immunity:** Fear.
 - **Size +3:** Increases Toughness by +3.
-

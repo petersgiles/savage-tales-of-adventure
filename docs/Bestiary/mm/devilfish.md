@@ -1,4 +1,4 @@
-Devilfish
+# Devilfish
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ raise on an opposed Strength roll to escape.
 - **Resistance:** -2 damage from cold.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Ten feet long; Toughness +2.
-

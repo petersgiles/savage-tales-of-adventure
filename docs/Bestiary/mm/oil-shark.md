@@ -1,4 +1,4 @@
-Oil shark
+# Oil shark
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 16 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Metallic scales.
 - **Bite:** Str+d8.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -23,4 +24,3 @@ by Banish.
 - **Size +6:** Twenty feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

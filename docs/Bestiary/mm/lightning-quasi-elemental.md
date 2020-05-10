@@ -1,4 +1,4 @@
-Lightning quasi-elemental
+# Lightning quasi-elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 5 (1)
 **Edges:** Dodge, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 7 (1)
 **Edges:** Combat Reflexes, Dodge, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,6 +52,7 @@ d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 10 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,4 +65,3 @@ extra damage from called shots.
 - **Weakness:** Water.
 - **Resistances:** -2 damage from acid and fire.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Baykok
+# Baykok
 
 Baykoks are flying undead horrors that hate and feed upon the living.
 They look like a vaguely humanoid corpse with elongated legs and bone
@@ -13,6 +13,7 @@ d12+3, Shooting d12
 Energy; Paralysis)
 **Edges:** Dodge, Frenzy, Level Headed, Marksman, War Cry
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
-

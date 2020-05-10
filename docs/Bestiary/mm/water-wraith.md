@@ -1,4 +1,4 @@
-Water wraith
+# Water wraith
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scales.
 - **Bite:** Str+d6; Attach.
 - **Claws:** Str+d6.
@@ -15,4 +16,3 @@ No description for this creature yet.
 - **Amphibious:** Swimming Pace of 12", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Size +2:** Two feet long; Toughness +2.
-

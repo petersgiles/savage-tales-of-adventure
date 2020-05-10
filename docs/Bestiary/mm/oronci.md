@@ -1,4 +1,4 @@
-Oronci
+# Oronci
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8, Shooting d6
 **Gear:** Masterwork battleaxe (Str+d8), medium shield (+1 Parry),
 masterwork longbow (Shooting; range 15/30/60; 2d6)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -20,4 +21,3 @@ surfaces with Pace 7".
 - **Weakness:** Light sensitive.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +3:** Increases Toughness by +3.
-

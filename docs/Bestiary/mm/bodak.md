@@ -1,4 +1,4 @@
-Bodak
+# Bodak
 
 Bodaks appear as emaciated humanoids with charred flesh, and empty
 eyes sockets trailing plumes of black smoke. Their gaze inflicts one
@@ -13,6 +13,7 @@ d8
 **Charisma:** +1; **Pace:** 5; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -38,6 +39,7 @@ d8
 **Charisma:** +1; **Pace:** 5; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -66,6 +68,7 @@ Vigor d10
 **Charisma:** +4; **Pace:** 5; **Parry:** 7; **Toughness:** 13 (3)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Charred flesh.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -80,4 +83,3 @@ aging, bleeding and death magic.
 - **Weakness:** Vulnerable to sunlight.
 - **Resistances:** -2 damage from acid and fire.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Skeletal champion
+# Skeletal champion
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 (+1 Parry)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -26,6 +27,7 @@ d8
 (Shooting; range 15/30/60; 2d6)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -41,6 +43,7 @@ d12
 **Gear:** Breastplate (+3), halberd (Str+d8; Reach 1")
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -62,6 +65,7 @@ d8
 **Powers:** Armor, Bolt (magic missile), Bolt (ray of frost), Detect
 Arcana (sense magic), Lower Trait (Strength), Zombie, Puppet (undead)
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Claw:** Str+d4.
 - **Ray:** Shooting; range 12/24/48; 2d6; By Spell.
@@ -71,4 +75,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

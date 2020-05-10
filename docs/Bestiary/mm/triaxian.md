@@ -1,4 +1,4 @@
-Triaxian
+# Triaxian
 
 No description for this creature yet.
 
@@ -11,5 +11,5 @@ Stealth d4, Survival d6, Tracking d8, Shooting d4
 (Shooting; range 15/30/60; 2d6)
 **Edges:** Beast Master, Woodsman
 **Special Abilities**
-- **Low Light Vision:** No penalties for dim or dark lighting.
 
+- **Low Light Vision:** No penalties for dim or dark lighting.

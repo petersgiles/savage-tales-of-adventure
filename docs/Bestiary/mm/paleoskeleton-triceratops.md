@@ -1,4 +1,4 @@
-Paleoskeleton triceratops
+# Paleoskeleton triceratops
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (1)
 **Edges:** Level Headed, War Cry
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ bleeding and death magic.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

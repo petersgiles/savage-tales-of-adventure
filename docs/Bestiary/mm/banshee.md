@@ -1,4 +1,4 @@
-Banshee
+# Banshee
 
 The banshee looks like a ghostly elven woman, driven by grief, rage
 and anger against the living.
@@ -10,6 +10,7 @@ Vigor d6
 **Edges:** Alertness, Combat Reflexes, Dodge, Improved Dodge, Level
 Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Terror.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -23,4 +24,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Powerless in sunlight.
 - **Terror:** Make a Spirit roll or suffer a level of Fatigue.
-

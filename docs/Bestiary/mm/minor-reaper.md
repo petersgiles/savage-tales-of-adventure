@@ -1,4 +1,4 @@
-Minor reaper
+# Minor reaper
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d12+2
 **Gear:** Scythe (Str+d8; Death Touch)
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ creatures.
 bleeding and death magic.
 - **Death Touch:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

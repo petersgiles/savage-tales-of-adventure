@@ -1,4 +1,4 @@
-Doppelganger
+# Doppelganger
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Frenzy
 **Powers:** Mind Reading
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ Spellcasting d8
 as a normal action.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Sleep.
-

@@ -1,4 +1,4 @@
-Archon
+# Archon
 
 The harbinger looks like a tiny mechanical model of a planetary
 system, the pieces whirling and glowing as it flies through the air.
@@ -12,6 +12,7 @@ d6
 **Edges:** Arcane Background (Magic), Dodge, Frenzy, Level Headed
 **Powers:** Divination, Healing, Light (dancing lights)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -35,6 +36,7 @@ Survival d12, Tracking d12, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed, Strong Willed
 **Powers:** Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Slam:** Str+d4.
@@ -60,6 +62,7 @@ d6, Spellcasting d4
 **Powers:** Teleport
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Light Rays:** Shooting; range 12/24/48; 2d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -86,6 +89,7 @@ Fire), flaming javelin (Throwing; range 3/6/12; Str+d6; Fire)
 **Edges:** Arcane Background (Magic)
 **Powers:** Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -110,6 +114,7 @@ Parry)
 Strong Willed
 **Powers:** Deflection (forcefield), Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -135,6 +140,7 @@ short sword (Str+d6), shortbow (Shooting; range 12/24/48; 2d6)
 Obscure (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -162,6 +168,7 @@ Dodge, Level Headed, Quick, Sweep, Strong Willed
 **Powers:** Smite (Evil), Blast (fire storm), Burst (prismatic spray),
 Dispel, Greater Healing, Healing, Invisibility, Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -192,6 +199,7 @@ Boost Trait (Strength), Boost Trait (Spirit), Deflection (forcefield),
 Detect Arcana (sense magic), Dispel (invisibility only), Greater
 Healing, Healing, Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +3:** Marble-coloured skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -203,4 +211,3 @@ against offensive magic.
 - **Good:** Affected by powers and abilities that work on good
 creatures.
 - **Immunities:** Electricity and petrification.
-

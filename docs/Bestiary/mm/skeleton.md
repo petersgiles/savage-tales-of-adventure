@@ -1,4 +1,4 @@
-Skeleton
+# Skeleton
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -27,6 +28,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -45,6 +47,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), longbow (Shooting; range 15/30/60; 2d6)
 **Edges:** Frenzy, Level Headed, Marksman
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -63,6 +66,7 @@ d6
 **Gear:** Short swords (Str+d6; Strength Drain)
 **Edges:** Frenzy, Level Headed, Two-Fisted
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fear -1:** Anyone who sees this creature must make a Fear check at
@@ -81,6 +85,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -97,6 +102,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8; Fire)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Death Throes:** Immediately after being incapacitated, this creature
@@ -120,6 +126,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8; Fire)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Death Throes:** Immediately after being incapacitated, this creature
@@ -142,6 +149,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8; Fire)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Death Throes:** Immediately after being incapacitated, this creature
@@ -165,6 +173,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Death Throes:** Immediately after being incapacitated, this creature
@@ -187,6 +196,7 @@ Vigor d10
 **Edges:** Level Headed, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -204,6 +214,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 8; **Parry:** 7; **Toughness:** 10 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -219,6 +230,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2), broken scimitar (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -237,6 +249,7 @@ Vigor d12+1
 **Gear:** Foreclaws (Str+d8)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Talons:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -264,6 +277,7 @@ Vigor d10
 **Gear:** Chainmail shirt (+2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -283,6 +297,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 23 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -305,6 +320,7 @@ Vigor d12
 **Gear:** Platemail (+3), helmet (+3), greatclub (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -322,6 +338,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -344,6 +361,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -355,4 +373,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Size +3:** Increases Toughness by +3.
-

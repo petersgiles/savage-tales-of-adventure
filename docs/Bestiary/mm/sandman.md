@@ -1,4 +1,4 @@
-Sandman
+# Sandman
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Sleep.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ extra damage from called shots.
 - **Amorphous:** Doesn't suffer additional damage from raises or called
 shots.
 - **Sleep:** Make a Spirit roll or suffer a level of Fatigue.
-

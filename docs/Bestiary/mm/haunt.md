@@ -1,4 +1,4 @@
-Haunt
+# Haunt
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 7
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Cold; Dex.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

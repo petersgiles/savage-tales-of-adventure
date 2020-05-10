@@ -1,4 +1,4 @@
-Skull ripper
+# Skull ripper
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 14 (3)
 **Edges:** Combat Reflexes, Frenzy, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Sting:** Str+d6; Poison.
@@ -24,4 +25,3 @@ against offensive magic.
 - **Resistance:** -2 damage from cold.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Size +3:** Increases Toughness by +3.
-

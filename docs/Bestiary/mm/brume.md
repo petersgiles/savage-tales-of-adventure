@@ -1,4 +1,4 @@
-Brume
+# Brume
 
 The brume is an extraplanar humanoid with sunken glowing eyes and no
 nose or ears. It is wrapped in a shroud, and hovers above the ground,
@@ -12,6 +12,7 @@ d10, Survival d12+3, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,4 +27,3 @@ shots.
 creatures.
 - **Immunity:** Poison.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Skinwraith
+# Skinwraith
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Gear:** Lashes (Str+d8; Grab)
 **Edges:** Ambidextrous, Frenzy
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 6" and Climb 0.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

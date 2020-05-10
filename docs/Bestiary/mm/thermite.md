@@ -1,4 +1,4 @@
-Thermite
+# Thermite
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Fire; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Fire; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -52,6 +54,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Fire; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -61,4 +64,3 @@ by Banish.
 - **Fearless:** Immune to fear and Intimidation.
 - **Immunities:** Fire and mind-affecting effects.
 - **Weakness:** Cold (double damage).
-

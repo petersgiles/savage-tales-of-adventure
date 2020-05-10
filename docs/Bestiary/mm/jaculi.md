@@ -1,4 +1,4 @@
-Jaculi
+# Jaculi
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d8, Notice d6, Stealth d8, Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -16,4 +17,3 @@ Vigor d6
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Pounce:** +4 attack/damage and -2 Parry when first moving adjacent
 to foe.
-

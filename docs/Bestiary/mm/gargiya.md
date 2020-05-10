@@ -1,4 +1,4 @@
-Gargiya
+# Gargiya
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 21 (4)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +4:** Rippling scales.
 - **Bite:** Str+d8; Constrict.
 - **Tail Slap:** Str+d8.
@@ -20,4 +21,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +8:** Thirty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

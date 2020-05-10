@@ -1,4 +1,4 @@
-Rune guardian
+# Rune guardian
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d4
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Lower Trait (Strength), Shrink, Slumber, Summon Ally
 **Special Abilities**
+
 - **Slam:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ against offensive magic.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

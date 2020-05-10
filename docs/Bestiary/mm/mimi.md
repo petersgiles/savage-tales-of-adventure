@@ -1,4 +1,4 @@
-Mimi
+# Mimi
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d4, Spellcasting d10
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +1:** White skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 8" and Climb 0.
@@ -21,4 +22,3 @@ against offensive magic.
 - **Size -2:** One foot tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

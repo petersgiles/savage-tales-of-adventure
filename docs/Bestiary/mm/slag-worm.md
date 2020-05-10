@@ -1,4 +1,4 @@
-Slag worm
+# Slag worm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+5
 **Edges:** Alertness, Quick, Sweep, Improved Sweep, Strong Willed, War
 Cry
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -40,4 +41,3 @@ extra damage from called shots.
 - **Size +10:** Forty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

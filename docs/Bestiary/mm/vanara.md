@@ -1,4 +1,4 @@
-Vanara
+# Vanara
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d6
 **Gear:** Quarterstaff (Str+d4; Reach 1"; Parry +1)
 **Edges:** Combat Reflexes, Dodge
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

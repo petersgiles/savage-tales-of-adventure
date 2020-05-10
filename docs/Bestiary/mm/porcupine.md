@@ -1,4 +1,4 @@
-Porcupine
+# Porcupine
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 4
 **Edges:** Quick
 **Special Abilities**
+
 - **Tail Slap:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Quills:** Anyone attacking the creature with unarmed or natural
@@ -25,6 +26,7 @@ d8
 **Gear:** D (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -41,9 +43,9 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tail Slap:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Quills:** Anyone attacking the creature with unarmed or natural
 weapons suffers 2d4 damage.
-

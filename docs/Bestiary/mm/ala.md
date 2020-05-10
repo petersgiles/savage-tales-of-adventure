@@ -1,4 +1,4 @@
-Ala
+# Ala
 
 The ala appears as a wild hag dressed in black rags, but in combat
 she can transform into a powerful whirlwind which flashes with dark
@@ -13,6 +13,7 @@ Stealth d12+1, Survival d10, Spellcasting d6
 **Powers:** Blast (ice storm), Blast (lightning storm), Bolt (lightning
 bolt)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -27,4 +28,3 @@ but automatically inflicts 2d6 damage in the same way as a swarm.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Electricity.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

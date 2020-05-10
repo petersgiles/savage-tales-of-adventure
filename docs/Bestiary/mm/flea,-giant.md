@@ -1,4 +1,4 @@
-Flea, giant
+# Flea, giant
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 4
 **Special Abilities**
+
 - **Touch:** Str; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -16,4 +17,3 @@ Vigor d8
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

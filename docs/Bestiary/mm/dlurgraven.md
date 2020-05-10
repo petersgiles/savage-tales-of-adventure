@@ -1,4 +1,4 @@
-Dlurgraven
+# Dlurgraven
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8, Stealth d8, Spellcasting d6
 **Edges:** Arcane Background (Magic), Dodge, Frenzy
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Talons:** Str+d6.
 - **Bite:** Str+d6; Poison.
@@ -23,4 +24,3 @@ creatures.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Ten feet tall; Toughness +2.
-

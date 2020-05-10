@@ -1,4 +1,4 @@
-Thundershrike
+# Thundershrike
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Survival d10, Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Bolt (lightning bolt), Obscure (fog), Pummel (wind)
 **Special Abilities**
+
 - **Armour +2:** Ebon feathers.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8.
@@ -19,4 +20,3 @@ d10, Survival d10, Spellcasting d8
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

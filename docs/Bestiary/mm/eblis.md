@@ -1,4 +1,4 @@
-Eblis
+# Eblis
 
 No description for this creature yet.
 
@@ -12,9 +12,9 @@ Stealth d8, Spellcasting d8
 **Powers:** Confusion (hypnotic pattern), Deflection (blur), Disguise
 (illusion), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +1:** Feathers.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 6" and Climb 0.
 - **Resistance:** -1 damage from fire.
-

@@ -1,4 +1,4 @@
-Formian
+# Formian
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Arcana, Confusion (hypnotic pattern), Deflection (forcefield), Detect
 Arcana (sense magic), Dispel, Entangle, Invisibility, Mind Reading,
 Puppet, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Brownish-red carapace.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -39,6 +40,7 @@ Survival d12, Throwing d8, Spellcasting d10
 Headed
 **Powers:** Mind Reading, Teleport
 **Special Abilities**
+
 - **Armour +3:** Brownish-red carapace.
 - **Sting:** Str+d6; Poison.
 - **Claws:** Str+d6.
@@ -59,6 +61,7 @@ Persuasion d12, Stealth d10
 **Charisma:** +4; **Pace:** 7; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Alertness, Dodge
 **Special Abilities**
+
 - **Armour +2:** Brownish-red carapace.
 - **Sting:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -78,6 +81,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Brownish-red carapace.
 - **Sting:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -95,6 +99,7 @@ No description for this creature yet.
 d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Brownish-red carapace.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -103,4 +108,3 @@ by Banish.
 - **Immunities:** Cold, poison and petrification.
 - **Resistances:** -2 damage from electricity, fire and sonic.
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Soulbound doll
+# Soulbound doll
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ No description for this creature yet.
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Flight (levitate)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
@@ -18,4 +19,3 @@ disease, poison, and extra damage from called shots.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

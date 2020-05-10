@@ -1,4 +1,4 @@
-Invisible stalker
+# Invisible stalker
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12, Survival d10, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ d10, Stealth d12, Survival d10, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,4 +37,3 @@ d10, Stealth d12, Survival d10, Tracking d10
 by Banish.
 - **Elemental:** Immune to fear, ignore wound modifiers, poison, and
 extra damage from called shots.
-

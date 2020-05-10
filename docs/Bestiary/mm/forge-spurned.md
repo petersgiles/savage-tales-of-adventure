@@ -1,4 +1,4 @@
-Forge spurned
+# Forge spurned
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ Repair d10
 (Str+d8; Fire)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Fire, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

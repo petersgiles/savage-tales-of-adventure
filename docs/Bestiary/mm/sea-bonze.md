@@ -1,4 +1,4 @@
-Sea bonze
+# Sea bonze
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Swimming d12+9
 **Edges:** Alertness, Combat Reflexes, Frenzy, Level Headed, Quick,
 Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -24,4 +25,3 @@ effects, aging, bleeding and death magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

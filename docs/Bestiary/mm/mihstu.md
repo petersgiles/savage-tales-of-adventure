@@ -1,4 +1,4 @@
-Mihstu
+# Mihstu
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Improved Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ extra damage from called shots.
 against offensive magic.
 - **Immunity:** Electricity.
 - **Weakness:** Cold (double damage).
-

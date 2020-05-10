@@ -1,4 +1,4 @@
-Akaruzug
+# Akaruzug
 
 An akaruzug is a statue sculpted into the shape of a horned angel,
 with a victim crucified upon its frame. The akaruzug uses the souls of
@@ -10,6 +10,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 10; **Toughness:** 17 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d8.
 - **Body Slam:** Str+d8.
@@ -25,4 +26,3 @@ disease, poison, and extra damage from called shots.
 - **Size +4:** Fifteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

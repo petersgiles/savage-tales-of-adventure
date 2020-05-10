@@ -1,4 +1,4 @@
-Garuda
+# Garuda
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d12+1, Survival d10, Shooting d12
 **Gear:** Shock longbow (Shooting; range 15/30/60; 2d6; Electricity)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -18,4 +19,3 @@ Stealth d12+1, Survival d10, Shooting d12
 - **Pounce:** +4 attack/damage and -2 Parry when first moving adjacent
 to foe.
 - **Flight:** Flying Pace of 11" and Climb 2.
-

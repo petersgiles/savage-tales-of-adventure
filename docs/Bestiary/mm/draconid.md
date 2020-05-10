@@ -1,4 +1,4 @@
-Draconid
+# Draconid
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 18 (3)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Coarse fur.
 - **Bites:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ Agility roll at -2 or suffer 2d10 fire damage.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

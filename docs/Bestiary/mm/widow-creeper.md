@@ -1,4 +1,4 @@
-Widow creeper
+# Widow creeper
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (4)
 **Edges:** Frenzy, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ surfaces with Pace 5".
 - **Size +4:** Eight feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

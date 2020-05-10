@@ -1,4 +1,4 @@
-Dimensional shambler
+# Dimensional shambler
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12, Spellcasting d6
 Strong Willed
 **Powers:** Deflection (blink between dimensions), Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ Strong Willed
 raise on an opposed Strength roll to escape.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
-

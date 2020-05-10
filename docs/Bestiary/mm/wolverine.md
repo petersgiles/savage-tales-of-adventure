@@ -1,4 +1,4 @@
-Wolverine
+# Wolverine
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Berserk, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -28,6 +29,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Berserk, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -39,4 +41,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 surfaces with Pace 4".
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Twelve feet long; Toughness +2.
-

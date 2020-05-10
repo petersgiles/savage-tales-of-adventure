@@ -1,4 +1,4 @@
-Unicorn
+# Unicorn
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Faith d12
 **Powers:** Healing, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d6.
 - **Hooves:** Str+d4.
@@ -22,4 +23,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Immunity:** Poison.
 - **Size +2:** Eight feet long; Toughness +2.
-

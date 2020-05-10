@@ -1,4 +1,4 @@
-Azata
+# Azata
 
 Bralanis are fierce azatas with an elf-like appearance, and are able
 to transform into a form of wind and mist. Note that they cannot fly
@@ -15,6 +15,7 @@ d6, Spellcasting d8
 **Powers:** Barrier (wind), Bolt (lightning bolt), Deflection (blur),
 Healing, Pummel (wind), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,6 +51,7 @@ Willed
 (earthquake), Elemental Manipulation (earth), Greater Healing, Healing,
 Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +3:** Flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -87,6 +89,7 @@ Detect Arcana (see invisibility), Disguise (illusion), Dispel, Entangle,
 Greater Healing, Healing, Light (dancing lights), Invisibility, Mind
 Reading, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Light Rays:** Shooting; range 12/24/48; 2d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -120,6 +123,7 @@ d12, Survival d12, Spellcasting d8
 (darkness), Puppet, Puppet (living humanoids only), Slumber, Stun
 (daze)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tail Slap:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -147,6 +151,7 @@ d12+1, Spellcasting d8
 **Powers:** Confusion, Detect Arcana (sense magic), Divination, Healing,
 Light (dancing lights), Stun (daze), Summon Ally
 **Special Abilities**
+
 - **Slam:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -180,6 +185,7 @@ Level Headed, Sweep, Improved Sweep
 growth), Environmental Protection (heat and cold), Fear, Flight (wind
 walk), Greater Healing, Healing
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Vines:** Str+d10; Reach 1"; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -215,6 +221,7 @@ range 3/6/12; Str+d6)
 **Powers:** Detect Arcana (sense magic), Healing, Invisibility, Puppet
 (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -225,4 +232,3 @@ by Banish.
 creatures.
 - **Immunities:** Electricity and petrification.
 - **Resistances:** -2 damage from cold and fire.
-

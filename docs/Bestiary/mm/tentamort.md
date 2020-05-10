@@ -1,4 +1,4 @@
-Tentamort
+# Tentamort
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d4; Poison.
 - **Tentacle:** Str+d4; Reach 1"; Constrict.
@@ -21,4 +22,3 @@ surfaces with Pace 5".
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
-

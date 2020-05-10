@@ -1,4 +1,4 @@
-Aluum
+# Aluum
 
 The aluum are humanoid constructs made from stone and metal. Arcane
 symbols are carved into their body, and a glowing azure gem is set in
@@ -10,6 +10,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 16 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Paralysis.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,4 +27,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +4:** Fourteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

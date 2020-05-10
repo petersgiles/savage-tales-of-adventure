@@ -1,4 +1,4 @@
-Clamor
+# Clamor
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Edges:** Level Headed, Quick
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Sonic Ray:** Shooting; range 12/24/48; 2d6; Sonic.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Invisible:** Enemies suffer -4 to their attacks.
@@ -16,4 +17,3 @@ d12
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
 - **Flight:** Flying Pace of 8" and Climb 3.
-

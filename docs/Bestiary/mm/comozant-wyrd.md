@@ -1,4 +1,4 @@
-Comozant wyrd
+# Comozant wyrd
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d6
 **Powers:** Obscure (fog)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -21,4 +22,3 @@ extra damage from called shots.
 - **Immunities:** Electricity, cold, sleep, poison, shapechanging,
 paralysis and Gang Up bonuses.
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Wolf-spider
+# Wolf-spider
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d4, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (1)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Poison; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ Agility as the arcane skill.
 surfaces with Pace 5".
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

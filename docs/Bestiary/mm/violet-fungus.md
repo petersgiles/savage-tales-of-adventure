@@ -1,4 +1,4 @@
-Violet fungus
+# Violet fungus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Rot.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ and extra damage from called shots.
 - **Rot:** Victims must make a Vigor roll at the beginning of each turn
 until they get a raise. On a failure, they suffer a wound as their flesh
 melts and rots.
-

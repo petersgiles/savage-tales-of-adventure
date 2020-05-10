@@ -1,4 +1,4 @@
-Spectral rock troll
+# Spectral rock troll
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Tracking d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Corrupting Touch:** Str+d6; Fort Dc Half.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Increases Toughness by +2.
-

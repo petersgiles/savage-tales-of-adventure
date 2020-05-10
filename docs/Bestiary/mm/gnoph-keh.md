@@ -1,4 +1,4 @@
-Gnoph-keh
+# Gnoph-keh
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** +4; **Pace:** 7; **Parry:** 8; **Toughness:** 15 (4)
 **Edges:** Frenzy, Improved Frenzy, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d6.
 - **Horns:** Str+d6.
@@ -17,4 +18,3 @@ Vigor d12+1
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Star monarch
+# Star monarch
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Headed, Strong Willed
 **Powers:** Deflection (entropic shield), Deflection (forcefield), Light
 (dancing lights), Slumber, Voice on the Wind (dream message)
 **Special Abilities**
+
 - **Armour +2:** Peacock feathers.
 - **Claws:** Str+d8; Grab.
 - **Tail:** Str+d8; Nonlethal.
@@ -27,4 +28,3 @@ against offensive magic.
 - **Size +5:** Increases Toughness by +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

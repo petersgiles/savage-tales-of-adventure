@@ -1,4 +1,4 @@
-Morlock
+# Morlock
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Club (Str+d8)
 **Edges:** Assassin, Level Headed, Quick
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -19,4 +20,3 @@ to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Immunities:** Disease and poison.
-

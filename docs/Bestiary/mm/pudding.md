@@ -1,4 +1,4 @@
-Pudding
+# Pudding
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+4
 **Skills:** Fighting d8, Climbing d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 21 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -35,6 +36,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14
 **Special Abilities**
+
 - **Slam:** Str+d8; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -62,6 +64,7 @@ d12+1
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8
 **Special Abilities**
+
 - **Slam:** Str+d4; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -81,6 +84,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -109,6 +113,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14
 **Special Abilities**
+
 - **Slam:** Str+d8; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -136,6 +141,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Climbing d10, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14
 **Special Abilities**
+
 - **Slam:** Str+d8; Constrict; Acid; Petrifying Touch.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -163,6 +169,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14
 **Special Abilities**
+
 - **Slam:** Str+d8; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -183,4 +190,3 @@ bonuses.
 - **Size +5:** Increases Toughness by +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

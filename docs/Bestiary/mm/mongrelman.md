@@ -1,4 +1,4 @@
-Mongrelman
+# Mongrelman
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Gear:** Club (Str+d8)
 **Special Abilities**
+
 - **Armour +1:** Matted fur.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

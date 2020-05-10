@@ -1,4 +1,4 @@
-Axiomite
+# Axiomite
 
 Axiomites are clouds of glowing, crystalline dust that are able to
 assume the form of a specific humanoid-shaped creature. Note that they
@@ -16,6 +16,7 @@ Headed, Strong Willed
 **Powers:** Bolt (lightning bolt), Entangle, Quickness, Summon Ally,
 Telekinesis
 **Special Abilities**
+
 - **Armour +2:** Into flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Dust Form:** Can change form as a free action, as a cloud of dust
@@ -27,4 +28,3 @@ by Banish.
 damage.
 - **Immunities:** Electricity, disease and mind-affecting effects.
 - **Resistances:** -2 damage from cold and fire.
-

@@ -1,4 +1,4 @@
-Saumen kar
+# Saumen kar
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Stealth d12, Survival d12+2, Tracking d12+2, Spellcasting d6
 **Edges:** Alertness, Arcane Background (Magic), Hard to Kill
 **Powers:** Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Scored fur.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -22,4 +23,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Twelve feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

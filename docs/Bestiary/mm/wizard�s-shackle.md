@@ -1,4 +1,4 @@
-Wizard�s shackle
+# Wizard�s shackle
 
 No description for this creature yet.
 
@@ -8,9 +8,9 @@ d6
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 2
 **Hindrances:** Small (M)
 **Special Abilities**
+
 - **Bite:** Str; Attach.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

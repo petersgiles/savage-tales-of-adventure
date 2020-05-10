@@ -1,4 +1,4 @@
-Mandragora
+# Mandragora
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Slam:** Str+d4; Poison.
@@ -32,6 +33,7 @@ d12+4
 **Gear:** Vine whips (Str+d8; Poison)
 **Edges:** Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -58,6 +60,7 @@ Notice d12, Stealth d12+9, Innate Powers d12
 Improved Dodge, Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
@@ -68,4 +71,3 @@ and extra damage from called shots.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

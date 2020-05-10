@@ -1,4 +1,4 @@
-Vulture
+# Vulture
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d4, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -24,6 +25,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -40,6 +42,7 @@ Vigor d12
 **Skills:** Fighting d8, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 14 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -51,4 +54,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Thirteen feet tall; Toughness +3.
-

@@ -1,4 +1,4 @@
-Froghemoth
+# Froghemoth
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Level Headed, Quick, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -42,6 +43,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Level Headed, Quick, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Constrict.
 - **Tentacles:** Str+d8; Reach 1"; Electrical Discharge; Constrict.
@@ -77,6 +79,7 @@ Vigor d8
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Tentacles:** Str+d6; Reach 1"; Grab.
@@ -103,6 +106,7 @@ Vigor d8
 **Skills:** Fighting d4, Notice d6, Swimming d10
 **Charisma:** -; **Pace:** 1; **Parry:** 4; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -113,4 +117,3 @@ that's in contact with the ground.
 - **Immunity:** Electricity.
 - **Resistance:** -1 damage from fire.
 - **Size -1:** Reduces Toughness by -1.
-

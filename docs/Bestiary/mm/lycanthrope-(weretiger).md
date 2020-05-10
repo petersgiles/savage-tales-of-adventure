@@ -1,4 +1,4 @@
-Lycanthrope (weretiger)
+# Lycanthrope (weretiger)
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Stealth d10, Survival d8, Tracking d10, Swimming d8, Throwing d6
 masterwork dagger (Throwing; range 3/6/12; Str+d4)
 **Edges:** Assassin, Dodge, Level Headed, Thief
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -27,6 +28,7 @@ Stealth d8, Survival d8, Tracking d10, Swimming d4, Throwing d6
 **Gear:** Masterwork dagger (Throwing; range 3/6/12; Str+d4)
 **Edges:** Assassin, Dodge, Level Headed, Thief
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab; Infection.
 - **Claws:** Str+d6; Grab.
@@ -42,4 +44,3 @@ to foe.
 - **Infection:** Victims who suffer one or more wounds must make a Vigor
 roll. On a failure, they become a werebeast on the next full moon.
 - **Size +3:** Increases Toughness by +3.
-

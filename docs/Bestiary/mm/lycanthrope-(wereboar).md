@@ -1,4 +1,4 @@
-Lycanthrope (wereboar)
+# Lycanthrope (wereboar)
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d6, Tracking d8, Throwing d6
 (Throwing; range 3/6/12; Str+d4)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -30,6 +31,7 @@ d6, Tracking d8, Throwing d6
 (Throwing; range 3/6/12; Str+d4)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Bite:** Str+d4; Infection.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -39,4 +41,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Infection:** Victims who suffer one or more wounds must make a Vigor
 roll. On a failure, they become a werebeast on the next full moon.
 - **Very Tough:** +1 Toughness.
-

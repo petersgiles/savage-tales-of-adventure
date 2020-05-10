@@ -1,4 +1,4 @@
-Carbuncle
+# Carbuncle
 
 Carbuncles are ungainly reptiles with a gemstone horn projecting from
 between their bulging eyes.
@@ -9,6 +9,7 @@ between their bulging eyes.
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Flight (levitate), Stun (daze)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -16,4 +17,3 @@ between their bulging eyes.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Orcish warclops
+# Orcish warclops
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ Vigor d10
 disease, poison, and extra damage from called shots.
 - **Immunity:** Magic.
 - **Size +2:** Increases Toughness by +2.
-

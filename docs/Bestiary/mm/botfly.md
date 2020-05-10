@@ -1,4 +1,4 @@
-Botfly
+# Botfly
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d6
 **Skills:** Fighting d4-2, Stealth d10
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Sting:** Str; Infestation.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -27,6 +28,7 @@ Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -34,4 +36,3 @@ Innate Powers d10
 - **Flight:** Flying Pace of 9" and Climb 1.
 - **Immunity:** Mind-affecting effects.
 - **Infestation:** Make a Vigor roll or suffer a level of Fatigue.
-

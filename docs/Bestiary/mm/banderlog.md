@@ -1,4 +1,4 @@
-Banderlog
+# Banderlog
 
 Banderlogs look like a larger version of the baboon, with
 grayish-brown fur.
@@ -11,9 +11,9 @@ d8, Throwing d6
 **Gear:** Coconut (Throwing; range 3/6/12; Str+d6)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Grayish-brown fur.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
-

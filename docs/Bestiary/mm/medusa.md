@@ -1,4 +1,4 @@
-Medusa
+# Medusa
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Shooting d10
 2d6)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Snake Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,10 +33,10 @@ Shooting d8
 2d6)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Armour +2:** Green scales.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Petrifying Gaze:** All creatures within 12" must make a Vigor roll
 or be permanently turned to stone.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

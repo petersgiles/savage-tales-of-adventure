@@ -1,4 +1,4 @@
-Tojanida
+# Tojanida
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d8, Swimming d12
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -20,4 +21,3 @@ drowning.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Resistances:** -2 damage from electricity and fire.
-

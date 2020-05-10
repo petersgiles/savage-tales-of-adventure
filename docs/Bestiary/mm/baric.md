@@ -1,4 +1,4 @@
-Baric
+# Baric
 
 Barics are six-legged rodents the size of a dog, with a duck-like
 bill filled with wickedly sharp teeth.
@@ -8,6 +8,7 @@ d6
 **Skills:** Fighting d4, Notice d6, Stealth d6, Tracking d6
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ d6
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Three feet long; Toughness -1.
-

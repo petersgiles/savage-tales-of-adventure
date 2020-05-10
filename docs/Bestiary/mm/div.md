@@ -1,4 +1,4 @@
-Div
+# Div
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10
 **Powers:** Detect Arcana (sense magic), Lower Trait (curse), Puppet,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -39,6 +40,7 @@ Level Headed, Sweep, Improved Sweep
 Dispel, Summon Ally, Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -75,6 +77,7 @@ Stealth d12+1, Spellcasting d6
 **Powers:** Detect Arcana (sense magic), Divination, Invisibility,
 Puppet, Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -105,6 +108,7 @@ Quick
 **Powers:** Detect Arcana (sense magic), Obscure (illusionary terrain),
 Obscure (darkness), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -132,6 +136,7 @@ Vigor d10
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Detect Arcana (sense magic), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -162,6 +167,7 @@ Quick, Sweep, Strong Willed
 Trait (curse), Invisibility, Mind Reading (speak with dead), Obscure
 (darkness), Summon Ally, Summon Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -186,6 +192,7 @@ d12+2, Stealth d12+1, Survival d12+2, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -206,4 +213,3 @@ creatures.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

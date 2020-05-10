@@ -1,4 +1,4 @@
-Manananggal
+# Manananggal
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Quick
 **Powers:** Fear, Light (dancing lights), Obscure (darkness), Slumber
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4; Grab.
@@ -22,4 +23,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Weakness:** Light sensitive.
-

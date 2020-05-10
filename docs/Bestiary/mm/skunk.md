@@ -1,4 +1,4 @@
-Skunk
+# Skunk
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Claws:** Str.
 - **Spray:** Shooting; range 4/8/16; 2d6; Musk.
@@ -27,6 +28,7 @@ Vigor d8
 d8, Shooting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -37,4 +39,3 @@ d8, Shooting d6
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Musk:** Make a Vigor roll or suffer a level of Fatigue.
 - **Size +2:** Increases Toughness by +2.
-

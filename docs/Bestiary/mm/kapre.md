@@ -1,4 +1,4 @@
-Kapre
+# Kapre
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Survival d8, Lockpicking d12+1, Spellcasting d8
 Frenzy, Hard to Kill, Quick, Strong Willed
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ surfaces with Pace 6".
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

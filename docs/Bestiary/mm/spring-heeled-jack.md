@@ -1,4 +1,4 @@
-Spring-heeled jack
+# Spring-heeled jack
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Assassin
 **Powers:** Flight (feather fall)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d4 fire damage.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Four feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Tendriculos
+# Tendriculos
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 17 (3)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
@@ -30,4 +31,3 @@ damage.
 - **Size +6:** Twenty feet tall; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

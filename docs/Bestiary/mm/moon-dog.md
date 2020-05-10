@@ -1,4 +1,4 @@
-Moon dog
+# Moon dog
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Willed
 (see invisibility), Disguise (shapechange), Dispel, Light (dancing
 lights), Invisibility, Obscure (darkness)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -27,4 +28,3 @@ against offensive magic.
 - **Good:** Affected by powers and abilities that work on good
 creatures.
 - **Immunity:** Fear.
-

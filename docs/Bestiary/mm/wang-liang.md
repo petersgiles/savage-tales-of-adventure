@@ -1,4 +1,4 @@
-Wang liang
+# Wang liang
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Knowledge (Planes) d6, Survival d8, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Obscure (darkness)
 **Special Abilities**
+
 - **Armour +1:** Gray skin.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4; Poison.
@@ -22,4 +23,3 @@ creatures.
 - **Resistance:** -1 damage from fire.
 - **Poison:** Bite and claws inflict lethal poison if foe is Shaken or
 wounded.
-

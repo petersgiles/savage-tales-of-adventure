@@ -1,4 +1,4 @@
-Humbaba
+# Humbaba
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+5, Survival d12+5, Throwing d12+1, Spellcasting d6
 Willed
 **Powers:** Blast (earthquake)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -22,4 +23,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

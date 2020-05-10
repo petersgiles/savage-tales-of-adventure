@@ -1,4 +1,4 @@
-Pegasus
+# Pegasus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
@@ -18,4 +19,3 @@ d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 15" and Climb 0.
 - **Size +2:** Increases Toughness by +2.
-

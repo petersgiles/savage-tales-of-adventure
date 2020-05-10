@@ -1,4 +1,4 @@
-Soul nibbler
+# Soul nibbler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 Tracking d6
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Energy Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ surfaces with Pace 4".
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

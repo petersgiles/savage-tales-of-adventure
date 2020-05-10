@@ -1,4 +1,4 @@
-Yeti
+# Yeti
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d4, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy, Sweep
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Claws:** Str+d6; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ to resist.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size +2:** Increases Toughness by +2.
-

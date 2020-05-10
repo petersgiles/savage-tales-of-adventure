@@ -1,4 +1,4 @@
-Monstrous lobster
+# Monstrous lobster
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d8, Notice d6, Stealth d12, Swimming d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Combat Claw:** Str+d8; Constrict.
 - **Claw:** Str+d8.
@@ -19,4 +20,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

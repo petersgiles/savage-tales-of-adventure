@@ -1,4 +1,4 @@
-Lammasu
+# Lammasu
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Strong Willed
 **Powers:** Boost Trait (bless), Detect Arcana (sense magic), Healing,
 Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6.
 - **Wings:** Str+d6.
@@ -20,4 +21,3 @@ Invisibility, Teleport
 to foe.
 - **Flight:** Flying Pace of 9" and Climb 0.
 - **Size +3:** Eight feet long; Toughness +3.
-

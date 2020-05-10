@@ -1,4 +1,4 @@
-Autumn death
+# Autumn death
 
 Autumn death appears as a flying skeleton surrounded by a storm of
 swirling leaves.
@@ -11,6 +11,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Armor, Burst (burst of leaves), Lower Trait (Strength)
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Claws:** Str+d4.
 - **Ray:** Shooting; range 12/24/48; 2d6; See Spell.
@@ -23,4 +24,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Acid, cold, sleep, paralysis, mind-affecting effects,
 aging, bleeding and death magic.
 - **Weakness:** Fire (double damage).
-

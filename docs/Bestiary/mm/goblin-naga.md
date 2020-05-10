@@ -1,4 +1,4 @@
-Goblin naga
+# Goblin naga
 
 No description for this creature yet.
 
@@ -8,8 +8,8 @@ d10
 **Charisma:** +2; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Dodge, Quick
 **Special Abilities**
+
 - **Armour +1:** Rust-coloured scales.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunity:** Poison.
-

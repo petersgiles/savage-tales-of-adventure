@@ -1,4 +1,4 @@
-Mud elemental
+# Mud elemental
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 Stealth d8, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ Stealth d6, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -52,6 +54,7 @@ d6, Stealth d6, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -75,6 +78,7 @@ d8, Stealth d8, Swimming d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 16 (2)
 **Edges:** Dodge, Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -100,6 +104,7 @@ d12, Stealth d10, Swimming d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 17 (2)
 **Edges:** Dodge, Frenzy, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -125,6 +130,7 @@ d12+1, Knowledge (Planes) d12+1, Stealth d12, Swimming d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 18 (2)
 **Edges:** Dodge, Frenzy, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Entrap.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -140,4 +146,3 @@ extra damage from called shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

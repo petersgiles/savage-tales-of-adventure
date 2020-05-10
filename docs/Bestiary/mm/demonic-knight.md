@@ -1,4 +1,4 @@
-Demonic knight
+# Demonic knight
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ d12, Spellcasting d12
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Fear, Invisibility, Summon Ally
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -24,4 +25,3 @@ some form of ghoul-like undead.
 against offensive magic.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
-

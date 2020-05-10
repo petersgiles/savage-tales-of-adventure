@@ -1,4 +1,4 @@
-Rot grub
+# Rot grub
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison; Grab.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -29,10 +30,10 @@ Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsense:** Can sense and approximately pinpoint things within
 6", attacks using blindsense are made at -2.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Immunity:** Mind-affecting effects.
-

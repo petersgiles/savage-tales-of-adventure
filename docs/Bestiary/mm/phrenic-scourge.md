@@ -1,4 +1,4 @@
-Phrenic scourge
+# Phrenic scourge
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Persuasion d10, Stealth d12, Spellcasting d12
 **Edges:** Arcane Background (Magic), Dodge, Improved Dodge, Frenzy
 **Powers:** Mind Reading, Puppet, Slumber, Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Burrow:** Can burrow and reappear within 4".
@@ -20,4 +21,3 @@ surfaces with Pace 6".
 against offensive magic.
 - **Implant:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

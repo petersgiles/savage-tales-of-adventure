@@ -1,4 +1,4 @@
-Reliquary guardian
+# Reliquary guardian
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Gear:** Unholy greatsword (Str+d10; Parry -1)
 **Edges:** Sweep, Strong Willed
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
@@ -18,4 +19,3 @@ disease, poison, and extra damage from called shots.
 - **Size +4:** Twelve feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

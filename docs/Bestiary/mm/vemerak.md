@@ -1,4 +1,4 @@
-Vemerak
+# Vemerak
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Constrict.
@@ -32,4 +33,3 @@ effects.
 - **Size +8:** Ten feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

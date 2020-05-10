@@ -1,4 +1,4 @@
-Phycomid
+# Phycomid
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Acid pellet (Throwing; range 3/6/12; Str+d6; Acid; Spores)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
 that's in contact with the ground.
@@ -18,4 +19,3 @@ that's in contact with the ground.
 and extra damage from called shots.
 - **Immunity:** Acid.
 - **Size -1:** Reduces Toughness by -1.
-

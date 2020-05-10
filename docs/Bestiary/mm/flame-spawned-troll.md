@@ -1,4 +1,4 @@
-Flame-spawned troll
+# Flame-spawned troll
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Fire.
 - **Claws:** Str+d6; Fire.
@@ -22,4 +23,3 @@ damage.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
 - **Size +3:** Nine feet tall; Toughness +3.
-

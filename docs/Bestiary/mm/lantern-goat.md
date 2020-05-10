@@ -1,4 +1,4 @@
-Lantern goat
+# Lantern goat
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Gear:** Head butt (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Hooves:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ d12
 **Gear:** Head butt (Str+d8)
 **Edges:** Alertness, Dodge, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Hooves:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -41,4 +43,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Fyr
+# Fyr
 
 No description for this creature yet.
 
@@ -10,8 +10,8 @@ Stealth d8, Survival d4, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Puppet (animals only)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Size -1:** Reduces Toughness by -1.
-

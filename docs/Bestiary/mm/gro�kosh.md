@@ -1,4 +1,4 @@
-Gro�kosh
+# Gro�kosh
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** +4; **Pace:** 7; **Parry:** 7; **Toughness:** 11 (3)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Vines:** Str+d6; Reach 1".
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -15,4 +16,3 @@ d12
 and extra damage from called shots.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
-

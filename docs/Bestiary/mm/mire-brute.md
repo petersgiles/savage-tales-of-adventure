@@ -1,4 +1,4 @@
-Mire brute
+# Mire brute
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12, Swimming d12+5, Innate Powers d6
 Improved Sweep, Strong Willed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d10; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,4 +31,3 @@ extra damage from called shots.
 - **Size +8:** Twelve feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

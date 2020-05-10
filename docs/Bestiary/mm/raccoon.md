@@ -1,4 +1,4 @@
-Raccoon
+# Raccoon
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d8, Tracking d4
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -26,6 +27,7 @@ Vigor d12
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Brownish-grey fur.
 - **Bite:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -33,4 +35,3 @@ d6
 surfaces with Pace 6".
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size -1:** Reduces Toughness by -1.
-

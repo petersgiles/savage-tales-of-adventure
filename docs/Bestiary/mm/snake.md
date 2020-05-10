@@ -1,4 +1,4 @@
-Snake
+# Snake
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d10; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,6 +32,7 @@ Swimming d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 23 (4)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +4:** Scales.
 - **Bite:** Str+d8; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -55,6 +57,7 @@ d10, Swimming d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -76,6 +79,7 @@ d10, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -96,6 +100,7 @@ Vigor d6
 d6, Swimming d4
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -114,6 +119,7 @@ Vigor d8
 d10, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Green scales.
 - **Bite:** Str+d4; Constrict.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -134,6 +140,7 @@ Vigor d8
 d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
@@ -152,6 +159,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 19 (3)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -175,6 +183,7 @@ Powers d12
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -196,6 +205,7 @@ Innate Powers d12
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -217,6 +227,7 @@ d8, Swimming d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -236,6 +247,7 @@ Vigor d6
 Tracking d8, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -258,6 +270,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -266,4 +279,3 @@ d12
 surfaces with Pace 6".
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

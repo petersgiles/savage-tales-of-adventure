@@ -1,4 +1,4 @@
-Yrthak
+# Yrthak
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Gear:** Sonic lance (Throwing; range 3/6/12; Str+d6; Sonic)
 **Edges:** Dodge, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -18,4 +19,3 @@ d12
 - **Size +6:** Twenty feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

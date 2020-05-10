@@ -1,4 +1,4 @@
-Manimal triceratops
+# Manimal triceratops
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+3, Survival d12+1, Tracking d12+3, Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 18 (3)
 **Gear:** Greatclub (Str+d8)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +7:** Twenty feet tall; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

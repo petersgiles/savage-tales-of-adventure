@@ -1,4 +1,4 @@
-Flying polyp
+# Flying polyp
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Dodge, Frenzy, Improved Frenzy, Level Headed
 **Powers:** Barrier (wind), Flight (wind walk), Obscure (fog), Pummel
 (wind)
 **Special Abilities**
+
 - **Armour +3:** Flesh.
 - **Tentacle:** Str+d8; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,4 +36,3 @@ paralysis and Gang Up bonuses.
 - **Size +7:** Thirty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

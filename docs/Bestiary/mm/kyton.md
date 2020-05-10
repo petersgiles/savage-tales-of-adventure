@@ -1,4 +1,4 @@
-Kyton
+# Kyton
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Divination
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -44,6 +45,7 @@ Headed, Quick, Strong Willed
 **Powers:** Banish (plane shift self), Barrier (whirling blades),
 Greater Healing, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d4; Pain.
 - **Claws:** Str+d4; Grab; Pain.
@@ -75,6 +77,7 @@ Repair d10
 **Gear:** Chains (Str+d8)
 **Edges:** Alertness, Frenzy, Improved Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Pale flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -98,6 +101,7 @@ d12+2, Stealth d12, Spellcasting d10
 Improved Frenzy, Level Headed, Quick, Sweep, Strong Willed
 **Powers:** Banish (plane shift self), Healing
 **Special Abilities**
+
 - **Armour +3:** Twisted flesh.
 - **Claws:** Str+d6; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -129,6 +133,7 @@ Headed, Strong Willed
 **Powers:** Banish (plane shift self), Deflection (forcefield), Obscure
 (darkness)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -154,6 +159,7 @@ d12+4, Stealth d12+1
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Bleed.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
@@ -178,4 +184,3 @@ they become Shaken (this can cause a wound)
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

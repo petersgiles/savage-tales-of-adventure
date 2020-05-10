@@ -1,4 +1,4 @@
-Harvest haunt
+# Harvest haunt
 
 No description for this creature yet.
 
@@ -10,9 +10,9 @@ d12+3, Survival d8, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Dodge
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Blighting Touch:** Str; Negative Energy.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

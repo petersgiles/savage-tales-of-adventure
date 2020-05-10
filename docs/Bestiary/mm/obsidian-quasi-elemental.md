@@ -1,4 +1,4 @@
-Obsidian quasi-elemental
+# Obsidian quasi-elemental
 
 No description for this creature yet.
 
@@ -6,6 +6,7 @@ No description for this creature yet.
 **Skills:** Fighting d6, Notice d6, Knowledge (Planes) d4, Stealth d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 6 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -47,6 +49,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -68,6 +71,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d10.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,6 +96,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 18 (3)
 **Edges:** Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d10.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -116,6 +121,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 19 (3)
 **Edges:** Frenzy, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d10.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -130,4 +136,3 @@ extra damage from called shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

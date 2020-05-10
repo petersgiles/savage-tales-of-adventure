@@ -1,4 +1,4 @@
-Weasel
+# Weasel
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d10, Stealth d12, Tracking d4
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Attach.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -26,10 +27,10 @@ Vigor d6
 d6
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
-

@@ -1,4 +1,4 @@
-Faerie seer
+# Faerie seer
 
 No description for this creature yet.
 
@@ -13,5 +13,5 @@ Spellcasting d12
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Invisibility, Mind Reading, Slumber, Stun (daze)
 **Special Abilities**
-- **Blindsight:** Ignore sight-based penalties and gaze attacks.
 
+- **Blindsight:** Ignore sight-based penalties and gaze attacks.

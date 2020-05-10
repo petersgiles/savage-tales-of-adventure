@@ -1,4 +1,4 @@
-Crystalline horror
+# Crystalline horror
 
 No description for this creature yet.
 
@@ -9,9 +9,9 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Crystal Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistance:** -2 damage from cold.
 - **Very Tough:** +1 Toughness.
-

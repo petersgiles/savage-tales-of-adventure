@@ -1,4 +1,4 @@
-Shining child
+# Shining child
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Spellcasting d10
 Level Headed, Quick
 **Powers:** Dispel, Obscure (illusion), Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Searing Ray:** Shooting; range 12/24/48; 2d6; Fire.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -23,4 +24,3 @@ by Banish.
 creatures.
 - **Immunities:** Fire and poison.
 - **Resistances:** -2 damage from cold and sonic.
-

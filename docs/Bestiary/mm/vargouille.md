@@ -1,4 +1,4 @@
-Vargouille
+# Vargouille
 
 No description for this creature yet.
 
@@ -6,6 +6,7 @@ No description for this creature yet.
 **Skills:** Fighting d6, Intimidation d6, Notice d8, Stealth d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,6 +25,7 @@ d12
 **Skills:** Fighting d6, Intimidation d6, Notice d8, Stealth d4
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,4 +35,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

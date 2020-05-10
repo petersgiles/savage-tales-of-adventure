@@ -1,4 +1,4 @@
-Hydrus
+# Hydrus
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Notice d6, Swimming d8
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Invasion.
 - **Spittle:** Shooting; range 3/6/12; 2d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ wounded.
 - **Size -2:** Two feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

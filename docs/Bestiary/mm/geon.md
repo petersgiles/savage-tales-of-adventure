@@ -1,4 +1,4 @@
-Geon
+# Geon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Stealth d8, Survival d10, Spellcasting d6
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Barrier (stone), Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -22,4 +23,3 @@ against offensive magic.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Brownie
+# Brownie
 
 Brownies are two-foot tall fae who live in underground burrows or
 hollowed-out trees. They are generally benevolent, and consider violence
@@ -13,8 +13,8 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Confusion, Light (dancing lights), Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -2:** Two feet tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

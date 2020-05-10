@@ -1,4 +1,4 @@
-Clockworks
+# Clockworks
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 4 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,6 +32,7 @@ Notice d6, Stealth d10, Innate Powers d12
 Level Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -51,6 +53,7 @@ Persuasion d8, Repair d10
 **Edges:** Strong Willed
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -69,6 +72,7 @@ Vigor d12+4
 **Gear:** Rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -90,6 +94,7 @@ Vigor d4
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 2
 **Special Abilities**
+
 - **Slam:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -109,6 +114,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 4 (1)
 **Edges:** Alertness, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Electricity.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -130,6 +136,7 @@ Vigor d12+6
 **Charisma:** -; **Pace:** 7; **Parry:** 10; **Toughness:** 26 (5)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8.
 - **Cannon:** Throwing; range 15/30/60; Str+d8; AP 2.
@@ -151,6 +158,7 @@ Vigor d10
 **Skills:** Fighting d8, Notice d6, Survival d6, Tracking d6
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -169,6 +177,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (2)
 **Gear:** Masterwork longsword (Str+d8)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -184,6 +193,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 20 (3)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Slam:** Str+d8; Grab.
@@ -212,6 +222,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (3)
 **Gear:** Masterwork heavy pick (Str+d8)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -229,6 +240,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -246,6 +258,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -265,6 +278,7 @@ Vigor d4
 **Skills:** Fighting d4, Notice d4
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 2
 **Special Abilities**
+
 - **Slam:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -285,6 +299,7 @@ Vigor d10
 **Gear:** Net (Throwing; range 3/6/12; Str+d6; Entangle)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -304,6 +319,7 @@ Vigor d12+1
 **Gear:** Halberd (Str+d8; Reach 1")
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -321,6 +337,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 3
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Slam:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -344,6 +361,7 @@ Stealth d4, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -361,6 +379,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -379,6 +398,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -387,4 +407,3 @@ Vigor d10
 - **Fearless:** Immune to fear and Intimidation.
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
 disease, poison, and extra damage from called shots.
-

@@ -1,4 +1,4 @@
-Phasm
+# Phasm
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d12+1, Survival d12+1
 **Edges:** Alertness, Combat Reflexes, Dodge, Improved Dodge, Level
 Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -17,4 +18,3 @@ Headed
 - **Amorphous:** Doesn't suffer additional damage from raises or called
 shots.
 - **Change Form:** Can assume an alternate form as a normal action.
-

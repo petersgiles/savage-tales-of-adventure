@@ -1,4 +1,4 @@
-Brass man
+# Brass man
 
 Brass men are powerful humanoid constructs, built by efreeti to serve
 as guardians and soldiers.
@@ -10,6 +10,7 @@ Vigor d12
 **Gear:** Or large greatsword (Str+d10; Parry -1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,4 +26,3 @@ Agility roll at -2 or suffer 2d8 molten brass damage.
 - **Immunities:** Fire and magic.
 - **Weakness:** Cold (double damage).
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Spikestone guardian
+# Spikestone guardian
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 17 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Spike Volley:** Throwing; range 12/24/48; Str+d6.
@@ -22,4 +23,3 @@ disease, poison, and extra damage from called shots.
 - **Size +4:** Six feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Demons of corruption
+# Demons of corruption
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Fear, Invisibility, Mind Reading, Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Grayish skin.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -34,6 +35,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic), Assassin, Frenzy
 **Powers:** Fear, Invisibility, Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Gray skin.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -60,6 +62,7 @@ d6, Spellcasting d6
 **Powers:** Fear, Invisibility, Mind Reading, Obscure (darkness), Summon
 Ally
 **Special Abilities**
+
 - **Armour +2:** Sickly flesh.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -76,4 +79,3 @@ creatures.
 - **Resistances:** -2 damage from acid, cold and fire.
 - **Spit Slime:** Make a Vigor roll or suffer a level of Fatigue.
 - **Size -1:** Four feet tall; Toughness -1.
-

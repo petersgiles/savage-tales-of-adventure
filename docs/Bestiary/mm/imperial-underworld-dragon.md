@@ -1,4 +1,4 @@
-Imperial underworld dragon
+# Imperial underworld dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Stealth d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 5 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Adamantine Claws:** Str.
@@ -30,6 +31,7 @@ Stealth d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Adamantine Claws:** Str+d4.
@@ -51,6 +53,7 @@ Stealth d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Fear
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Adamantine Claws:** Str+d4.
@@ -73,6 +76,7 @@ Stealth d12+1, Spellcasting d8
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic), Elemental
 Manipulation (earth), Fear
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Adamantine Claws:** Str+d4.
@@ -97,6 +101,7 @@ d12+1, Stealth d12+1, Spellcasting d8
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic), Elemental
 Manipulation (earth), Fear, Lower Trait (Strength)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -126,6 +131,7 @@ d12+1, Stealth d12+1, Spellcasting d10
 **Powers:** Bolt (magic missile), Detect Arcana (sense magic), Elemental
 Manipulation (earth), Fear, Lower Trait (Strength)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -156,6 +162,7 @@ d12+2, Stealth d12+2, Spellcasting d10
 Arcana (sense magic), Elemental Manipulation (earth), Fear, Lower Trait
 (Strength)
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -186,6 +193,7 @@ d12+3, Stealth d12+1, Spellcasting d12
 (displacement), Detect Arcana (sense magic), Elemental Manipulation
 (earth), Fear, Lower Trait (Strength)
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -216,6 +224,7 @@ d12+4, Stealth d12+1, Spellcasting d12
 (displacement), Detect Arcana (sense magic), Elemental Manipulation
 (earth), Fear, Lower Trait (Strength), Stun (daze)
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -246,6 +255,7 @@ d12+4, Stealth d12+2, Spellcasting d12
 (displacement), Detect Arcana (sense magic), Elemental Manipulation
 (earth), Fear, Lower Trait (Strength), Stun (daze)
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -276,6 +286,7 @@ d12+6, Repair d12+6, Stealth d12+2, Spellcasting d12
 (displacement), Detect Arcana (sense magic), Elemental Manipulation
 (earth), Fear, Lower Trait (Strength), Stun (daze)
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -306,6 +317,7 @@ d12+6, Repair d12+6, Stealth d12+2, Spellcasting d12
 (displacement), Detect Arcana (sense magic), Elemental Manipulation
 (earth), Fear, Lower Trait (Strength), Stun (daze)
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Adamantine Claws:** Str+d8.
@@ -323,4 +335,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

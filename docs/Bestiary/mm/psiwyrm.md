@@ -1,4 +1,4 @@
-Psiwyrm
+# Psiwyrm
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Headed, Strong Willed
 **Powers:** Bolt (mind thrust), Detect Arcana (sense psionics)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -24,4 +25,3 @@ against offensive magic.
 Agility roll at -2 or suffer 2d8 force damage.
 - **Immunities:** Sleep and paralysis.
 - **Size +3:** Fifteen feet long; Toughness +3.
-

@@ -1,4 +1,4 @@
-Primate
+# Primate
 
 The baboon is a type of monkey with a long muzzle, thick fur, a short
 tail and protruding buttocks.
@@ -8,6 +8,7 @@ Vigor d8
 **Skills:** Fighting d6, Climbing d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -1:** Three feet tall; Toughness -1.
@@ -21,6 +22,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6
 **Edges:** Alertness
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -37,6 +39,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -56,6 +59,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -78,6 +82,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Gray fur.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -96,6 +101,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -117,6 +123,7 @@ d12+1, Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Acid.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -135,6 +142,7 @@ Vigor d8
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -152,6 +160,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 3
 **Gear:** Bite melee (Str+d4)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
@@ -169,6 +178,7 @@ Climbing d10, Notice d6, Innate Powers d12
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
@@ -183,6 +193,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -191,4 +202,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Hardy:** A second Shaken result doesn't become a wound.
-

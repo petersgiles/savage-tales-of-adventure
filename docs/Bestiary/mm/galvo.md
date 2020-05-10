@@ -1,4 +1,4 @@
-Galvo
+# Galvo
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Shooting d12+1
 **Gear:** Eel dart (Shooting; range 3/6/12; 2d4; Electricity)
 **Edges:** Combat Reflexes, Dodge, Marksman
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Electricity.
 - **Slams:** Str+d4; Electricity.
@@ -20,4 +21,3 @@ Shooting d12+1
 - **Amphibious:** Swimming Pace of 12", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Immunity:** Electricity.
-

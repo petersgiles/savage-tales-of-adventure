@@ -1,4 +1,4 @@
-Missing lynx
+# Missing lynx
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7
 **Edges:** Dodge
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,4 +26,3 @@ raise on an opposed Strength roll to escape.
 to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

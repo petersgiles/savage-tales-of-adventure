@@ -1,4 +1,4 @@
-Vampiric mist
+# Vampiric mist
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 7
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Touch:** Str+d4; Bleed; Blood Siphon.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 8" and Climb 3.
@@ -17,4 +18,3 @@ shots.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

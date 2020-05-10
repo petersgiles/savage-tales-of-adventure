@@ -1,4 +1,4 @@
-Strangle weed
+# Strangle weed
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d6, Stealth d4, Swimming d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ and extra damage from called shots.
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
 - **Resistance:** -2 damage from fire.
 - **Size +2:** Ten feet long; Toughness +2.
-

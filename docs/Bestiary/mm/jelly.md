@@ -1,4 +1,4 @@
-Jelly
+# Jelly
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -29,6 +30,7 @@ d12+2
 **Skills:** Fighting d6, Climbing d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -54,6 +56,7 @@ d12+2
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid; Paralysis.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -77,6 +80,7 @@ Vigor d8
 **Skills:** Fighting d6, Climbing d12, Stealth d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Slam:** Str+d4; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -99,6 +103,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 9 (1)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tendrils:** Str+d4; Reach 1"; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -110,4 +115,3 @@ surfaces with Pace 5".
 shots.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
-

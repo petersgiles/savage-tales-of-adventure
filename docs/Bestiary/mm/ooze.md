@@ -1,4 +1,4 @@
-Ooze
+# Ooze
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Hindrances:** Small (M)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -31,6 +32,7 @@ Spellcasting d10
 Strong Willed
 **Powers:** Armor, Dispel, Mind Reading, Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles Touch:** Str; Electricity; Neural Pulse.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -51,6 +53,7 @@ Vigor d12
 **Skills:** Fighting d10, Climbing d12
 **Charisma:** -; **Pace:** 4; **Parry:** 7; **Toughness:** 11 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Entrap.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -76,6 +79,7 @@ Vigor d12+2
 **Charisma:** +4; **Pace:** -; **Parry:** 6; **Toughness:** 14
 **Edges:** Dodge, Improved Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Disintegrating Touch:** Str+d8; Dc.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -97,6 +101,7 @@ Vigor d12+3
 **Skills:** Fighting d4, Swimming d6
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 9
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -116,6 +121,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Acid; Constrict.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -138,6 +144,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -158,6 +165,7 @@ Vigor d12+3
 **Skills:** Fighting d8, Climbing d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Energy Drain.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -181,6 +189,7 @@ Vigor d12+4
 **Skills:** Fighting d12+1, Climbing d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 20 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8; Energy Drain.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -206,6 +215,7 @@ Vigor d10
 **Skills:** Fighting d4, Climbing d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -226,6 +236,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 6
 **Edges:** Dodge
 **Special Abilities**
+
 - **Slam:** Str; Acid Damage.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -249,6 +260,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Cold.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -272,6 +284,7 @@ Vigor d12+1
 **Skills:** Fighting d6, Swimming d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (3)
 **Special Abilities**
+
 - **Armour +3:** Rancid flesh.
 - **Slam:** Str+d6; Constrict; Nausea.
 - **Create Spawn:** Anything slain by this creature is doomed to become
@@ -296,6 +309,7 @@ Vigor d12+3
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 9
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -316,6 +330,7 @@ Vigor d12+3
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Confusion
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -333,6 +348,7 @@ d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 13
 **Special Abilities**
+
 - **Touch:** Str+d8; Negative Energy.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -353,6 +369,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Climbing d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 13
 **Special Abilities**
+
 - **Slam:** Str+d8; Constrict; Burn.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -383,6 +400,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Smite (Good)
 **Special Abilities**
+
 - **Slam:** Str+d8; Fire; Constrict; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -415,6 +433,7 @@ d12+2
 **Skills:** Fighting d4, Climbing d10
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Mercury Poisoning; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -436,6 +455,7 @@ Vigor d12+3
 **Skills:** Fighting d6, Climbing d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid; Poison.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -457,6 +477,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 19
 **Gear:** D (Throwing; range 3/6/12; Str+d6; Electricity; Fire)
 **Special Abilities**
+
 - **Slam:** Str+d8; Electricity; Fire; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Split:** If hit with a raise by a slashing weapon, this creature
@@ -493,6 +514,7 @@ d12+5, Swimming d12+2
 **Edges:** Combat Reflexes, Frenzy, Improved Frenzy, Level Headed,
 Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -534,6 +556,7 @@ Innate Powers d8
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -555,6 +578,7 @@ Innate Powers d8
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -576,6 +600,7 @@ Innate Powers d8
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -597,6 +622,7 @@ Swimming d4, Innate Powers d8
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -618,6 +644,7 @@ d8
 **Skills:** Fighting d6, Climbing d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13
 **Special Abilities**
+
 - **Slam:** Str+d8; Cold.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -646,6 +673,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 12
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Slam:** Str+d6; Energy Drain; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Create Spawn:** Anything slain by this creature is doomed to become
@@ -679,6 +707,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Stealth d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -703,6 +732,7 @@ Vigor d12+3
 **Skills:** Fighting d10, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 13 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d6; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -721,4 +751,3 @@ shots.
 - **Immunities:** Acid, fire, sleep, poison, shapechanging, paralysis,
 Gang Up bonuses and mind-affecting effects.
 - **Size +3:** Increases Toughness by +3.
-

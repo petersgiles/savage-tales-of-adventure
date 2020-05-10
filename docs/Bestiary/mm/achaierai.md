@@ -1,4 +1,4 @@
-Achaierai
+# Achaierai
 
 The achaierai is a massive flightless bird, with four legs and tiny
 atrophied wings covered with thick, oily plumage.
@@ -10,6 +10,7 @@ d12
 **Charisma:** +1; **Pace:** 8; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +2:** Oily feathers.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -19,4 +20,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Size +2:** Fifteen feet tall; Toughness +2.
-

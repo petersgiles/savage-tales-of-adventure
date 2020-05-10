@@ -1,4 +1,4 @@
-Tavi (mongoose folk)
+# Tavi (mongoose folk)
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d8, Survival d4, Tracking d6, Throwing d4
 **Gear:** Sling stone (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Size -1:** Reduces Toughness by -1.
-

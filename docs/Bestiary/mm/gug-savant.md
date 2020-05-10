@@ -1,4 +1,4 @@
-Gug savant
+# Gug savant
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Survival d12+2, Spellcasting d6
 **Edges:** Arcane Background (Magic), Combat Reflexes
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -20,4 +21,3 @@ surfaces with Pace 5".
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

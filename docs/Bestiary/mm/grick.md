@@ -1,4 +1,4 @@
-Grick
+# Grick
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1".
@@ -27,6 +28,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1".
@@ -37,4 +39,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Very Tough:** +1 Toughness.
-

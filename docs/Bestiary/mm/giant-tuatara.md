@@ -1,4 +1,4 @@
-Giant tuatara
+# Giant tuatara
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8, Swimming d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Hard scales.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Burrow:** Can burrow and reappear within 4".
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +3:** Ten feet long; Toughness +3.
-

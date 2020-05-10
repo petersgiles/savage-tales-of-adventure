@@ -1,4 +1,4 @@
-Krenshar
+# Krenshar
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Tracking d6
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Skin.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -16,4 +17,3 @@ Tracking d6
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
-

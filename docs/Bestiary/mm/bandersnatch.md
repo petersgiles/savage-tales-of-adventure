@@ -1,4 +1,4 @@
-Bandersnatch
+# Bandersnatch
 
 The bandersnatch looks like a great cat with six legs and big
 luminous eyes, and its body and tail are covered with barbed quills.
@@ -10,6 +10,7 @@ Survival d4, Tracking d12+3, Throwing d12+1
 **Charisma:** +4; **Pace:** 9; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -44,6 +45,7 @@ Survival d4, Tracking d12+3, Throwing d12+1
 **Charisma:** +4; **Pace:** 9; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8; Poison.
@@ -80,6 +82,7 @@ Survival d4, Tracking d12+3, Throwing d12+1
 **Charisma:** +4; **Pace:** 9; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -115,6 +118,7 @@ Survival d4, Tracking d12+3, Throwing d12
 **Charisma:** +1; **Pace:** 9; **Parry:** 8; **Toughness:** 18 (4)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -149,6 +153,7 @@ Survival d4, Tracking d12+3, Throwing d12+1
 **Charisma:** +4; **Pace:** 9; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -183,6 +188,7 @@ Survival d6, Tracking d12+4, Throwing d12+1
 **Charisma:** +4; **Pace:** 9; **Parry:** 9; **Toughness:** 25 (5)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -208,4 +214,3 @@ resist.
 - **Size +10:** Forty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Dryad
+# Dryad
 
 No description for this creature yet.
 
@@ -12,7 +12,7 @@ d10, Repair d10, Stealth d12, Survival d8, Shooting d4, Faith d10
 **Edges:** Arcane Background (Miracles), Beast Master
 **Powers:** Entangle, Puppet, Puppet (living humanoids only), Slumber
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

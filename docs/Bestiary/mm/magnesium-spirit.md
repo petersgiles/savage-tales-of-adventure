@@ -1,4 +1,4 @@
-Magnesium spirit
+# Magnesium spirit
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Stealth d10, Survival d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 8
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Incorporeal Tail Slap:** Str+d4; Str Damage.
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -18,4 +19,3 @@ against offensive magic.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Weakness:** Water.
-

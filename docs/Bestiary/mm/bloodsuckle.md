@@ -1,4 +1,4 @@
-Bloodsuckle
+# Bloodsuckle
 
 Bloodsuckles are semi-intelligent carnivorous plants that use
 vine-like tendrils to consume the blood of the unwary. They also inject
@@ -13,6 +13,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tendrils:** Str+d6; Reach 1"; Grab; Create Host.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -25,4 +26,3 @@ fall under this creature's control, like the Puppet power with a
 telepathy trapping and unlimited duration. Bonuses to resist poison aid
 in this roll.
 - **Size +2:** Increases Toughness by +2.
-

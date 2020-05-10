@@ -1,4 +1,4 @@
-Ngoga
+# Ngoga
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -16,4 +17,3 @@ Vigor d12
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 7".
 - **Size +3:** Increases Toughness by +3.
-

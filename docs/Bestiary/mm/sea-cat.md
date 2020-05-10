@@ -1,4 +1,4 @@
-Sea cat
+# Sea cat
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Natural Swimmer:** Swimming Pace of 7", and +2 to resist drowning.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Size +2:** Twelve feet long; Toughness +2.
-

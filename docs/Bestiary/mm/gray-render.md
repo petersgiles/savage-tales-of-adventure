@@ -1,4 +1,4 @@
-Gray render
+# Gray render
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d12+2
 **Skills:** Fighting d8, Notice d10, Survival d6, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 16 (3)
 **Special Abilities**
+
 - **Armour +3:** Hairless skin.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 - **Size +4:** Nine feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

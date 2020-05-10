@@ -1,4 +1,4 @@
-Tabaxi
+# Tabaxi
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d4, Throwing d6
 **Gear:** Javelin (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

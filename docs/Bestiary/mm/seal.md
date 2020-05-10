@@ -1,4 +1,4 @@
-Seal
+# Seal
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d6
 **Skills:** Fighting d4-2, Notice d6, Swimming d10
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Natural Swimmer:** Swimming Pace of 9", and +2 to resist drowning.
@@ -20,6 +21,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8, Tracking d8, Swimming d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -36,6 +38,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d8, Tracking d8, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -54,6 +57,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 15 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tusks:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -68,4 +72,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Polevik
+# Polevik
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Repair d12+1, Stealth d12+1, Survival d8, Swimming d8, Throwing d6
 **Gear:** Puffballs (Throwing; range 3/6/12; Str+d6; Disease)
 **Edges:** Alertness, Marksman, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ Repair d12+1, Stealth d12+1, Survival d8, Swimming d8, Throwing d6
 - **Immunities:** Disease and poison.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size -1:** Four feet tall; Toughness -1.
-

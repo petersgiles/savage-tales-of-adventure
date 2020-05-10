@@ -1,4 +1,4 @@
-Giant falcon
+# Giant falcon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Talons:** Str+d6.
 - **Bite:** Str+d6.
@@ -17,4 +18,3 @@ Vigor d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 11" and Climb 0.
 - **Size +2:** Nine feet tall; Toughness +2.
-

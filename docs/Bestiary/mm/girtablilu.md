@@ -1,4 +1,4 @@
-Girtablilu
+# Girtablilu
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ spear (Throwing; range 3/6/12; Str+d6)
 Headed, Quick
 **Powers:** Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ that's in contact with the ground.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
 that, they require a raise on an opposed Strength roll to escape.
 - **Size +2:** Thirteen feet long; Toughness +2.
-

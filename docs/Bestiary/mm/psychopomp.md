@@ -1,4 +1,4 @@
-Psychopomp
+# Psychopomp
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Frenzy, Level Headed, Quick
 **Powers:** Invisibility, Mind Reading (speak with dead), Obscure
 (illusion), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,6 +40,7 @@ d12+3, Stealth d12+4, Spellcasting d12
 Invisibility, Intangibility (gaseous form), Mind Reading (speak with
 dead), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -68,6 +70,7 @@ Frenzy, Level Headed, Strong Willed
 (see invisibility), Dispel, Healing, Invisibility, Mind Reading, Mind
 Reading (speak with dead), Summon Ally
 **Special Abilities**
+
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -93,6 +96,7 @@ d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Invisibility, Mind Reading (speak with dead)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -119,6 +123,7 @@ Lock)
 **Powers:** Banish (plane shift self), Detect Arcana (sense magic),
 Healing, Invisibility, Intangibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -143,6 +148,7 @@ d10, Spellcasting d8
 **Edges:** Arcane Background (Magic), Sweep
 **Powers:** Lower Trait (curse), Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -167,6 +173,7 @@ Stealth d8
 **Gear:** Quill (Str+d6; Censor or Expurgate)
 **Edges:** Alertness, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -194,6 +201,7 @@ Dodge, Improved Dodge, Level Headed, Quick, Strong Willed
 Language, Summon Ally, Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Feathers.
 - **Bite:** Str+d8; Grab; Poison.
 - **Claws:** Str+d8.
@@ -218,4 +226,3 @@ Agility roll at -2 or suffer 2d10 damage.
 - **Size +7:** Thirty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

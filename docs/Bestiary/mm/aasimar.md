@@ -17,4 +17,3 @@ Persuasion d8, Faith d12
 
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistances:** -1 damage from acid, cold and electricity.
-

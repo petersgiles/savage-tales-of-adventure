@@ -1,4 +1,4 @@
-Devil lord
+# Devil lord
 
 No description for this creature yet.
 
@@ -16,6 +16,7 @@ Kill, Level Headed, Quick, Sweep, Improved Sweep, Strong Willed
 Reading, Obscure (illusion), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Poison; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -56,6 +57,7 @@ Improved Sweep, Strong Willed
 invisibility), Dispel, Fear, Invisibility, Puppet, Speak Language,
 Summon Ally, Summon Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +5:** Brownish-black fur.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,6 +94,7 @@ magic), Detect Arcana (see invisibility), Disguise (illusion), Dispel,
 Flight (wind walk), Invisibility, Puppet, Speak Language, Summon Ally,
 Summon Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -125,6 +128,7 @@ Improved Sweep, Strong Willed
 Dispel, Invisibility, Puppet, Slumber, Speak Language, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -156,6 +160,7 @@ Headed, Quick, Strong Willed
 Fear, Invisibility, Mind Reading, Speak Language, Summon Ally, Summon
 Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -185,6 +190,7 @@ Improved Sweep, Strong Willed
 (see invisibility), Dispel, Entangle, Invisibility, Puppet, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Amber skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Invisible:** Enemies suffer -4 to their attacks.
@@ -216,6 +222,7 @@ Confusion (hypnotic pattern), Deflection (displacement), Detect Arcana
 (phantasmal killer), Lower Trait (curse), Invisibility, Obscure
 (darkness), Puppet, Speak Language, Stun (daze), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Sting:** Str+d8; Poison.
@@ -257,6 +264,7 @@ magic), Detect Arcana (see invisibility), Dispel, Invisibility, Puppet,
 Speak Language, Summon Ally, Summon Ally (skeletons and zombies),
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Fur.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -295,6 +303,7 @@ Improved Sweep, Strong Willed
 (Strength), Invisibility, Puppet, Speak Language, Summon Ally, Summon
 Ally (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +4:** Dark flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -328,6 +337,7 @@ magic), Detect Arcana (see invisibility), Dispel, Entangle,
 Invisibility, Puppet, Summon Ally, Summon Ally (skeletons and zombies),
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -357,6 +367,7 @@ d12+10, Repair d12+4, Stealth d12+9, Spellcasting d12
 **Powers:** Banish, Disguise (shapechange), Dispel, Invisibility,
 Puppet, Puppet (living humanoids only), Speak Language, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -398,6 +409,7 @@ Invisibility, Mind Reading, Obscure (darkness), Obscure (fog cloud),
 Puppet, Slumber, Speak Language, Stun (daze), Summon Ally, Summon Ally
 (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -441,6 +453,7 @@ Manipulation (water), Fear, Invisibility, Obscure (fog), Obscure
 (darkness), Puppet, Speak Language, Summon Ally, Summon Ally (skeletons
 and zombies), Teleport
 **Special Abilities**
+
 - **Armour +4:** Dark flesh.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -471,6 +484,7 @@ Willed
 **Powers:** Disguise (shapechange), Puppet, Puppet (living humanoids
 only)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
@@ -492,6 +506,7 @@ Dispel, Lower Trait (curse), Invisibility, Puppet, Puppet (living
 humanoids only), Slumber, Speak Language, Summon Ally, Summon Ally
 (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -528,6 +543,7 @@ Mind Reading, Pummel (wind), Puppet, Puppet (living humanoids only),
 Quickness, Slumber, Stun (daze), Summon Ally, Summon Ally (skeletons and
 zombies), Teleport, Wall Walker
 **Special Abilities**
+
 - **Armour +4:** Blackish-brown flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -546,4 +562,3 @@ resist.
 - **Size +4:** Thirteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

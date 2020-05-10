@@ -1,4 +1,4 @@
-Solifugid
+# Solifugid
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12
 **Skills:** Fighting d6, Climbing d10, Notice d6, Stealth d6
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -26,6 +27,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d8, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,4 +37,3 @@ Vigor d10
 surfaces with Pace 6".
 - **Immunity:** Mind-affecting effects.
 - **Size -1:** Reduces Toughness by -1.
-

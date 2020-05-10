@@ -1,4 +1,4 @@
-Ghoul
+# Ghoul
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 d4
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Pallid flesh.
 - **Bite:** Str+d4; Disease; Paralysis.
 - **Claws:** Str+d4; Paralysis.
@@ -28,6 +29,7 @@ d8
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Disease; Paralysis.
 - **Claws:** Str+d4; Paralysis.
@@ -47,6 +49,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Decayed flesh.
 - **Bite:** Str+d6; Disease; Paralysis.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -69,6 +72,7 @@ d10
 **Charisma:** +4; **Pace:** -; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Burnt flesh.
 - **Slam:** Str+d6; Fire; Burn; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -91,6 +95,7 @@ Knowledge (Religion) d8, Stealth d12, Tracking d10
 **Gear:** Leather armour (+1)
 **Edges:** Assassin, Combat Reflexes, Dodge, Thief
 **Special Abilities**
+
 - **Bite:** Str+d4; Paralysis.
 - **Claws:** Str+d4; Paralysis.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -120,6 +125,7 @@ d12+1, Knowledge (Planes) d10, Stealth d12+1
 **Charisma:** +1; **Pace:** 7; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Decaying flesh.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -143,6 +149,7 @@ Vigor d10
 d6
 **Charisma:** +4; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Disease; Paralysis.
 - **Claws:** Str+d4; Paralysis.
@@ -160,6 +167,7 @@ d6
 **Skills:** Fighting d6, Notice d10, Stealth d10, Tracking d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Drawn skin.
 - **Bite:** Str+d4; Paralysis.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -182,6 +190,7 @@ d10
 d8, Swimming d6
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Dark fur.
 - **Bite:** Str+d4; Paralysis; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -204,6 +213,7 @@ Vigor d12+1
 d12
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 17 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d10; Paralysis; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -222,4 +232,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

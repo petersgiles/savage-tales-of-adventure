@@ -1,4 +1,4 @@
-Scorrow
+# Scorrow
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Survival d12, Throwing d8
 chakram (Throwing; range 3/6/12; Str+d4; Poison)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ against offensive magic.
 inflict lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

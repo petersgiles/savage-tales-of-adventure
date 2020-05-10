@@ -1,4 +1,4 @@
-Urdefhan
+# Urdefhan
 
 No description for this creature yet.
 
@@ -13,10 +13,10 @@ longbow (Shooting; range 15/30/60; 2d6)
 **Edges:** Arcane Background (Miracles), Strong Willed
 **Powers:** Flight (feather fall), Lower Trait (Strength)
 **Special Abilities**
+
 - **Bite:** Str+d4; Str.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Arcane Resistance:** +2 to resist opposed magic, and +2 armour
 against offensive magic.
 - **Immunities:** Disease, fear and death magic.
 - **Resistance:** -2 damage from acid.
-

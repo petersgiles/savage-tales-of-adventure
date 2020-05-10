@@ -1,4 +1,4 @@
-Derhii
+# Derhii
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Throwing d6
 Str+d6)
 **Edges:** Combat Reflexes, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Size +3:** Nine feet tall; Toughness +3.
-

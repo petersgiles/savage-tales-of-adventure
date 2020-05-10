@@ -1,4 +1,4 @@
-Sepulchral guardian
+# Sepulchral guardian
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 11 (3)
 **Gear:** Longsword (Str+d8)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ against offensive magic.
 - **Immunities:** Fire and cold.
 - **Resistances:** -2 damage from acid and electricity.
 - **Disease:** Make a Vigor roll or become afflicted.
-

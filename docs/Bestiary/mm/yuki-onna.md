@@ -1,4 +1,4 @@
-Yuki-onna
+# Yuki-onna
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Stealth d12, Survival d12, Spellcasting d12
 Level Headed
 **Powers:** Blast (ice storm), Deflection (blur)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
@@ -23,4 +24,3 @@ roll to resist.
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Chilling Touch:** Make a Vigor roll or suffer a level of Fatigue.
-

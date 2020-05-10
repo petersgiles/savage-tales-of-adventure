@@ -1,4 +1,4 @@
-Boruta
+# Boruta
 
 Boruta appear to be humanoid skeletons covered in moss and ivy, with
 roots and vines spilling from their ribcage and coiling around their
@@ -17,6 +17,7 @@ magic), Elemental Manipulation (water), Entangle (plant growth), Obscure
 (fog cloud), Puppet (plants only), Summon Ally (animals and elementals),
 Shape Change
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Grounding Curse.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ Shape Change
 and extra damage from called shots.
 - **Immunity:** Electricity.
 - **Grounding Curse:** Make a Vigor roll or suffer a level of Fatigue.
-

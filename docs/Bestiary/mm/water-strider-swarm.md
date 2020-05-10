@@ -1,4 +1,4 @@
-Water strider swarm
+# Water strider swarm
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Notice d6, Swimming d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
 that's in contact with the ground.
@@ -19,4 +20,3 @@ that's in contact with the ground.
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
 - **Immunity:** Mind-affecting effects.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
-

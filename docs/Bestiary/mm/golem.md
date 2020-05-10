@@ -1,4 +1,4 @@
-Golem
+# Golem
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 10; **Toughness:** 23 (6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -30,6 +31,7 @@ Vigor d12+1
 **Gear:** Bomb (Throwing; range 3/6/12; Str+d6; Energy Damage)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Alchemy.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -52,6 +54,7 @@ Vigor d12+1
 **Gear:** Bomb (Throwing; range 3/6/12; Str+d6; Energy Damage)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Alchemy.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -72,6 +75,7 @@ Vigor d12+5
 **Skills:** Fighting d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 9; **Toughness:** 34 (7)
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Tusks:** Str+d8.
 - **Slams:** Str+d8.
@@ -95,6 +99,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Slams:** Str+d6.
@@ -117,6 +122,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Magic)
 **Powers:** Detect Arcana (see invisibility), Invisibility
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slam:** Str+d8; Fire.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -143,6 +149,7 @@ d12+4, Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 17 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Cannon:** Throwing; range 15/30/60; Str+d8; AP 2.
@@ -165,6 +172,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Rotting flesh.
 - **Slams:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -190,6 +198,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Molded flesh.
 - **Slams:** Str+d8; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -219,6 +228,7 @@ Vigor d10
 **Edges:** Arcane Background (Super Powers), Frenzy
 **Powers:** Disguise (impersonate master)
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Slams:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -244,6 +254,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -271,6 +282,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 11 (4)
 **Gear:** Masterwork adamantine scythe (Str+d8)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -288,6 +300,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 15 (4)
 **Edges:** Berserk, Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d6; Cursed Wound.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -309,6 +322,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 16 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -334,6 +348,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 14 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -355,6 +370,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 14 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Stun.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -374,6 +390,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (3)
 **Edges:** Berserk, Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -393,6 +410,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (3)
 **Edges:** Berserk, Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -413,6 +431,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Berserk, Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6; Rend.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -434,6 +453,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 10 (3)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -452,6 +472,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 19 (4)
 **Edges:** Combat Reflexes, Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bites:** Str+d8; Petrification.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -474,6 +495,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 22 (5)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8; Fire; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -502,6 +524,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 15 (3)
 **Edges:** Frenzy, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Acid; Paralysis.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -527,6 +550,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -549,6 +573,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -572,6 +597,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 18 (5)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -596,6 +622,7 @@ Vigor d12+2
 **Gear:** Arrows of wrath (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -617,6 +644,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 16 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -640,6 +668,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Dexterity Damage.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -660,6 +689,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Negative Energy.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -682,6 +712,7 @@ d10
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed, Quick
 **Powers:** Detect Arcana (see invisibility), Invisibility
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -699,6 +730,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 8; **Parry:** 9; **Toughness:** 21 (4)
 **Edges:** Dodge, Improved Dodge, Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -721,6 +753,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 10 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d4; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -742,6 +775,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 7; **Parry:** 9; **Toughness:** 23 (5)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8; Spell Sunder.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -764,6 +798,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 14 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Acid.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -789,6 +824,7 @@ Vigor d12+4
 **Charisma:** -; **Pace:** 5; **Parry:** 10; **Toughness:** 27 (7)
 **Gear:** Bastard sword (Str+d8)
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -809,6 +845,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -830,6 +867,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 16 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -851,6 +889,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -870,6 +909,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -890,6 +930,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Skin.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -908,6 +949,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -926,6 +968,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 16 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Human skin.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -947,6 +990,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -959,4 +1003,3 @@ disease, poison, and extra damage from called shots.
 Agility roll at -2 or suffer 2d6 splinters damage.
 - **Immunity:** Magic.
 - **Weakness:** Fire (double damage).
-

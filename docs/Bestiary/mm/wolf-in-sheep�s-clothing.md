@@ -1,4 +1,4 @@
-Wolf-in-sheep�s-clothing
+# Wolf-in-sheep�s-clothing
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6, Stealth d8
 **Edges:** Ambidextrous, Level Headed, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Constrict; Pull.
@@ -24,4 +25,3 @@ surfaces with Pace 1".
 bonuses.
 - **Pull:** On a raise, the victim can be automatically moved adjacent
 to this creature as if pushed.
-

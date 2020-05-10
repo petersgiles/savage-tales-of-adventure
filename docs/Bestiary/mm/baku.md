@@ -1,4 +1,4 @@
-Baku
+# Baku
 
 The baku looks like a floating animal with brown fur, tusks, and a
 trunk. It feeds on dreams and nightmares.
@@ -13,6 +13,7 @@ Strong Willed
 **Powers:** Invisibility, Intangibility, Slumber, Voice on the Wind
 (dream message)
 **Special Abilities**
+
 - **Dream Claws:** Str+d4.
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ Strong Willed
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Flight:** Flying Pace of 9" and Climb 3.
 - **Immunities:** Sleep and mind-affecting effects.
-

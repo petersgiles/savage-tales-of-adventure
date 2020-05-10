@@ -1,4 +1,4 @@
-Iku-turso
+# Iku-turso
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Charisma:** +2; **Pace:** 5; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes, Dodge, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Disease.
 - **Claws:** Str+d4.
@@ -19,4 +20,3 @@ d12
 breathe air and survive indefinitely on land.
 - **Immunity:** Disease.
 - **Disease:** Make a Vigor roll or become afflicted.
-

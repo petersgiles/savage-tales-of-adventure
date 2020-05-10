@@ -1,4 +1,4 @@
-Living spell
+# Living spell
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d6
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Slam:** Str+d4; Spell Effect.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -27,6 +28,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8
 **Special Abilities**
+
 - **Slam:** Str+d6; Spell Effect.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -48,6 +50,7 @@ Vigor d12+1
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 13 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d8; Spell Effect.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -72,6 +75,7 @@ Vigor d12+3
 **Skills:** Fighting d10
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 18 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d8; Spell Effect.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -96,6 +100,7 @@ Vigor d12+3
 **Skills:** Fighting d12
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 18 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d8; Spell Effect.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -112,4 +117,3 @@ bonuses.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

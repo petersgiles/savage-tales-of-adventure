@@ -1,4 +1,4 @@
-Draug
+# Draug
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6, Swimming d12+1
 **Gear:** Cutlass (Str+d8)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Rotting flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Resistance:** -2 damage from fire.
-

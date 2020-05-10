@@ -1,4 +1,4 @@
-Orc
+# Orc
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Gear:** Studded leather armour (+1), falchion (Str+d8), javelin
 (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 **Black orc**
@@ -21,6 +22,7 @@ d8
 **Gear:** Scale mail (+2), longspear (Str+d6; Reach 1"; Parry +1),
 light crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 **Blood orc**
 No description for this creature yet.
@@ -32,6 +34,7 @@ d8
 **Gear:** Chainmail shirt (+2), greataxe (Str+d10; Parry -1), javelin
 (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -49,6 +52,7 @@ d8
 composite shortbow (Shooting; range 12/24/48; 2d6; Str)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 - **Very Tough:** +1 Toughness.
@@ -62,6 +66,7 @@ d8
 **Gear:** Studded leather armour (+1), greataxe (Str+d10; Parry -1),
 shortbow (Shooting; range 12/24/48; 2d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 **Greenskin orc**
@@ -76,6 +81,7 @@ d6
 (Shooting; range 15/30/60; 2d6; Str)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -91,6 +97,7 @@ d10
 **Gear:** Platemail (+3), helmet (+3), greataxe (Str+d10; Parry -1),
 javelin (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Very Tough:** +1 Toughness.
 **Orc worg rider**
@@ -104,6 +111,7 @@ d8
 shortbow (Shooting; range 12/24/48; 2d6)
 **Edges:** Brave
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 **❄Orc barbarian**
@@ -118,6 +126,7 @@ Knowledge (Nature) d6, Survival d6, Swimming d8, Throwing d6
 3/6/12; Str+d6)
 **Edges:** Berserk, Sweep
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 **❄Orc berserker**
@@ -131,6 +140,7 @@ d12
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
@@ -145,6 +155,7 @@ d12+1
 (Shooting; range 15/30/60; 2d6)
 **Edges:** Berserk, Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
@@ -163,6 +174,7 @@ masterwork light crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 Arcana (sense magic), Elemental Manipulation (water), Lower Trait
 (curse), Mind Reading (speak with dead)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 **❄Orc shaman**
 No description for this creature yet.
@@ -177,6 +189,7 @@ d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Boost Trait (bless), Elemental Manipulation (water), Fear
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 **❄Orc warlord**
@@ -191,8 +204,8 @@ d6
 Str+d6)
 **Edges:** Brave, Command, Dodge
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fast Runner:** Roll d8 when running instead of d6.
 - **Weakness:** Light sensitive.
 - **Very Tough:** +1 Toughness.
-

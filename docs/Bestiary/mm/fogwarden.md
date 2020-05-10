@@ -1,4 +1,4 @@
-Fogwarden
+# Fogwarden
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d8
 **Powers:** Summon Ally (skeletons and zombies)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Gaseous Form:** Can change form as a free action, in gaseous form
 the creature gains the Ethereal and Flight monstrous abilities.
@@ -19,4 +20,3 @@ the creature gains the Ethereal and Flight monstrous abilities.
 - **Flight:** Flying Pace of 7" and Climb 2.
 - **Immunities:** Electricity, cold and poison.
 - **Weakness:** Vulnerable to sunlight.
-

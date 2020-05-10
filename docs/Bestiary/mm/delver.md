@@ -1,4 +1,4 @@
-Delver
+# Delver
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 20 (3)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Callused flesh.
 - **Slam:** Str+d8; Corrosive Slime.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ Vigor d12+2
 - **Size +7:** Fifteen feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

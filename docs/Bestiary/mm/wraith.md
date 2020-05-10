@@ -1,4 +1,4 @@
-Wraith
+# Wraith
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** +4; **Pace:** -; **Parry:** 4; **Toughness:** 7
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -35,6 +36,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Energy Drain; Rend Faith.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -56,6 +58,7 @@ Vigor d6
 **Edges:** Alertness, Combat Reflexes, Dodge, Improved Dodge, Level
 Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d8; Negative Energy; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -83,6 +86,7 @@ d6
 **Charisma:** +4; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -105,6 +109,7 @@ d6, Persuasion d8, Stealth d10
 **Charisma:** +2; **Pace:** -; **Parry:** 4; **Toughness:** 6
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -119,4 +124,3 @@ bleeding and death magic.
 - **Weakness:** Powerless in sunlight.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
 - **Size -1:** Reduces Toughness by -1.
-

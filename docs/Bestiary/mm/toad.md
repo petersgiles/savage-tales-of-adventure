@@ -1,4 +1,4 @@
-Toad
+# Toad
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Swimming d6
 **Hindrances:** Small (M)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -29,6 +30,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Skin.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -48,4 +50,3 @@ than the swallower.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Size +2:** Increases Toughness by +2.
-

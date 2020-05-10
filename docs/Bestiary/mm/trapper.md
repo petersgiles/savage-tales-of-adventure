@@ -1,4 +1,4 @@
-Trapper
+# Trapper
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d8, Stealth d8
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 19 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -19,4 +20,3 @@ bonuses.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

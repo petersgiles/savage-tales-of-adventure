@@ -1,4 +1,4 @@
-Lamia
+# Lamia
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8
 **Gear:** Dagger (Str+d4)
 **Edges:** Dodge, Improved Dodge, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Touch:** Str+d6; Wisdom Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -30,6 +31,7 @@ d10, Repair d12, Swimming d10, Faith d10
 Healing, Light (dancing lights), Invisibility, Puppet, Quickness,
 Slumber, Stun (daze), Voice on the Wind (dream message)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -41,4 +43,3 @@ against offensive magic.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Increases Toughness by +2.
-

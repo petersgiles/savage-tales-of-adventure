@@ -1,4 +1,4 @@
-Ningyo
+# Ningyo
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
@@ -21,6 +22,7 @@ d8
 **Charisma:** +1; **Pace:** 4; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -30,4 +32,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Size -1:** 2½ feet long; Toughness -1.
-

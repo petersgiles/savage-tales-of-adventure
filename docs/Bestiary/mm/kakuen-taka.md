@@ -1,4 +1,4 @@
-Kakuen-taka
+# Kakuen-taka
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Intimidation d12+3, Notice d12+5, Stealth d10, Survival d10
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 9
 **Edges:** Dodge, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -25,4 +26,3 @@ creatures.
 - **Dimensional Snare:** Make a Spirit roll or suffer a level of
 Fatigue.
 - **Very Tough:** +1 Toughness.
-

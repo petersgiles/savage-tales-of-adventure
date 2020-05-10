@@ -1,4 +1,4 @@
-Slurk
+# Slurk
 
 No description for this creature yet.
 
@@ -9,9 +9,9 @@ d12
 **Gear:** Slime squirt (Throwing; range 3/6/12; Str+d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
-

@@ -1,4 +1,4 @@
-Fire crab
+# Fire crab
 
 Fire crabs are fairly unaggressive, unless their lair is threatened.
 They live in volcanos or hot springs.
@@ -9,6 +9,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 5 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str; Constrict; Heat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,6 +35,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4; Fire; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -59,6 +61,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Constrict; Heat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -81,6 +84,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Reddish-brown carapace.
 - **Claws:** Str+d6; Fire; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -95,4 +99,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
 - **Immunity:** Fire.
 - **Size +2:** Increases Toughness by +2.
-

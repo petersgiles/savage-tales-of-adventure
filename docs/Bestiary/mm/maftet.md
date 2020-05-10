@@ -1,4 +1,4 @@
-Maftet
+# Maftet
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ d12+1, Spellcasting d6
 **Edges:** Arcane Background (Magic), Combat Reflexes, Two-Fisted
 **Powers:** Armor, Boost Trait (Agility)
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb -1.
 - **Size +1:** Seven feet tall; Toughness +1.
-

@@ -1,4 +1,4 @@
-Phoenix
+# Phoenix
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Dodge, Frenzy, Level Headed, Strong Willed
 magic), Detect Arcana (see invisibility), Dispel, Greater Healing,
 Healing, Invisibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Talons:** Str+d8; Fire.
 - **Bite:** Str+d8; Fire.
@@ -43,6 +44,7 @@ Dodge, Level Headed, Strong Willed
 magic), Detect Arcana (see invisibility), Dispel, Lower Trait (curse),
 Invisibility
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Fire; Electricity.
 - **Talons:** Str+d8; Fire.
@@ -59,4 +61,3 @@ damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

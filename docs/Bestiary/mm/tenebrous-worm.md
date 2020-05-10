@@ -1,4 +1,4 @@
-Tenebrous worm
+# Tenebrous worm
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 10 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -16,4 +17,3 @@ by Banish.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Acid.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
-

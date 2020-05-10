@@ -1,4 +1,4 @@
-Water orm
+# Water orm
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 19 (3)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tail Slap:** Str+d8.
@@ -29,4 +30,3 @@ than the swallower.
 - **Size +7:** Forty-five feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

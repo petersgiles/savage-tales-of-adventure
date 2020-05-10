@@ -1,4 +1,4 @@
-Sylph
+# Sylph
 
 No description for this creature yet.
 
@@ -12,6 +12,6 @@ Stealth d8, Spellcasting d10
 **Edges:** Arcane Background (Magic), Assassin, Dodge, Thief
 **Powers:** Flight (feather fall)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistance:** -1 damage from electricity.
-

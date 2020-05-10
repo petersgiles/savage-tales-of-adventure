@@ -1,4 +1,4 @@
-Gloomwing
+# Gloomwing
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d8, Stealth d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -15,4 +16,3 @@ Vigor d10
 by Banish.
 - **Flight:** Flying Pace of 7" and Climb 2.
 - **Size +2:** Increases Toughness by +2.
-

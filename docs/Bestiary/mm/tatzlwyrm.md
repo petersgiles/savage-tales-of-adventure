@@ -1,4 +1,4 @@
-Tatzlwyrm
+# Tatzlwyrm
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 Stealth d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ to foe.
 surfaces with Pace 6".
 - **Immunities:** Sleep and paralysis.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
-

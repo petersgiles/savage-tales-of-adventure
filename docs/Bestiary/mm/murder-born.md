@@ -1,4 +1,4 @@
-Murder-born
+# Murder-born
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** +1; **Pace:** -; **Parry:** 5; **Toughness:** 6
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -24,4 +25,3 @@ bleeding and death magic.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

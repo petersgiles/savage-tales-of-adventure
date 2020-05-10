@@ -1,4 +1,4 @@
-Eidolon
+# Eidolon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6, Stealth d10
 **Edges:** Ambidextrous, Combat Reflexes, Dodge, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Electricity.
 - **Horns:** Str+d4; Electricity.
@@ -33,6 +34,7 @@ d6, Stealth d12+1
 **Edges:** Ambidextrous, Combat Reflexes, Dodge, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Electricity.
 - **Horns:** Str+d4; Electricity.
@@ -46,4 +48,3 @@ surfaces with Pace 5".
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

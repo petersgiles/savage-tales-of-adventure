@@ -1,4 +1,4 @@
-Poltergeist
+# Poltergeist
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ No description for this creature yet.
 **Edges:** Alertness
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Invisible:** Enemies suffer -4 to their attacks.
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -16,4 +17,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 5" and Climb 3.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

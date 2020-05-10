@@ -1,4 +1,4 @@
-Daughter of the dead
+# Daughter of the dead
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Vigor d12+1
 **Powers:** Deflection (forcefield), Detect Arcana (sense magic), Lower
 Trait (curse)
 **Special Abilities**
+
 - **Armour +2:** Ectoplasmic flesh.
 - **Great Claw:** Str+d8; Disease.
 - **Claw:** Str+d8.
@@ -24,4 +25,3 @@ bleeding and death magic.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

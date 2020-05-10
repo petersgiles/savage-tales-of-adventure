@@ -1,4 +1,4 @@
-Megafauna
+# Megafauna
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 17 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -28,6 +29,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 16 (3)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -48,6 +50,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 20 (3)
 **Edges:** Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -67,6 +70,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 24 (5)
 **Edges:** Hard to Kill, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tail Slap:** Str+d8.
@@ -98,6 +102,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 20 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -119,6 +124,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -139,6 +145,7 @@ d10, Swimming d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -169,6 +176,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Hooves:** Str+d4.
@@ -188,6 +196,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 18 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -209,6 +218,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 22 (3)
 **Edges:** Dodge, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -220,4 +230,3 @@ raise on an opposed Strength roll to escape.
 - **Size +10:** Fifty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Serpentfolk
+# Serpentfolk
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d12
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Deflection (blur), Disguise (illusion), Puppet
 **Special Abilities**
+
 - **Armour +1:** Scaly skin.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,6 +33,7 @@ d12+1
 **Gear:** Dagger (Str+d4)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly skin.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -41,4 +43,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Poison, paralysis and mind-affecting effects.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

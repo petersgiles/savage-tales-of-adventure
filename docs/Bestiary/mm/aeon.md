@@ -1,4 +1,4 @@
-Aeon
+# Aeon
 
 Akhanas are the faction of Aeon in charge of life and death. They
 consist of a central body resembling a huge eye, with four gray arms.
@@ -14,6 +14,7 @@ d12+1, Stealth d12+1, Spellcasting d10
 Frenzy, Level Headed, Quick, Strong Willed
 **Powers:** Healing
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -40,6 +41,7 @@ d12+4, Repair d12+4, Stealth d12+2, Spellcasting d12
 Dodge, Frenzy, Improved Frenzy, Level Headed, Quick
 **Powers:** Banish (plane shift self), Quickness, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Cold; Aging Strike.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -68,6 +70,7 @@ d8, Stealth d10, Spellcasting d6
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Divination
 **Special Abilities**
+
 - **Slam:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -97,6 +100,7 @@ Elemental Manipulation (earth), Elemental Manipulation (water), Entangle
 (plant growth), Invisibility, Mind Reading, Obscure (darkness), Puppet,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Touch:** Str+d6; Energy.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -123,6 +127,7 @@ d12
 Strong Willed
 **Powers:** Dispel, Lower Trait (curse), Puppet
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Fate Drain.
@@ -132,4 +137,3 @@ by Banish.
 - **Flight:** Flying Pace of 6" and Climb -1.
 - **Immunities:** Cold and poison.
 - **Resistances:** -2 damage from electricity and fire.
-

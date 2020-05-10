@@ -1,4 +1,4 @@
-Sepia snake
+# Sepia snake
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** +4; **Pace:** 7; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Brown scales.
 - **Bite:** Str+d8; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ resist.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Faceless stalker (ugothol)
+# Faceless stalker (ugothol)
 
 No description for this creature yet.
 
@@ -11,10 +11,10 @@ d12
 Headed
 **Powers:** Speak Language
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
 - **Change Form:** Can assume an alternate form as a normal action.
-

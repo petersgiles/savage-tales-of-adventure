@@ -1,4 +1,4 @@
-Tazelwurm
+# Tazelwurm
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Grayish scales.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8.
@@ -20,4 +21,3 @@ Vigor d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Resistance:** -2 damage from fire.
 - **Size +2:** Increases Toughness by +2.
-

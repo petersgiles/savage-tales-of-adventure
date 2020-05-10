@@ -1,4 +1,4 @@
-Blindheim
+# Blindheim
 
 The blindheim looks like a short frog-like humanoid, with glowing
 eyes and webbed fingers and toes.
@@ -9,6 +9,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -20,4 +21,3 @@ surfaces with Pace 5".
 - **Blinding Gaze:** All creatures within 12" must make a Spirit roll
 to resist.
 - **Size -1:** Four feet tall; Toughness -1.
-

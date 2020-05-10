@@ -1,4 +1,4 @@
-Sea urchin
+# Sea urchin
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 4 (1)
 **Gear:** Spines (Str+d4; Curse)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -36,6 +37,7 @@ Vigor d12+2
 **Gear:** Spines (Str+d8; Poison)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -63,6 +65,7 @@ Vigor d12+1
 **Gear:** Spines (Str+d8; Poison)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -87,6 +90,7 @@ Vigor d8
 **Skills:** Fighting d4, Notice d6, Tracking d6, Swimming d6
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tongue:** Str; Reach 1"; Pull.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -116,6 +120,7 @@ d4
 Str+d6; Poison)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -141,6 +146,7 @@ Vigor d8
 Tracking d4, Swimming d6
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -154,4 +160,3 @@ breathe air and survive indefinitely on land.
 - **Immunity:** Mind-affecting effects.
 - **Resistance:** -1 damage from cold.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

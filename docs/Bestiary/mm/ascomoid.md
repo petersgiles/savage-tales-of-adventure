@@ -1,4 +1,4 @@
-Ascomoid
+# Ascomoid
 
 The ascomoid is a ball of greenish fungus which spreads spores as it
 rolls around. Those who fall victim to the spores find themselves
@@ -9,6 +9,7 @@ Vigor d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -22,4 +23,3 @@ and extra damage from called shots.
 - **Resistances:** -2 damage from electricity and fire.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

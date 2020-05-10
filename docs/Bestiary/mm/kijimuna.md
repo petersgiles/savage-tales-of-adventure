@@ -1,4 +1,4 @@
-Kijimuna
+# Kijimuna
 
 No description for this creature yet.
 
@@ -11,6 +11,6 @@ Throwing d4
 3/6/12; Str+d6; Special)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Three feet tall; Toughness -1.
-

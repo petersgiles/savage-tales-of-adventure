@@ -1,4 +1,4 @@
-Skrik nettle
+# Skrik nettle
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Feathers.
 - **Bites:** Str+d6; Poison.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -16,4 +17,3 @@ by Banish.
 - **Flight:** Flying Pace of 6" and Climb 3.
 - **Poison:** Bites inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

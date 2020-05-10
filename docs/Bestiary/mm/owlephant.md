@@ -1,4 +1,4 @@
-Owlephant
+# Owlephant
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 15 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8.
 - **Talons:** Str+d8.
@@ -17,4 +18,3 @@ d12+1
 - **Size +5:** Increases Toughness by +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

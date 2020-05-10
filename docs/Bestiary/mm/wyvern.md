@@ -1,4 +1,4 @@
-Wyvern
+# Wyvern
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Gear:** Sting melee (Str+d8; Poison), bite melee (Str+d8; Grab)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,6 +33,7 @@ Tracking d12+1, Swimming d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6; Grab.
 - **Stings:** Str+d6; Poison.
@@ -62,6 +64,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 20 (4)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Sting:** Str+d10; Poison.
 - **Bite:** Str+d10.
@@ -86,6 +89,7 @@ d12+2
 **Gear:** Sting melee (Str+d8; Poison), bite melee (Str+d8; Grab)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -110,6 +114,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Sting:** Str+d8; Poison.
 - **Bite:** Str+d8; Grab.
@@ -125,4 +130,3 @@ raise on an opposed Strength roll to escape.
 - **Weakness:** Light sensitive.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Size +3:** Increases Toughness by +3.
-

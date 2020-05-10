@@ -1,4 +1,4 @@
-Mohrg
+# Mohrg
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Grab.
 - **Tongue Melee Touch:** Str+d4; Paralysis.
@@ -35,6 +36,7 @@ d12+4, Spellcasting d8
 Level Headed, Quick
 **Powers:** Smite (Good), Obscure (darkness), Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Bite:** Str+d4.
@@ -62,6 +64,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Grab.
 - **Tongue Melee Touch:** Str+d4; Paralysis.
@@ -76,4 +79,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
-

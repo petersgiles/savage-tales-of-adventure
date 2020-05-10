@@ -1,4 +1,4 @@
-Kuah-lij
+# Kuah-lij
 
 No description for this creature yet.
 
@@ -11,5 +11,5 @@ d4
 2d6; AP 2)
 **Edges:** Mr Fix It
 **Special Abilities**
-- **Low Light Vision:** No penalties for dim or dark lighting.
 
+- **Low Light Vision:** No penalties for dim or dark lighting.

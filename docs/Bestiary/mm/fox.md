@@ -1,4 +1,4 @@
-Fox
+# Fox
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 d8
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -24,6 +25,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Notice d8, Survival d4, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -32,4 +34,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Hound of tindalos
+# Hound of tindalos
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Vigor d10
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Invisibility, Obscure (fog cloud), Quickness
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -21,4 +22,3 @@ creatures.
 - **Ripping Gaze:** All creatures within 12" must make a Spirit roll to
 resist.
 - **Immunities:** Poison and mind-affecting effects.
-

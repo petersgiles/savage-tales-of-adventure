@@ -1,4 +1,4 @@
-Amphisbaena
+# Amphisbaena
 
 The amphisbaena is a long snake with a head at each end, said to have
 been formed from the blood of medusas.
@@ -10,6 +10,7 @@ d10, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -40,6 +41,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 10 (2)
 **Edges:** Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -65,6 +67,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Hairless skin.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -80,4 +83,3 @@ raise on an opposed Strength roll to escape.
 this creature suffers an automatic level of Fatigue.
 - **Immunity:** Gang Up bonuses.
 - **Resistance:** -2 damage from cold.
-

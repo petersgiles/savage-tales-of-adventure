@@ -1,4 +1,4 @@
-Dwarf
+# Dwarf
 
 No description for this creature yet.
 
@@ -12,7 +12,7 @@ Parry), light crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Arcane Background (Magic)
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Immunities:** Poison and paralysis.
 - **Weakness:** Light sensitive.
-

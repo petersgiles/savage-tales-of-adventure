@@ -1,4 +1,4 @@
-Boggard
+# Boggard
 
 Boggards are a race of toadmen with wide mouths, bulbous eyes, and
 webbed fingers and toes. They live near rivers or in marshes, and have a
@@ -13,6 +13,7 @@ Powers d6
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (terrifying croak)
 **Special Abilities**
+
 - **Tongue Touch:** Str+d4; Sticky Tongue.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,6 +35,7 @@ train bogwiggles as guard animals or hunting beasts.
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 5
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Tongue Touch:** Str+d4; Sticky Tongue.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -44,4 +46,3 @@ breathe air and survive indefinitely on land.
 - **Sticky Tongue:** Victims struck by the tongue must make an opposed
 Strength roll as a free action if they wish to move more than 1" away.
 - **Size -1:** 3½ feet long; Toughness -1.
-

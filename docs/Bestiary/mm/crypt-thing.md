@@ -1,4 +1,4 @@
-Crypt thing
+# Crypt thing
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10
 Headed, Quick
 **Powers:** Teleport
 **Special Abilities**
+
 - **Armour +2:** Leathery flesh.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ Headed, Quick
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

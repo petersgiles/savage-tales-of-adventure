@@ -1,4 +1,4 @@
-Lashunta
+# Lashunta
 
 No description for this creature yet.
 
@@ -13,5 +13,5 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Powers:** Armor, Bolt (magic missile), Detect Arcana (sense magic),
 Mind Reading, Puppet (living humanoids only), Stun (daze)
 **Special Abilities**
-- **Very Tough:** +1 Toughness.
 
+- **Very Tough:** +1 Toughness.

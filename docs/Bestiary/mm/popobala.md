@@ -1,4 +1,4 @@
-Popobala
+# Popobala
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+3, Stealth d12+4, Spellcasting d12
 Headed
 **Powers:** Puppet, Puppet (living humanoids only), Telekinesis
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Drain.
 - **Talons:** Str+d4; Grab; Popobala Fever.
@@ -29,4 +30,3 @@ surfaces with Pace 6".
 - **Popobala Fever:** Make a Vigor roll at -1 or suffer a level of
 Fatigue.
 - **Very Tough:** +1 Toughness.
-

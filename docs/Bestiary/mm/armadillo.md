@@ -1,4 +1,4 @@
-Armadillo
+# Armadillo
 
 Armadillos are small mammals with short legs, and leathery shells
 formed from overlapping scales.
@@ -8,6 +8,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Notice d8, Tracking d8, Swimming d4
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 4 (1)
 **Special Abilities**
+
 - **Armour +1:** Overlapping scales.
 - **Claw:** Str.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -17,4 +18,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size -2:** 2½ feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

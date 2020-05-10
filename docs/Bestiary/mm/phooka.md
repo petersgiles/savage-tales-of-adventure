@@ -1,4 +1,4 @@
-Phooka
+# Phooka
 
 No description for this creature yet.
 
@@ -11,8 +11,8 @@ Repair d8, Stealth d12, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Dodge
 **Powers:** Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Size -1:** Reduces Toughness by -1.
-

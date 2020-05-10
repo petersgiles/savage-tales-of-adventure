@@ -1,4 +1,4 @@
-Chelicerae
+# Chelicerae
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6, Knowledge (Nature) d4, Repair d12, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 14 (2)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison; Grab.
 - **Claws:** Str+d6.
@@ -23,4 +24,3 @@ surfaces with Pace 6".
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

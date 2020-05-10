@@ -1,4 +1,4 @@
-Leshy
+# Leshy
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 6
 **Gear:** Puffball (Throwing; range 3/6/12; Str+d6; Spores)
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -30,6 +31,7 @@ d8
 **Gear:** Seed (Throwing; range 3/6/12; Str+d6; Ensnare)
 **Edges:** Assassin
 **Special Abilities**
+
 - **Slam:** Str+d4; Ensnare.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -48,6 +50,7 @@ No description for this creature yet.
 **Gear:** Shortspear (Str+d6), seedpods (Throwing; range 3/6/12; Str+d6;
 Deafen)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
@@ -69,6 +72,7 @@ d8, Shooting d4, Spellcasting d6
 **Edges:** Arcane Background (Magic), Assassin
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Water Jet:** Shooting; range 12/24/48; 2d4; Blind; SBT.
@@ -82,4 +86,3 @@ breathe air and survive indefinitely on land.
 - **Immunities:** Electricity and sonic.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

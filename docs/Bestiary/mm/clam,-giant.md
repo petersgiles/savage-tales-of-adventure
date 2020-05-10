@@ -1,4 +1,4 @@
-Clam, giant
+# Clam, giant
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 12 (3)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -19,4 +20,3 @@ roll to escape.
 - **Aquatic:** Swimming Pace of 6", and cannot drown.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Increases Toughness by +2.
-

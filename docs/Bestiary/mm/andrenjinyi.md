@@ -1,4 +1,4 @@
-Andrenjinyi
+# Andrenjinyi
 
 The andrenjinyi is a huge aquatic snake with brightly coloured
 scales. Instead of being digested, any creatures the andrenjinyi
@@ -15,6 +15,7 @@ Spellcasting d6
 Manipulation (earth), Elemental Manipulation (water), Entangle (plant
 growth), Growth (animals), Obscure (fog)
 **Special Abilities**
+
 - **Armour +3:** Brilliant scales.
 - **Bite:** Str+d8; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -47,4 +48,3 @@ against offensive magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

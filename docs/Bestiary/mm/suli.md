@@ -1,4 +1,4 @@
-Suli
+# Suli
 
 No description for this creature yet.
 
@@ -11,6 +11,6 @@ d4, Tracking d4, Shooting d6
 12/24/48; 2d6)
 **Edges:** Beast Master, Woodsman
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Resistances:** -1 damage from acid, cold, electricity and fire.
-

@@ -1,4 +1,4 @@
-Marble snake
+# Marble snake
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d6, Climbing d12+1, Notice d10, Stealth d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Whitish-gray scales.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -15,4 +16,3 @@ Vigor d8
 surfaces with Pace 5".
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Ten feet long; Toughness +2.
-

@@ -1,4 +1,4 @@
-Grimm
+# Grimm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Notice d12+4, Persuasion d12+1, Stealth d12+3, Spellcasting d8
 Level Headed, Strong Willed
 **Powers:** Blast (lightning storm), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +3:** Black flesh.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -19,4 +20,3 @@ Level Headed, Strong Willed
 - **Size +4:** Nine feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

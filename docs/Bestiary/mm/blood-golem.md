@@ -1,4 +1,4 @@
-Blood golem
+# Blood golem
 
 Blood golems are magically animated clots of living blood, and appear
 as vaguely humanoid creatures with slug-like heads.
@@ -9,6 +9,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Blood Consumption.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -22,4 +23,3 @@ Vigor increases by 1 die step. When it reaches double its original
 Vigor, it splits into two new creatures.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Ten feet long; Toughness +2.
-

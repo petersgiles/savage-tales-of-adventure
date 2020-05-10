@@ -1,4 +1,4 @@
-Fey wolverine
+# Fey wolverine
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d12, Tracking d8, Spellcasting d8
 **Edges:** Arcane Background (Magic), Berserk
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -22,4 +23,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Very Tough:** +1 Toughness.
-

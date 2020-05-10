@@ -1,4 +1,4 @@
-Imperial forest dragon
+# Imperial forest dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Knowledge (Nature) d8, Stealth d12, Survival d6
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -33,6 +34,7 @@ Knowledge (Nature) d10, Stealth d12, Survival d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -58,6 +60,7 @@ Stealth d12+1, Survival d10, Faith d8
 **Powers:** Deflection (forcefield)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -86,6 +89,7 @@ Faith d10
 (sense magic), Entangle
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -119,6 +123,7 @@ Strong Willed
 (sense magic), Entangle, Lower Trait (Strength), Obscure (fog cloud)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -152,6 +157,7 @@ Strong Willed
 (Strength), Obscure (fog cloud), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -189,6 +195,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Entangle, Lower
 Trait (Strength), Invisibility, Obscure (fog cloud), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -226,6 +233,7 @@ lights), Lower Trait (Strength), Invisibility, Obscure (fog cloud), Stun
 (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -263,6 +271,7 @@ lights), Lower Trait (curse), Invisibility, Obscure (fog cloud), Stun
 (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -299,6 +308,7 @@ lights), Lower Trait (curse), Invisibility, Obscure (fog cloud), Stun
 (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -335,6 +345,7 @@ lights), Lower Trait (curse), Invisibility, Obscure (fog cloud), Stun
 (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -371,6 +382,7 @@ Light (dancing lights), Lower Trait (curse), Invisibility, Obscure (fog
 cloud), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +9:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -390,4 +402,3 @@ surfaces with Pace 6".
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

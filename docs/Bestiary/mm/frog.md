@@ -1,4 +1,4 @@
-Frog
+# Frog
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7
 **Edges:** Quick
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -35,6 +36,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Mottled skin.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -64,6 +66,7 @@ d12, Innate Powers d10
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Smite (Good)
 **Special Abilities**
+
 - **Armour +3:** Blackish-green skin.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -99,6 +102,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 6 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Green skin.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -118,6 +122,7 @@ d6
 **Skills:** Fighting d4-2, Notice d4, Stealth d10, Swimming d8
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
@@ -136,6 +141,7 @@ Notice d8, Stealth d12+2, Tracking d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -143,4 +149,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

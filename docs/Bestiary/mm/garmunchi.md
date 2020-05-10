@@ -1,4 +1,4 @@
-Garmunchi
+# Garmunchi
 
 No description for this creature yet.
 
@@ -10,8 +10,8 @@ Vigor d6
 shortspear (Throwing; range 3/6/12; Str+d6)
 **Edges:** War Cry
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Eight feet tall; Toughness +2.
-

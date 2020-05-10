@@ -1,4 +1,4 @@
-Intellect devourer
+# Intellect devourer
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Edges:** Assassin, Frenzy, Improved Frenzy, Level Headed, Strong
 Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -18,4 +19,3 @@ against offensive magic.
 - **Resistances:** -4 damage from cold, electricity and sonic.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Three feet long; Toughness -1.
-

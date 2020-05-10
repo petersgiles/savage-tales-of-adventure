@@ -1,4 +1,4 @@
-Coffer corpse
+# Coffer corpse
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (1)
 **Gear:** Slam melee (Str+d8; Grab)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

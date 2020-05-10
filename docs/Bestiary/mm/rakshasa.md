@@ -1,4 +1,4 @@
-Rakshasa
+# Rakshasa
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Gear:** Kukri (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,6 +26,7 @@ Spellcasting d8
 **Powers:** Detect Arcana (sense magic), Puppet (living humanoids only),
 Stun (daze)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Bleed.
 - **Claws:** Str+d4.
@@ -52,6 +54,7 @@ Dodge, Level Headed
 Obscure (darkness), Puppet, Puppet (living humanoids only), Speak
 Language, Stun (daze), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -70,6 +73,7 @@ d8
 **Gear:** Energy bolts (Throwing; range 3/6/12; Str+d6; Special)
 **Edges:** Dodge, Frenzy, Improved Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d4; Confusion.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -86,6 +90,7 @@ d6, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Divination, Puppet, Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -113,6 +118,7 @@ Improved Sweep
 Dispel, Greater Healing, Healing, Lower Trait (Strength), Invisibility,
 Quickness, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -123,4 +129,3 @@ invisibility, etc.
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Size +3:** Twelve feet tall; Toughness +3.
-

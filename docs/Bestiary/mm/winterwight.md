@@ -1,4 +1,4 @@
-Winterwight
+# Winterwight
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+4, Spellcasting d6
 Quick
 **Powers:** Dispel, Entangle (sleet storm), Obscure (fog), Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d4; Blightfire.
 - **Claws:** Str+d4; Blightfire.
@@ -22,4 +23,3 @@ against offensive magic.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
-

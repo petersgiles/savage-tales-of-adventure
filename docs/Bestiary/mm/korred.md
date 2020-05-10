@@ -1,4 +1,4 @@
-Korred
+# Korred
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ d4, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Improved Dodge
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Size -1:** Reduces Toughness by -1.
-

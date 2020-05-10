@@ -1,4 +1,4 @@
-Nephilim
+# Nephilim
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+1, Persuasion d12+1, Stealth d8, Survival d10, Throwing d8
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Quick, Quick Draw
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
@@ -19,4 +20,3 @@ against offensive magic.
 - **Size +4:** Eleven feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Ectoplasmic human
+# Ectoplasmic human
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Horrifying Ooze.
 - **Mindless:** Immune to mind-affecting magic.
@@ -15,4 +16,3 @@ Vigor d10
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

@@ -1,4 +1,4 @@
-Nascent demon lord
+# Nascent demon lord
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Draw
 **Powers:** Barrier (whirling blades), Dispel, Fear (phantasmal killer),
 Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Claw:** Str+d4; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,6 +51,7 @@ Willed
 invisibility), Dispel, Elemental Manipulation (earth), Fear (phantasmal
 killer), Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +6:** Demonic flesh.
 - **Bite:** Str+d8.
 - **Horns:** Str+d8.
@@ -71,4 +73,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

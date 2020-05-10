@@ -1,4 +1,4 @@
-Spriggan
+# Spriggan
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Arcane Background (Magic), Assassin, Combat Reflexes
 **Powers:** Growth/Shrink
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -1:** Reduces Toughness by -1.
 **Fellnight spriggan**
@@ -28,6 +29,7 @@ Spellcasting d6
 Quick Draw
 **Powers:** Growth/Shrink, Entangle
 **Special Abilities**
+
 - **Slams:** Str+d6; Grab.
 - **Horns:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -42,4 +44,3 @@ and extra damage from called shots.
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Weakness:** Fire (double damage).
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Human juju zombie
+# Human juju zombie
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d8, Survival d4, Lockpicking d8, Swimming d8
 **Gear:** Masterwork short sword (Str+d6)
 **Edges:** Assassin, Dodge, Level Headed, Thief
 **Special Abilities**
+
 - **Armour +1:** Leathery skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
@@ -18,4 +19,3 @@ modifiers, disease, poison, and extra damage from called shots.
 effects, magic, aging, bleeding and death magic.
 - **Resistance:** -2 damage from fire.
 - **Very Tough:** +1 Toughness.
-

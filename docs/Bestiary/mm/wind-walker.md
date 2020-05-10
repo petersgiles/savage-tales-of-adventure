@@ -1,4 +1,4 @@
-Wind walker
+# Wind walker
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d8
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Mind Reading
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -21,4 +22,3 @@ extra damage from called shots.
 - **Immunity:** Magic.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Twelve feet tall; Toughness +2.
-

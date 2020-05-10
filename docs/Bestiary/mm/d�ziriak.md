@@ -1,4 +1,4 @@
-D�ziriak
+# D�ziriak
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d8, Survival d8, Spellcasting d8
 **Edges:** Arcane Background (Magic), Combat Reflexes, Frenzy
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ Stealth d8, Survival d8, Spellcasting d8
 by Banish.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
-

@@ -1,4 +1,4 @@
-Irlgaunt
+# Irlgaunt
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Survival d12+2, Swimming d12+3, Throwing d8, Spellcasting d10
 Headed, Quick
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +3:** Red flesh.
 - **Slams:** Str+d8; Acid.
 - **Bite:** Str+d8.
@@ -23,4 +24,3 @@ surfaces with Pace 7".
 - **Size +4:** Thirteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

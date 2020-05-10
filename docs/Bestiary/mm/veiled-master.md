@@ -1,4 +1,4 @@
-Veiled master
+# Veiled master
 
 No description for this creature yet.
 
@@ -15,6 +15,7 @@ magic), Disguise (illusion), Fear (phantasmal killer), Flight
 Invisibility, Mind Reading, Obscure (illusion), Puppet, Puppet (living
 humanoids only), Stun (daze), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Consume Memory; Slime.
 - **Claws:** Str+d6; Slime.
@@ -31,4 +32,3 @@ step.
 - **Slime:** Make a Vigor roll at -1, on a failure reduce Vigor by 1 die
 step.
 - **Size +3:** Increases Toughness by +3.
-

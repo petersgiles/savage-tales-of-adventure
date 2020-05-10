@@ -1,4 +1,4 @@
-Ettercap
+# Ettercap
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -30,6 +31,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -42,4 +44,3 @@ Agility as the arcane skill.
 surfaces with Pace 6".
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

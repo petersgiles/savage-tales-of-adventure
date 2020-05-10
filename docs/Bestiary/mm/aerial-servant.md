@@ -1,4 +1,4 @@
-Aerial servant
+# Aerial servant
 
 Aerial servants are vaguely humanoid-shaped air elementals composed
 of white vapour.
@@ -9,6 +9,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 9; **Parry:** 8; **Toughness:** 9 (1)
 **Edges:** Alertness, Combat Reflexes, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ extra damage from called shots.
 - **Flight:** Flying Pace of 9" and Climb 3.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 wind blast damage.
-

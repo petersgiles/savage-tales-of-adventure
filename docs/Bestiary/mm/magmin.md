@@ -1,4 +1,4 @@
-Magmin
+# Magmin
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Melee Touch:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ extra damage from called shots.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
 - **Size -1:** Four feet tall; Toughness -1.
-

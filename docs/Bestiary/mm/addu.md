@@ -1,4 +1,4 @@
-Addu
+# Addu
 
 The addu is a brightly coloured serpent, with jagged spines, clawed
 forearms, and a snout filled with razor-sharp teeth.
@@ -9,6 +9,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 4; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Brightly-coloured scales.
 - **Bite:** Str+d8.
 - **Claw:** Str+d8.
@@ -22,4 +23,3 @@ Agility roll at -2 or suffer 2d12 gas damage.
 - **Size +10:** Fifty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

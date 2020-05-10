@@ -1,4 +1,4 @@
-Thoqqua
+# Thoqqua
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d6, Notice d10, Stealth d8, Survival d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Red-hot scales.
 - **Slam:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ extra damage from called shots.
 - **Burrow:** Can burrow and reappear within 5".
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
-

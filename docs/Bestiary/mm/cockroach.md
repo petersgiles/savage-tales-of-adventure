@@ -1,4 +1,4 @@
-Cockroach
+# Cockroach
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 8 (1)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 10 (1)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -53,6 +55,7 @@ Climbing d10, Notice d6, Stealth d12, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
 that's in contact with the ground.
@@ -73,6 +76,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (1)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +1:** Inky carapace.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -87,4 +91,3 @@ surfaces with Pace 6".
 - **Weakness:** Light sensitive.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +3:** Increases Toughness by +3.
-

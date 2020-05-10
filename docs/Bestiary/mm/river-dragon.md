@@ -1,4 +1,4 @@
-River dragon
+# River dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1, Survival d8, Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Aquatic:** Swimming Pace of 13", and cannot drown.
@@ -29,6 +30,7 @@ Stealth d12, Survival d10, Swimming d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Aquatic:** Swimming Pace of 14", and cannot drown.
@@ -47,6 +49,7 @@ d10, Stealth d12, Survival d10, Swimming d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 10 (3)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Aquatic:** Swimming Pace of 13", and cannot drown.
@@ -67,6 +70,7 @@ Spellcasting d8
 Sweep
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Fear -1:** Anyone who sees this creature must make a Fear check at
@@ -89,6 +93,7 @@ Spellcasting d8
 Improved Sweep
 **Powers:** Detect Arcana (sense magic), Shrink
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Tail:** Str+d6.
@@ -115,6 +120,7 @@ d12+3, Spellcasting d10
 Improved Sweep
 **Powers:** Boost Trait (Agility), Detect Arcana (sense magic), Shrink
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -144,6 +150,7 @@ Sweep, Improved Sweep
 **Powers:** Bolt (magic missile), Deflection (blur), Detect Arcana
 (sense magic), Dispel, Quickness, Shrink
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -174,6 +181,7 @@ Sweep, Improved Sweep
 (forcefield), Deflection (blur), Detect Arcana (sense magic), Dispel,
 Obscure (illusionary terrain), Quickness, Shrink
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -205,6 +213,7 @@ Deflection (forcefield), Deflection (blur), Detect Arcana (sense magic),
 Dispel, Intangibility (gaseous form), Obscure (illusionary terrain),
 Quickness, Shrink
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -236,6 +245,7 @@ Improved Sweep
 Intangibility (gaseous form), Obscure (illusionary terrain), Quickness,
 Shrink
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Fear -3:** Anyone who sees this creature must make a Fear check at
@@ -266,6 +276,7 @@ Deflection (forcefield), Deflection (blur), Detect Arcana (sense magic),
 Dispel, Intangibility (gaseous form), Obscure (illusionary terrain),
 Quickness, Shrink
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -297,6 +308,7 @@ Deflection (forcefield), Deflection (blur), Detect Arcana (sense magic),
 Dispel, Intangibility (gaseous form), Obscure (illusionary terrain),
 Quickness, Shrink
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail:** Str+d8.
@@ -312,4 +324,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

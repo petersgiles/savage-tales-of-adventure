@@ -1,4 +1,4 @@
-Get of iblis
+# Get of iblis
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Combat Reflexes, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +4:** Pallid flesh.
 - **Bite:** Str+d8; Devour Elemental.
 - **Claws:** Str+d8.
@@ -25,4 +26,3 @@ damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

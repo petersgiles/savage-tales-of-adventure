@@ -1,4 +1,4 @@
-Glass wyrm
+# Glass wyrm
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Persuasion d12+1, Stealth d12
 **Edges:** Alertness, Ambidextrous, Level Headed, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -20,4 +21,3 @@ Agility roll at -2 or suffer 2d8 slashing damage.
 - **Immunities:** Sleep and paralysis.
 - **Weakness:** Sonic (double damage).
 - **Size +3:** Increases Toughness by +3.
-

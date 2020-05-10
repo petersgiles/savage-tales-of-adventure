@@ -1,4 +1,4 @@
-Digester
+# Digester
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Alertness, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 acid damage.
 - **Immunity:** Acid.
-

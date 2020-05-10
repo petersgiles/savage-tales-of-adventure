@@ -1,4 +1,4 @@
-Ghost
+# Ghost
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Knowledge (History) d10, Stealth d8
 **Charisma:** +4; **Pace:** -; **Parry:** 5; **Toughness:** 8
 **Edges:** Dodge, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Corrupting Touch:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Crabman
+# Crabman
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Amphibious:** Swimming Pace of 14", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Size +2:** Nine feet tall; Toughness +2.
-

@@ -1,4 +1,4 @@
-Weaverworm
+# Weaverworm
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Repair d10, Stealth d6
 **Charisma:** +2; **Pace:** 6; **Parry:** 7; **Toughness:** 17 (2)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +2:** Humanoid skin.
 - **Bite:** Str+d8.
 - **Claw:** Str+d8; Paralytic Nails.
@@ -26,4 +27,3 @@ surfaces with Pace 6".
 - **Size +6:** Eighteen feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

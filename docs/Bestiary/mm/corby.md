@@ -1,4 +1,4 @@
-Corby
+# Corby
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Black feathers.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,6 +25,7 @@ d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -31,4 +33,3 @@ d12+1
 to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
-

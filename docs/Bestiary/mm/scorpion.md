@@ -1,4 +1,4 @@
-Scorpion
+# Scorpion
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 8; **Toughness:** 29 (6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +6:** Black carapace.
 - **Claws:** Str+d8; Constrict.
 - **Sting:** Str+d8; Poison.
@@ -32,6 +33,7 @@ d8
 **Charisma:** -; **Pace:** 9; **Parry:** 4; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Sting:** Str+d4; Poison.
@@ -53,6 +55,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Green carapace.
 - **Claws:** Str+d8; Constrict.
 - **Sting:** Str+d8; Poison.
@@ -77,6 +80,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Sting:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -98,6 +102,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Sting:** Str+d6; Poison.
@@ -120,6 +125,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Sting:** Str+d6; Poison.
@@ -142,6 +148,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 7; **Toughness:** 22 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Constrict.
 - **Sting:** Str+d8; Poison.
@@ -165,6 +172,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d8, Notice d6, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 4 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -175,4 +183,3 @@ Vigor d6
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

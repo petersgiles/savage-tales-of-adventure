@@ -1,4 +1,4 @@
-Red reaver
+# Red reaver
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 18 (5)
 **Edges:** Combat Reflexes, Sweep, Strong Willed, War Cry
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -16,4 +17,3 @@ d12+2
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

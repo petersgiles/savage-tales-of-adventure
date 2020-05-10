@@ -1,4 +1,4 @@
-Dungeon dragon
+# Dungeon dragon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Persuasion d6, Repair d10, Lockpicking d4, Spellcasting d8
 **Edges:** Arcane Background (Magic), Mr Fix It
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -32,6 +33,7 @@ It, Strong Willed
 Reading, Puppet, Puppet (living humanoids only), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -64,6 +66,7 @@ Mind Reading, Obscure (illusion), Puppet, Puppet (living humanoids
 only), Slumber, Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -96,6 +99,7 @@ Mind Reading, Obscure (illusion), Puppet, Puppet (living humanoids
 only), Slumber, Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -112,4 +116,3 @@ Agility roll at -2 or suffer 2d12 damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

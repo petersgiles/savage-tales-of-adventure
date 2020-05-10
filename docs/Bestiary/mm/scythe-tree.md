@@ -1,4 +1,4 @@
-Scythe tree
+# Scythe tree
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Gear:** Branches (Str+d8)
 **Edges:** Frenzy, Quick, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -18,4 +19,3 @@ and extra damage from called shots.
 - **Size +6:** Twenty feet tall; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

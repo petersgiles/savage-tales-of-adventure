@@ -1,4 +1,4 @@
-Mantis
+# Mantis
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,6 +29,7 @@ Vigor d12+2
 **Skills:** Fighting d10, Climbing d12+1, Notice d6
 **Charisma:** -; **Pace:** 9; **Parry:** 7; **Toughness:** 28 (4)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -49,6 +51,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 30 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -63,4 +66,3 @@ surfaces with Pace 6".
 - **Size +17:** Sixty feet tall; Toughness +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

@@ -1,4 +1,4 @@
-Gutslug
+# Gutslug
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Assassin
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab; Draining.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -15,4 +16,3 @@ Vigor d8
 raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 8" and Climb 3.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
-

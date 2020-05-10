@@ -1,4 +1,4 @@
-Fly
+# Fly
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d8, Notice d4
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7
 **Special Abilities**
+
 - **Bite:** Str+d4; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -24,6 +25,7 @@ d10
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 7
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -38,6 +40,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,4 +53,3 @@ raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 9" and Climb 2.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Eight feet long; Toughness +2.
-

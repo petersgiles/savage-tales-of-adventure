@@ -1,4 +1,4 @@
-Lejnth
+# Lejnth
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Vigor d12
 Level Headed
 **Powers:** Obscure (darkness), Quickness, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -19,4 +20,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Weakness:** Acid (double damage).
-

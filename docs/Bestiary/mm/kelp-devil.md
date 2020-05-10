@@ -1,4 +1,4 @@
-Kelp devil
+# Kelp devil
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Gear:** Fronds (Str+d8; Grab)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -22,4 +23,3 @@ and extra damage from called shots.
 - **Size +7:** Ten feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

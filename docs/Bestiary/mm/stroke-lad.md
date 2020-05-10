@@ -1,4 +1,4 @@
-Stroke lad
+# Stroke lad
 
 No description for this creature yet.
 
@@ -10,9 +10,9 @@ Spellcasting d10
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Confusion, Dispel, Light (dancing lights), Mind Reading
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slap:** Str+d4; Dexterity Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
-

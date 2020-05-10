@@ -1,4 +1,4 @@
-Forked cat
+# Forked cat
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Fear, Light (dancing lights), Lower Trait (curse), Invisibility,
 Intangibility (gaseous form), Obscure (darkness), Pummel (wind), Puppet
 (living humanoids only), Voice on the Wind (dream message)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Grab.
@@ -32,4 +33,3 @@ against offensive magic.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

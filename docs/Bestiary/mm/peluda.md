@@ -1,4 +1,4 @@
-Peluda
+# Peluda
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d10, Swimming d12+4
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 16 (3)
 **Edges:** Berserk, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8; Poison Quills.
@@ -22,4 +23,3 @@ Agility roll at -2 or suffer 2d10 fire damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Hadhayosh
+# Hadhayosh
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Edges:** Ambidextrous, Combat Reflexes, Sweep, Improved Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Skin.
 - **Horns:** Str+d8.
 - **Bite:** Str+d8; Fire.
@@ -23,4 +24,3 @@ natural weapons suffers 2d6 fire damage.
 - **Size +10:** Fifty-two feet tall; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

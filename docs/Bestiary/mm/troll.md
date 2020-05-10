@@ -1,4 +1,4 @@
-Troll
+# Troll
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** A skin.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -30,6 +31,7 @@ Shooting d4
 **Gear:** Large heavy crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -52,6 +54,7 @@ d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Frenzy, Quick
 **Special Abilities**
+
 - **Armour +2:** Leathery skin.
 - **Claws:** Str+d4.
 - **Claw:** Str+d4; From Haste.
@@ -74,6 +77,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Fire.
 - **Claws:** Str+d6; Fire.
@@ -101,6 +105,7 @@ d10
 **Gear:** Battleaxe (Str+d8)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Blue-green skin.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -121,6 +126,7 @@ Throwing d8
 **Gear:** Club (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Level Headed, Quick, War Cry
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -156,6 +162,7 @@ d6
 **Gear:** Javelin (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Scaled skin.
 - **Claws:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -174,6 +181,7 @@ Stealth d6, Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -202,6 +210,7 @@ Throwing d8, Spellcasting d6
 **Powers:** Blast (earthquake), Elemental Manipulation (earth), Summon
 Ally
 **Special Abilities**
+
 - **Armour +5:** Brown fur.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -229,6 +238,7 @@ Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 15 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Rocky skin.
 - **Bite:** Str+d8.
 - **Claw:** Str+d8.
@@ -253,6 +263,7 @@ Swimming d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -276,6 +287,7 @@ d4, Swimming d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -297,6 +309,7 @@ d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 16 (3)
 **Edges:** Frenzy, Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8.
 - **Bites:** Str+d8.
@@ -310,4 +323,3 @@ damage.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

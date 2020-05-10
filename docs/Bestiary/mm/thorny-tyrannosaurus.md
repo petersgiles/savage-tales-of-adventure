@@ -1,4 +1,4 @@
-Thorny tyrannosaurus
+# Thorny tyrannosaurus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 9; **Toughness:** 30 (5)
 **Edges:** Hard to Kill, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -28,4 +29,3 @@ and extra damage from called shots.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

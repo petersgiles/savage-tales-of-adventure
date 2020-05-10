@@ -1,4 +1,4 @@
-Cayhound
+# Cayhound
 
 Cayhounds are big intelligent mastiffs with red fur. They love
 fighting, food and drink, and consider themselves champions of freedom.
@@ -11,6 +11,7 @@ d6, Stealth d10, Survival d8, Tracking d10, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Teleport
 **Special Abilities**
+
 - **Armour +2:** Red fur.
 - **Bite:** Str+d4; Sonic; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Go for the Throat:** Target least armoured location on a raise.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 thunderous bark damage.
-

@@ -1,4 +1,4 @@
-Worm that walks
+# Worm that walks
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Dodge, Hard to Kill, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ d12
 raise on an opposed Strength roll to escape.
 - **Immunities:** Sleep, disease, poison and paralysis.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Black magga
+# Black magga
 
 Black Magga is an ancient and immense creature with a dinosaur-like
 head on the end of a long serpentine neck, and a body consisting of a
@@ -15,6 +15,7 @@ Swimming d12+6, Spellcasting d12
 **Powers:** Dispel (invisibility only), Divination, Invisibility, Puppet
 (living humanoids only), Voice on the Wind (dream message)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Energy Drain.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -39,4 +40,3 @@ petrification, Gang Up bonuses, mind-affecting effects and death magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Animal lord (mouse)
+# Animal lord (mouse)
 
 The Mouse Lord is the lord of all rodents. Her natural form is that
 of a huge mouse, but she can also assume human form.
@@ -15,6 +15,7 @@ Headed, Quick
 **Powers:** Confusion, Deflection (displacement), Intangibility, Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Immortality:** Reforms after a period of time if killed.
@@ -37,6 +38,7 @@ Headed, Quick
 **Powers:** Confusion, Deflection (displacement), Intangibility, Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Black fur.
 - **Bite:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -49,4 +51,3 @@ against offensive magic.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunities:** Mind-affecting effects and psionics.
 - **Disease:** Make a Vigor roll or become afflicted.
-

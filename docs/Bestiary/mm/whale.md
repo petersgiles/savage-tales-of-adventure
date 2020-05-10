@@ -1,4 +1,4 @@
-Whale
+# Whale
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 23 (4)
 **Edges:** Hard to Kill, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tail Slap:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -27,6 +28,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 32 (6)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Tail Slap:** Str+d8; Stun.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -53,6 +55,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 24 (4)
 **Edges:** Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Blood-red skin.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -83,6 +86,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 34 (6)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8.
@@ -102,6 +106,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d10, Swimming d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -111,4 +116,3 @@ drowning.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Fourteen feet long; Toughness +3.
-

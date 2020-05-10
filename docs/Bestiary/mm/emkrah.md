@@ -1,4 +1,4 @@
-Emkrah
+# Emkrah
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Shooting d6
 Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Acid.
 - **Tentacle Slams:** Str+d8; Grab.
@@ -33,4 +34,3 @@ resist.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Taer
+# Taer
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8, Throwing d4
 **Gear:** Shortspear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Snow-white fur.
 - **Slams:** Str+d4.
 - **Bite:** Str+d4.
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Very Tough:** +1 Toughness.
-

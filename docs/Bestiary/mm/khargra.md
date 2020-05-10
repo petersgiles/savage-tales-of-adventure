@@ -1,4 +1,4 @@
-Khargra
+# Khargra
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 10 (3)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Metallic scales.
 - **Claws:** Str+d4; Grab.
 - **Bite:** Str+d4.
@@ -24,4 +25,3 @@ extra damage from called shots.
 - **Immunities:** Fire and cold.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Five feet long; Toughness -1.
-

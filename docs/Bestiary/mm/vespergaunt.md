@@ -1,4 +1,4 @@
-Vespergaunt
+# Vespergaunt
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Vigor d12+2
 Frenzy, Level Headed, Quick, Strong Willed
 **Powers:** Obscure (darkness), Speak Language
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Siphon Spirit.
 - **Truevision:** Can see through illusions, shapechanging,
@@ -28,4 +29,3 @@ against offensive magic.
 bonuses.
 - **Weakness:** Light sensitive.
 - **Siphon Spirit:** Make a Spirit roll or suffer a level of Fatigue.
-

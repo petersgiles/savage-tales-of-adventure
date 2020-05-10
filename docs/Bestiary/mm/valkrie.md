@@ -1,4 +1,4 @@
-Valkrie
+# Valkrie
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Vigor d12+1
 **Powers:** Banish (plane shift self), Blast (lightning storm), Greater
 Healing, Speak Language, Summon Ally
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -21,4 +22,3 @@ by Banish.
 against offensive magic.
 - **Immunities:** Electricity, cold and poison.
 - **Resistances:** -2 damage from acid and fire.
-

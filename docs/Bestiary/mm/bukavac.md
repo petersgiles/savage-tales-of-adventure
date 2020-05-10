@@ -1,4 +1,4 @@
-Bukavac
+# Bukavac
 
 Bukavacs are big toad-like beasts with curved horns and six legs.
 They live in lakes and ponds, where they lurk in wait for fresh meat.
@@ -9,6 +9,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 14 (2)
 **Edges:** Alertness, Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8.
@@ -24,4 +25,3 @@ Agility roll at -2 or suffer 2d10 sonic blast damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Vilkacis
+# Vilkacis
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Tracking d12
 **Gear:** Incorporeal touches (Str+d6; Cold)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -22,4 +23,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

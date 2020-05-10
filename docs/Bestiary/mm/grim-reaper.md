@@ -1,4 +1,4 @@
-Grim reaper
+# Grim reaper
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Sweep, Improved Sweep
 **Powers:** Banish (plane shift self), Deflection (forcefield),
 Invisibility, Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,4 +34,3 @@ bleeding and death magic.
 - **Death Touch:** Make a Vigor roll at -2 or suffer a level of
 Fatigue.
 - **Size +3:** Fifteen feet tall; Toughness +3.
-

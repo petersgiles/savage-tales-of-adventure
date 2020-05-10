@@ -1,4 +1,4 @@
-Behir
+# Behir
 
 The behir are six-legged reptiles with blue scales and horned heads.
 They usually slither around like snakes, only using their clawed feet
@@ -10,6 +10,7 @@ d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 18 (3)
 **Edges:** Alertness, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Blue scales.
 - **Bite:** Str+d8; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -32,4 +33,3 @@ Agility roll at -2 or suffer 2d10 lightning damage.
 - **Size +6:** Forty feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

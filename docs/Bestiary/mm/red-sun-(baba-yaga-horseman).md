@@ -1,4 +1,4 @@
-Red sun (baba yaga horseman)
+# Red sun (baba yaga horseman)
 
 No description for this creature yet.
 
@@ -15,8 +15,8 @@ medium shield (+1 Parry), composite longbow (Shooting; range 15/30/60;
 **Powers:** Banish (plane shift self), Deflection (forcefield),
 Intangibility, Quickness, Teleport
 **Special Abilities**
+
 - **Arcane Resistance:** +5 to resist opposed magic, and +5 armour
 against offensive magic.
 - **Immunities:** Electricity, fire and aging.
 - **Very Tough:** +1 Toughness.
-

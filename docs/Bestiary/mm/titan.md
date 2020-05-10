@@ -1,4 +1,4 @@
-Titan
+# Titan
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+4, Faith d12
 **Edges:** Arcane Background (Miracles), Level Headed
 **Powers:** Dispel, Greater Healing, Lower Trait (curse), Puppet
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -45,6 +46,7 @@ Sweep, Improved Sweep
 **Powers:** Blast (lightning storm), Dispel, Greater Healing, Lower
 Trait (curse), Puppet
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -75,6 +77,7 @@ Str+d6)
 Willed
 **Powers:** Dispel, Greater Healing, Lower Trait (curse), Puppet
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claw:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -91,4 +94,3 @@ creatures.
 - **Size +19:** Increases Toughness by +19.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

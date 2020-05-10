@@ -1,4 +1,4 @@
-Jellyfish
+# Jellyfish
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Tentacles:** Str+d4; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -28,6 +29,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 11
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Tentacles:** Str+d6; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -47,6 +49,7 @@ d6
 **Skills:** Fighting d6, Stealth d6, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Poison; Grab.
 - **Watersense:** Can sense and accurately pinpoint anything within 12"
@@ -68,6 +71,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 19 (3)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,6 +96,7 @@ d6
 **Skills:** Fighting d4-2, Notice d6, Stealth d12+1, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Tentacle:** Str; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Watersense:** Can sense and accurately pinpoint anything within 12"
@@ -112,6 +117,7 @@ d8
 **Skills:** Fighting d4, Notice d6, Stealth d12, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Tentacle:** Str+d4; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Watersense:** Can sense and accurately pinpoint anything within 12"
@@ -130,6 +136,7 @@ d8
 **Skills:** Fighting d4, Notice d6, Stealth d10, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Tentacle:** Str+d4; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Watersense:** Can sense and accurately pinpoint anything within 12"
@@ -147,6 +154,7 @@ d8
 **Skills:** Fighting d6, Notice d6, Stealth d8, Swimming d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacle:** Str+d6; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -166,6 +174,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Stealth d4, Swimming d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 12 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacle:** Str+d8; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -187,6 +196,7 @@ Vigor d8
 **Skills:** Fighting d10, Notice d6, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 18 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacle:** Str+d8; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -211,10 +221,10 @@ Stealth d12+4, Swimming d8, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Aquatic:** Swimming Pace of 8", and cannot drown.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

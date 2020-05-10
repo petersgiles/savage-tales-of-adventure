@@ -1,4 +1,4 @@
-Jubear
+# Jubear
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 16 (3)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Fur.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -34,4 +35,3 @@ damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Nirento
+# Nirento
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Vines:** Str+d6; Reach 1"; Constrict; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ Vigor d12+1
 **Edges:** Combat Reflexes, Frenzy, Improved Frenzy, Level Headed,
 Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Vines:** Str+d8; Reach 1"; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -41,4 +43,3 @@ and extra damage from called shots.
 - **Size +5:** Fifteen feet tall; Toughness +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

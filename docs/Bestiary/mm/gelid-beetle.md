@@ -1,4 +1,4 @@
-Gelid beetle
+# Gelid beetle
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 14 (3)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,9 +23,9 @@ Vigor d8
 **Skills:** Fighting d6, Notice d8, Stealth d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunity:** Cold.
 - **Weakness:** Cold (double damage).
-

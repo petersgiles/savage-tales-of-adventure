@@ -1,4 +1,4 @@
-Well lurker
+# Well lurker
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Edges:** Alertness, Ambidextrous, Frenzy, Improved Frenzy, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
 - **Bite:** Str+d8.
@@ -29,4 +30,3 @@ than the swallower.
 - **Size +4:** Ten feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

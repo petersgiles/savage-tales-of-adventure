@@ -1,4 +1,4 @@
-Korir-kokembe
+# Korir-kokembe
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Tracking d12+1, Swimming d12+3, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8; Disease; Constrict.
 - **Claws:** Str+d8; Constrict.
@@ -32,4 +33,3 @@ surfaces with Pace 7".
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

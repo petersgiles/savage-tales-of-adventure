@@ -1,4 +1,4 @@
-Animate dream
+# Animate dream
 
 The animate dream has an indistinct shape that shifts and changes.
 
@@ -11,6 +11,7 @@ d10
 Willed
 **Powers:** Confusion, Fear (phantasmal killer), Slumber, Teleport
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Nightmare Curse.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -29,10 +30,10 @@ Vigor d12+1
 Willed
 **Powers:** Confusion, Fear (phantasmal killer), Slumber, Teleport
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Nightmare Curse.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
 - **Flight:** Flying Pace of 7" and Climb 3.
-

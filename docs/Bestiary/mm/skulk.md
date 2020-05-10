@@ -1,4 +1,4 @@
-Skulk
+# Skulk
 
 No description for this creature yet.
 
@@ -8,5 +8,5 @@ No description for this creature yet.
 **Gear:** Short sword (Str+d6), dagger (Throwing; range 3/6/12; Str+d4)
 **Edges:** Assassin, Level Headed
 **Special Abilities**
-- **Low Light Vision:** No penalties for dim or dark lighting.
 
+- **Low Light Vision:** No penalties for dim or dark lighting.

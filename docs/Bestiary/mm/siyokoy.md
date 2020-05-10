@@ -1,4 +1,4 @@
-Siyokoy
+# Siyokoy
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d12, Lockpicking d12, Tracking d12+2, Swimming d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (3)
 **Edges:** Alertness, Dodge
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Constrict.
 - **Claws:** Str+d4.
@@ -22,4 +23,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Aquatic:** Swimming Pace of 15", and cannot drown.
 - **Immunities:** Electricity, cold and poison.
 - **Weakness:** Light sensitive.
-

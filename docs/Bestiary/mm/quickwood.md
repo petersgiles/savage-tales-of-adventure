@@ -1,4 +1,4 @@
-Quickwood
+# Quickwood
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Roots:** Str+d8; Reach 1"; Pull.
@@ -25,4 +26,3 @@ to this creature as if pushed.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

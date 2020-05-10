@@ -1,4 +1,4 @@
-Blightspawn
+# Blightspawn
 
 Blightspawn are massive mosquito-like creatures the size of a fully
 grown man. They gestate in the body of a willing cultist, bursting from
@@ -15,6 +15,7 @@ Spellcasting d6
 **Powers:** Deflection (blur), Dispel (plant trappings only), Entangle,
 Lower Trait (curse), Pummel (wind)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d4; Attach; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,4 +35,3 @@ smell-based effects.
 to resist.
 - **Immunities:** Acid, cold and poison.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
-

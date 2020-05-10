@@ -1,4 +1,4 @@
-Shriezyx
+# Shriezyx
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -25,4 +26,3 @@ damage.
 - **Immunity:** Mind-affecting effects.
 - **Weakness:** Fire (double damage).
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

@@ -1,4 +1,4 @@
-Nilbog
+# Nilbog
 
 No description for this creature yet.
 
@@ -9,6 +9,6 @@ No description for this creature yet.
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Reduces Toughness by -1.
-

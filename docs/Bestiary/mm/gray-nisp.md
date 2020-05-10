@@ -1,4 +1,4 @@
-Gray nisp
+# Gray nisp
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+3, Spellcasting d4
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Sweep
 **Powers:** Confusion, Entangle, Mind Reading
 **Special Abilities**
+
 - **Armour +3:** Slick skin.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -19,4 +20,3 @@ d12+3, Spellcasting d4
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Aquatic:** Swimming Pace of 15", and cannot drown.
 - **Size +3:** Nine feet tall; Toughness +3.
-

@@ -1,4 +1,4 @@
-Huldra
+# Huldra
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d10, Tracking d10, Spellcasting d8
 **Powers:** Environmental Protection (heat and cold), Puppet (living
 humanoids only), Slumber, Stun (daze)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Tail Slap:** Str+d4; Damage.
@@ -22,4 +23,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Fast Regeneration:** May make a Vigor roll every round to heal
 damage.
 - **Resistance:** -2 damage from cold.
-

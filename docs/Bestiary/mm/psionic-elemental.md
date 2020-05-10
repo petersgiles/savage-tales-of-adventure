@@ -1,4 +1,4 @@
-Psionic elemental
+# Psionic elemental
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ No description for this creature yet.
 **Powers:** Deflection (forcefield), Detect Arcana (sense psionics),
 Stun (psionic daze)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ d8
 **Powers:** Deflection (forcefield), Detect Arcana (sense psionics),
 Stun (psionic daze), Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,6 +52,7 @@ Headed, Strong Willed
 **Powers:** Bolt (mind thrust), Detect Arcana (sense psionics),
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -73,6 +76,7 @@ Headed, Strong Willed
 Light/Obscure (control light), Stun (psionic daze), Telekinesis,
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -98,6 +102,7 @@ Headed, Strong Willed
 Light/Obscure (control light), Stun (psionic daze), Telekinesis,
 Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -123,6 +128,7 @@ Frenzy, Level Headed, Strong Willed
 (levitate), Light/Obscure (control light), Puppet, Puppet (living
 humanoids only), Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -134,4 +140,3 @@ extra damage from called shots.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

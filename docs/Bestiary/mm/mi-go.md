@@ -1,4 +1,4 @@
-Mi-go
+# Mi-go
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12, Lockpicking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (1)
 **Edges:** Assassin, Combat Reflexes, Dodge, Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ and extra damage from called shots.
 smell-based effects.
 - **Immunity:** Cold.
 - **Resistances:** -2 damage from electricity and fire.
-

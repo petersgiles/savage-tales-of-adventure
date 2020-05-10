@@ -1,4 +1,4 @@
-Primal crystal dragon
+# Primal crystal dragon
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d6, Climbing d10, Notice d6, Stealth d12+1
 **Charisma:** +1; **Pace:** 9; **Parry:** 5; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -28,6 +29,7 @@ Stealth d12
 **Charisma:** +4; **Pace:** 9; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -47,6 +49,7 @@ Stealth d10
 **Charisma:** +4; **Pace:** 9; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -71,6 +74,7 @@ Stealth d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Blind (glitterdust)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -93,6 +97,7 @@ d12, Stealth d10, Spellcasting d8
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Blind (glitterdust)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -118,6 +123,7 @@ d12+1, Stealth d10, Spellcasting d10
 (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -144,6 +150,7 @@ d12+2, Stealth d12, Spellcasting d10
 **Powers:** Blind (glitterdust), Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -172,6 +179,7 @@ d12+3, Stealth d10, Spellcasting d12
 **Powers:** Blind (glitterdust), Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -201,6 +209,7 @@ d12+3, Stealth d12, Spellcasting d12
 Arcana (sense magic), Flight (feather fall), Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -231,6 +240,7 @@ spray), Deflection (displacement), Detect Arcana (sense magic), Fear
 (phantasmal killer), Flight (feather fall), Invisibility, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -267,6 +277,7 @@ Arcana (sense magic), Dispel, Elemental Manipulation (earth), Fear
 (illusion), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -301,6 +312,7 @@ Arcana (sense magic), Dispel, Elemental Manipulation (earth), Fear
 (illusion), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -319,4 +331,3 @@ against offensive magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

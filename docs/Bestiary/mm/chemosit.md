@@ -1,4 +1,4 @@
-Chemosit
+# Chemosit
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Frenzy, Level Headed, War Cry
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -21,4 +22,3 @@ to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 7".
 - **Size +3:** Nine feet tall; Toughness +3.
-

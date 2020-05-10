@@ -1,4 +1,4 @@
-Babbler
+# Babbler
 
 The babbler looks like a cross between a lizardman and a small
 Tyrannosaurus. It has yellow scales with brown patterns, and a gray
@@ -11,6 +11,7 @@ d10, Swimming d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Assassin, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Yellow scales.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -20,4 +21,3 @@ d10, Swimming d8
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +2:** Eight feet tall; Toughness +2.
-

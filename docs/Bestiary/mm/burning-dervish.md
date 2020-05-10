@@ -1,4 +1,4 @@
-Burning dervish
+# Burning dervish
 
 Burning dervishes look like normal humans except for the strange
 tattoos covering their bodies. They are fanatical warriors from the
@@ -13,6 +13,7 @@ d12, Survival d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Improved Dodge
 **Powers:** Banish (plane shift self), Invisibility, Shrink
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -20,4 +21,3 @@ by Banish.
 - **Flight:** Flying Pace of 5" and Climb 3.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
-

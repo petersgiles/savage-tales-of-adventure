@@ -1,4 +1,4 @@
-Charau-ka
+# Charau-ka
 
 The charau-ka are savage ape-men, remorseless jungle hunters who make
 war on everyone they meet.
@@ -11,6 +11,7 @@ d4, Throwing d6
 **Gear:** Club (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Size -1:** Reduces Toughness by -1.
-

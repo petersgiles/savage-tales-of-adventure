@@ -1,4 +1,4 @@
-Cerberi
+# Cerberi
 
 Cerberi are three-headed hounds, descendants of the original
 Cerberus.
@@ -10,6 +10,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Alertness, Combat Reflexes, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d4; Jaws.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -32,6 +33,7 @@ d12+5, Survival d12+7, Tracking d12+9
 **Edges:** Alertness, Dodge, Improved Dodge, Frenzy, Level Headed,
 Sweep, Improved Sweep, Strong Willed, War Cry
 **Special Abilities**
+
 - **Armour +5:** Black fur.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -56,4 +58,3 @@ or be permanently turned to stone.
 - **Size +8:** Thirty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

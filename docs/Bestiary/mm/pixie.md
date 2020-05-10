@@ -1,4 +1,4 @@
-Pixie
+# Pixie
 
 No description for this creature yet.
 
@@ -12,10 +12,10 @@ Shooting d4, Spellcasting d10
 **Powers:** Confusion, Deflection (forcefield), Dispel, Entangle, Light
 (dancing lights), Mind Reading
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Invisible:** Enemies suffer -4 to their attacks.
 - **Flight:** Flying Pace of 9" and Climb 2.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Size -1:** Two feet tall; Toughness -1.
-

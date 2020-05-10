@@ -1,4 +1,4 @@
-Bunyip
+# Bunyip
 
 The bunyip is a fierce hunter that looks a like a hybrid of seal and
 shark. They prefer eating animals, but are very territorial, and will
@@ -11,6 +11,7 @@ d8
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Berserk, War Cry
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ breathe air and survive indefinitely on land.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

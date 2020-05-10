@@ -1,4 +1,4 @@
-Transposer
+# Transposer
 
 No description for this creature yet.
 
@@ -8,8 +8,8 @@ No description for this creature yet.
 **Edges:** Arcane Background (Magic), Dodge, Frenzy
 **Powers:** Disguise (illusion)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4; Transposition.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Transposition:** Make a Vigor roll or suffer a level of Fatigue.
-

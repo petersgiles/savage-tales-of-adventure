@@ -1,4 +1,4 @@
-Lizardfolk
+# Lizardfolk
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ No description for this creature yet.
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Green scales.
 - **Bite:** Str+d4.
 - **Natural Swimmer:** Swimming Pace of 4", and +2 to resist drowning.
@@ -25,6 +26,7 @@ No description for this creature yet.
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Wall Walker:** Can automatically move across vertical or inverted
@@ -41,6 +43,7 @@ No description for this creature yet.
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Horny scales.
 - **Bite:** Str+d4.
 - **Spittle:** Shooting; range 3/6/12; 2d4; Poison.
@@ -59,6 +62,7 @@ d4
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Skin.
 - **Bite:** Str+d4.
 - **Natural Swimmer:** Swimming Pace of 4", and +2 to resist drowning.
@@ -73,10 +77,10 @@ d12
 **Gear:** War trident (Str+d6; Reach 1"; Parry +1)
 **Edges:** Ambidextrous
 **Special Abilities**
+
 - **Armour +2:** Green scales.
 - **Bite:** Str+d6.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

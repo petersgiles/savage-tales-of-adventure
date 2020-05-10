@@ -1,4 +1,4 @@
-Giant isopod
+# Giant isopod
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d4-2, Notice d6, Swimming d6
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ d8
 - **Size -2:** 2½ feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

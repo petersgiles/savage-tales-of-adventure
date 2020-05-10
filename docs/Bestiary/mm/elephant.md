@@ -1,4 +1,4 @@
-Elephant
+# Elephant
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 18 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tusks:** Str+d8.
 - **Slam:** Str+d8.
@@ -30,6 +31,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tusks:** Str+d8.
 - **Slam:** Str+d8.
@@ -51,6 +53,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 20 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Brown fur.
 - **Tusks:** Str+d8.
 - **Slam:** Str+d8.
@@ -72,6 +75,7 @@ Vigor d12+2
 **Gear:** Stamps (Str+d8)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tusks:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -82,4 +86,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +7:** Twenty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

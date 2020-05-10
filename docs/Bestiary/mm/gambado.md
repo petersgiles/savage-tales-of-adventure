@@ -1,4 +1,4 @@
-Gambado
+# Gambado
 
 No description for this creature yet.
 
@@ -7,8 +7,8 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

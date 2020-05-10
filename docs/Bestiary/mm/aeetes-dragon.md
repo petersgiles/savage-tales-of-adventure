@@ -1,4 +1,4 @@
-Aeetes dragon
+# Aeetes dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Tracking d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 12
 **Edges:** Alertness, Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Bite:** Str+d8; Grab; Poison.
 - **Claws:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -36,4 +37,3 @@ surfaces with Pace 5".
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

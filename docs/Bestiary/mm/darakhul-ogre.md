@@ -1,4 +1,4 @@
-Darakhul ogre
+# Darakhul ogre
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Throwing d4
 **Edges:** Ambidextrous, Quick, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Paralysis; Disease.
 - **Claws:** Str+d8; Paralysis.
@@ -27,4 +28,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Blood bush
+# Blood bush
 
 Blood bushes are a few feet high, with green leaves and red flowers
 growing on their whip-like branches. Its flower darts carry seeds that
@@ -10,6 +10,7 @@ Vigor d12+1
 **Skills:** Fighting d6, Shooting d4
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tendril:** Str+d4; Reach 1".
 - **Flower Dart:** Shooting; range 3/6/12; 2d4.
@@ -23,4 +24,3 @@ and extra damage from called shots.
 - **Weakness:** Sonic (double damage).
 - **Resistances:** -2 damage from cold and fire.
 - **Size -1:** Three feet tall; Toughness -1.
-

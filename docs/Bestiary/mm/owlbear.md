@@ -1,4 +1,4 @@
-Owlbear
+# Owlbear
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Fur and feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -30,6 +31,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** White fur and feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -52,6 +54,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Yellow fur and feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -73,6 +76,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** White fur and feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -94,6 +98,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Forelimb feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -116,6 +121,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -139,6 +145,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -166,6 +173,7 @@ Vigor d12+3
 **Edges:** Ambidextrous, Frenzy, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Fur and feathers.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -187,6 +195,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Fur and feathers.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -208,6 +217,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -231,6 +241,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -246,4 +257,3 @@ raise on an opposed Strength roll to escape.
 modifiers, disease, poison, and extra damage from called shots.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +2:** Increases Toughness by +2.
-

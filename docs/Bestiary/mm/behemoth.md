@@ -1,4 +1,4 @@
-Behemoth
+# Behemoth
 
 The tempest behemoth is a divine living weapon, sent forth to destroy
 castles and raze cities. It appears as a monstrous birdlike beast with
@@ -13,6 +13,7 @@ Throwing d12+4, Spellcasting d4
 Dodge, Level Headed, Strong Willed
 **Powers:** Blast (lightning storm)
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Bite:** Str+d8; Bleed.
 - **Talons:** Str+d8; Bleed.
@@ -50,6 +51,7 @@ Swimming d12+4, Shooting d12+3, Spellcasting d4
 Strong Willed
 **Powers:** Blast (tsunami)
 **Special Abilities**
+
 - **Armour +8:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -94,6 +96,7 @@ Throwing d12+2, Spellcasting d4
 Willed, War Cry
 **Powers:** Blast (earthquake)
 **Special Abilities**
+
 - **Armour +8:** Rock-like skin.
 - **Bite:** Str+d8; Grab.
 - **Horns:** Str+d8.
@@ -124,4 +127,3 @@ petrification, mind-affecting effects, aging and bleeding.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

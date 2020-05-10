@@ -1,4 +1,4 @@
-Umbral shepherd
+# Umbral shepherd
 
 Umbral shepherds look like shadowy humanoids with tentacles instead
 of limbs, although they prefer to possess host bodies in order to avoid
@@ -12,9 +12,9 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Touch:** Str+d4; Shadow Touch or Possession.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
 - **Flight:** Flying Pace of 6" and Climb 3.
 - **Weakness:** Light sensitive.
-

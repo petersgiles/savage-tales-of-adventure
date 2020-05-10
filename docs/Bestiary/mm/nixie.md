@@ -1,4 +1,4 @@
-Nixie
+# Nixie
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d10, Shooting d4, Faith d8
 **Edges:** Arcane Background (Miracles), Beast Master
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
 breathe air and survive indefinitely on land.
@@ -29,6 +30,7 @@ d10, Shooting d4, Faith d12
 **Edges:** Arcane Background (Miracles), Beast Master
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
@@ -47,6 +49,7 @@ Shooting d4, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Beast Master, Dodge
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 6", and cannot drown, but can also
@@ -54,4 +57,3 @@ breathe air and survive indefinitely on land.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Size -1:** Reduces Toughness by -1.
-

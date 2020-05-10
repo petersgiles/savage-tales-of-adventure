@@ -1,4 +1,4 @@
-Water elemental
+# Water elemental
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12, Innate Powers d6
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ Swimming d12, Innate Powers d6
 **Edges:** Arcane Background (Super Powers), Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -51,6 +53,7 @@ Swimming d12+3, Innate Powers d6
 Improved Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -73,6 +76,7 @@ Swimming d12+3, Innate Powers d6
 Improved Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -97,6 +101,7 @@ d10, Swimming d12+4, Innate Powers d6
 Sweep, Improved Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -121,6 +126,7 @@ Stealth d12+1, Swimming d12+7, Innate Powers d6
 Sweep, Improved Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -133,4 +139,3 @@ drowning.
 - **Size +8:** Forty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

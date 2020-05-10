@@ -1,4 +1,4 @@
-Kamadan
+# Kamadan
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -30,6 +31,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +2:** Black fur.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -52,6 +54,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Dodge, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -70,6 +73,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -84,4 +88,3 @@ to foe.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d8 damage.
 - **Size +3:** Nine feet long; Toughness +3.
-

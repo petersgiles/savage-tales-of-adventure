@@ -1,4 +1,4 @@
-Sloth
+# Sloth
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Fur.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Hardy:** A second Shaken result doesn't become a wound.
-

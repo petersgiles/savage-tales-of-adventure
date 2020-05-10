@@ -1,4 +1,4 @@
-Darnoc
+# Darnoc
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Stealth d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Curse of the Grave.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ one as well.
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

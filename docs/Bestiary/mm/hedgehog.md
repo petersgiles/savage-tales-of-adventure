@@ -1,4 +1,4 @@
-Hedgehog
+# Hedgehog
 
 No description for this creature yet.
 
@@ -9,8 +9,8 @@ Vigor d4
 **Hindrances:** Small (M)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

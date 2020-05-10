@@ -1,4 +1,4 @@
-Belker
+# Belker
 
 Belkers are a type of air elemental made of smoke, with glowing red
 eyes, shadowy claws and leathery wings.
@@ -10,6 +10,7 @@ d12
 **Edges:** Ambidextrous, Combat Reflexes
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Smoke Claws:** Str+d6.
@@ -20,4 +21,3 @@ extra damage from called shots.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Size +2:** Increases Toughness by +2.
-

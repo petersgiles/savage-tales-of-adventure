@@ -1,4 +1,4 @@
-Wight
+# Wight
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 (Religion) d8, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,6 +25,7 @@ No description for this creature yet.
 (Religion) d8, Stealth d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Gray skin.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -48,6 +50,7 @@ Survival d10
 **Charisma:** +1; **Pace:** 6; **Parry:** 7; **Toughness:** 16 (3)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -69,6 +72,7 @@ Vigor d10
 (Religion) d8, Stealth d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Slam:** Str+d6; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -87,6 +91,7 @@ Knowledge (Religion) d8, Stealth d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Gear:** Studded leather armour (+1), longsword (Str+d8; Energy Drain)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Create Spawn:** Anything slain by this creature is doomed to become
 one as well.
@@ -107,6 +112,7 @@ d10, Throwing d8
 Drain), masterwork throwing axe (Throwing; range 3/6/12; Str+d6)
 **Edges:** Brave, Level Headed, Sweep
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Create Spawn:** Anything slain by this creature is doomed to become
 one as well.
@@ -124,6 +130,7 @@ No description for this creature yet.
 (Religion) d8, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Pale flesh.
 - **Slam:** Str+d4; Cold; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -143,6 +150,7 @@ Survival d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (2)
 **Gear:** Greataxe (Str+d10; Parry -1)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -164,6 +172,7 @@ d10
 **Gear:** Unarmed (Str+d8; Energy Drain), flurry (Str+d8; Energy Drain)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Create Spawn:** Anything slain by this creature is doomed to become
@@ -187,6 +196,7 @@ Strong Willed
 Puppet, Quickness
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Energy Drain.
 - **Claws:** Str+d8; Energy Drain.
@@ -216,6 +226,7 @@ d12+1
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Dispel (plant trappings only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -229,4 +240,3 @@ damage.
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Very Tough:** +1 Toughness.
-

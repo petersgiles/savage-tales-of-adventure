@@ -1,4 +1,4 @@
-Imperial sea dragon
+# Imperial sea dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Persuasion d10, Stealth d12, Survival d10, Swimming d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -30,6 +31,7 @@ Stealth d10, Survival d10, Swimming d12+2
 **Charisma:** +1; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -54,6 +56,7 @@ Headed
 Slumber
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -80,6 +83,7 @@ Headed
 Manipulation (water), Slumber
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -109,6 +113,7 @@ Arcana (see invisibility), Elemental Manipulation (water), Invisibility,
 Pummel (wind), Puppet (living humanoids only), Slumber, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -143,6 +148,7 @@ Headed, Quick
 (living humanoids only), Slumber, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -175,6 +181,7 @@ Manipulation (water), Entangle (sleet storm), Invisibility, Pummel
 (wind), Puppet (living humanoids only), Quickness, Slumber, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -210,6 +217,7 @@ Invisibility, Pummel (wind), Puppet (living humanoids only), Quickness,
 Slumber, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -245,6 +253,7 @@ Invisibility, Obscure (illusion), Pummel (wind), Puppet (living
 humanoids only), Quickness, Slumber, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -279,6 +288,7 @@ Pummel (wind), Puppet (living humanoids only), Quickness, Slumber, Stun
 (daze), Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -313,6 +323,7 @@ Pummel (wind), Puppet (living humanoids only), Quickness, Slumber, Stun
 (daze), Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -347,6 +358,7 @@ Pummel (wind), Puppet (living humanoids only), Quickness, Slumber, Stun
 (daze), Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -363,4 +375,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +16:** 120 feet long; Toughness +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

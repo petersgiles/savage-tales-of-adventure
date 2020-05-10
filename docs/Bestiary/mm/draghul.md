@@ -1,4 +1,4 @@
-Draghul
+# Draghul
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+1, Stealth d10, Swimming d12+5, Spellcasting d8
 Arcana (sense magic), Light (dancing lights), Obscure (fog cloud),
 Pummel (wind)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Paralysis.
 - **Claws:** Str+d8; Paralysis.
@@ -34,4 +35,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

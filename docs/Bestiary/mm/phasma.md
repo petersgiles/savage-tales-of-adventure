@@ -1,4 +1,4 @@
-Phasma
+# Phasma
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d10
 Strong Willed
 **Powers:** Dispel
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Wisdom Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 7" and Climb 3.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

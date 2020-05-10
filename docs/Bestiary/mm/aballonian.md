@@ -24,4 +24,3 @@ disease, poison, and extra damage from called shots.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Weakness:** Sunlight dependency.
-

@@ -1,4 +1,4 @@
-Harpy
+# Harpy
 
 No description for this creature yet.
 
@@ -9,8 +9,8 @@ d6
 **Gear:** Leather armour (+1), morningstar (Str+d8)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Talons:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 11" and Climb 0.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

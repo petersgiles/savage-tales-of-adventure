@@ -1,4 +1,4 @@
-Scarecrow
+# Scarecrow
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4; Fear.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ roll to resist.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Fear:** Make a Spirit roll or suffer a level of Fatigue.
-

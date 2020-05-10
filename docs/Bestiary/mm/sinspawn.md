@@ -1,4 +1,4 @@
-Sinspawn
+# Sinspawn
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Survival d8, Tracking d8
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -31,6 +32,7 @@ Survival d8, Tracking d8
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -52,6 +54,7 @@ Survival d6, Tracking d6
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -71,6 +74,7 @@ Survival d6, Tracking d6
 **Charisma:** +1; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Sinful Bite.
@@ -92,6 +96,7 @@ d8, Survival d6, Tracking d6
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -113,6 +118,7 @@ Survival d8, Tracking d8
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -133,6 +139,7 @@ Survival d8, Tracking d8
 **Gear:** Ranseur (Str+d8)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinful Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -143,4 +150,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 against offensive magic.
 - **Immunity:** Mind-affecting effects.
 - **Sinful Bite:** Make a Spirit roll or suffer a level of Fatigue.
-

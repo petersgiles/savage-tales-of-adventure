@@ -1,4 +1,4 @@
-Hell hound
+# Hell hound
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Reddish-brown fur.
 - **Bite:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,6 +36,7 @@ Tracking d10
 **Gear:** Chainmail (+2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d8; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -51,4 +53,3 @@ Agility roll at -2 or suffer 2d10 fire damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

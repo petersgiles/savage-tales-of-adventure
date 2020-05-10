@@ -1,4 +1,4 @@
-Demon lord
+# Demon lord
 
 No description for this creature yet.
 
@@ -19,6 +19,7 @@ invisibility), Dispel, Flight (levitate), Lower Trait (curse),
 Invisibility, Obscure (darkness), Puppet, Slumber, Speak Language,
 Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -55,6 +56,7 @@ Frenzy, Quick, Strong Willed
 **Powers:** Barrier (fire), Blast (fire storm), Dispel, Fear, Obscure
 (darkness), Puppet, Speak Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Claws:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -86,6 +88,7 @@ Strong Willed
 **Powers:** Barrier (fire), Dispel, Intangibility, Mind Reading, Obscure
 (darkness), Puppet, Speak Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -119,6 +122,7 @@ Trait (curse), Mind Reading, Obscure (fog), Obscure (darkness), Obscure
 (fog cloud), Puppet, Puppet (living humanoids only), Speak Language,
 Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -157,6 +161,7 @@ Entangle, Fear (phantasmal killer), Light (dancing lights), Lower Trait
 Obscure (illusion), Obscure (darkness), Puppet, Slumber, Speak Language,
 Stun (daze), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Slams:** Str+d8.
 - **Bite:** Str+d8.
@@ -198,6 +203,7 @@ Entangle, Fear, Greater Healing, Lower Trait (curse), Invisibility, Mind
 Reading, Obscure (fog), Obscure (darkness), Puppet, Speak Language,
 Summon Ally, Summon Ally (skeletons and zombies), Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Slam:** Str+d8; Acid; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -240,6 +246,7 @@ Entangle (sleet storm), Flight (wind walk), Lower Trait (curse),
 Invisibility, Obscure (fog), Obscure (darkness), Obscure (fog cloud),
 Speak Language, Stun (daze), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -275,6 +282,7 @@ Headed, Sweep, Improved Sweep, Strong Willed
 Puppet, Speak Language, Summon Ally, Summon Ally (skeletons and
 zombies), Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Bite:** Str+d8; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -314,6 +322,7 @@ Reading, Mind Reading (speak with dead), Obscure (fog), Obscure
 (darkness), Pummel (wind), Puppet, Quickness, Speak Language, Summon
 Ally, Summon Ally (skeletons and zombies), Teleport, Puppet (undead)
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Sting:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -359,6 +368,7 @@ form), Obscure (fog), Obscure (darkness), Obscure (fog cloud), Puppet,
 Quickness, Slumber, Speak Language, Stun (daze), Summon Ally,
 Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Talons:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -396,6 +406,7 @@ Sweep
 Speak Language, Summon Ally, Summon Ally (skeletons and zombies),
 Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -433,6 +444,7 @@ Detect Arcana (sense magic), Dispel, Entangle, Fear, Lower Trait
 (curse), Mind Reading, Puppet (living humanoids only), Slumber, Speak
 Language, Stun (daze), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +7:** Demonic flesh.
 - **Bite:** Str+d8; Acid.
 - **Claws:** Str+d8; Acid.
@@ -478,6 +490,7 @@ d12+4, Survival d12+4, Swimming d12+2, Spellcasting d12
 **Powers:** Blast (ice storm), Dispel, Fear, Obscure (fog), Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -496,4 +509,3 @@ creatures.
 - **Size +4:** Twelve feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

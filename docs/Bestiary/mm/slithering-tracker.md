@@ -1,4 +1,4 @@
-Slithering tracker
+# Slithering tracker
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 8
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Slams:** Str+d4; Grab; Paralysis.
 - **Blindsense:** Can sense and approximately pinpoint things within
 12", attacks using blindsense are made at -2.
@@ -22,4 +23,3 @@ bonuses and mind-affecting effects.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Size -1:** Reduces Toughness by -1.
-

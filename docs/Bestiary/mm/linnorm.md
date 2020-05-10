@@ -1,4 +1,4 @@
-Linnorm
+# Linnorm
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Tracking d12+3, Swimming d12+6
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Level Headed, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -45,6 +46,7 @@ Vigor d12+3
 **Charisma:** +4; **Pace:** 7; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -83,6 +85,7 @@ d12+9, Swimming d12+10, Spellcasting d12
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Banish (plane shift self), Dispel
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -119,6 +122,7 @@ d12+7
 **Charisma:** +4; **Pace:** 6; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -156,6 +160,7 @@ Tracking d12+3, Swimming d12+8
 **Charisma:** +4; **Pace:** 7; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -192,6 +197,7 @@ d12+3, Swimming d12+2
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 31 (5)
 **Edges:** Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -230,6 +236,7 @@ Swimming d12+10
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 33 (6)
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -267,6 +274,7 @@ Swimming d12+10
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 33 (6)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bites:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -304,6 +312,7 @@ Tracking d12+6, Swimming d12+10
 **Charisma:** +4; **Pace:** 7; **Parry:** 10; **Toughness:** 34 (6)
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -333,4 +342,3 @@ mind-affecting effects.
 - **Size +18:** Fifty feet long; Toughness +18.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

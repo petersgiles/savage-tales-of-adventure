@@ -1,4 +1,4 @@
-Tangtal
+# Tangtal
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d8, Notice d8, Stealth d8, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Brown fur.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -15,4 +16,3 @@ d10
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
-

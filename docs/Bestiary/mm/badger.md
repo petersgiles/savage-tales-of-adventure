@@ -1,4 +1,4 @@
-Badger
+# Badger
 
 Badgers have short, fat bodies, with short legs that aid in digging.
 Their heads are elongated with small ears, and the length of their tail
@@ -10,6 +10,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 7
 **Edges:** Berserk
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Berserk, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Shaggy fur.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -37,4 +39,3 @@ Vigor d12
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Burrow:** Can burrow and reappear within 4".
-

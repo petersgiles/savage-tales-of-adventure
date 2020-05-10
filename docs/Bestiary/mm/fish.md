@@ -1,4 +1,4 @@
-Fish
+# Fish
 
 Giant archerfish are peaceful, solitary creatures. They are typically
 about three feet long, with silvery scales.
@@ -9,6 +9,7 @@ Vigor d8
 d4
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Water Spray:** Shooting; range 4/8/16; 2d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,6 +26,7 @@ Vigor d6
 **Skills:** Fighting d8, Notice d10, Tracking d10, Swimming d10
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -42,6 +44,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 12 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Grey skin.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -68,6 +71,7 @@ Vigor d6
 d10
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Brown scales.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -87,6 +91,7 @@ d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -101,6 +106,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 20 (3)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Bony scales.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -127,6 +133,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 10 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -155,6 +162,7 @@ d6
 **Gear:** Short sword (Str+d6; Con Bleed)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -173,6 +181,7 @@ Notice d8, Tracking d8, Swimming d8, Innate Powers d12
 **Edges:** Alertness, Arcane Background (Super Powers), Level Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -192,6 +201,7 @@ Vigor d6
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 2
 **Hindrances:** Small (M)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -209,6 +219,7 @@ d6
 **Skills:** Fighting d4, Swimming d6
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Aquatic:** Swimming Pace of 6", and cannot drown.
@@ -221,6 +232,7 @@ Vigor d8
 **Skills:** Fighting d8, Notice d8, Tracking d8, Swimming d12
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -229,4 +241,3 @@ Vigor d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
 - **Size +2:** Fifteen feet long; Toughness +2.
-

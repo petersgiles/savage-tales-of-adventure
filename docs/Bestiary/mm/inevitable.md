@@ -1,4 +1,4 @@
-Inevitable
+# Inevitable
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d8, Stealth d12, Spellcasting d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Divination
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -36,6 +37,7 @@ Persuasion d12+2, Survival d12+1, Spellcasting d6
 Headed, Quick
 **Powers:** Disguise (illusion), Entangle, Fear, Invisibility, Puppet
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -60,6 +62,7 @@ Level Headed, Two-Fisted
 **Powers:** Banish (plane shift self), Deflection (forcefield), Detect
 Arcana (sense magic), Dispel, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -91,6 +94,7 @@ d12+2, Spellcasting d8
 **Powers:** Banish (plane shift self), Blast (earthquake), Dispel, Fear,
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Revealing flesh.
 - **Slams:** Str+d8; Electricity or Sonic; Blindness or Deafness.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -119,6 +123,7 @@ Spellcasting d6
 Level Headed
 **Powers:** Dispel, Entangle, Fear
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -135,4 +140,3 @@ damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

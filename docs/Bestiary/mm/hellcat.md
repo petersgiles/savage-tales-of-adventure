@@ -1,4 +1,4 @@
-Hellcat
+# Hellcat
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d12, Tracking d12+1, Swimming d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6; Grab.
@@ -28,4 +29,3 @@ against offensive magic.
 creatures.
 - **Resistance:** -2 damage from fire.
 - **Size +3:** Nine feet long; Toughness +3.
-

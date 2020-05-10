@@ -1,4 +1,4 @@
-Child of the briar
+# Child of the briar
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ surfaces with Pace 4".
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

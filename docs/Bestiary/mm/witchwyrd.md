@@ -1,4 +1,4 @@
-Witchwyrd
+# Witchwyrd
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12
 **Powers:** Armor, Deflection (displacement), Detect Arcana (sense
 magic), Dispel, Puppet, Teleport
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Slams:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ magic), Dispel, Puppet, Teleport
 raise on an opposed Strength roll to escape.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +1:** Seven feet tall; Toughness +1.
-

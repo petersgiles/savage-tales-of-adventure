@@ -1,4 +1,4 @@
-Bog strider
+# Bog strider
 
 Bog striders are beetlemen with two arms and four legs. They are
 slightly shorter than most humans, with spindly limbs and gray-brown
@@ -13,6 +13,7 @@ d10, Throwing d4
 3/6/12; Str+d6)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,6 +36,7 @@ Survival d8, Swimming d10, Throwing d4, Faith d12
 **Edges:** Arcane Background (Miracles), Dodge
 **Powers:** Elemental Manipulation (water), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -42,4 +44,3 @@ Survival d8, Swimming d10, Throwing d4, Faith d12
 24" that's in contact with the ground.
 - **Water Stride:** Can move across water as if it were solid ground.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
-

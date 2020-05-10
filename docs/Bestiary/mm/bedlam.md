@@ -1,4 +1,4 @@
-Bedlam
+# Bedlam
 
 The form of a bedlam shifts and swirls, sometimes appearing as a
 vaguely humanoid form and other times looking like a cloud of swirling
@@ -10,6 +10,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ Vigor d10
 Agility roll at -2 or suffer 2d8 chaos burst damage.
 - **Immunities:** Shapechanging and petrification.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Algoid
+# Algoid
 
 The algoid is a green humanoid creature composed of algae. Its skin
 is rough and leafy, providing it with excellent camouflage when in its
@@ -11,6 +11,7 @@ d10
 **Edges:** Arcane Background (Psionics), Frenzy, Strong Willed
 **Powers:** Bolt (energy push), Detect Arcana (sense psionics)
 **Special Abilities**
+
 - **Armour +2:** Rough skin.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ d10
 and extra damage from called shots.
 - **Immunities:** Electricity and fire.
 - **Weakness:** Water.
-

@@ -1,4 +1,4 @@
-Terror wolf
+# Terror wolf
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Go for the Throat:** Target least armoured location on a raise.
 - **Fear:** Anyone who sees this creature must make a Fear check.
 - **Immunity:** Fear.
-

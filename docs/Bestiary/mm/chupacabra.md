@@ -1,4 +1,4 @@
-Chupacabra
+# Chupacabra
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -27,6 +28,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -47,6 +49,7 @@ d10
 **Charisma:** +1; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4; Grab.
@@ -57,4 +60,3 @@ raise on an opposed Strength roll to escape.
 - **Pounce:** +4 attack/damage and -2 Parry when first moving adjacent
 to foe.
 - **Flight:** Flying Pace of 9" and Climb 0.
-

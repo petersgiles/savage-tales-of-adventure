@@ -1,4 +1,4 @@
-Pseudodragon
+# Pseudodragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 Survival d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Sting:** Str; Poison.
 - **Bite:** Str.
@@ -23,4 +24,3 @@ against offensive magic.
 - **Size -2:** One foot long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

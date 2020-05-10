@@ -1,4 +1,4 @@
-Siren
+# Siren
 
 No description for this creature yet.
 
@@ -10,10 +10,10 @@ d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Assassin, Dodge, Frenzy, Quick
 **Powers:** Fear, Puppet (living humanoids only), Slumber
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Talons:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb 2.
 - **Immunity:** Mind-affecting effects.
-

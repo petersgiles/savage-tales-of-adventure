@@ -1,4 +1,4 @@
-Gorilla bear
+# Gorilla bear
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Dark fur.
 - **Claws:** Str+d6; Constrict.
 - **Bite:** Str+d6.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 that, they require a raise on an opposed Strength roll to escape.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Eight feet tall; Toughness +2.
-

@@ -1,4 +1,4 @@
-Drow
+# Drow
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Light (dancing lights), Obscure (darkness)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Arcane Resistance:** +1 to resist opposed magic, and +1 armour
 against offensive magic.
@@ -34,6 +35,7 @@ longbow (Shooting; range 15/30/60; 2d6)
 Light (dancing lights), Lower Trait (Strength), Invisibility, Obscure
 (darkness), Puppet, Stun (daze)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -63,10 +65,10 @@ Poison)
 Fear, Flight (levitate), Healing, Light (dancing lights), Obscure
 (darkness), Puppet
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Arcane Resistance:** +2 to resist opposed magic, and +2 armour
 against offensive magic.
 - **Immunity:** Sleep.
 - **Poison:** Hand crossbow inflicts lethal poison if foe is Shaken or
 wounded.
-

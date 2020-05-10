@@ -1,4 +1,4 @@
-Fungus queen
+# Fungus queen
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Frenzy, Level Headed
 humanoids only), Speak Language
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
@@ -30,4 +31,3 @@ and extra damage from called shots.
 against offensive magic.
 - **Immunity:** Electricity.
 - **Resistances:** -2 damage from acid and cold.
-

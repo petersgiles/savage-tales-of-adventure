@@ -1,4 +1,4 @@
-Marsh jelly
+# Marsh jelly
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy, Improved Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ d12+1, Tracking d12+4
 **Charisma:** -; **Pace:** 1; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Alertness, Frenzy, Improved Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Acid; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,4 +52,3 @@ creatures.
 - **Poison:** Tentacles inflict lethal poison if foe is Shaken or
 wounded.
 - **Size +3:** Increases Toughness by +3.
-

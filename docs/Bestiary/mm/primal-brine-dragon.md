@@ -1,4 +1,4 @@
-Primal brine dragon
+# Primal brine dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8, Survival d8, Swimming d12+2
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 4 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -31,6 +32,7 @@ d10, Persuasion d10, Survival d10, Swimming d12+3, Spellcasting d10
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -51,6 +53,7 @@ d10, Persuasion d10, Survival d10, Swimming d12+4, Spellcasting d10
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Beast Friend, Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -73,6 +76,7 @@ d12, Persuasion d12, Survival d12, Swimming d12+6, Spellcasting d12
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Beast Friend, Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -95,6 +99,7 @@ Spellcasting d12
 **Powers:** Beast Friend, Detect Arcana (sense magic), Disguise
 (shapechange), Lower Trait (Strength), Invisibility
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -122,6 +127,7 @@ Survival d12+1, Swimming d12+8, Spellcasting d12
 (shapechange), Entangle (sleet storm), Flight (feather fall), Lower
 Trait (Strength), Invisibility
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -153,6 +159,7 @@ Survival d12+2, Swimming d12+9, Spellcasting d12
 magic), Disguise (shapechange), Entangle (sleet storm), Flight (feather
 fall), Lower Trait (Strength), Invisibility, Mind Reading, Slumber
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -181,6 +188,7 @@ magic), Disguise (shapechange), Dispel, Entangle (sleet storm), Flight
 (feather fall), Lower Trait (Strength), Invisibility, Mind Reading,
 Slumber, Teleport
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -211,6 +219,7 @@ magic), Disguise (shapechange), Dispel, Entangle (sleet storm), Flight
 (feather fall), Lower Trait (Strength), Invisibility, Mind Reading,
 Slumber, Teleport
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -241,6 +250,7 @@ magic), Disguise (shapechange), Dispel, Entangle (sleet storm), Flight
 (feather fall), Lower Trait (Strength), Invisibility, Mind Reading,
 Obscure (fog), Slumber, Teleport
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Str.
 - **Claws:** Str+d8.
@@ -274,6 +284,7 @@ Detect Arcana (sense magic), Disguise (shapechange), Dispel, Entangle
 Invisibility, Mind Reading, Obscure (fog), Slumber, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Str.
 - **Claws:** Str+d8.
@@ -304,6 +315,7 @@ Dispel, Entangle (sleet storm), Flight (feather fall), Lower Trait
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8; Str; Stun.
 - **Claws:** Str+d8; Stun.
@@ -318,4 +330,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

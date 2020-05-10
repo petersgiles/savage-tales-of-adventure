@@ -1,4 +1,4 @@
-Ugash-iram
+# Ugash-iram
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Stealth d12+2, Swimming d12+2, Spellcasting d8
 Sweep
 **Powers:** Lower Trait (curse), Puppet
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ raise on an opposed Strength roll to escape.
 - **Size +14:** Increases Toughness by +14.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

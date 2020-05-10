@@ -1,4 +1,4 @@
-Riptide horror
+# Riptide horror
 
 This creature looks like a man-sized tubeworm, with gnashing fangs
 and six long tentacles.
@@ -12,6 +12,7 @@ Spellcasting d6
 Headed, Strong Willed
 **Powers:** Wall Walker
 **Special Abilities**
+
 - **Armour +2:** Tough grayish-tan flesh.
 - **Tentacles:** Str+d4; Reach 1"; Grab; Poison.
 - **Bites:** Str+d4.
@@ -23,4 +24,3 @@ breathe air and survive indefinitely on land.
 - **Weakness:** Electricity (double damage).
 - **Poison:** Tentacles inflict lethal poison if foe is Shaken or
 wounded.
-

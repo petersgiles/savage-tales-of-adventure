@@ -1,4 +1,4 @@
-Sentinel hut
+# Sentinel hut
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** +1; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (3)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Slam:** Str+d8.
@@ -31,4 +32,3 @@ disease, poison, and extra damage from called shots.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

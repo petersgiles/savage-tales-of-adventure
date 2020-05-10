@@ -1,4 +1,4 @@
-Crab
+# Crab
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,6 +27,7 @@ d12+1
 **Gear:** Barb ranged (Str+d8; Poison; Rng)
 **Edges:** Frenzy, Marksman
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -45,6 +47,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 7 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -64,6 +67,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -82,6 +86,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -101,6 +106,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 22 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -122,6 +128,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 5 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -143,6 +150,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -161,6 +169,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -180,6 +189,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 20 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -201,6 +211,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 30 (5)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Powerful Claws:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -224,6 +235,7 @@ Swimming d10, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -231,4 +243,3 @@ Swimming d10, Innate Powers d10
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Immunity:** Mind-affecting effects.
-

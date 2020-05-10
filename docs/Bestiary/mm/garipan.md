@@ -1,4 +1,4 @@
-Garipan
+# Garipan
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+3, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Improved Dodge
 **Powers:** Barrier (fire)
 **Special Abilities**
+
 - **Armour +3:** Stone skin.
 - **Bite:** Str+d4; Burn.
 - **Claws:** Str+d4.
@@ -21,4 +22,3 @@ Agility roll at -2 or suffer 2d6 fire damage.
 - **Immunity:** Poison.
 - **Weakness:** Sonic (double damage).
 - **Resistances:** -1 damage from acid, cold, fire and sonic.
-

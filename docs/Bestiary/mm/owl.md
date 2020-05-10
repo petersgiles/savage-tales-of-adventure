@@ -1,4 +1,4 @@
-Owl
+# Owl
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 3
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Talons:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 9" and Climb 0.
@@ -23,9 +24,9 @@ Vigor d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 6 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 9" and Climb 0.
 - **Size -1:** Reduces Toughness by -1.
-

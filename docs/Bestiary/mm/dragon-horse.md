@@ -1,4 +1,4 @@
-Dragon horse
+# Dragon horse
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Charisma:** +4; **Pace:** 9; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Hooves:** Str+d4; Electricity.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ d12
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d8 damage.
 - **Size +3:** Increases Toughness by +3.
-

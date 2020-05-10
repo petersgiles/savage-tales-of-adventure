@@ -1,4 +1,4 @@
-Gorbel
+# Gorbel
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Reddish skin.
 - **Claws:** Str+d4; Grab.
 - **Bite:** Str+d4.
@@ -16,4 +17,3 @@ raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 9" and Climb 0.
 - **Immunity:** Gang Up bonuses.
 - **Size -1:** Reduces Toughness by -1.
-

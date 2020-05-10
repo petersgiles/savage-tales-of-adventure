@@ -1,4 +1,4 @@
-Mawler
+# Mawler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 5 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -16,4 +17,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

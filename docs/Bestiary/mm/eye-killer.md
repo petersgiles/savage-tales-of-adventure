@@ -1,4 +1,4 @@
-Eye killer
+# Eye killer
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d8, Notice d10, Stealth d8, Shooting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Green fur.
 - **Tail Slap:** Str+d6; Constrict.
 - **Eye Ray:** Shooting; range 12/24/48; 2d6; Death Gaze.
@@ -27,6 +28,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Obscure (darkness)
 **Special Abilities**
+
 - **Armour +2:** Green fur.
 - **Tail Slap:** Str+d6; Constrict.
 - **Eye Ray:** Shooting; range 12/24/48; 2d6; Death Gaze.
@@ -36,4 +38,3 @@ Spellcasting d6
 that, they require a raise on an opposed Strength roll to escape.
 - **Weakness:** Vulnerable to sunlight.
 - **Death Gaze:** Make a Vigor roll or suffer a level of Fatigue.
-

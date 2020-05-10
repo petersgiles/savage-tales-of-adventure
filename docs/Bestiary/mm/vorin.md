@@ -1,4 +1,4 @@
-Vorin
+# Vorin
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 18 (2)
 **Edges:** Alertness, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Pulpy flesh.
 - **Sting:** Str+d10; Poison.
 - **Bite:** Str+d10.
@@ -22,4 +23,3 @@ wounded.
 - **Size +7:** Thirty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

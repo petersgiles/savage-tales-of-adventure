@@ -1,4 +1,4 @@
-Dracolisk
+# Dracolisk
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 12 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -20,4 +21,3 @@ Agility roll at -2 or suffer 2d6 acid damage.
 - **Gaze Attack:** All creatures within 12" must make a Spirit roll to
 resist.
 - **Immunities:** Acid, sleep and paralysis.
-

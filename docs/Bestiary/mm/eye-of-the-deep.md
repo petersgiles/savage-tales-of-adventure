@@ -1,4 +1,4 @@
-Eye of the deep
+# Eye of the deep
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10, Survival d12, Swimming d12+2, Shooting d6, Innate Powers d8
 Quick, Strong Willed
 **Powers:** Stun (uses Cone Template)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Pincers:** Str+d6; Constrict.
 - **Bite:** Str+d6.
@@ -20,4 +21,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Aquatic:** Swimming Pace of 14", and cannot drown.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
-

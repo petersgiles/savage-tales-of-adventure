@@ -1,4 +1,4 @@
-Chromatic white dragon
+# Chromatic white dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 9; **Parry:** 4; **Toughness:** 5 (1)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -31,6 +32,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -52,6 +54,7 @@ Swimming d12+2
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -73,6 +76,7 @@ Stealth d12, Swimming d12+3, Spellcasting d6
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -94,6 +98,7 @@ Stealth d10, Swimming d12+4, Spellcasting d6
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Obscure (fog cloud), Pummel (wind)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -120,6 +125,7 @@ Stealth d10, Swimming d12+5, Spellcasting d8
 (sense magic), Light (dancing lights), Obscure (fog cloud), Pummel
 (wind)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -150,6 +156,7 @@ d12+1, Stealth d12, Swimming d12+6, Spellcasting d8
 (sense magic), Light (dancing lights), Obscure (fog cloud), Pummel
 (wind)
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -180,6 +187,7 @@ d12+2, Stealth d10, Swimming d12+7, Spellcasting d8
 (sense magic), Light (dancing lights), Invisibility, Obscure (fog
 cloud), Pummel (wind)
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -211,6 +219,7 @@ d12+3, Stealth d12, Swimming d12+7, Spellcasting d8
 Light (dancing lights), Invisibility, Obscure (fog cloud), Pummel
 (wind)
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -243,6 +252,7 @@ d10
 Detect Arcana (see invisibility), Dispel, Light (dancing lights),
 Invisibility, Obscure (fog cloud), Pummel (wind), Teleport
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -276,6 +286,7 @@ Spellcasting d10
 Detect Arcana (see invisibility), Dispel, Light (dancing lights),
 Invisibility, Obscure (fog cloud), Pummel (wind), Teleport
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -310,6 +321,7 @@ d12+8, Spellcasting d12
 (dancing lights), Invisibility, Obscure (fog), Obscure (fog cloud),
 Pummel (wind), Teleport
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -328,4 +340,3 @@ Agility roll at -2 or suffer 2d12 cold damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

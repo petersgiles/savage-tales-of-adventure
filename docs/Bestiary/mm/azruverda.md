@@ -1,4 +1,4 @@
-Azruverda
+# Azruverda
 
 Azruverdas look like giant beetles with humanoid heads. They are
 usually peaceful and solitary, cultivating underground fungus gardens.
@@ -13,6 +13,7 @@ Spellcasting d8
 Marksman, Strong Willed
 **Powers:** Light (dancing lights), Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Beetle carapace.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -27,4 +28,3 @@ surfaces with Pace 6".
 - **Size +8:** Sixteen feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

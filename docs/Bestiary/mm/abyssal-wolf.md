@@ -1,4 +1,4 @@
-Abyssal wolf
+# Abyssal wolf
 
 Abyssal wolves are bigger than regular lupines, with fiery eyes and
 dark blood-stained fur.
@@ -9,6 +9,7 @@ d12+1
 **Charisma:** +2; **Pace:** 8; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Blackish-blue fur.
 - **Bite:** Str+d6; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -28,4 +29,3 @@ creatures.
 to resist.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Five feet tall; Toughness +2.
-

@@ -1,4 +1,4 @@
-Hippogriff
+# Hippogriff
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -18,4 +19,3 @@ Vigor d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 13" and Climb 0.
 - **Size +2:** Eleven feet long; Toughness +2.
-

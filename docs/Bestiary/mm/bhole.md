@@ -1,4 +1,4 @@
-Bhole
+# Bhole
 
 Bholes are massive worms with viciously hooked jaws. Their breath
 weapon is thick slime, which can cause victims to become Shaken but
@@ -10,6 +10,7 @@ Vigor d12+3
 **Charisma:** +4; **Pace:** 8; **Parry:** 8; **Toughness:** 33 (7)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Slam:** Str+d8.
@@ -37,4 +38,3 @@ magical control.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

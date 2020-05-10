@@ -1,4 +1,4 @@
-Nightcaller
+# Nightcaller
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str.
 - **Talons:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -15,4 +16,3 @@ d8
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Dinosaur
+# Dinosaur
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Alertness, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -31,6 +32,7 @@ Vigor d12
 **Skills:** Fighting d8, Notice d12, Tracking d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 18 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tail:** Str+d8; Stun.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -51,6 +53,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 22 (3)
 **Edges:** Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tail:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -70,6 +73,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 23 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Stomp:** Str+d8.
 - **Tail:** Str+d8.
@@ -88,6 +92,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 4
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -107,6 +112,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Talons:** Str+d4.
 - **Bite:** Str+d4.
@@ -126,6 +132,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -142,6 +149,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 18 (2)
 **Edges:** Dodge, Improved Dodge, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -163,6 +171,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 17 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -182,6 +191,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 23 (4)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -211,6 +221,7 @@ Vigor d12+3
 **Charisma:** +4; **Pace:** 9; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Talons:** Str+d6.
 - **Bite:** Str+d6.
@@ -232,6 +243,7 @@ Vigor d12
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6.
@@ -247,6 +259,7 @@ Vigor d12
 **Skills:** Fighting d8, Notice d8, Stealth d4, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -263,6 +276,7 @@ Vigor d12
 **Skills:** Fighting d8, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 16 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tail:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -281,6 +295,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 22 (4)
 **Edges:** Hard to Kill, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -315,6 +330,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tail:** Str+d8; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -334,6 +350,7 @@ Vigor d12+1
 **Skills:** Fighting d10, Notice d12+3, Tracking d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -355,6 +372,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 22 (3)
 **Edges:** Dodge, Improved Dodge, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -383,6 +401,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 21 (3)
 **Edges:** Hard to Kill, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -412,6 +431,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 9; **Parry:** 4; **Toughness:** 6
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Talons:** Str+d4.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -422,4 +442,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Pounce:** +4 attack/damage and -2 Parry when first moving adjacent
 to foe.
 - **Size -1:** Reduces Toughness by -1.
-

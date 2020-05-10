@@ -1,4 +1,4 @@
-Wendigo
+# Wendigo
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12
 **Edges:** Arcane Background (Magic), Level Headed, Quick, War Cry
 **Powers:** Flight (wind walk), Obscure (fog)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Cold; Grab.
 - **Claws:** Str+d8; Cold.
@@ -32,4 +33,3 @@ damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

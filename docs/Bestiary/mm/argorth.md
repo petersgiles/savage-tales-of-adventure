@@ -1,4 +1,4 @@
-Argorth
+# Argorth
 
 The argorth is a massive thrashing worm covered in tentacles and bone
 hooks. Its gaping maw is ringed with three vast mandibles, and contains
@@ -10,6 +10,7 @@ Vigor d12+2
 **Charisma:** +4; **Pace:** 7; **Parry:** 7; **Toughness:** 22 (4)
 **Edges:** Combat Reflexes, Sweep
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Tail Slam:** Str+d8.
@@ -52,6 +53,7 @@ Vigor d12+2
 **Charisma:** +4; **Pace:** 7; **Parry:** 7; **Toughness:** 22 (4)
 **Edges:** Combat Reflexes, Sweep
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Tail Slam:** Str+d8.
@@ -84,4 +86,3 @@ effects.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

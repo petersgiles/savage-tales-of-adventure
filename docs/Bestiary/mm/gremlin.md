@@ -1,4 +1,4 @@
-Gremlin
+# Gremlin
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8
 **Gear:** Shortsword (Str+d6)
 **Edges:** Assassin
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -27,6 +28,7 @@ d10, Faith d8
 **Edges:** Arcane Background (Miracles), Frenzy, Level Headed
 **Powers:** Elemental Manipulation (water), Slumber
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -52,6 +54,7 @@ Swimming d6
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 4
 **Gear:** Rock (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 5" and Climb -2.
@@ -72,6 +75,7 @@ Lockpicking d8, Spellcasting d8
 **Edges:** Arcane Background (Magic), Assassin, Dodge
 **Powers:** Teleport
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -90,6 +94,7 @@ d10
 d8, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4; Go for the Throat.
@@ -115,6 +120,7 @@ d12+1, Lockpicking d4, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Arcane Resistance:** +1 to resist opposed magic, and +1 armour
@@ -132,6 +138,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 6 (1)
 **Gear:** Warhammer (Str+d6; AP 2)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -144,4 +151,3 @@ against offensive magic.
 - **Size -2:** 1½ feet tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

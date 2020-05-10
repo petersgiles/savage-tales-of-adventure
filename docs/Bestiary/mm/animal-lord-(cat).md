@@ -1,4 +1,4 @@
-Animal lord (cat)
+# Animal lord (cat)
 
 The Cat Lord is the lord of all felines. His natural form is that of
 a black panther, but he can also assume human form.
@@ -14,6 +14,7 @@ Frenzy, Level Headed, Quick, Strong Willed, War Cry
 **Powers:** Beast Friend, Deflection (blur), Invisibility,
 Intangibility, Quickness, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Bite:** Str+d4.
@@ -47,6 +48,7 @@ Headed, Quick, Strong Willed
 **Powers:** Deflection (blur), Invisibility, Intangibility, Quickness,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 40").
@@ -57,4 +59,3 @@ surfaces with Pace 6".
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

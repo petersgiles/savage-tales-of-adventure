@@ -1,4 +1,4 @@
-Mimic
+# Mimic
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Adhesive.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,6 +24,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 20 (3)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d10.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,4 +37,3 @@ surfaces with Pace 4".
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

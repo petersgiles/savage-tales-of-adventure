@@ -1,4 +1,4 @@
-Tunnel worm
+# Tunnel worm
 
 Tunnel worms look like gigantic centipedes. They live in underground
 burrows, and are extremely aggressive.
@@ -9,6 +9,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 18 (2)
 **Edges:** Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ raise on an opposed Strength roll to escape.
 - **Size +6:** Thirty feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

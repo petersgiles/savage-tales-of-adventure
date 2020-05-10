@@ -1,4 +1,4 @@
-Tobongo
+# Tobongo
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+3
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Strong Willed
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d10; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ and extra damage from called shots.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

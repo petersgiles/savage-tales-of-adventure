@@ -1,4 +1,4 @@
-Trench newt
+# Trench newt
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+2, Spellcasting d8
 **Powers:** Divination, Obscure (darkness)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tentacles:** Str+d6; Reach 1"; Grab.
@@ -22,4 +23,3 @@ raise on an opposed Strength roll to escape.
 Agility roll at -2 or suffer 2d8 acid damage.
 - **Resistances:** -1 damage from acid and cold.
 - **Size +2:** Increases Toughness by +2.
-

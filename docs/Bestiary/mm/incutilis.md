@@ -1,4 +1,4 @@
-Incutilis
+# Incutilis
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 4 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Crimson-streaked flesh.
 - **Tentacles:** Str; Reach 1"; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ breathe air and survive indefinitely on land.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

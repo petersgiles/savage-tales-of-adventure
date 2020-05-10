@@ -1,4 +1,4 @@
-Slaad lord
+# Slaad lord
 
 No description for this creature yet.
 
@@ -16,6 +16,7 @@ Headed, Quick, Sweep, Improved Sweep, Strong Willed
 Arcana (sense magic), Detect Arcana (see invisibility), Fear,
 Invisibility, Obscure (darkness), Summon Ally
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -46,6 +47,7 @@ Frenzy, Level Headed, Sweep, Improved Sweep
 Detect Arcana (see invisibility), Invisibility, Obscure (darkness),
 Summon Ally
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Slam:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,4 +64,3 @@ against offensive magic.
 - **Resistances:** -2 damage from acid, cold, electricity, fire and
 sonic.
 - **Energy Drain:** Make a Vigor roll or suffer a level of Fatigue.
-

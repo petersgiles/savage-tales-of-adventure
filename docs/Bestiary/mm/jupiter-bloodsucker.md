@@ -1,4 +1,4 @@
-Jupiter bloodsucker
+# Jupiter bloodsucker
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Vine leaves (Str+d8; Draining; Grab)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Blindsense:** Can sense and approximately pinpoint things within
 12", attacks using blindsense are made at -2.
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 and extra damage from called shots.
 - **Weakness:** Fire (double damage).
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
-

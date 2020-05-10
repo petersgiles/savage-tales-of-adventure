@@ -1,4 +1,4 @@
-Cerebric fungus
+# Cerebric fungus
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d10
 **Powers:** Mind Reading
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Tendrils:** Str+d4; Reach 1"; Pull.
@@ -22,4 +23,3 @@ and extra damage from called shots.
 - **Resistance:** -1 damage from cold.
 - **Pull:** On a raise, the victim can be automatically moved adjacent
 to this creature as if pushed.
-

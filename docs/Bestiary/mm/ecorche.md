@@ -1,4 +1,4 @@
-Ecorche
+# Ecorche
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** +4; **Pace:** 6; **Parry:** 8; **Toughness:** 19 (4)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Skin.
 - **Claws:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ bleeding and death magic.
 - **Size +4:** 8½ feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

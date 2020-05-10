@@ -1,4 +1,4 @@
-Tiefling
+# Tiefling
 
 No description for this creature yet.
 
@@ -12,6 +12,6 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Arcane Background (Magic), Assassin, Thief
 **Powers:** Obscure (darkness)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistances:** -1 damage from cold, electricity and fire.
-

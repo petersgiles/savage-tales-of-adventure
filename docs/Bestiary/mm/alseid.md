@@ -1,4 +1,4 @@
-Alseid
+# Alseid
 
 The alseid is a centaur-like creature, with the upper body of an elf
 and the lower body of a deer. Male alseid have antlers, which are used
@@ -13,6 +13,6 @@ Stealth d8, Survival d8, Tracking d8, Shooting d6
 Parry +1), composite shortbow (Shooting; range 12/24/48; 2d6)
 **Edges:** Beast Master, Marksman, Woodsman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Trackless:** Leaves no tracks in its natural environment.
-

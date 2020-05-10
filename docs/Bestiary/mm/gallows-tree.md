@@ -1,4 +1,4 @@
-Gallows tree
+# Gallows tree
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 22 (4)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,6 +32,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Gray-green skin.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,4 +41,3 @@ d8
 12" that's in contact with the ground.
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
-

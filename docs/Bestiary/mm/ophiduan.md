@@ -1,4 +1,4 @@
-Ophiduan
+# Ophiduan
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ medium shield (+1 Parry), masterwork longbow (Shooting; range 15/30/60;
 **Edges:** Arcane Background (Magic), Dodge, Hard to Kill, Level Headed
 **Powers:** Entangle, Obscure (darkness), Slumber
 **Special Abilities**
+
 - **Armour +2:** Scales.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -39,6 +40,7 @@ Shooting d8, Spellcasting d12
 **Powers:** Disguise (shapechange), Entangle, Obscure (darkness),
 Slumber
 **Special Abilities**
+
 - **Armour +1:** Supple scales.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -59,6 +61,7 @@ d8, Shooting d6, Spellcasting d6
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Obscure (darkness), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -68,4 +71,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 against offensive magic.
 - **Immunity:** Poison.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

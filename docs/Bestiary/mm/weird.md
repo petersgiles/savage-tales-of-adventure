@@ -1,4 +1,4 @@
-Weird
+# Weird
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 **Edges:** Alertness, Arcane Background (Super Powers), Level Headed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Glistening scales.
 - **Bite:** Str+d8; Siphon; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -31,6 +32,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 9 (1)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -51,6 +53,7 @@ d10
 **Charisma:** +1; **Pace:** 7; **Parry:** 8; **Toughness:** 13 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -73,6 +76,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 8; **Toughness:** 11 (2)
 **Edges:** Alertness, Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Electricity; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -84,4 +88,3 @@ raise on an opposed Strength roll to escape.
 extra damage from called shots.
 - **Immunity:** Electricity.
 - **Size +2:** Ten feet long; Toughness +2.
-

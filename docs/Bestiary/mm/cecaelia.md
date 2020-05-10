@@ -1,4 +1,4 @@
-Cecaelia
+# Cecaelia
 
 Cecaelias look like humanoids from the waist up, but their lower body
 has the tentacles of an octopus.
@@ -12,6 +12,7 @@ Throwing d6
 spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ spear (Throwing; range 3/6/12; Str+d6)
 raise on an opposed Strength roll to escape.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
 breathe air and survive indefinitely on land.
-

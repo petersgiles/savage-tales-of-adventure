@@ -1,4 +1,4 @@
-Afanc
+# Afanc
 
 Afancs are massive magical fish, with hard blue scales and whale-like
 heads.
@@ -9,6 +9,7 @@ d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 18 (2)
 **Edges:** Alertness, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Blue scales.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8.
@@ -18,4 +19,3 @@ d12+2
 - **Size +7:** Twenty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Niln
+# Niln
 
 No description for this creature yet.
 
@@ -10,10 +10,10 @@ d8
 Willed
 **Powers:** Dispel (fire effects), Obscure (fog cloud)
 **Special Abilities**
+
 - **Slam:** Str+d4.
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
 - **Elemental:** Immune to fear, ignore wound modifiers, poison, and
 extra damage from called shots.
 - **Flight:** Flying Pace of 9" and Climb 3.
-

@@ -1,4 +1,4 @@
-Living lake
+# Living lake
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Stealth d12, Survival d12+7
 **Edges:** Alertness, Frenzy, Improved Frenzy, Level Headed, Quick,
 Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d10; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -30,4 +31,3 @@ bonuses, gaze attacks and visual effects.
 - **Size +18:** Increases Toughness by +18.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

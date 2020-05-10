@@ -1,4 +1,4 @@
-Denizen of leng
+# Denizen of leng
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Repair d10, Stealth d12+1, Lockpicking d12, Spellcasting d12
 **Powers:** Banish (plane shift self), Confusion (hypnotic pattern),
 Flight (levitate), Mind Reading, Speak Language
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Dexterity Drain.
 - **Claws:** Str+d4.
@@ -22,4 +23,3 @@ creatures.
 - **Immunity:** Poison.
 - **Resistances:** -6 damage from cold and electricity.
 - **Dexterity Drain:** Make a Vigor roll or suffer a level of Fatigue.
-

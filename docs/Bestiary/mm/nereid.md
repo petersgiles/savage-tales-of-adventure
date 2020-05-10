@@ -1,4 +1,4 @@
-Nereid
+# Nereid
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+3, Swimming d12+2, Shooting d6, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Improved Dodge
 **Powers:** Puppet, Summon Ally
 **Special Abilities**
+
 - **Touch:** Str+d4; Poison.
 - **Spray:** Shooting; range 4/8/16; 2d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ against offensive magic.
 - **Immunities:** Cold and poison.
 - **Poison:** Touch and spray inflict lethal poison if foe is Shaken or
 wounded.
-

@@ -1,4 +1,4 @@
-Dolgaunt
+# Dolgaunt
 
 No description for this creature yet.
 
@@ -8,9 +8,9 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Combat Reflexes, Frenzy
 **Special Abilities**
+
 - **Armour +1:** A-coloured skin.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
-

@@ -1,4 +1,4 @@
-Kuru
+# Kuru
 
 No description for this creature yet.
 
@@ -10,7 +10,7 @@ Survival d6
 **Gear:** Club (Str+d8)
 **Edges:** Berserk, Quick
 **Special Abilities**
+
 - **Bite:** Str+d4; Cannibalistic Vitality.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Weakness:** Light sensitive.
-

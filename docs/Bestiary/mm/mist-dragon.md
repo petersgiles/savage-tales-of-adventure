@@ -1,4 +1,4 @@
-Mist dragon
+# Mist dragon
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Persuasion d12, Repair d12, Swimming d12+3, Spellcasting d10
 **Powers:** Elemental Manipulation (water)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -39,6 +40,7 @@ invisibility), Elemental Manipulation (water), Invisibility, Obscure
 (fog cloud), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -76,6 +78,7 @@ Mind Reading, Mind Reading (speak with dead), Obscure (fog), Obscure
 (fog cloud), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -94,4 +97,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

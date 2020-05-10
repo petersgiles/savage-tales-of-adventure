@@ -1,4 +1,4 @@
-Skin stitcher
+# Skin stitcher
 
 No description for this creature yet.
 
@@ -10,9 +10,9 @@ Stealth d10, Tracking d10
 **Gear:** Spiked chain (Str+d8)
 **Edges:** Berserk, Combat Reflexes
 **Special Abilities**
+
 - **Armour +2:** Scarred flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
-

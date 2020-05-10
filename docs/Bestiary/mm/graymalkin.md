@@ -1,4 +1,4 @@
-Graymalkin
+# Graymalkin
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -31,6 +32,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 4
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -51,6 +53,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 5
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -61,4 +64,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Size -1:** Reduces Toughness by -1.
-

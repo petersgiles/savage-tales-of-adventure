@@ -1,4 +1,4 @@
-Lusca
+# Lusca
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bites:** Str+d8.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -23,4 +24,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

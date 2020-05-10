@@ -1,4 +1,4 @@
-Fire nymph
+# Fire nymph
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ range 3/6/12; Str+d4; Burn)
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Deflection (forcefield)
 **Special Abilities**
+
 - **Armour +1:** Lightly skin.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ by Banish.
 against offensive magic.
 - **Immunity:** Fire.
 - **Weakness:** Fire (double damage).
-

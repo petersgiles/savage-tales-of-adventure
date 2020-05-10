@@ -1,4 +1,4 @@
-Dragonleaf tree
+# Dragonleaf tree
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Gear:** Leaves (Throwing; range 3/6/12; Str+d6; Bleed)
 **Edges:** Level Headed, Marksman, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Increases Toughness by +2.
-

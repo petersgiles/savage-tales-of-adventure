@@ -1,4 +1,4 @@
-Hellwasp swarm
+# Hellwasp swarm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Notice d6, Stealth d12+3, Innate Powers d12
 Willed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -20,4 +21,3 @@ by Banish.
 - **Resistance:** -2 damage from fire.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
-

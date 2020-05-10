@@ -1,4 +1,4 @@
-Shadow
+# Shadow
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 7
 **Edges:** Dodge
 **Special Abilities**
+
 - **Incorporeal Touch:** Victims must make a Strength roll or suffer a
 level of Fatigue.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Strength.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -46,6 +48,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Strength.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -65,6 +68,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 7
 **Edges:** Dodge
 **Special Abilities**
+
 - **Incorporeal Touch:** Victims must make a Strength roll or suffer a
 level of Fatigue.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -83,6 +87,7 @@ Vigor d4
 Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str; Strength Drain; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -107,6 +112,7 @@ Vigor d6
 d8
 **Charisma:** +1; **Pace:** 7; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Rotting flesh.
 - **Bite:** Str+d4; Strength Drain; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -132,6 +138,7 @@ Climbing d10, Notice d8, Stealth d12+1, Tracking d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers), Level Headed, Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -154,6 +161,7 @@ d6
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 7
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Incorporeal Bite:** Str+d4; Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -164,4 +172,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

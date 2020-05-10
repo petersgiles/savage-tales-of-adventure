@@ -1,4 +1,4 @@
-Sandling
+# Sandling
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d8, Notice d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ extra damage from called shots.
 - **Burrow:** Can burrow and reappear within 5".
 - **Weakness:** Water.
 - **Size +2:** Ten feet long; Toughness +2.
-

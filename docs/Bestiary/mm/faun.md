@@ -1,4 +1,4 @@
-Faun
+# Faun
 
 No description for this creature yet.
 
@@ -11,6 +11,6 @@ d8, Spellcasting d6
 **Edges:** Arcane Background (Magic), Marksman
 **Powers:** Slumber
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
-

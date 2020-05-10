@@ -1,4 +1,4 @@
-Crawling hand
+# Crawling hand
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 6
 **Hindrances:** Small (M)
 **Special Abilities**
+
 - **Claw:** Str; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -34,6 +35,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Dodge, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -46,4 +48,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

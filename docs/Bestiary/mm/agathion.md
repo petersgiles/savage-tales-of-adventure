@@ -1,4 +1,4 @@
-Agathion
+# Agathion
 
 Avorals are birdmen with hands on the ends of their wings. Their
 facial features are also birdlike, with large hooked noses and deep
@@ -14,6 +14,7 @@ Repair d10, Riding d8, Stealth d12+1, Spellcasting d10
 Deflection (blur), Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Invisibility, Pummel (wind), Teleport
 **Special Abilities**
+
 - **Armour +2:** Feathers.
 - **Claws:** Str+d4.
 - **Wings:** Str+d4.
@@ -44,6 +45,7 @@ d10, Swimming d10, Spellcasting d8
 **Powers:** Beast Friend, Boost Trait (bless), Divination, Elemental
 Manipulation (water), Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -75,6 +77,7 @@ Headed, Quick
 **Powers:** Beast Friend, Bolt (lightning bolt), Dispel, Entangle,
 Greater Healing, Healing, Mind Reading, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tail Slap:** Str+d4; Push; Stun.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -111,6 +114,7 @@ Bolt (lightning bolt), Boost Trait (bless), Deflection (forcefield),
 Dispel, Entangle, Fear, Greater Healing, Healing, Lower Trait (curse),
 Invisibility, Mind Reading, Obscure (fog), Pummel (wind), Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Energy.
 - **Claws:** Str+d8; Energy.
@@ -148,6 +152,7 @@ Headed, War Cry
 **Powers:** Beast Friend, Entangle, Greater Healing, Healing, Mind
 Reading
 **Special Abilities**
+
 - **Armour +3:** Golden fur.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -180,6 +185,7 @@ Stealth d12+1, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Beast Friend, Divination, Light (dancing lights), Teleport
 **Special Abilities**
+
 - **Bite:** Str.
 - **Claws:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -209,6 +215,7 @@ d12, Stealth d12+1, Spellcasting d12
 Quick
 **Powers:** Armor, Beast Friend, Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -223,4 +230,3 @@ creatures.
 - **Immunities:** Electricity and petrification.
 - **Resistances:** -2 damage from cold and sonic.
 - **Size -1:** Three feet tall; Toughness -1.
-

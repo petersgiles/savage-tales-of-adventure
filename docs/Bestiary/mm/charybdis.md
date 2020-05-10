@@ -1,4 +1,4 @@
-Charybdis
+# Charybdis
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 24 (5)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Rending Claws:** Str+d8.
@@ -29,4 +30,3 @@ than the swallower.
 - **Size +10:** Sixty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Dogmole
+# Dogmole
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d4
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Berserk, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -29,6 +30,7 @@ d6, Swimming d4
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 14 (2)
 **Edges:** Berserk, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -42,4 +44,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

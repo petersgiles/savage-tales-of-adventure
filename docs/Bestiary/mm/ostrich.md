@@ -1,4 +1,4 @@
-Ostrich
+# Ostrich
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 8
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Kicks:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Docile:** This creature is not trained for combat, and automatically
@@ -23,8 +24,8 @@ Vigor d12
 **Gear:** Peck (Str+d8)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Kicks:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size +2:** Nine feet tall; Toughness +2.
-

@@ -1,4 +1,4 @@
-Tengu
+# Tengu
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d4
 range 12/24/48; 2d6)
 **Edges:** Assassin, Thief
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 **Greater tengu**
@@ -32,6 +33,7 @@ Two-Fisted
 (gaseous form)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -40,4 +42,3 @@ by Banish.
 against offensive magic.
 - **Immunities:** Shapechanging and petrification.
 - **Resistances:** -1 damage from acid, cold and electricity.
-

@@ -1,4 +1,4 @@
-Boar
+# Boar
 
 Boars are dangerous and ill-tempered omnivores, with large heads,
 short legs, and stiff bristly fur.
@@ -8,6 +8,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Bristly fur.
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -27,6 +28,7 @@ Vigor d12
 **Gear:** Gore melee (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -43,6 +45,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 8; **Parry:** 8; **Toughness:** 17 (4)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tusks:** Str+d10.
 - **Hooves:** Str+d4.
@@ -64,6 +67,7 @@ d8
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tusks:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -73,4 +77,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

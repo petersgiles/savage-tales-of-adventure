@@ -1,4 +1,4 @@
-Angel
+# Angel
 
 Astral deva angels look like tall human with feathered wings. They
 are messengers of the gods.
@@ -16,6 +16,7 @@ Strong Willed
 Arcana (see invisibility), Dispel, Fear, Greater Healing, Healing,
 Invisibility
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -49,6 +50,7 @@ Headed, Quick
 **Powers:** Banish (plane shift self), Dispel, Fear, Healing,
 Invisibility
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -73,6 +75,7 @@ a bird.
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Divination
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -108,6 +111,7 @@ Willed
 Arcana (see invisibility), Dispel, Fear, Greater Healing, Healing,
 Invisibility, Obscure (fog cloud), Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Coppery skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -134,6 +138,7 @@ d10
 **Powers:** Banish (plane shift self), Dispel, Fear, Healing,
 Invisibility
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Piercing Hymn:** Shooting; opposed by Agility; 2d10; Sonic; Deafen;
@@ -168,6 +173,7 @@ d12+2, Stealth d12, Survival d12+1, Spellcasting d12
 **Powers:** Banish (plane shift self), Barrier (whirling blades),
 Dispel, Fear, Greater Healing, Healing, Invisibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -200,6 +206,7 @@ Strong Willed
 **Powers:** Banish (plane shift self), Dispel, Entangle, Fear, Greater
 Healing, Healing, Invisibility
 **Special Abilities**
+
 - **Armour +3:** Smooth skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -232,6 +239,7 @@ Willed
 **Powers:** Banish (plane shift self), Dispel, Fear, Healing,
 Invisibility
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -266,6 +274,7 @@ Trait (bless), Boost Trait (Vigor), Deflection (forcefield), Detect
 Arcana (sense magic), Dispel, Fear, Greater Healing, Healing,
 Invisibility, Mind Reading (speak with dead), Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Emerald skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -311,6 +320,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Dispel,
 Divination, Fear, Greater Healing, Healing, Invisibility, Intangibility,
 Mind Reading (speak with dead), Slumber, Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Metallic skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -335,4 +345,3 @@ damage.
 - **Size +4:** Nine feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

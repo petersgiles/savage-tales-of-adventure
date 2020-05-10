@@ -1,4 +1,4 @@
-Barracuda
+# Barracuda
 
 Dire barracudas are massive predatory fish, over 20 feet in length.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 13
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -24,6 +25,7 @@ Vigor d12
 **Skills:** Fighting d8, Notice d10, Swimming d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -38,6 +40,7 @@ d8
 **Skills:** Fighting d8, Notice d8, Swimming d12
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
@@ -49,6 +52,7 @@ Vigor d6
 **Skills:** Fighting d4, Notice d6, Swimming d10
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
@@ -63,6 +67,7 @@ Vigor d6
 d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Tail Slap:** Str+d4.
@@ -72,4 +77,3 @@ d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Amphibious:** Swimming Pace of 10", and cannot drown, but can also
 breathe air and survive indefinitely on land.
-

@@ -1,4 +1,4 @@
-Death worm
+# Death worm
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Electrical jolt (Throwing; range 3/6/12; Str+d6; Electricity)
 **Edges:** Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ Agility roll at -2 or suffer 2d8 acid damage.
 - **Immunities:** Electricity, acid and poison.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Fifteen feet long; Toughness +2.
-

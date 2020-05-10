@@ -1,4 +1,4 @@
-Ceru
+# Ceru
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ against offensive magic.
 - **Size -2:** One foot long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

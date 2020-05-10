@@ -1,4 +1,4 @@
-Pig
+# Pig
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d4-2, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -14,4 +15,3 @@ d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size -1:** Reduces Toughness by -1.
-

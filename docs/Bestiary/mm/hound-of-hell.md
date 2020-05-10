@@ -1,4 +1,4 @@
-Hound of hell
+# Hound of hell
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Go for the Throat.
@@ -21,4 +22,3 @@ by Banish.
 - **Go for the Throat:** Target least armoured location on a raise.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
-

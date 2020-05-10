@@ -1,4 +1,4 @@
-Jyoti
+# Jyoti
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Shooting d8, Spellcasting d8
 Willed
 **Powers:** Armor, Healing, Teleport
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Bite:** Str+d4; Fire.
 - **Ray:** Shooting; range 12/24/48; 2d6; By Spell.
@@ -28,4 +29,3 @@ Agility roll at -2 or suffer 2d6 fire damage.
 - **Immunities:** Disease and poison.
 - **Resistances:** -2 damage from acid, cold, electricity, fire and
 sonic.
-

@@ -1,4 +1,4 @@
-Sabosan
+# Sabosan
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Fur.
 - **Bite:** Str+d4; Bleed.
 - **Claws:** Str+d4; Grab.
@@ -23,4 +24,3 @@ raise on an opposed Strength roll to escape.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

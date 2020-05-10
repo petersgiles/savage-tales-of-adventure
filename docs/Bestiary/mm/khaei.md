@@ -1,4 +1,4 @@
-Khaei
+# Khaei
 
 No description for this creature yet.
 
@@ -10,7 +10,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Deflection (blur), Light (dancing lights)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Four feet tall; Toughness -1.
-

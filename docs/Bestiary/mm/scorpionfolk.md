@@ -1,4 +1,4 @@
-Scorpionfolk
+# Scorpionfolk
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6
 **Edges:** Alertness, Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Claws:** Str+d6.
@@ -18,4 +19,3 @@ d6
 - **Resistance:** -1 damage from fire.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

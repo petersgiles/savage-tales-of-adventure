@@ -1,4 +1,4 @@
-Terra-cotta soldier
+# Terra-cotta soldier
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Vigor d10
 **Edges:** Level Headed, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,6 +27,7 @@ Vigor d10
 **Gear:** Composite longbow (Shooting; range 15/30/60; 2d6)
 **Edges:** Frenzy, Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -43,6 +45,7 @@ Vigor d12
 **Gear:** Lance (Str+d8)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -50,4 +53,3 @@ Vigor d12
 disease, poison, and extra damage from called shots.
 - **Immunity:** Fire.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Sea scourge
+# Sea scourge
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Slams:** Str+d6; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -27,4 +28,3 @@ shots.
 - **Immunities:** Acid, sleep, poison, shapechanging, paralysis and Gang
 Up bonuses.
 - **Size +3:** Increases Toughness by +3.
-

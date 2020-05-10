@@ -1,4 +1,4 @@
-Goblin
+# Goblin
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d4
 Parry), short bow (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Size -1:** Three feet tall; Toughness -1.
 **Arctic goblin**
@@ -25,6 +26,7 @@ d4
 (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistance:** -1 damage from cold.
@@ -39,6 +41,7 @@ d10, Swimming d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Wall Walker:** Can automatically move across vertical or inverted
@@ -56,6 +59,7 @@ d6, Shooting d4
 Parry), short bow (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Size -1:** Reduces Toughness by -1.
 **Gibberling goblin**
@@ -71,6 +75,7 @@ Parry), short bow (Shooting; range 12/24/48; 2d6)
 **Edges:** Arcane Background (Super Powers), Level Headed
 **Powers:** Confusion (gibbering)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Weakness:** Light sensitive.
 - **Size -1:** Reduces Toughness by -1.
@@ -86,6 +91,7 @@ d4
 Parry), short bow (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunity:** Fire.
@@ -102,6 +108,7 @@ d4
 Parry), short bow (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Tongue:** Str; Reach 1"; Sticky Tongue.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Sticky Tongue:** Victims struck by the tongue must make an opposed
@@ -119,6 +126,7 @@ d6, Shooting d4
 12/24/48; 2d6)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
@@ -135,10 +143,10 @@ d4
 (Shooting; range 12/24/48; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Thorns:** Anyone attacking the creature with unarmed or natural
 weapons suffers 2d4 damage.
 - **Size -1:** Reduces Toughness by -1.
-

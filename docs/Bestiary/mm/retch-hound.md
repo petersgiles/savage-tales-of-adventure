@@ -1,4 +1,4 @@
-Retch hound
+# Retch hound
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d6, Notice d10, Survival d6, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Brownish-yellow fur.
 - **Bite:** Str+d4; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -16,4 +17,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Go for the Throat:** Target least armoured location on a raise.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 acid damage.
-

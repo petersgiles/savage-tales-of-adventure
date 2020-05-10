@@ -1,4 +1,4 @@
-Wolf
+# Wolf
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,6 +26,7 @@ Vigor d12
 d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -43,6 +45,7 @@ d8
 d10
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -61,6 +64,7 @@ d12+1
 d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 14 (1)
 **Special Abilities**
+
 - **Armour +1:** Black fur.
 - **Bite:** Str+d10; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -74,4 +78,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Six feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

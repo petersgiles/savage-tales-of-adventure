@@ -1,4 +1,4 @@
-Sea spider
+# Sea spider
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 16 (3)
 **Edges:** Combat Reflexes, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Acid; Grab.
 - **Slams:** Str+d8.
@@ -41,6 +42,7 @@ d12+1, Spellcasting d12
 Headed, Sweep, Strong Willed
 **Powers:** Bolt (lightning bolt)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Poison; Grab.
 - **Slams:** Str+d8.
@@ -65,4 +67,3 @@ than the swallower.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

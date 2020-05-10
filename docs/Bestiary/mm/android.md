@@ -1,4 +1,4 @@
-Android
+# Android
 
 Androids look like pale humans, with a metallic sheen and
 circuitry-like tattoos that glow faintly with a blue light.
@@ -11,8 +11,8 @@ d4, Stealth d8, Lockpicking d8
 **Gear:** Leather armour (+1), rapier (Str+d4; Parry +1)
 **Edges:** Assassin, Thief
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunities:** Sleep, disease, fear, fatigue and emotion-based
 effects.
-

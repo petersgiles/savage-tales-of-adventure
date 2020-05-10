@@ -1,4 +1,4 @@
-Death butterfly swarm
+# Death butterfly swarm
 
 No description for this creature yet.
 
@@ -10,10 +10,10 @@ Notice d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Flight:** Flying Pace of 7" and Climb 1.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

@@ -1,4 +1,4 @@
-Coral capuchin
+# Coral capuchin
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d6, Climbing d6, Stealth d12, Swimming d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str; Cursed Bite.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ breathe air and survive indefinitely on land.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Nue
+# Nue
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Energy Drain.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ to foe.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Energy Drain:** Make a Vigor roll or suffer a level of Fatigue.
 - **Size +3:** Nine feet long; Toughness +3.
-

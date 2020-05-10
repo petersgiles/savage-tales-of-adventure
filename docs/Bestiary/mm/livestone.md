@@ -1,4 +1,4 @@
-Livestone
+# Livestone
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+1
 **Skills:** Fighting d6, Stealth d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 10
 **Special Abilities**
+
 - **Slam:** Str+d6.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -20,4 +21,3 @@ shots.
 - **Immunities:** Sleep, poison, shapechanging, paralysis, petrification
 and Gang Up bonuses.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Obsidian minotaur
+# Obsidian minotaur
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 15 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d6; Fire.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ disease, poison, and extra damage from called shots.
 Agility roll at -2 or suffer 2d8 damage.
 - **Immunity:** Magic.
 - **Size +3:** Twelve feet tall; Toughness +3.
-

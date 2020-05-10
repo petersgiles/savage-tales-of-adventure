@@ -1,4 +1,4 @@
-Xorn
+# Xorn
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 12 (3)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -22,4 +23,3 @@ by Banish.
 and Gang Up bonuses.
 - **Resistance:** -2 damage from electricity.
 - **Very Tough:** +1 Toughness.
-

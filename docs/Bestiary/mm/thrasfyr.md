@@ -1,4 +1,4 @@
-Thrasfyr
+# Thrasfyr
 
 Thrasfyr appear as a strange hybrid of bull, bear and serpent, with
 six powerful legs and shimmering red scales
@@ -12,6 +12,7 @@ d4
 Strong Willed
 **Powers:** Detect Arcana (see invisibility), Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +5:** Red scales.
 - **Bites:** Str+d8.
 - **Claws:** Str+d8.
@@ -31,4 +32,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

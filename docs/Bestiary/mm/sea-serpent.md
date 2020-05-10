@@ -1,4 +1,4 @@
-Sea serpent
+# Sea serpent
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 23 (4)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Constrict.
 - **Tail Slap:** Str+d8; Constrict.
@@ -39,6 +40,7 @@ Stealth d10, Tracking d12+3, Swimming d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 19 (4)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Poison; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -66,6 +68,7 @@ d12+6, Vigor d12+3
 **Charisma:** -; **Pace:** 4; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Dodge, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Constrict.
 - **Tail Slap:** Str+d8; Constrict.
@@ -98,6 +101,7 @@ d12+4, Swimming d12+7
 **Charisma:** -; **Pace:** -; **Parry:** 9; **Toughness:** 22 (3)
 **Edges:** Dodge, Improved Dodge, Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8; Poison; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -132,6 +136,7 @@ d8, Swimming d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 12 (3)
 **Edges:** Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -154,6 +159,7 @@ d10
 d10, Swimming d12+1
 **Charisma:** +2; **Pace:** 4; **Parry:** 6; **Toughness:** 12 (4)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -180,6 +186,7 @@ d12+10
 **Edges:** Alertness, Dodge, Level Headed, Quick, Sweep, Improved Sweep,
 Strong Willed
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d10; Poison; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -208,6 +215,7 @@ Survival d12+1, Tracking d12+1, Swimming d12, Shooting d12
 **Charisma:** -; **Pace:** 4; **Parry:** 8; **Toughness:** 11 (3)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6; Poison.
 - **Spit:** Shooting; range 3/6/12; 2d4; Acid.
@@ -222,4 +230,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Immunities:** Sleep and paralysis.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

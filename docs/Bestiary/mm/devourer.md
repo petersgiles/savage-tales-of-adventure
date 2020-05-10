@@ -1,4 +1,4 @@
-Devourer
+# Devourer
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12
 **Powers:** Confusion, Lower Trait (curse), Puppet, Summon Ally
 (skeletons and zombies)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -37,6 +38,7 @@ Spellcasting d12
 **Powers:** Confusion, Lower Trait (curse), Puppet, Summon Ally
 (skeletons and zombies)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d8; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -49,4 +51,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

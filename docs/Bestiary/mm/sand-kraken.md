@@ -1,4 +1,4 @@
-Sand kraken
+# Sand kraken
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -15,4 +16,3 @@ Vigor d12+2
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
 that, they require a raise on an opposed Strength roll to escape.
 - **Size +2:** Increases Toughness by +2.
-

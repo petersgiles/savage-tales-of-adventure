@@ -1,4 +1,4 @@
-Lycanthrope (werecrocodile)
+# Lycanthrope (werecrocodile)
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d6, Swimming d6, Shooting d6
 15/30/60; 2d6)
 **Edges:** Brave, Level Headed
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -28,6 +29,7 @@ d6, Swimming d8, Shooting d6
 15/30/60; 2d6)
 **Edges:** Brave, Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab; Infection.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -41,4 +43,3 @@ raise on an opposed Strength roll to escape.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Infection:** Victims who suffer one or more wounds must make a Vigor
 roll. On a failure, they become a werebeast on the next full moon.
-

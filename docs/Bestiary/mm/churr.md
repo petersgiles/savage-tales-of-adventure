@@ -1,4 +1,4 @@
-Churr
+# Churr
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d8, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Strong Willed, War Cry
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6; Constrict.
@@ -21,4 +22,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Size +3:** Eight feet tall; Toughness +3.
-

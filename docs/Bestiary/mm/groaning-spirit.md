@@ -1,4 +1,4 @@
-Groaning spirit
+# Groaning spirit
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 7
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Chill Touch.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -26,4 +27,3 @@ against offensive magic.
 - **Immunities:** Electricity, cold, sleep, paralysis, mind-affecting
 effects, aging, bleeding and death magic.
 - **Chill Touch:** Make a Vigor roll or suffer a level of Fatigue.
-

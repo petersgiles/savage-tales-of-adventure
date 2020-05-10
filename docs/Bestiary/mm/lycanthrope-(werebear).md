@@ -1,4 +1,4 @@
-Lycanthrope (werebear)
+# Lycanthrope (werebear)
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d8
 throwing axe (Throwing; range 3/6/12; Str+d6)
 **Edges:** Marksman, Woodsman
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -31,6 +32,7 @@ Throwing d8
 throwing axe (Throwing; range 3/6/12; Str+d6)
 **Edges:** Marksman, Woodsman
 **Special Abilities**
+
 - **Bite:** Str+d6; Infection.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -41,4 +43,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Infection:** Victims who suffer one or more wounds must make a Vigor
 roll. On a failure, they become a werebeast on the next full moon.
 - **Size +3:** Increases Toughness by +3.
-

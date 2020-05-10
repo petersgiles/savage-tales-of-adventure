@@ -1,4 +1,4 @@
-Slime crawler
+# Slime crawler
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d4, Climbing d8, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
 - **Bite:** Str+d4.
@@ -27,6 +28,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Combat Reflexes, Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Paralysis.
 - **Bite:** Str+d6.
@@ -39,4 +41,3 @@ surfaces with Pace 4".
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Size +2:** Twelve feet long; Toughness +2.
-

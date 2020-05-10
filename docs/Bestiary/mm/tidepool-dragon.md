@@ -1,4 +1,4 @@
-Tidepool dragon
+# Tidepool dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Light (dancing lights), Stun (daze)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str; Attach.
@@ -23,4 +24,3 @@ Agility roll at -2 or suffer 2d4 fire damage.
 - **Size -2:** Two feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

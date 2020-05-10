@@ -1,4 +1,4 @@
-Asrai
+# Asrai
 
 The asrai look like beautiful one-foot tall female elves. They are
 closely related to pixies, although they lack wings.
@@ -13,6 +13,7 @@ Stealth d12, Swimming d12, Spellcasting d6
 (dancing lights), Obscure (fog cloud), Puppet (living humanoids only),
 Shrink, Slumber, Stun (daze), Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Blue skin.
 - **Touch:** Str; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ against offensive magic.
 - **Size -2:** One foot tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Ankheg
+# Ankheg
 
 The ankheg is a carnivorous bug the size of a horse. Some of the more
 savage races have even been known to train them as mounts.
@@ -8,6 +8,7 @@ Vigor d12
 **Skills:** Fighting d6, Climbing d8, Notice d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Acid; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -19,4 +20,3 @@ raise on an opposed Strength roll to escape.
 - **Burrow:** Can burrow and reappear within 5".
 - **Very Tough:** +1 Toughness.
 - **Size +2:** 10 feet long; Toughness +2.
-

@@ -1,4 +1,4 @@
-Spider
+# Spider
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d10, Notice d6, Stealth d12
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -28,6 +29,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 7 (1)
 **Gear:** Diamond blade (Str+d6)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -45,6 +47,7 @@ Vigor d4
 **Skills:** Fighting d4, Climbing d12+1, Notice d6, Stealth d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -66,6 +69,7 @@ Vigor d8
 **Skills:** Fighting d4, Climbing d10, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -88,6 +92,7 @@ Vigor d8
 **Skills:** Fighting d4, Climbing d12, Notice d6, Stealth d8
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -109,6 +114,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d12+1, Notice d6, Stealth d4
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -132,6 +138,7 @@ Vigor d8
 **Skills:** Fighting d4, Climbing d12+3, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -151,6 +158,7 @@ Vigor d12+1
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 17 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Grab; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -175,6 +183,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 22 (3)
 **Gear:** Barbed hairs (Throwing; range 3/6/12; Str+d6; Nausea)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -197,6 +206,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d12+4, Notice d6, Stealth d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 15 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -222,6 +232,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d12+2, Notice d6, Stealth d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -241,6 +252,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d10, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 4 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -264,6 +276,7 @@ Climbing d10, Notice d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
 that's in contact with the ground.
@@ -274,4 +287,3 @@ that's in contact with the ground.
 surfaces with Pace 5".
 - **Immunity:** Mind-affecting effects.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

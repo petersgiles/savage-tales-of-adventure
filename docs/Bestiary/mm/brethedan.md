@@ -1,4 +1,4 @@
-Brethedan
+# Brethedan
 
 Brethedan are fleshy spheres with writhing tentacles. As a normal
 action, a brethedan can merge with another adjacent brethedan,
@@ -13,6 +13,7 @@ d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Combat Reflexes, Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,4 +34,3 @@ shots.
 - **Fast Regeneration:** May make a Vigor roll every round to heal
 damage.
 - **Size +2:** Ten feet long; Toughness +2.
-

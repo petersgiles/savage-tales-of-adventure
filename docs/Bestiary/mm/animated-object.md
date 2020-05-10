@@ -1,4 +1,4 @@
-Animated object
+# Animated object
 
 Arcane ballista are magically animated siege weapons capable of
 firing and reloading themselves.
@@ -9,6 +9,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (2)
 **Gear:** Bolt (Throwing; range 3/6/12; Str+d6; Fire; Range)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,6 +29,7 @@ Vigor d12+2
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 20 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -52,6 +54,7 @@ d10
 **Edges:** Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -70,6 +73,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 20 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -81,4 +85,3 @@ disease, poison, and extra damage from called shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

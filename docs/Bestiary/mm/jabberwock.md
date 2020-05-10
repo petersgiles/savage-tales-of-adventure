@@ -1,4 +1,4 @@
-Jabberwock
+# Jabberwock
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+5
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 24 (6)
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -44,6 +45,7 @@ d12+5, Shooting d12+1
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 24 (6)
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -69,4 +71,3 @@ against offensive magic.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

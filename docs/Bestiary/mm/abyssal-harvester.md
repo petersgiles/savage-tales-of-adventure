@@ -1,4 +1,4 @@
-Abyssal harvester
+# Abyssal harvester
 
 The abyssal harvester is a huge oval-shaped beast with grey flesh,
 six long tentacles and a vast gaping maw extending around its upper
@@ -13,6 +13,7 @@ d12+4
 Frenzy, Quick, Sweep
 **Powers:** Banish (plane shift self)
 **Special Abilities**
+
 - **Armour +5:** Leathery flesh.
 - **Tentacles:** Str+d10; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,4 +28,3 @@ creatures.
 - **Size +10:** Forty feet tall; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

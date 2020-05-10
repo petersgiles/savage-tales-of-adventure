@@ -1,4 +1,4 @@
-Revenant
+# Revenant
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** +4; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 against offensive magic.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

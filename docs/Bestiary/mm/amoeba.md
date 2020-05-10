@@ -1,4 +1,4 @@
-Amoeba
+# Amoeba
 
 The giant amoeba looks like a translucent blob of jelly, with darker
 spots within its interior.
@@ -8,6 +8,7 @@ d10
 **Skills:** Fighting d4, Climbing d8, Swimming d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Slam:** Str+d4; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -34,6 +35,7 @@ Climbing d4, Swimming d6, Innate Powers d8
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -46,4 +48,3 @@ breathe air and survive indefinitely on land.
 shots.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
-

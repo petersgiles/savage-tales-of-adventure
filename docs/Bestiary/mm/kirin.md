@@ -1,4 +1,4 @@
-Kirin
+# Kirin
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Persuasion d12, Tracking d12+1, Faith d12
 (illusion), Dispel, Elemental Manipulation (water), Fear, Flight (wind
 walk), Healing, Intangibility (gaseous form), Pummel (wind)
 **Special Abilities**
+
 - **Armour +2:** Draconic scales.
 - **Horns:** Str+d6.
 - **Hooves:** Str+d4.
@@ -40,6 +41,7 @@ magic), Disguise (shapechange), Dispel, Elemental Manipulation (water),
 Fear, Flight (wind walk), Healing, Intangibility (gaseous form), Pummel
 (wind), Quickness
 **Special Abilities**
+
 - **Armour +2:** Draconic scales.
 - **Horns:** Str+d6.
 - **Hooves:** Str+d4.
@@ -55,4 +57,3 @@ Agility roll at -2 or suffer 2d8 fire damage.
 - **Resistances:** -2 damage from cold, electricity and fire.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

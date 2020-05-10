@@ -1,4 +1,4 @@
-Imperial sovereign dragon
+# Imperial sovereign dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -24,6 +25,7 @@ d12+1, Repair d12
 **Charisma:** +1; **Pace:** 8; **Parry:** 7; **Toughness:** 11 (3)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -43,6 +45,7 @@ Strong Willed
 Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -66,6 +69,7 @@ Strong Willed
 Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -91,6 +95,7 @@ Strong Willed
 and cold), Mind Reading, Puppet (living humanoids only), Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -119,6 +124,7 @@ Environmental Protection (heat and cold), Mind Reading, Puppet, Puppet
 (living humanoids only), Speak Language, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -146,6 +152,7 @@ cloud), Puppet, Puppet (living humanoids only), Speak Language, Stun
 (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -175,6 +182,7 @@ Mind Reading, Obscure (fog cloud), Puppet, Puppet (living humanoids
 only), Speak Language, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -204,6 +212,7 @@ magic), Dispel, Environmental Protection (heat and cold), Intangibility
 (living humanoids only), Speak Language, Stun (daze)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -234,6 +243,7 @@ Puppet, Puppet (living humanoids only), Speak Language, Stun (daze),
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -264,6 +274,7 @@ Puppet, Puppet (living humanoids only), Speak Language, Stun (daze),
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -294,6 +305,7 @@ Puppet, Puppet (living humanoids only), Speak Language, Stun (daze),
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +9:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -308,4 +320,3 @@ Teleport
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

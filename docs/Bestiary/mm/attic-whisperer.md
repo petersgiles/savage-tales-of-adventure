@@ -1,4 +1,4 @@
-Attic whisperer
+# Attic whisperer
 
 The attic whisperer appears to be an amalgam of old toys and dusty
 clothing, fused together into the shape of a child, with the skull of a
@@ -11,6 +11,7 @@ d8, Stealth d12+1
 **Charisma:** +2; **Pace:** 5; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Steal Breath.
 - **Touch:** Str+d4; Steal Voice.
@@ -23,4 +24,3 @@ bleeding and death magic.
 an hour.
 - **Steal Breath:** Make a Spirit roll or suffer a level of Fatigue.
 - **Size -1:** Reduces Toughness by -1.
-

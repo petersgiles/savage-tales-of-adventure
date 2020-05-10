@@ -1,4 +1,4 @@
-Selkie
+# Selkie
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Charisma:** +4; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Short fur.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Aquatic:** Swimming Pace of 14", and cannot drown.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Resistance:** -2 damage from cold.
-

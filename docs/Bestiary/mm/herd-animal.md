@@ -1,4 +1,4 @@
-Herd animal
+# Herd animal
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 9; **Parry:** 2; **Toughness:** 5
 **Edges:** Quick
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Fast Runner:** Roll d8 when running instead of d6.
@@ -21,6 +22,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -37,6 +39,7 @@ Vigor d12+3
 **Skills:** Fighting d6, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 19 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -55,6 +58,7 @@ Vigor d12+3
 **Skills:** Fighting d6, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 18 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -73,6 +77,7 @@ Vigor d12+1
 **Skills:** Fighting d6, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 14 (2)
 **Special Abilities**
+
 - **Armour +2:** Fur.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -92,6 +97,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 19 (2)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Black fur.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -111,6 +117,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 8
 **Special Abilities**
+
 - **Bite:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -127,6 +134,7 @@ d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -144,6 +152,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 7
 **Edges:** Quick
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -158,6 +167,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (1)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -175,6 +185,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Horns:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -190,6 +201,7 @@ d8
 **Skills:** Fighting d4, Climbing d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 5
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Gore:** +4 damage when first moving adjacent to foe.
@@ -204,6 +216,7 @@ Vigor d10
 **Gear:** Head butt (Str+d8)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Whitish-brown fur.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -219,6 +232,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 19 (2)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -237,6 +251,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Gear:** Head butt (Str+d8)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -254,6 +269,7 @@ Vigor d12
 **Gear:** Antlers (Str+d8)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -268,6 +284,7 @@ d8
 **Skills:** Fighting d4, Notice d8
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -279,6 +296,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Tracking d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -294,10 +312,10 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Gore:** +4 damage when first moving adjacent to foe.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Increases Toughness by +2.
-

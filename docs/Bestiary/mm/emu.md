@@ -1,4 +1,4 @@
-Emu
+# Emu
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 5
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Kicks:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Fast Runner:** Roll d8 when running instead of d6.
@@ -22,8 +23,8 @@ Vigor d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Kicks:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Fast Runner:** Roll d8 when running instead of d6.
-

@@ -1,4 +1,4 @@
-Zuvembie
+# Zuvembie
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ No description for this creature yet.
 **Powers:** Obscure (darkness), Summon Ally, Summon Ally (skeletons and
 zombies)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").

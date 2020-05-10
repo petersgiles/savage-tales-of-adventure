@@ -1,4 +1,4 @@
-Acid quasi-elemental
+# Acid quasi-elemental
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12, Innate Powers d6
 **Edges:** Arcane Background (Super Powers), Level Headed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,6 +33,7 @@ Swimming d12, Innate Powers d6
 **Edges:** Arcane Background (Super Powers), Level Headed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -55,6 +57,7 @@ Swimming d12, Innate Powers d6
 Sweep
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -79,6 +82,7 @@ Swimming d12+3, Innate Powers d6
 Sweep, Strong Willed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -105,6 +109,7 @@ d10, Swimming d12+4, Innate Powers d6
 Sweep, Improved Sweep, Strong Willed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -131,6 +136,7 @@ d10, Swimming d12+4, Innate Powers d6
 Sweep, Improved Sweep, Strong Willed
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -145,4 +151,3 @@ drowning.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

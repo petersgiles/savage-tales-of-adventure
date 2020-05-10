@@ -1,4 +1,4 @@
-Woodwose
+# Woodwose
 
 No description for this creature yet.
 
@@ -13,6 +13,6 @@ Persuasion d12+1, Repair d12+2, Stealth d12+1, Spellcasting d8
 Environmental Protection (heat and cold), Summon Ally (animals and
 elementals)
 **Special Abilities**
+
 - **Armour +3:** Skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
-

@@ -1,4 +1,4 @@
-Star-spawn of cthulhu
+# Star-spawn of cthulhu
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Vigor d12+4
 Willed
 **Powers:** Voice on the Wind (dream message)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Claws:** Str+d8.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -34,4 +35,3 @@ damage.
 - **Size +8:** Thirty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

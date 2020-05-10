@@ -1,4 +1,4 @@
-Faerie dragon
+# Faerie dragon
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Swimming d10, Spellcasting d10
 **Edges:** Arcane Background (Magic), Dodge
 **Powers:** Light (dancing lights), Invisibility, Slumber
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,4 +23,3 @@ Agility roll at -2 or suffer 2d4 damage.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

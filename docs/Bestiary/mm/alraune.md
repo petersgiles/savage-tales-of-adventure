@@ -1,4 +1,4 @@
-Alraune
+# Alraune
 
 The alraune is a plant-based creature that appears as an attractive
 green-skinned woman resting upon a huge flower. However the flower and
@@ -16,6 +16,7 @@ Frenzy, Level Headed, Quick, Sweep, Improved Sweep, Strong Willed
 **Powers:** Barrier (thorns), Blind (glitterdust), Divination (commune
 with nature), Entangle, Mind Reading, Puppet
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Vines:** Str+d6; Reach 1"; Constrict; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -32,4 +33,3 @@ and extra damage from called shots.
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Size +3:** Increases Toughness by +3.
-

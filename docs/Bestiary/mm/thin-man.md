@@ -1,4 +1,4 @@
-Thin man
+# Thin man
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Dodge, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4; Bleed.
@@ -18,4 +19,3 @@ d8
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

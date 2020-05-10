@@ -1,4 +1,4 @@
-Centipede
+# Centipede
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 23 (3)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ Vigor d8
 **Skills:** Fighting d4, Climbing d10, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -46,6 +48,7 @@ Vigor d10
 **Skills:** Fighting d8, Climbing d10, Notice d6, Stealth d6
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -64,6 +67,7 @@ Vigor d6
 **Skills:** Fighting d4-2, Climbing d10, Notice d6, Stealth d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 4 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -84,6 +88,7 @@ Vigor d6
 **Skills:** Fighting d4, Climbing d10, Notice d6, Stealth d12
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -105,6 +110,7 @@ Climbing d10, Notice d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
 that's in contact with the ground.
@@ -122,6 +128,7 @@ Vigor d12+4
 **Skills:** Fighting d8, Climbing d12+3, Notice d6, Stealth d8
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 31 (4)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -142,6 +149,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Climbing d12, Notice d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 18 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Tail Slap:** Str+d8; Nonlethal; Go for the Throat.
@@ -156,4 +164,3 @@ surfaces with Pace 7".
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

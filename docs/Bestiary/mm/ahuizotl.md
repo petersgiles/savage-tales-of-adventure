@@ -1,4 +1,4 @@
-Ahuizotl
+# Ahuizotl
 
 The ahuizotl is ferocious predator with the body of a large ape, the
 head of a dog, and a long tail which ends in a clawed hand. It has the
@@ -11,6 +11,7 @@ d12
 **Charisma:** +1; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claw:** Str+d6; Grab.
@@ -21,4 +22,3 @@ raise on an opposed Strength roll to escape.
 - **Amphibious:** Swimming Pace of 13", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Size +2:** Nine feet long; Toughness +2.
-

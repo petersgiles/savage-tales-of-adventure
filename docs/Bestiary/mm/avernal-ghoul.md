@@ -1,4 +1,4 @@
-Avernal ghoul
+# Avernal ghoul
 
 Avernal ghouls are gaunt, gray-skinned humanoids with sharp claws and
 short tails.
@@ -10,6 +10,7 @@ Knowledge (Planes) d8, Stealth d10, Tracking d8, Swimming d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Disease; Paralysis.
 - **Claws:** Str+d4; Paralysis.
@@ -26,4 +27,3 @@ creatures.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Disease:** Make a Vigor roll or become afflicted.
-

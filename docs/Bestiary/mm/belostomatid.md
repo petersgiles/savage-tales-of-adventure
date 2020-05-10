@@ -1,4 +1,4 @@
-Belostomatid
+# Belostomatid
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 11 (2)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -19,4 +20,3 @@ Vigor d10
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Twelve feet long; Toughness +2.
-

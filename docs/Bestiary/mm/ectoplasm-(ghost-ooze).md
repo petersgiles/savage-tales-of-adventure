@@ -1,4 +1,4 @@
-Ectoplasm (ghost ooze)
+# Ectoplasm (ghost ooze)
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d12+2
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Incorporeal Touch:** Victims must make a Strength roll or suffer a
 level of Fatigue.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -21,4 +22,3 @@ Agility roll at -2 or suffer 2d8 damage.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Size +2:** Increases Toughness by +2.
-

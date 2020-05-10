@@ -1,4 +1,4 @@
-Chromatic blue dragon
+# Chromatic blue dragon
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 7 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -27,6 +28,7 @@ Survival d10
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -46,6 +48,7 @@ Survival d12
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -67,6 +70,7 @@ d12+1, Stealth d10, Survival d12+1, Spellcasting d8
 **Powers:** Armor, Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -90,6 +94,7 @@ d12+1, Stealth d8, Survival d12+1, Spellcasting d8
 **Powers:** Armor, Deflection (forcefield), Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -116,6 +121,7 @@ d12+2, Stealth d10, Survival d12+2, Spellcasting d10
 Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -142,6 +148,7 @@ d12+3, Stealth d10, Survival d12+3, Spellcasting d10
 Dispel, Invisibility, Obscure (darkness)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -170,6 +177,7 @@ Dispel, Invisibility, Obscure (illusionary terrain), Obscure (darkness),
 Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -199,6 +207,7 @@ Detect Arcana (sense magic), Dispel, Entangle, Invisibility, Obscure
 Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -229,6 +238,7 @@ Invisibility, Obscure (illusionary terrain), Obscure (illusion), Obscure
 (darkness), Quickness, Teleport, Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -261,6 +271,7 @@ Invisibility, Obscure (illusionary terrain), Obscure (illusion), Obscure
 (darkness), Quickness, Teleport, Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -291,6 +302,7 @@ Invisibility, Obscure (illusionary terrain), Obscure (illusion), Obscure
 (darkness), Quickness, Teleport, Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -304,4 +316,3 @@ Agility roll at -2 or suffer 2d12 lightning damage.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

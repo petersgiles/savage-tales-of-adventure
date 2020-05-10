@@ -1,4 +1,4 @@
-Tetrolimulus
+# Tetrolimulus
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Swimming d6
 **Edges:** Ambidextrous, Frenzy, Level Headed, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6.
 - **Sting:** Str+d6; Poison.
@@ -24,4 +25,3 @@ breathe air and survive indefinitely on land.
 - **Resistance:** -2 damage from cold.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Size +3:** Increases Toughness by +3.
-

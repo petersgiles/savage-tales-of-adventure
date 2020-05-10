@@ -1,4 +1,4 @@
-Bog beast
+# Bog beast
 
 Bog beasts are big humanoids with shaggy brown fur, sharp claws and
 thick tusks. They are skilled hunters, and drag their prey back to their
@@ -11,6 +11,7 @@ Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Brownish-yellow fur.
 - **Claws:** Str+d6; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ Tracking d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size +2:** Nine feet tall; Toughness +2.
-

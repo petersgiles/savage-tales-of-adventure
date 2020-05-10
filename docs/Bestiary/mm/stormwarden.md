@@ -1,4 +1,4 @@
-Stormwarden
+# Stormwarden
 
 No description for this creature yet.
 
@@ -10,5 +10,5 @@ d8
 range 15/30/60; 2d6)
 **Edges:** Level Headed
 **Special Abilities**
-- **Low Light Vision:** No penalties for dim or dark lighting.
 
+- **Low Light Vision:** No penalties for dim or dark lighting.

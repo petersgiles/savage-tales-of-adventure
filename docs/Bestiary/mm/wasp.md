@@ -1,4 +1,4 @@
-Wasp
+# Wasp
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ Notice d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -41,6 +43,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d8, Survival d4
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Sting:** Str+d6; Poison.
@@ -58,6 +61,7 @@ d12
 **Skills:** Fighting d8, Notice d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -77,6 +81,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d8, Survival d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -85,4 +90,3 @@ Vigor d8
 - **Flight:** Flying Pace of 9" and Climb 1.
 - **Immunity:** Mind-affecting effects.
 - **Size +2:** Eight feet long; Toughness +2.
-

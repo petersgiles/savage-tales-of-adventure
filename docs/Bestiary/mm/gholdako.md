@@ -1,4 +1,4 @@
-Gholdako
+# Gholdako
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Disease.
@@ -23,4 +24,3 @@ bleeding and death magic.
 - **Size +4:** Nine feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

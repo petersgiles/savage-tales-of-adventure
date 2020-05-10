@@ -1,4 +1,4 @@
-Juggernaut
+# Juggernaut
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 11; **Parry:** 9; **Toughness:** 25 (6)
 **Gear:** Crush (Str+d8; Dc)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ disease, poison, and extra damage from called shots.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

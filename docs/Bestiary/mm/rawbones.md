@@ -1,4 +1,4 @@
-Rawbones
+# Rawbones
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12, Stealth d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

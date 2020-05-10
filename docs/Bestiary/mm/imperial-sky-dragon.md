@@ -1,4 +1,4 @@
-Imperial sky dragon
+# Imperial sky dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 d10, Persuasion d10, Repair d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -26,6 +27,7 @@ Repair d12
 **Charisma:** +1; **Pace:** 7; **Parry:** 6; **Toughness:** 7
 **Edges:** Quick
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Flight:** Flying Pace of 18" and Climb 1.
@@ -43,6 +45,7 @@ Repair d12
 **Edges:** Ambidextrous, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -64,6 +67,7 @@ Repair d12+1, Spellcasting d12
 **Powers:** Detect Arcana (sense magic), Flight (feather fall)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -88,6 +92,7 @@ Repair d12+2, Spellcasting d12
 (sense magic), Flight (feather fall), Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
 - **Fear -2:** Anyone who sees this creature must make a Fear check at
@@ -118,6 +123,7 @@ Detect Arcana (sense magic), Environmental Protection (heat and cold),
 Flight (feather fall), Invisibility, Pummel (wind)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -148,6 +154,7 @@ and cold), Flight (feather fall), Invisibility, Obscure (fog cloud),
 Pummel (wind), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
 - **Fear -2:** Anyone who sees this creature must make a Fear check at
@@ -180,6 +187,7 @@ Entangle (sleet storm), Environmental Protection (heat and cold), Flight
 (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
 - **Fear -3:** Anyone who sees this creature must make a Fear check at
@@ -212,6 +220,7 @@ Bolt (lightning bolt), Blind (glitterdust), Bolt (magic missile), Bolt
 cloud), Pummel (wind), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
 - **Fear -3:** Anyone who sees this creature must make a Fear check at
@@ -246,6 +255,7 @@ Bolt (lightning bolt), Blind (glitterdust), Bolt (magic missile), Bolt
 Invisibility, Obscure (fog cloud), Pummel (wind), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -277,6 +287,7 @@ Bolt (lightning bolt), Blind (glitterdust), Bolt (magic missile), Bolt
 Invisibility, Obscure (fog cloud), Pummel (wind), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -310,6 +321,7 @@ Bolt (lightning bolt), Blind (glitterdust), Bolt (magic missile), Bolt
 Invisibility, Obscure (fog cloud), Pummel (wind), Stun (daze), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -324,4 +336,3 @@ Agility roll at -2 or suffer 2d12 lightning damage.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

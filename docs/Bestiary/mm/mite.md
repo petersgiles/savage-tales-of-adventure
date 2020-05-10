@@ -1,4 +1,4 @@
-Mite
+# Mite
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Tracking d6
 **Gear:** Dagger (Str+d4), dart (Shooting; range 3/6/12; 2d4)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -29,6 +30,7 @@ d6, Shooting d4
 **Gear:** Dagger (Str+d4), dart (Shooting; range 3/6/12; 2d4)
 **Edges:** Assassin
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 18").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -38,4 +40,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 surfaces with Pace 5".
 - **Weakness:** Light sensitive.
 - **Size -1:** Two feet tall; Toughness -1.
-

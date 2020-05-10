@@ -1,4 +1,4 @@
-Bogeyman
+# Bogeyman
 
 The bogeyman is a type of fae that inflicts and feeds upon fear. They
 appear as ominous-looking male humanoids.
@@ -14,9 +14,9 @@ Frenzy, Level Headed
 (gaseous form), Mind Reading, Obscure (darkness), Puppet, Speak
 Language
 **Special Abilities**
+
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Fear -2:** Anyone who sees this creature must make a Fear check at
 -2.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

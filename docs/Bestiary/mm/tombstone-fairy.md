@@ -1,4 +1,4 @@
-Tombstone fairy
+# Tombstone fairy
 
 No description for this creature yet.
 
@@ -13,10 +13,10 @@ d12+3, Spellcasting d10
 Strong Willed
 **Powers:** Dispel, Light (dancing lights), Mind Reading, Puppet
 **Special Abilities**
+
 - **Armour +1:** Slate skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +4 to resist opposed magic, and +4 armour
 against offensive magic.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size -1:** Three feet tall; Toughness -1.
-

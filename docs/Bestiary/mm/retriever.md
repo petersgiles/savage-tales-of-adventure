@@ -1,4 +1,4 @@
-Retriever
+# Retriever
 
 Retriever are huge spider-like constructs the size of an elephant,
 constructed by demon lords from the protoplasmic flesh of the Abyss, and
@@ -10,6 +10,7 @@ d12
 **Charisma:** -; **Pace:** 8; **Parry:** 8; **Toughness:** 18 (3)
 **Edges:** Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +3:** Protoplasmic flesh.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -26,4 +27,3 @@ disease, poison, and extra damage from called shots.
 - **Size +6:** Thirty foot legspan; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

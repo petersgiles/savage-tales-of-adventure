@@ -1,4 +1,4 @@
-Soul eater
+# Soul eater
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 7 (1)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Spiritual Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ by Banish.
 creatures.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
-

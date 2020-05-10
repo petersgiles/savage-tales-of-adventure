@@ -1,4 +1,4 @@
-Death dog
+# Death dog
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Black fur.
 - **Bites:** Str+d4; Rotting Death; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Go for the Throat:** Target least armoured location on a raise.
 - **Very Tough:** +1 Toughness.
-

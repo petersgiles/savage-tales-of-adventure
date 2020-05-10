@@ -1,4 +1,4 @@
-Asakku
+# Asakku
 
 The asakku are harpy-like creatures surrounded by swirling winds who
 take great pleasure in tormenting their victims.
@@ -11,6 +11,7 @@ d10
 **Edges:** Alertness, Ambidextrous, Frenzy, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Tail:** Str+d6; Poisonous Lash.
@@ -22,4 +23,3 @@ penalty.
 against offensive magic.
 - **Resistances:** -2 damage from cold and fire.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
-

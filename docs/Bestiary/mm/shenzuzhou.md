@@ -1,4 +1,4 @@
-Shenzuzhou
+# Shenzuzhou
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Two-Fisted
 **Powers:** Obscure (darkness)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Lifesense:** Can sense and accurately pinpoint living creatures
@@ -28,4 +29,3 @@ bleeding and death magic.
 - **Size +4:** Eight feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

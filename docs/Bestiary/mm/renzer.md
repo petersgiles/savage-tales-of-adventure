@@ -1,4 +1,4 @@
-Renzer
+# Renzer
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 11 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Two Claws:** Str+d6.
@@ -22,4 +23,3 @@ raise on an opposed Strength roll to escape.
 - **Aquatic:** Swimming Pace of 13", and cannot drown.
 - **Very Tough:** +1 Toughness.
 - **Size +2:** Increases Toughness by +2.
-

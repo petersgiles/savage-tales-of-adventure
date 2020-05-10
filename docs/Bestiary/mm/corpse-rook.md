@@ -1,4 +1,4 @@
-Corpse rook
+# Corpse rook
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Black feathers.
 - **Bites:** Str+d6.
 - **Claws:** Str+d6.
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Size +2:** Increases Toughness by +2.
-

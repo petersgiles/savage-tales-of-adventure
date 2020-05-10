@@ -1,4 +1,4 @@
-Pond drinker
+# Pond drinker
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d4, Swimming d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ breathe air and survive indefinitely on land.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

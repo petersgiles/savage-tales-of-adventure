@@ -1,4 +1,4 @@
-Ghorazagh
+# Ghorazagh
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Survival d12+2
 **Edges:** Ambidextrous, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -20,4 +21,3 @@ surfaces with Pace 7".
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Weakness:** Sonic (double damage).
 - **Size +3:** Increases Toughness by +3.
-

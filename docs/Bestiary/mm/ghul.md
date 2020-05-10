@@ -1,4 +1,4 @@
-Ghul
+# Ghul
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 Persuasion d8, Stealth d10, Survival d8
 **Charisma:** +4; **Pace:** 7; **Parry:** 6; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Leathery flesh.
 - **Bite:** Str+d4.
 - **Cursed Claws:** Str+d4; Bleed.
@@ -35,6 +36,7 @@ Persuasion d8, Stealth d10, Survival d10, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +2:** Decayed skin.
 - **Bite:** Str+d4; Fire.
 - **Cursed Claws:** Str+d4; Fire; Bleed.
@@ -56,4 +58,3 @@ bleeding and death magic.
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Very Tough:** +1 Toughness.
-

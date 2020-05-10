@@ -1,4 +1,4 @@
-Lead skeleton
+# Lead skeleton
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 11 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ Vigor d12
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
 disease, poison, and extra damage from called shots.
 - **Immunities:** Electricity, acid, fire, cold and magic.
-

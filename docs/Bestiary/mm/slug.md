@@ -1,4 +1,4 @@
-Slug
+# Slug
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 19 (4)
 **Gear:** Spit acid (Throwing; range 3/6/12; Str+d6; Acid)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tongue:** Str; Reach 1"; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -26,6 +27,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 23 (3)
 **Edges:** Hard to Kill, Sweep
 **Special Abilities**
+
 - **Armour +3:** Swollen flesh.
 - **Bite:** Str+d8; Grab; Paralysis.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -46,4 +48,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

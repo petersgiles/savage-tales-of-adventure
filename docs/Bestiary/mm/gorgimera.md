@@ -1,4 +1,4 @@
-Gorgimera
+# Gorgimera
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Dragon Bite:** Str+d6.
 - **Lion Bite:** Str+d6.
@@ -29,6 +30,7 @@ d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Dragon Bite:** Str+d6.
 - **Lion Bite:** Str+d6.
@@ -41,4 +43,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d8 varies damage.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Kongamato
+# Kongamato
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+2, Stealth d10, Survival d12+1
 **Edges:** Ambidextrous, Level Headed, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -27,4 +28,3 @@ Agility roll at -2 or suffer 2d12 damage.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

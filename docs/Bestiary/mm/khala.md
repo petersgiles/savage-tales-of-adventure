@@ -1,4 +1,4 @@
-Khala
+# Khala
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Spellcasting d12
 **Powers:** Blast (ice storm), Deflection (forcefield), Obscure (fog),
 Puppet
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bites:** Str+d8; Disease.
 - **Tail:** Str+d8; Constrict.
@@ -29,4 +30,3 @@ Agility roll at -2 or suffer 2d10 damage.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Daemon
+# Daemon
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Dodge, Strong Willed
 **Powers:** Banish (plane shift self), Deflection (displacement), Fear,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Energy Drain; Grab.
 - **Claws:** Str+d6; Energy Drain.
@@ -45,6 +46,7 @@ Spellcasting d6
 **Powers:** Confusion, Detect Arcana (sense magic), Divination,
 Invisibility
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -72,6 +74,7 @@ d10
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Entangle, Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -98,6 +101,7 @@ Vigor d12+1
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Entangle, Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -124,6 +128,7 @@ d8
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Entangle, Invisibility, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -154,6 +159,7 @@ Headed, Quick, Strong Willed
 Fear, Invisibility, Mind Reading, Obscure (darkness), Puppet, Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -182,6 +188,7 @@ d10
 Detect Arcana (see invisibility), Invisibility, Obscure (darkness),
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -207,6 +214,7 @@ d12+5, Stealth d12+4, Lockpicking d12+3, Faith d12
 Headed, Quick
 **Powers:** Entangle, Fear, Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -229,6 +237,7 @@ d12+1, Spellcasting d6
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Fear, Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -255,6 +264,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Mind Reading, Puppet, Speak Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Tinged skin.
 - **Bite:** Str+d4; Charisma Drain.
 - **Claws:** Str+d4.
@@ -282,6 +292,7 @@ Persuasion d10, Spellcasting d12
 humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -303,6 +314,7 @@ d10
 (Planes) d10, Persuasion d8, Stealth d6, Survival d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (3)
 **Special Abilities**
+
 - **Armour +3:** Blackish-gray fur.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -329,6 +341,7 @@ Dodge
 **Powers:** Blast (fire storm), Deflection (forcefield), Deflection
 (blur), Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8; Fire.
@@ -368,6 +381,7 @@ d6
 **Powers:** Detect Arcana (sense magic), Obscure (darkness), Summon
 Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Skin.
 - **Bite:** Str+d6; Grab.
 - **Claws:** Str+d6.
@@ -399,6 +413,7 @@ Spellcasting d6
 **Powers:** Detect Arcana (sense magic), Invisibility, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +1:** Torn flesh.
 - **Bite:** Str+d4; Acid; Poison.
 - **Claws:** Str+d4; Acid.
@@ -425,6 +440,7 @@ Spellcasting d10
 **Edges:** Alertness, Arcane Background (Magic), Level Headed, Marksman
 **Powers:** Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -455,6 +471,7 @@ d12, Spellcasting d12
 **Edges:** Alertness, Arcane Background (Magic), Level Headed, Marksman
 **Powers:** Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -486,6 +503,7 @@ d12+2, Stealth d12+1, Survival d12+1, Faith d12
 Arcana (see invisibility), Dispel (plant trappings only), Fear,
 Invisibility, Obscure (darkness), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Disease.
 - **Claws:** Str+d6; Hunger.
@@ -514,6 +532,7 @@ Vigor d12+3
 **Edges:** Arcane Background (Magic), Sweep, Improved Sweep
 **Powers:** Blast (fire storm), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -544,6 +563,7 @@ Spellcasting d8
 Improved Sweep, Strong Willed
 **Powers:** Barrier (fire), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bites:** Str+d8; Grab.
 - **Claws:** Str+d8; Grab.
@@ -579,6 +599,7 @@ Willed
 **Powers:** Fear (phantasmal killer), Obscure (illusion), Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Black flesh.
 - **Bite:** Str+d6; Constrict.
 - **Claws:** Str+d6.
@@ -614,6 +635,7 @@ Headed
 invisibility), Dispel, Invisibility, Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d4; Constrict; Bleed.
 - **Tentacles:** Str+d4; Reach 1"; Poison.
@@ -649,6 +671,7 @@ d12+1, Spellcasting d12
 Quick Draw
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -682,6 +705,7 @@ Tracking d12+1, Spellcasting d6
 Headed
 **Powers:** Entangle, Invisibility, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Bleed.
 - **Claws:** Str+d4; Grab.
@@ -714,6 +738,7 @@ d12, Spellcasting d8
 Level Headed
 **Powers:** Lower Trait (Strength), Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Cyanotic flesh.
 - **Claws:** Str+d4.
 - **Tongue:** Str; Reach 1"; Constrict.
@@ -745,6 +770,7 @@ Spellcasting d8
 **Powers:** Dispel, Elemental Manipulation (earth), Lower Trait (curse),
 Intangibility (gaseous form), Puppet, Summon Ally, Telekinesis
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6; Confusion.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -772,6 +798,7 @@ Level Headed, Strong Willed
 **Powers:** Banish (plane shift self), Summon Ally, Summon Ally
 (skeletons and zombies), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -803,6 +830,7 @@ Disguise (shapechange), Dispel, Elemental Manipulation (water), Fear,
 Lower Trait (curse), Invisibility, Mind Reading, Obscure (darkness),
 Puppet, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +5:** Flesh.
 - **Slams:** Str+d8; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -837,6 +865,7 @@ Spellcasting d12
 (forcefield), Dispel, Invisibility, Puppet (living humanoids only),
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1".
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -862,6 +891,7 @@ d10, Repair d8, Stealth d12, Spellcasting d8
 **Powers:** Deflection (blur), Detect Arcana (sense magic),
 Invisibility, Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -875,4 +905,3 @@ creatures.
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Size -1:** Three feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Ice elemental
+# Ice elemental
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,6 +29,7 @@ Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -48,6 +50,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Frenzy, Level Headed, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -69,6 +72,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 16 (2)
 **Edges:** Dodge, Frenzy, Level Headed, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,6 +96,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 18 (3)
 **Edges:** Combat Reflexes, Dodge, Frenzy, Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -115,6 +120,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 19 (3)
 **Edges:** Combat Reflexes, Dodge, Frenzy, Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -128,4 +134,3 @@ extra damage from called shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

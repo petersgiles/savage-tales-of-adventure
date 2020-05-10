@@ -1,4 +1,4 @@
-Mu spore
+# Mu spore
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+4
 **Charisma:** +4; **Pace:** 7; **Parry:** 9; **Toughness:** 35 (8)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +8:** Natural armour.
 - **Bite:** Str+d8; Constrict.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -30,4 +31,3 @@ and extra damage from called shots.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

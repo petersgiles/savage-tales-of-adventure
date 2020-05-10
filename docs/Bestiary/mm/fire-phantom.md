@@ -1,4 +1,4 @@
-Fire phantom
+# Fire phantom
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Fire blast (Throwing; range 3/6/12; Str+d6; Fire)
 **Edges:** Berserk, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Charred flesh.
 - **Slams:** Str+d4; Fire.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Cold (double damage).
 - **Very Tough:** +1 Toughness.
-

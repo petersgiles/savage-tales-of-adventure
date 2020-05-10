@@ -1,4 +1,4 @@
-Ogrekin (half-ogre)
+# Ogrekin (half-ogre)
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d12
 **Gear:** Shortspear (Str+d6)
 **Edges:** Brave, Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
-

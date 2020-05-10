@@ -1,4 +1,4 @@
-Mortuary cyclone
+# Mortuary cyclone
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+4
 **Edges:** Alertness, Combat Reflexes, Level Headed, Quick, Sweep,
 Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slam:** Str+d8; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,4 +31,3 @@ bleeding and death magic.
 - **Size +8:** Twenty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

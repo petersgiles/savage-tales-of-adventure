@@ -1,4 +1,4 @@
-Gibbering mouther
+# Gibbering mouther
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Edges:** Arcane Background (Super Powers), Frenzy, Improved Frenzy
 **Powers:** Confusion (gibbering)
 **Special Abilities**
+
 - **Armour +2:** Formless flesh.
 - **Bites:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ roll to escape.
 shots.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
-

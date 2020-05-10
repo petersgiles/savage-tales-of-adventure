@@ -1,4 +1,4 @@
-Evil eye
+# Evil eye
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Survival d12+1
 **Gear:** Lashes (Str+d6)
 **Edges:** Alertness, Dodge, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 6" and Climb 1.
@@ -22,4 +23,3 @@ bonuses.
 - **Resistances:** -1 damage from acid, cold, electricity, fire and
 sonic.
 - **Size +2:** Increases Toughness by +2.
-

@@ -1,4 +1,4 @@
-Gnoll
+# Gnoll
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Gear:** Leather armour (+1), spear (Str+d6; Reach 1"; Parry +1),
 medium shield (+1 Parry), spear (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 **Giant demon gnoll**
 No description for this creature yet.
@@ -23,6 +24,7 @@ Range Increment)
 **Edges:** Arcane Background (Super Powers), Frenzy
 **Powers:** Smite (Good)
 **Special Abilities**
+
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -38,5 +40,5 @@ d12
 **Gear:** Scale mail (+2), flindbar (Str+d8), longbow (Shooting; range
 15/30/60; 2d6)
 **Special Abilities**
-- **Darkvision:** No vision penalties for darkness (range 12").
 
+- **Darkvision:** No vision penalties for darkness (range 12").

@@ -1,4 +1,4 @@
-Squid
+# Squid
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d6
 **Edges:** Ambidextrous, Level Headed, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,6 +27,7 @@ Vigor d12+1
 **Edges:** Ambidextrous, Combat Reflexes, Level Headed, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -36,4 +38,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +7:** Forty-five feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

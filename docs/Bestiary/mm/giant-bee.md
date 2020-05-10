@@ -1,4 +1,4 @@
-Giant bee
+# Giant bee
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Sting:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -22,6 +23,7 @@ Vigor d12
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -39,6 +41,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Survival d4
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -58,6 +61,7 @@ Vigor d8
 **Skills:** Fighting d6, Notice d6, Survival d4
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -69,4 +73,3 @@ Vigor d8
 - **Immunity:** Mind-affecting effects.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

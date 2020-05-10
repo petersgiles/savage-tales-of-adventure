@@ -1,4 +1,4 @@
-Foo dog
+# Foo dog
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ by Banish.
 - **Good:** Affected by powers and abilities that work on good
 creatures.
 - **Immunities:** Sleep, disease, poison and paralysis.
-

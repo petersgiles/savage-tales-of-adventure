@@ -1,4 +1,4 @@
-Chromatic red dragon
+# Chromatic red dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -26,6 +27,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -46,6 +48,7 @@ Spellcasting d8
 Willed
 **Powers:** Deflection (forcefield), Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -69,6 +72,7 @@ d12+1, Spellcasting d8
 **Powers:** Armor, Detect Arcana (sense magic), Lower Trait (Strength)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -96,6 +100,7 @@ Strong Willed
 (sense magic), Detect Arcana (see invisibility), Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -126,6 +131,7 @@ Strong Willed
 Puppet, Quickness
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -157,6 +163,7 @@ invisibility), Disguise (shapechange), Dispel, Invisibility, Puppet,
 Quickness
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -188,6 +195,7 @@ Detect Arcana (see invisibility), Disguise (shapechange), Dispel,
 Invisibility, Mind Reading, Puppet, Quickness, Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -219,6 +227,7 @@ Detect Arcana (see invisibility), Disguise (shapechange), Dispel, Fear,
 Invisibility, Mind Reading, Puppet, Quickness, Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -252,6 +261,7 @@ Invisibility, Mind Reading, Puppet, Quickness, Speak Language,
 Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -285,6 +295,7 @@ Invisibility, Mind Reading, Puppet, Quickness, Speak Language,
 Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -318,6 +329,7 @@ Invisibility, Mind Reading, Puppet, Quickness, Speak Language,
 Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -333,4 +345,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

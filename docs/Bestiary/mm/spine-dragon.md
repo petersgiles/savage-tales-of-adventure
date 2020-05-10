@@ -1,4 +1,4 @@
-Spine dragon
+# Spine dragon
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Spellcasting d10
 **Edges:** Arcane Background (Magic), Combat Reflexes, Dodge, Marksman
 **Powers:** Telekinesis
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -28,4 +29,3 @@ Agility roll at -2 or suffer 2d12 damage.
 - **Size +10:** Sixty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

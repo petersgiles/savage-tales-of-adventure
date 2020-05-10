@@ -1,4 +1,4 @@
-Metallic gold dragon
+# Metallic gold dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Swimming d12+2
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Alertness, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -29,6 +30,7 @@ Vigor d12
 **Charisma:** +1; **Pace:** 9; **Parry:** 7; **Toughness:** 11 (3)
 **Edges:** Alertness, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -52,6 +54,7 @@ Willed
 **Powers:** Armor, Deflection (forcefield), Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -78,6 +81,7 @@ Willed
 Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -105,6 +109,7 @@ Willed
 Arcana (sense magic), Healing
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -135,6 +140,7 @@ Willed
 Arcana (sense magic), Dispel, Healing
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -165,6 +171,7 @@ Willed
 Arcana (sense magic), Dispel, Healing, Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -197,6 +204,7 @@ Willed
 Arcana (sense magic), Dispel, Healing, Invisibility, Quickness
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -230,6 +238,7 @@ Arcana (sense magic), Dispel, Greater Healing, Healing, Invisibility,
 Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -263,6 +272,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Dispel, Greater
 Healing, Healing, Invisibility, Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -295,6 +305,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Dispel, Greater
 Healing, Healing, Invisibility, Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -328,6 +339,7 @@ Deflection (forcefield), Detect Arcana (sense magic), Dispel, Greater
 Healing, Healing, Invisibility, Quickness, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +9:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -344,4 +356,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

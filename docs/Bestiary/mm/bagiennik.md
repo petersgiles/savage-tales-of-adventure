@@ -1,4 +1,4 @@
-Bagiennik
+# Bagiennik
 
 The bagiennik is a capricious and highly unpredictable aquatic
 creature capable of emitting an oily substance from its nostrils, which
@@ -13,6 +13,7 @@ d12, Survival d6, Swimming d10, Shooting d6, Spellcasting d6
 **Edges:** Alertness, Arcane Background (Magic), Frenzy
 **Powers:** Healing
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Oily Spray:** Shooting; range 4/8/16; 2d6.
@@ -22,4 +23,3 @@ breathe air and survive indefinitely on land.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Disease and poison.
 - **Resistances:** -1 damage from cold and fire.
-

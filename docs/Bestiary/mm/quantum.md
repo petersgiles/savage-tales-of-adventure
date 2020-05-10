@@ -1,4 +1,4 @@
-Quantum
+# Quantum
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Edges:** Alertness, Combat Reflexes, Frenzy, Improved Frenzy, Level
 Headed, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1".
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ by Banish.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Cloaker
+# Cloaker
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6.
@@ -19,4 +20,3 @@ an Agility roll are pinned, and require a raise on an opposed Strength
 roll to escape.
 - **Flight:** Flying Pace of 7" and Climb 0.
 - **Size +3:** Increases Toughness by +3.
-

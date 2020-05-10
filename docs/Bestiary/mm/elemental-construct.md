@@ -1,4 +1,4 @@
-Elemental construct
+# Elemental construct
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 10; **Toughness:** 18 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -38,6 +39,7 @@ Vigor d12+4
 **Charisma:** -; **Pace:** 6; **Parry:** 10; **Toughness:** 22 (4)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -63,6 +65,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 10; **Toughness:** 18 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -92,6 +95,7 @@ Vigor d12+3
 **Edges:** Arcane Background (Super Powers), Frenzy
 **Powers:** Dispel (fire effects)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -114,4 +118,3 @@ drowning.
 - **Size +8:** Nine feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Lorelei
+# Lorelei
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Swimming d12+2, Spellcasting d6
 Headed, Strong Willed
 **Powers:** Mind Reading (speak with dead), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ wounded.
 - **Size +4:** Nine feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

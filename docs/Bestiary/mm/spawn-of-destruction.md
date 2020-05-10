@@ -1,4 +1,4 @@
-Spawn of destruction
+# Spawn of destruction
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+3, Spellcasting d6
 Headed, Marksman, Strong Willed
 **Powers:** Invisibility
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Bite:** Str+d8.
 - **Eye Rays:** Shooting; range 12/24/48; 2d8; Nausea.
@@ -51,6 +52,7 @@ Splash)
 **Edges:** Combat Reflexes, Frenzy, Hard to Kill, Level Headed, Quick,
 Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Claws:** Str+d8; Burn.
 - **Bite:** Str+d8; Burn; Grab.
@@ -101,6 +103,7 @@ d12+1, Shooting d12+3, Spellcasting d4
 Headed, Quick, Strong Willed
 **Powers:** Blast (earthquake)
 **Special Abilities**
+
 - **Armour +8:** Natural armour.
 - **Toothed Tentacles:** Str+d8; Reach 1"; Grab.
 - **Ray:** Shooting; range 12/24/48; 2d6.
@@ -144,6 +147,7 @@ d12+3
 **Gear:** Spines (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +8:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -174,4 +178,3 @@ petrification, mind-affecting effects and bleeding.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

@@ -1,4 +1,4 @@
-Sea sphere (blubble)
+# Sea sphere (blubble)
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 8; **Toughness:** 16 (2)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -19,4 +20,3 @@ roll to escape.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Guecubu
+# Guecubu
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+1, Spellcasting d8
 Headed
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +2:** Rotting flesh.
 - **Bite:** Str+d4; Misfortune.
 - **Slams:** Str+d4; Misfortune.
@@ -25,4 +26,3 @@ aging, bleeding and death magic.
 - **Resistance:** -2 damage from cold.
 - **Misfortune:** Make a Spirit roll or suffer a level of Fatigue.
 - **Misfortune:** Make a Spirit roll or suffer a level of Fatigue.
-

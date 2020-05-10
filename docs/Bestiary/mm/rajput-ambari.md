@@ -1,4 +1,4 @@
-Rajput ambari
+# Rajput ambari
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 23 (3)
 **Special Abilities**
+
 - **Armour +3:** Stench-ridden flesh.
 - **Horns:** Str+d8.
 - **Slam:** Str+d8.
@@ -20,4 +21,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Mummy
+# Mummy
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d12
 **Skills:** Fighting d6, Notice d12, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Mummy Rot.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,6 +26,7 @@ d12+2
 **Charisma:** +2; **Pace:** 5; **Parry:** 6; **Toughness:** 15 (3)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d6; Mummy Rot.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -43,6 +45,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Mummy Rot.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,6 +65,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Swamp Crumble.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -80,6 +84,7 @@ d10
 **Skills:** Fighting d6, Notice d10, Stealth d8, Swimming d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 13 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -101,6 +106,7 @@ d12
 **Skills:** Fighting d6, Notice d12, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d4; Mummy Rot.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -110,4 +116,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Very Tough:** +1 Toughness.
-

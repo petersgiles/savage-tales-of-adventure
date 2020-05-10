@@ -1,4 +1,4 @@
-Mosquito
+# Mosquito
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Bleed; Disease; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -34,6 +35,7 @@ Notice d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -55,6 +57,7 @@ Notice d8, Tracking d8, Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -63,4 +66,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Fearless:** Immune to fear and Intimidation.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Flight:** Flying Pace of 6" and Climb 0.
-

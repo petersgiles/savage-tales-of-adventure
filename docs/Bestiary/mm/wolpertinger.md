@@ -1,4 +1,4 @@
-Wolpertinger
+# Wolpertinger
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d6, Notice d6, Stealth d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str; Bleed.
 - **Horns:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ they become Shaken (this can cause a wound)
 - **Size -2:** Two feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

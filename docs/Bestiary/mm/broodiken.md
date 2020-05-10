@@ -1,4 +1,4 @@
-Broodiken
+# Broodiken
 
 Broodikens are crude one-foot tall humanoid servants, with
 disproportionately large heads and fanged mouths.
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 3
 **Edges:** Dodge, Improved Dodge
 **Special Abilities**
+
 - **Bite:** Str; Attach.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ surfaces with Pace 5".
 - **Size -2:** One foot tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

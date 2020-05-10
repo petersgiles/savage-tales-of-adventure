@@ -1,4 +1,4 @@
-Adlet
+# Adlet
 
 The adlet are cunning wolfman hunters, with white fur and and icy
 blue eyes.
@@ -14,6 +14,7 @@ Level Headed
 **Powers:** Blast (ice storm), Bolt (ray of frost), Entangle (sleet
 storm), Flight (wind walk), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Snowy fur.
 - **Bite:** Str+d4; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,4 +27,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 Agility roll at -2 or suffer 2d6 cold damage.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
-

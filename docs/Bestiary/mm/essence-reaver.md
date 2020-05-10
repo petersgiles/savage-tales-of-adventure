@@ -1,4 +1,4 @@
-Essence reaver
+# Essence reaver
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d4
 **Powers:** Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Persistent Wound.
 - **Claws:** Str+d8; Persistent Wound.
@@ -23,4 +24,3 @@ damage.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Sleep, fear and paralysis.
 - **Size +3:** Increases Toughness by +3.
-

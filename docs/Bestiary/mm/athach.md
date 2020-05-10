@@ -1,4 +1,4 @@
-Athach
+# Athach
 
 The athach are a cruel and vile race of murderous giants, with long
 fangs and three arms.
@@ -11,6 +11,7 @@ d12+3
 **Edges:** Ambidextrous, Frenzy, Sweep, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8.
 - **Bite:** Str+d8; Poison.
@@ -21,4 +22,3 @@ d12+3
 - **Size +8:** Eighteen feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

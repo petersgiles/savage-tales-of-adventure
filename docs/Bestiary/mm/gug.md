@@ -1,4 +1,4 @@
-Gug
+# Gug
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -19,4 +20,3 @@ surfaces with Pace 5".
 - **Size +4:** Sixteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

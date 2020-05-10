@@ -1,4 +1,4 @@
-Blast shadow
+# Blast shadow
 
 Blast shadows are humanoid shadows formed from writhing smoke, the
 result of lives that have been extinguished by magical fire. Note that
@@ -12,6 +12,7 @@ d10
 **Edges:** Arcane Background (Super Powers), Frenzy, Level Headed
 **Powers:** Damage Field (cloud of smoke and fire)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Cold (double damage).
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Jadeling
+# Jadeling
 
 No description for this creature yet.
 
@@ -6,6 +6,7 @@ No description for this creature yet.
 **Skills:** Fighting d8, Notice d10, Persuasion d10, Swimming d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -15,4 +16,3 @@ No description for this creature yet.
 Agility roll at -2 or suffer 2d4 acid damage.
 - **Immunities:** Acid, sleep and paralysis.
 - **Size -1:** Reduces Toughness by -1.
-

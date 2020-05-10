@@ -1,4 +1,4 @@
-Temporal crawler
+# Temporal crawler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Silver fur.
 - **Bite:** Str+d4; Paralysis.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ Agility as the arcane skill.
 - **Immunity:** Magic.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
-

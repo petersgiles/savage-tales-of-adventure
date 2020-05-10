@@ -1,4 +1,4 @@
-Cyclops
+# Cyclops
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Shooting d6
 15/30/60; 2d6; AP 2)
 **Edges:** Alertness, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size +3:** Nine feet tall; Toughness +3.
@@ -25,6 +26,7 @@ d12+3
 Str+d6)
 **Edges:** Hard to Kill, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horns:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -44,8 +46,8 @@ d10, Shooting d12
 15/30/60; 2d6; AP 2)
 **Edges:** Alertness, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunities:** Sleep, paralysis and mind-affecting effects.
 - **Size +3:** Increases Toughness by +3.
-

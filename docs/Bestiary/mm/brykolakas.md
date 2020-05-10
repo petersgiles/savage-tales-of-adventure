@@ -1,4 +1,4 @@
-Brykolakas
+# Brykolakas
 
 The brykolakas are humanoid undead with dark blue skin, who inhabit
 underwater ruins and caves. They have the ability to take on the shape
@@ -11,6 +11,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Bluish-gray skin.
 - **Claws:** Str+d4; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,4 +31,3 @@ against offensive magic.
 bleeding and death magic.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Very Tough:** +1 Toughness.
-

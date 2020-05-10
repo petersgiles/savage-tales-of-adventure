@@ -1,4 +1,4 @@
-Grippli
+# Grippli
 
 No description for this creature yet.
 
@@ -11,10 +11,10 @@ d10, Survival d8, Tracking d8, Shooting d4
 range 3/6/12; 2d4)
 **Edges:** Beast Master, Woodsman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swamp Stride:** Swamps and marshy terrain are not treated as
 difficult ground.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Size -1:** Two feet tall; Toughness -1.
-

@@ -1,4 +1,4 @@
-Ocean lion
+# Ocean lion
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -23,9 +24,9 @@ Vigor d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Aquatic:** Swimming Pace of 12", and cannot drown.
-

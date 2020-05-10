@@ -1,4 +1,4 @@
-Bloody bones
+# Bloody bones
 
 Bloody bones look like humanoid skeletons coated in bloody mucus,
 with four sinewy tendrils projecting from their ribcages.
@@ -10,6 +10,7 @@ Stealth d8, Throwing d6
 **Charisma:** +1; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Tendrils:** Throwing; range 3/6/12; Str+d6; Grab.
@@ -25,4 +26,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Resistance:** -2 damage from fire.
 - **Very Tough:** +1 Toughness.
-

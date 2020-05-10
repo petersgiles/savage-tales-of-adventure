@@ -1,4 +1,4 @@
-Boalisk
+# Boalisk
 
 The boalisk is a massive constrictor snake with green and yellow
 scales. Its gaze causes black rot, a short term, debilitating disease.
@@ -10,6 +10,7 @@ d8, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Dark scales.
 - **Bite:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -26,4 +27,3 @@ surfaces with Pace 5".
 resist.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Thirty feet long; Toughness +3.
-

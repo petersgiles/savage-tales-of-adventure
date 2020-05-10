@@ -1,4 +1,4 @@
-Skum (ulat-kini)
+# Skum (ulat-kini)
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Swimming d12, Throwing d4
 range 3/6/12; Str+d6)
 **Edges:** Ambidextrous
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ range 3/6/12; Str+d6)
 breathe air and survive indefinitely on land.
 - **Resistance:** -2 damage from cold.
 - **Very Tough:** +1 Toughness.
-

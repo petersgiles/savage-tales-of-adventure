@@ -1,4 +1,4 @@
-Ei�risai
+# Ei�risai
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Level Headed, Strong Willed
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Pandemoniac Corruption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -40,6 +41,7 @@ Strong Willed
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Pandemoniac Corruption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -61,6 +63,7 @@ d12
 **Edges:** Ambidextrous, Combat Reflexes, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Pandemoniac Corruption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -86,6 +89,7 @@ Strong Willed
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Pandemoniac Corruption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -110,6 +114,7 @@ Strong Willed
 **Powers:** Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Pandemoniac Corruption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -120,4 +125,3 @@ Fatigue.
 - **Pandemoniac Corruption:** Make a Vigor roll or suffer a level of
 Fatigue.
 - **Size +3:** Increases Toughness by +3.
-

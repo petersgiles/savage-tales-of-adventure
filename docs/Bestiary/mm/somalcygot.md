@@ -1,4 +1,4 @@
-Somalcygot
+# Somalcygot
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+3, Stealth d12
 **Edges:** Ambidextrous, Dodge, Level Headed, Quick, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Acid.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -28,4 +29,3 @@ Agility roll at -2 or suffer 2d10 acid damage.
 - **Size +4:** Sixteen feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

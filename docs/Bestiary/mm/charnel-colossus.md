@@ -1,4 +1,4 @@
-Charnel colossus
+# Charnel colossus
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Frenzy, Improved Frenzy, Level Headed, Quick, Strong Willed
 **Powers:** Detect Arcana (see invisibility), Lower Trait (curse),
 Invisibility, Mind Reading (speak with dead)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Slams:** Str+d8; Grab; Mind Feed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -32,4 +33,3 @@ bleeding and death magic.
 - **Size +15:** Increases Toughness by +15.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

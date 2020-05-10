@@ -1,4 +1,4 @@
-Deep singer whale
+# Deep singer whale
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Sweep, Strong Willed
 invisibility), Dispel, Healing, Invisibility, Puppet (living humanoids
 only), Slumber, Speak Language, Summon Ally
 **Special Abilities**
+
 - **Armour +5:** Blue skin.
 - **Tail Slap:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -25,4 +26,3 @@ drowning.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

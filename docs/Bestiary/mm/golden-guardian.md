@@ -1,4 +1,4 @@
-Golden guardian
+# Golden guardian
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 10 (3)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d4; Fire.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ disease, poison, and extra damage from called shots.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Immunities:** Electricity and fire.
-

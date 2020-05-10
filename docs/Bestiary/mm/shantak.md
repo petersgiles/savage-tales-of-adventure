@@ -1,4 +1,4 @@
-Shantak
+# Shantak
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+1
 **Skills:** Fighting d12
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 18 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ smell-based effects.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

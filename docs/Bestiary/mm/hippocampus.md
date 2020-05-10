@@ -1,4 +1,4 @@
-Hippocampus
+# Hippocampus
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d6, Tracking d6, Swimming d10
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6.
@@ -17,4 +18,3 @@ Vigor d10
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Size +2:** Increases Toughness by +2.
-

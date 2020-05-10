@@ -1,4 +1,4 @@
-Sargassum fiend
+# Sargassum fiend
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 15 (3)
 **Edges:** Dodge, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Constrict.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -27,4 +28,3 @@ surfaces with Pace 5".
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

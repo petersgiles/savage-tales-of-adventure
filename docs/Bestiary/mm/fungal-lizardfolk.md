@@ -1,4 +1,4 @@
-Fungal lizardfolk
+# Fungal lizardfolk
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ range 3/6/12; Str+d6)
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ and extra damage from called shots.
 - **Natural Swimmer:** Swimming Pace of 4", and +2 to resist drowning.
 - **Hold Breath:** Can hold breath for Vigor x 10 minutes.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
-

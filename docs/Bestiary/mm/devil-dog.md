@@ -1,4 +1,4 @@
-Devil dog
+# Devil dog
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** White fur.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 -1.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
-

@@ -1,4 +1,4 @@
-Silver bells
+# Silver bells
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 9 (1)
 **Edges:** Alertness, Combat Reflexes
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tendril:** Str+d6; Reach 1"; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ and extra damage from called shots.
 - **Immunity:** Electricity.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Seven feet tall; Toughness +2.
-

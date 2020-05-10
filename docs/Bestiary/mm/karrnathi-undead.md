@@ -1,4 +1,4 @@
-Karrnathi undead
+# Karrnathi undead
 
 Karrnathi battlemasters are the corpses of karrnathi generals infused
 with potent necromatic energy, making them tougher and faster than
@@ -14,6 +14,7 @@ d12+1
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 19 (3)
 **Edges:** Command, Frenzy, Natural Leader
 **Special Abilities**
+
 - **Armour +3:** Stone covered in thorny spikes.
 - **Slams:** Str+d10; Stun.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -43,6 +44,7 @@ scimitar (Str+d8)
 **Edges:** Florentine, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -63,6 +65,7 @@ scimitar (Str+d8), composite longbow (Shooting; range 15/30/60; 2d6)
 **Edges:** Marksman, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -81,6 +84,7 @@ d10
 **Gear:** Platemail (+3), helmet (+3), masterwork longsword (Str+d8),
 medium shield (+1 Parry)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -102,10 +106,10 @@ medium shield (+1 Parry), composite longbow (Shooting; range 15/30/60;
 2d6)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
-

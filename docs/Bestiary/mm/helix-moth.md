@@ -1,4 +1,4 @@
-Helix moth
+# Helix moth
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 15 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Acid; Grab.
 - **Tail Sting:** Str+d8; Poison.
@@ -32,6 +33,7 @@ Vigor d8
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab; Acid.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -39,4 +41,3 @@ raise on an opposed Strength roll to escape.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
 - **Size +2:** Increases Toughness by +2.
-

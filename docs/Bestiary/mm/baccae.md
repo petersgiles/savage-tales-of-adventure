@@ -1,4 +1,4 @@
-Baccae
+# Baccae
 
 The baccae are fae that look like beautiful women, with long red
 hair, green eyes, and flowing white robes. When intoxicated or enraged,
@@ -12,10 +12,10 @@ d8
 **Gear:** Greatclub (Str+d8)
 **Edges:** Berserk
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Charming Gaze:** All creatures within 12" must make a Spirit roll
 to resist.
 - **Very Tough:** +1 Toughness.
-

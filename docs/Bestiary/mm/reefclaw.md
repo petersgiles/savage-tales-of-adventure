@@ -1,4 +1,4 @@
-Reefclaw
+# Reefclaw
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 1; **Parry:** 4; **Toughness:** 6 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Constrict; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -27,6 +28,7 @@ d12+2
 **Charisma:** +4; **Pace:** 1; **Parry:** 7; **Toughness:** 16 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d10; Constrict; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -40,4 +42,3 @@ breathe air and survive indefinitely on land.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

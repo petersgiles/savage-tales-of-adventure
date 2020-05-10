@@ -1,4 +1,4 @@
-Flail snail
+# Flail snail
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11 (3)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ surfaces with Pace 4".
 - **Immunity:** Poison.
 - **Resistance:** -2 damage from fire.
 - **Size +2:** Sixty feet long; Toughness +2.
-

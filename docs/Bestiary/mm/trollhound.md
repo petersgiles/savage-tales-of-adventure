@@ -1,4 +1,4 @@
-Trollhound
+# Trollhound
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Scaly skin.
 - **Bite:** Str+d4; Disease; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -30,6 +31,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Pebbly skin.
 - **Bite:** Str+d4; Disease; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -50,6 +52,7 @@ d8, Swimming d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Disease; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -63,4 +66,3 @@ breathe air and survive indefinitely on land.
 - **Fast Regeneration:** May make a Vigor roll every round to heal
 damage.
 - **Disease:** Make a Vigor roll or become afflicted.
-

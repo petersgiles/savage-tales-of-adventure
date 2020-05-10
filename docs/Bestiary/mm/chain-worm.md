@@ -1,4 +1,4 @@
-Chain worm
+# Chain worm
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+1
 **Skills:** Fighting d10, Climbing d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 13
 **Special Abilities**
+
 - **Bite:** Str+d8; Grab.
 - **Tail Sting:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,4 +26,3 @@ wounded.
 - **Size +4:** Six feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

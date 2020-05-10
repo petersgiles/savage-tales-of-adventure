@@ -1,4 +1,4 @@
-Nazalor
+# Nazalor
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 10 (2)
 **Edges:** Berserk, Frenzy, Hard to Kill
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -17,4 +18,3 @@ d8
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
-

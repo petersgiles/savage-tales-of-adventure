@@ -1,4 +1,4 @@
-Skulleton
+# Skulleton
 
 No description for this creature yet.
 
@@ -6,6 +6,7 @@ No description for this creature yet.
 **Skills:** Fighting d6, Intimidation d10, Notice d10, Stealth d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ bleeding and death magic.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

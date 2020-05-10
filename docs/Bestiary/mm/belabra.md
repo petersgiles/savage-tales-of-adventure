@@ -1,4 +1,4 @@
-Belabra
+# Belabra
 
 Belabras look like big, gray, floating jellyfish, with four eyestalks
 and a dozen barbed tentacles. They usually eat plants and small animals,
@@ -11,6 +11,7 @@ d8
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
@@ -24,4 +25,3 @@ damage.
 raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 5" and Climb -1.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Chrystone
+# Chrystone
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ Sweep).
 - **Construct:** +2 to recover from Shaken, ignore wound modifiers,
 disease, poison, and extra damage from called shots.
 - **Immunity:** Magic.
-

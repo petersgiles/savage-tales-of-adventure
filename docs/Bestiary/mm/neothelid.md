@@ -1,4 +1,4 @@
-Neothelid
+# Neothelid
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d12+3, Persuasion d12+3, Repair d12+3, Spellcasting d10
 Headed, Sweep, Improved Sweep, Strong Willed
 **Powers:** Mind Reading, Puppet, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -33,4 +34,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

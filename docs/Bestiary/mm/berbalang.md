@@ -1,4 +1,4 @@
-Berbalang
+# Berbalang
 
 Berbalangs appear as hunched humanoids with glowing eyes, leathery
 wings and a long tongue.
@@ -12,6 +12,7 @@ d12, Spellcasting d8
 **Powers:** Intangibility (astral projection), Disguise (shapechange),
 Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Paralysis.
 - **Claws:** Str+d4; Paralysis.
@@ -23,4 +24,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
-

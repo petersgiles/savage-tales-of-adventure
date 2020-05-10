@@ -1,4 +1,4 @@
-Robot
+# Robot
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+3, Throwing d12
 **Gear:** Integrated chain guns (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claws:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -38,6 +39,7 @@ d6
 **Gear:** Masterwork spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -58,6 +60,7 @@ d10
 **Edges:** Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -72,6 +75,7 @@ d8
 **Skills:** Fighting d6, Notice d6, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -95,6 +99,7 @@ Throwing d12
 **Gear:** Integrated laser rifle (Throwing; range 3/6/12; Str+d6; Fire)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Marksman, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Constrict.
 - **Quantum Lashes Touch:** Str+d8.
@@ -111,4 +116,3 @@ disease, poison, and extra damage from called shots.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

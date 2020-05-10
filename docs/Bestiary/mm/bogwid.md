@@ -1,4 +1,4 @@
-Bogwid
+# Bogwid
 
 Bogwids are solitary asexual amphibians that drag themselves around
 using their muscular tentacles. Their moist skin is dark green, and
@@ -17,6 +17,7 @@ d10, Throwing d4
 **Gear:** Offspring (Throwing; range 3/6/12; Str+d6; Bleed; Disease)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Amphibian skin.
 - **Slams:** Str+d4; Nauseating Touch.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,4 +36,3 @@ a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
 - **Nauseating Touch:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

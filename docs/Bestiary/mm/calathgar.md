@@ -1,4 +1,4 @@
-Calathgar
+# Calathgar
 
 Calathgars are big intelligent flowers with brilliant sky-blue
 petals, although they usually only unfurl in bright sunlight or when
@@ -12,6 +12,7 @@ d8
 **Gear:** Flower (Str+d8; Cold)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Tendrils:** Str+d4; Reach 1".
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 6").
@@ -25,4 +26,3 @@ surfaces with Pace 5".
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Carnivorous blob
+# Carnivorous blob
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d10, Climbing d12+2, Swimming d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 24
 **Special Abilities**
+
 - **Slam:** Str+d8; Draining; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -32,4 +33,3 @@ Up bonuses.
 - **Size +15:** Increases Toughness by +15.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

@@ -1,4 +1,4 @@
-Giant
+# Giant
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12
 **Gear:** Huge greatclub (Str+d10)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,6 +26,7 @@ Notice d8, Survival d8, Throwing d10
 Str+d6; Disease)
 **Edges:** Marksman, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +3:** Covered flesh.
 - **Slam:** Str+d8; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -44,6 +46,7 @@ d12+2, Repair d8, Throwing d8
 **Gear:** Longsword (Str+d8), spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Alertness, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -62,6 +65,7 @@ Throwing d4
 **Gear:** Battleaxe (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -81,6 +85,7 @@ d10
 Willed
 **Powers:** Flight (levitate), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +3:** Pale skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -104,6 +109,7 @@ Spellcasting d10
 Willed
 **Powers:** Flight (levitate), Obscure (fog cloud)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -123,6 +129,7 @@ Throwing d8
 Str+d6)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Two-Fisted
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunity:** Fire.
@@ -141,6 +148,7 @@ d12+3
 Willed
 **Powers:** Flight (levitate)
 **Special Abilities**
+
 - **Armour +4:** Ruddy skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunities:** Fire and mind-affecting effects.
@@ -159,6 +167,7 @@ Repair d8, Throwing d8
 (Throwing; range 3/6/12; Str+d6; Fire)
 **Edges:** Sweep, Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flaming Aura:** Anyone attacking the creature with unarmed or
 natural weapons suffers 2d6 fire damage.
@@ -180,6 +189,7 @@ Str+d6; Fire; Smoke)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Sweep, Improved
 Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flaming Aura:** Anyone attacking the creature with unarmed or
@@ -201,6 +211,7 @@ d12+3, Survival d12+3, Throwing d8, Faith d12
 **Edges:** Arcane Background (Miracles)
 **Powers:** Barrier (thorns), Wall Walker
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Wall Walker:** Can automatically move across vertical or inverted
@@ -221,6 +232,7 @@ Repair d8, Stealth d4, Throwing d8
 range 3/6/12; Str+d6)
 **Edges:** Sweep, Improved Sweep
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
@@ -238,6 +250,7 @@ Throwing d6
 **Gear:** Greatclub (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Filthy fur.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size +4:** Ten feet tall; Toughness +4.
@@ -253,6 +266,7 @@ d12+1
 **Gear:** Greatclub (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunities:** Fear and fatigue.
@@ -269,6 +283,7 @@ d12+1
 **Charisma:** +1; **Pace:** 6; **Parry:** 7; **Toughness:** 20 (4)
 **Edges:** Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Translucent flesh.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8; Energy.
@@ -301,6 +316,7 @@ d12+4, Survival d10, Throwing d12
 Str+d6)
 **Edges:** Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -319,6 +335,7 @@ d10, Survival d10, Shooting d12
 **Gear:** Masterwork composite longbow (Shooting; range 15/30/60; 2d6)
 **Edges:** Frenzy, Marksman
 **Special Abilities**
+
 - **Armour +2:** Decorated skin.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -338,6 +355,7 @@ d8, Faith d10
 **Edges:** Arcane Background (Miracles), Combat Reflexes, Strong Willed
 **Powers:** Lower Trait (curse), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
@@ -357,6 +375,7 @@ Survival d10, Swimming d12+1, Throwing d8, Faith d12
 **Powers:** Beast Friend, Confusion, Lower Trait (curse), Obscure (fog
 cloud)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 13", and cannot drown, but can also
@@ -377,6 +396,7 @@ range 3/6/12; Str+d6)
 **Edges:** Arcane Background (Magic), Quick Draw, Strong Willed
 **Powers:** Puppet, Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +4:** Black skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunities:** Electricity, fire and cold.
@@ -397,6 +417,7 @@ Str+d6)
 Sweep, Strong Willed
 **Powers:** Blast (earthquake)
 **Special Abilities**
+
 - **Armour +3:** Tan skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -418,6 +439,7 @@ d8
 **Gear:** Rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy, Level Headed, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Green skin.
 - **Slams:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -439,6 +461,7 @@ Stealth d6, Throwing d10
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Combat Reflexes, Sweep, Improved Sweep, Two-Fisted
 **Special Abilities**
+
 - **Armour +3:** Dead skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -461,6 +484,7 @@ Str+d6; Fire)
 **Edges:** Arcane Background (Magic), Combat Reflexes, Strong Willed
 **Powers:** Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Soot-colored skin.
 - **Slams:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -484,6 +508,7 @@ d8, Throwing d4
 (Throwing; range 3/6/12; Str+d6)
 **Edges:** Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +2:** Skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Immunity:** Cold.
@@ -499,6 +524,7 @@ Stealth d6, Throwing d10
 **Gear:** Greatclub (Str+d8), rock (Throwing; range 3/6/12; Str+d6)
 **Edges:** Marksman, Quick Draw, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -519,6 +545,7 @@ composite longbow (Shooting; range 15/30/60; 2d6)
 Willed
 **Powers:** Blast (lightning storm), Flight (levitate), Obscure (fog)
 **Special Abilities**
+
 - **Armour +3:** Bronze skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Amphibious:** Swimming Pace of 14", and cannot drown, but can also
@@ -539,6 +566,7 @@ d10, Stealth d6, Survival d12+1, Throwing d8
 3/6/12; Str+d6)
 **Edges:** Alertness, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Gray skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Fast Runner:** Roll d8 when running instead of d6.
@@ -559,6 +587,7 @@ d12+1, Knowledge (Nature) d10, Throwing d10, Faith d8
 Willed
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +4:** Brown skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Breath Weapon:** All targets within a Cone Template must make an
@@ -581,6 +610,6 @@ d8, Stealth d8, Survival d8, Shooting d6, Spellcasting d8
 **Edges:** Arcane Background (Magic), Marksman, Strong Willed
 **Powers:** Beast Friend, Puppet (animals only)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size +2:** Fourteen feet tall; Toughness +2.
-

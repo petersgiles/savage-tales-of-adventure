@@ -1,4 +1,4 @@
-Basidirond
+# Basidirond
 
 The basidirond is a deadly plant-based creature, capable of moving
 around on its thin stalks in search of mineral-rich moisture (including
@@ -9,6 +9,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Spores.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ and extra damage from called shots.
 - **Immunity:** Cold.
 - **Weakness:** Cold lethargy.
 - **Spores:** Make a Vigor roll or suffer a level of Fatigue.
-

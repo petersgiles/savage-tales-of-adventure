@@ -1,4 +1,4 @@
-Rust monster
+# Rust monster
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d8
 **Skills:** Fighting d6, Climbing d8, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Antennae Touch:** Str+d4; Rust.
@@ -26,6 +27,7 @@ Vigor d12+1
 **Edges:** Ambidextrous, Frenzy, Quick
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Antennae Touch:** Str+d8; Rust or Bloodrust.
 - **Bite:** Str+d8.
@@ -39,4 +41,3 @@ surfaces with Pace 5".
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

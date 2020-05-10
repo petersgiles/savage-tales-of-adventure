@@ -1,4 +1,4 @@
-Thriae
+# Thriae
 
 Thriae are a mysterious race of female beelike humanoids, with an
 insectile lower body, wings and antennae. They generally have little
@@ -18,6 +18,7 @@ Willed
 **Powers:** Greater Healing, Healing, Mind Reading, Mind Reading (speak
 with dead)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Sting:** Str+d8; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -51,6 +52,7 @@ Two-Fisted
 **Powers:** Dispel (invisibility only), Invisibility, Mind Reading,
 Slumber, Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -74,6 +76,7 @@ Survival d8, Shooting d6
 2d6; Poison)
 **Edges:** Marksman
 **Special Abilities**
+
 - **Sting:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -81,4 +84,3 @@ Survival d8, Shooting d6
 - **Immunities:** Sonic and poison.
 - **Poison:** Sting and composite longbow inflict lethal poison if foe
 is Shaken or wounded.
-

@@ -1,4 +1,4 @@
-Shrieker
+# Shrieker
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 6 (1)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -25,6 +26,7 @@ d8
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 6 (1)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -42,6 +44,7 @@ d8
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 6 (1)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -50,4 +53,3 @@ d8
 and extra damage from called shots.
 - **Immunity:** Sonic.
 - **Size -1:** Reduces Toughness by -1.
-

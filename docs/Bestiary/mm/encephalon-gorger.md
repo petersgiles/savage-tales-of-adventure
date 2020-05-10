@@ -1,4 +1,4 @@
-Encephalon gorger
+# Encephalon gorger
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 8 (2)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Semi-translucent flesh.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ raise on an opposed Strength roll to escape.
 - **Madness:** Anyone attempting to read, control or contact the mind of
 this creature suffers an automatic level of Fatigue.
 - **Resistance:** -2 damage from cold.
-

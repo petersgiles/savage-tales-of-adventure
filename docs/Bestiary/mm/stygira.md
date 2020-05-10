@@ -1,4 +1,4 @@
-Stygira
+# Stygira
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10, Tracking d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Alertness, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Cracked flesh.
 - **Claws:** Str+d4; Stone Curse.
 - **Truevision:** Can see through illusions, shapechanging,
@@ -23,4 +24,3 @@ against offensive magic.
 resist.
 - **Immunities:** Paralysis, petrification and gaze attacks.
 - **Stone Curse:** Make a Spirit roll or suffer a level of Fatigue.
-

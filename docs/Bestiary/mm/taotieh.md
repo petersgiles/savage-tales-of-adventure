@@ -1,4 +1,4 @@
-Taotieh
+# Taotieh
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d12
 **Charisma:** -; **Pace:** 7; **Parry:** 8; **Toughness:** 17 (4)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8; Grab.
@@ -33,4 +34,3 @@ to foe.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Madadh
+# Madadh
 
 No description for this creature yet.
 
@@ -11,8 +11,8 @@ Shooting d4, Spellcasting d8
 **Edges:** Arcane Background (Magic)
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Armour +1:** Nut-brown skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size -1:** Reduces Toughness by -1.
-

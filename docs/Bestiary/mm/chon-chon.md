@@ -1,4 +1,4 @@
-Chon chon
+# Chon chon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Acid Spit:** Shooting; range 3/6/12; 2d4; Acid.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,8 +28,8 @@ Notice d10, Spellcasting d4
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Stun (distraction), Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
 - **Flight:** Flying Pace of 9" and Climb 2.
-

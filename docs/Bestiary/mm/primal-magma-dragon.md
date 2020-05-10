@@ -1,4 +1,4 @@
-Primal magma dragon
+# Primal magma dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 5 (1)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -30,6 +31,7 @@ Stealth d12, Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -51,6 +53,7 @@ Stealth d12, Swimming d12+1, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed, Strong Willed
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4; Fire.
 - **Claws:** Str+d4.
@@ -73,6 +76,7 @@ d12+1, Stealth d12, Swimming d12+1, Spellcasting d10
 **Edges:** Arcane Background (Magic), Level Headed, Strong Willed
 **Powers:** Deflection (forcefield), Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4; Fire.
 - **Claws:** Str+d4.
@@ -93,6 +97,7 @@ d12+1, Stealth d10, Swimming d12+2, Spellcasting d10
 **Edges:** Arcane Background (Magic), Level Headed, Strong Willed
 **Powers:** Deflection (forcefield), Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -120,6 +125,7 @@ d12+2, Stealth d12, Swimming d12+3, Spellcasting d12
 (forcefield), Detect Arcana (sense magic), Dispel, Flight (feather
 fall)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -153,6 +159,7 @@ Willed
 Dispel, Flight (feather fall)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -184,6 +191,7 @@ Deflection (forcefield), Deflection (displacement), Detect Arcana (sense
 magic), Dispel, Flight (feather fall), Obscure (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -215,6 +223,7 @@ Deflection (forcefield), Deflection (displacement), Detect Arcana (sense
 magic), Dispel, Flight (feather fall), Obscure (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -248,6 +257,7 @@ Willed
 fall), Obscure (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -283,6 +293,7 @@ Detect Arcana (sense magic), Dispel, Flight (feather fall), Obscure
 (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -316,6 +327,7 @@ Detect Arcana (sense magic), Dispel, Flight (feather fall), Obscure
 (darkness), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8; Fire.
 - **Claws:** Str+d8.
@@ -332,4 +344,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

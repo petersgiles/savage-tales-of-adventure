@@ -1,4 +1,4 @@
-Stymphalides
+# Stymphalides
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+1
 **Gear:** Wing razors (Throwing; range 3/6/12; Str+d6; Bleed)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Bleed.
 - **Talons:** Str+d6.
@@ -32,6 +33,7 @@ Notice d10, Innate Powers d12
 Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +2:** Feathers.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Swarm:** +2 Parry, immune to most weapons.
@@ -42,4 +44,3 @@ Headed
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

@@ -1,4 +1,4 @@
-Abyssal larva
+# Abyssal larva
 
 Abyssal larva are bloated man-sized maggots, with dark veins
 pulsating below their sickly pale flesh, and horned humanoid heads with
@@ -8,6 +8,7 @@ sharp teeth and distorted features.
 **Skills:** Fighting d4, Notice d6, Stealth d6, Shooting d4
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Pale flesh.
 - **Bite:** Str+d4; Acid.
 - **Maggot Spray:** Shooting; range 4/8/16; 2d6; Sickened.
@@ -19,4 +20,3 @@ creatures.
 - **Immunity:** Mind-affecting effects.
 - **Resistances:** -1 damage from acid, cold and fire.
 - **Very Tough:** +1 Toughness.
-

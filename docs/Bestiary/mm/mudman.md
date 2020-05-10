@@ -1,4 +1,4 @@
-Mudman
+# Mudman
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+1
 **Gear:** Mud bomb (Throwing; range 3/6/12; Str+d6; Dexterity Damage)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -23,4 +24,3 @@ roll to escape.
 - **Elemental:** Immune to fear, ignore wound modifiers, poison, and
 extra damage from called shots.
 - **Immunity:** Mind-affecting effects.
-

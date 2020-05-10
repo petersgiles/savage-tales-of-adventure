@@ -1,4 +1,4 @@
-Forgotten one
+# Forgotten one
 
 No description for this creature yet.
 
@@ -14,10 +14,10 @@ d8
 **Edges:** Arcane Background (Magic)
 **Powers:** Deflection (blur)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Poison:** Shortspear and shortspear inflict lethal poison if foe is
 Shaken or wounded.
 - **Size -2:** One foot tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

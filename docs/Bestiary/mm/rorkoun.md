@@ -1,4 +1,4 @@
-Rorkoun
+# Rorkoun
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Throwing d4
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 17 (2)
 **Gear:** Gob (Throwing; range 3/6/12; Str+d6; Stuck)
 **Special Abilities**
+
 - **Armour +2:** Pallid flesh.
 - **Bite:** Str+d8; Constrict.
 - **Tail Slap:** Str+d8; Constrict.
@@ -21,4 +22,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +7:** Twenty-five feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

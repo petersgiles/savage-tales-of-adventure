@@ -1,4 +1,4 @@
-Assassin vine
+# Assassin vine
 
 The assassin vine is a carnivorous plant that lashes out at any
 potential prey foolish enough to move within range.
@@ -8,6 +8,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Gnarled bark.
 - **Slam:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ and extra damage from called shots.
 - **Immunity:** Electricity.
 - **Resistances:** -2 damage from cold and fire.
 - **Size +2:** Twenty feet long; Toughness +2.
-

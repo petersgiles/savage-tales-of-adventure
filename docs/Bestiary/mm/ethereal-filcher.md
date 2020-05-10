@@ -1,4 +1,4 @@
-Ethereal filcher
+# Ethereal filcher
 
 No description for this creature yet.
 
@@ -8,6 +8,6 @@ d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 5
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

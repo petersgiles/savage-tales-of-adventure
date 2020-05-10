@@ -1,4 +1,4 @@
-Half ogre
+# Half ogre
 
 No description for this creature yet.
 
@@ -9,6 +9,6 @@ d8
 **Gear:** Greatsword (Str+d10; Parry -1), longspear (Str+d6; Reach 1";
 Parry +1)
 **Special Abilities**
+
 - **Armour +1:** Toned skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

@@ -1,4 +1,4 @@
-Nymph
+# Nymph
 
 No description for this creature yet.
 
@@ -13,6 +13,6 @@ d12, Persuasion d12+1, Stealth d12, Swimming d12+1, Faith d12
 Entangle, Environmental Protection (heat and cold), Healing, Puppet
 (animals only), Summon Ally (animals and elementals), Teleport
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
-

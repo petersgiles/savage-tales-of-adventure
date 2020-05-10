@@ -1,4 +1,4 @@
-Gelatinous cube
+# Gelatinous cube
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d12+3
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -28,6 +29,7 @@ d12+3
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -49,6 +51,7 @@ d12+3
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -71,6 +74,7 @@ d12+3
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 11
 **Special Abilities**
+
 - **Slam:** Str+d6; Acid.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
@@ -85,4 +89,3 @@ shots.
 and Gang Up bonuses.
 - **Weakness:** Cold vulnerability.
 - **Size +2:** Increases Toughness by +2.
-

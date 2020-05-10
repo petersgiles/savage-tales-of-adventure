@@ -1,4 +1,4 @@
-Metallic bronze dragon
+# Metallic bronze dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d12, Swimming d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 7 (2)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -30,6 +31,7 @@ Repair d12, Stealth d10, Swimming d12+2, Spellcasting d10
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -51,6 +53,7 @@ d10, Spellcasting d10
 **Powers:** Beast Friend, Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -72,6 +75,7 @@ d12+1, Repair d12+1, Stealth d10, Swimming d12+4, Spellcasting d12
 **Powers:** Beast Friend, Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -96,6 +100,7 @@ d12+2, Repair d12+2, Stealth d8, Swimming d12+5, Spellcasting d12
 magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -125,6 +130,7 @@ d12
 (wind)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -155,6 +161,7 @@ Headed, Sweep
 Invisibility, Obscure (fog cloud), Pummel (wind)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -188,6 +195,7 @@ Invisibility, Mind Reading, Obscure (fog cloud), Pummel (wind), Puppet,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -221,6 +229,7 @@ Invisibility, Mind Reading, Obscure (fog cloud), Pummel (wind), Puppet,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -253,6 +262,7 @@ Improved Sweep
 Invisibility, Mind Reading, Obscure (fog cloud), Pummel (wind), Puppet,
 Teleport
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -284,6 +294,7 @@ Invisibility, Mind Reading, Obscure (fog cloud), Pummel (wind), Puppet,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -318,6 +329,7 @@ Dispel, Invisibility, Mind Reading, Obscure (fog), Obscure (fog cloud),
 Pummel (wind), Puppet, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -335,4 +347,3 @@ Agility roll at -2 or suffer 2d12 lightning damage.
 - **Size +16:** 120 feet long; Toughness +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

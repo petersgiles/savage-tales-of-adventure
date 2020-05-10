@@ -1,4 +1,4 @@
-Gorgoni
+# Gorgoni
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Tracking d10, Shooting d4, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Berserk, Level Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ Tracking d10, Shooting d4, Spellcasting d8
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

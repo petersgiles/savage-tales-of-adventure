@@ -1,4 +1,4 @@
-Battle imp
+# Battle imp
 
 Battle imps are tiny fae who love fighting and telling stories. They
 use their telekinetic power to gather stones and branches around
@@ -15,9 +15,9 @@ Spellcasting d12
 **Powers:** Barrier (thorns), Blast (lightning storm), Summon Ally,
 Telekinesis
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 9" and Climb 0.
 - **Immunity:** Fire.
-

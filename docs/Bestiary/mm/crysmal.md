@@ -1,4 +1,4 @@
-Crysmal
+# Crysmal
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Spellcasting d4
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Detect Arcana (sense magic), Teleport
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ extra damage from called shots.
 - **Immunities:** Fire and cold.
 - **Resistance:** -2 damage from electricity.
 - **Size -1:** Reduces Toughness by -1.
-

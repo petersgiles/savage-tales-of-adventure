@@ -1,4 +1,4 @@
-Vescavor swarm
+# Vescavor swarm
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 **Edges:** Arcane Background (Super Powers), Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Swarm:** Str; Distraction.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,4 +27,3 @@ creatures.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

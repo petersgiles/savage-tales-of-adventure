@@ -1,4 +1,4 @@
-Cadaver
+# Cadaver
 
 Cadavers look like rotting humanoid corpses, with glowing eyes and
 filthy claws.
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Rotted flesh.
 - **Claws:** Str+d4; Disease.
 - **Bite:** Str+d4; Disease.
@@ -32,6 +33,7 @@ d10, Faith d8
 **Edges:** Arcane Background (Miracles), Frenzy, Level Headed
 **Powers:** Fear, Obscure (darkness), Summon Ally, Puppet (undead)
 **Special Abilities**
+
 - **Armour +2:** Rotted flesh.
 - **Claws:** Str+d4; Disease.
 - **Bite:** Str+d4; Disease.
@@ -44,4 +46,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Very Tough:** +1 Toughness.
-

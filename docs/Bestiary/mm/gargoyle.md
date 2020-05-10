@@ -1,4 +1,4 @@
-Gargoyle
+# Gargoyle
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -21,6 +22,7 @@ d12+1
 **Skills:** Fighting d10, Notice d12, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -36,6 +38,7 @@ d12+1
 **Skills:** Fighting d10, Notice d12+1, Stealth d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -52,6 +55,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -71,6 +75,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -88,6 +93,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -102,6 +108,7 @@ Vigor d12
 **Skills:** Fighting d10, Stealth d4
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claw:** Str+d6.
@@ -122,6 +129,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -136,6 +144,7 @@ d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -143,4 +152,3 @@ d12+1
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb 0.
 - **Very Tough:** +1 Toughness.
-

@@ -1,4 +1,4 @@
-Buraq
+# Buraq
 
 Buraqs are magical horses with powerful wings and the head of a
 human.
@@ -12,6 +12,7 @@ Spellcasting d8
 **Powers:** Confusion (shimmering wings), Blast (lightning storm), Boost
 Trait (bless), Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ Trait (bless), Teleport
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d8 wind blast damage.
 - **Size +2:** 150 feet long; Toughness +2.
-

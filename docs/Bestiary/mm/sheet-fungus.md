@@ -1,4 +1,4 @@
-Sheet fungus
+# Sheet fungus
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ roll to escape.
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Flight:** Flying Pace of 7" and Climb 2.
-

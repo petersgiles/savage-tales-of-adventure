@@ -1,4 +1,4 @@
-Elemental dragon
+# Elemental dragon
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Sweep
 **Powers:** Obscure (fog)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -38,6 +39,7 @@ d12+1
 **Edges:** Ambidextrous, Sweep, Improved Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -64,6 +66,7 @@ Vigor d12+2
 **Edges:** Ambidextrous, Sweep, Improved Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Burn.
 - **Claws:** Str+d8; Burn.
@@ -96,6 +99,7 @@ Sweep
 **Powers:** Dispel (fire effects)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -112,4 +116,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

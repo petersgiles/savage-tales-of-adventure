@@ -1,4 +1,4 @@
-Sudoth
+# Sudoth
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+1
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1)
 **Edges:** Ambidextrous, Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ that's in contact with the water.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Weakness:** Water.
-

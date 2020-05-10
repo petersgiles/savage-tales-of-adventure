@@ -1,4 +1,4 @@
-Thunderbird
+# Thunderbird
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Sonic)
 Strong Willed
 **Powers:** Obscure (fog)
 **Special Abilities**
+
 - **Armour +4:** A-coloured feathers.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -24,4 +25,3 @@ raise on an opposed Strength roll to escape.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

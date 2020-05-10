@@ -1,4 +1,4 @@
-Caryatid column
+# Caryatid column
 
 Caryatid columns are guardian constructs resembling marble statues.
 Unlike golems, their orders are given when they are created, and cannot
@@ -10,6 +10,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Gear:** Masterwork longsword (Str+d8)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -31,6 +32,7 @@ Vigor d10
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Deflection (forcefield)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -40,4 +42,3 @@ Vigor d10
 disease, poison, and extra damage from called shots.
 - **Immunities:** Fire and magic.
 - **Weakness:** Electricity (double damage).
-

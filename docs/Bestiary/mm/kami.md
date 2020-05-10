@@ -1,4 +1,4 @@
-Kami
+# Kami
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Strong Willed
 **Powers:** Conceal Arcana, Dispel, Elemental Manipulation (earth),
 Invisibility, Obscure (illusion), Obscure (fog cloud)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -29,6 +30,7 @@ d8
 **Gear:** Short sword (Str+d6)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunities:** Shapechanging, petrification, mind-affecting effects
 and bleeding.
@@ -53,6 +55,7 @@ Level Headed, Quick, Strong Willed, Two-Fisted
 (earth), Greater Healing, Mind Reading, Summon Ally (animals and
 elementals), Teleport
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -83,6 +86,7 @@ Headed, Sweep, Improved Sweep, Strong Willed
 **Powers:** Blast (lightning storm), Dispel, Invisibility, Obscure
 (fog)
 **Special Abilities**
+
 - **Armour +4:** Green skin.
 - **Slams:** Str+d8; Cacophonous Blow.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -106,6 +110,7 @@ d10, Spellcasting d6
 **Edges:** Arcane Background (Magic), Assassin, Frenzy
 **Powers:** Entangle, Puppet (animals only)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -132,6 +137,7 @@ Stealth d12, Survival d8, Throwing d4, Spellcasting d6
 Fighter, Strong Willed
 **Powers:** Divination (commune with nature), Invisibility
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunities:** Shapechanging, petrification, mind-affecting effects
@@ -154,6 +160,7 @@ Dodge, Quick
 **Powers:** Beast Friend, Dispel, Elemental Manipulation (water),
 Telekinesis
 **Special Abilities**
+
 - **Armour +4:** Rainbow-colored scales.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6; Constrict.
@@ -185,6 +192,7 @@ quarterstaff (Str+d4; Reach 1"; Parry +1; Touch of Ages)
 Headed, Quick, Strong Willed, Two-Fisted
 **Powers:** Healing, Quickness
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -215,6 +223,7 @@ Willed
 **Powers:** Detect Arcana (see invisibility), Dispel, Greater Healing,
 Healing, Invisibility, Teleport
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 6" and Climb 0.
 - **Arcane Resistance:** +4 to resist opposed magic, and +4 armour
@@ -222,4 +231,3 @@ against offensive magic.
 - **Immunities:** Shapechanging, petrification, mind-affecting effects
 and bleeding.
 - **Resistances:** -2 damage from acid, electricity and fire.
-

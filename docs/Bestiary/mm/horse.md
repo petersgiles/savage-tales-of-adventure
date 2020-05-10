@@ -1,4 +1,4 @@
-Horse
+# Horse
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 10
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Hooves:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -26,6 +27,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 12 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -42,6 +44,7 @@ Vigor d12+2
 **Skills:** Fighting d4, Notice d8, Tracking d8
 **Charisma:** -; **Pace:** 8; **Parry:** 4; **Toughness:** 12 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str.
 - **Hooves:** Str.
@@ -63,6 +66,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Smite (Good)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
@@ -89,6 +93,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 4; **Toughness:** 6
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Hooves:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -106,6 +111,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Hooves:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -113,4 +119,3 @@ Vigor d12
 6", halved for upwind and doubled for downwind, doubled again for very
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Fast Runner:** Roll d8 when running instead of d6.
-

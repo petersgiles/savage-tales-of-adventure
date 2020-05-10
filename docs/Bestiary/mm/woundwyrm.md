@@ -1,4 +1,4 @@
-Woundwyrm
+# Woundwyrm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+2, Spellcasting d8
 **Edges:** Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Deflection (entropic shield), Deflection (forcefield)
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -29,4 +30,3 @@ attacks, visual effects and magic.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Genie
+# Genie
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Spellcasting d12
 Quick, Strong Willed
 **Powers:** Banish (plane shift self), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -35,6 +36,7 @@ Dodge, Level Headed, Quick, Strong Willed
 **Powers:** Banish (plane shift self), Beast Friend, Detect Arcana
 (sense magic), Invisibility, Intangibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 5" and Climb 3.
 - **Resistance:** -2 damage from fire.
@@ -52,6 +54,7 @@ Level Headed
 Flight (wind walk), Invisibility, Intangibility (gaseous form), Obscure
 (illusion)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -79,6 +82,7 @@ Headed
 (sense magic), Elemental Manipulation (water), Flight (wind walk),
 Invisibility, Intangibility (gaseous form), Obscure (illusion)
 **Special Abilities**
+
 - **Armour +2:** Bronze skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -106,6 +110,7 @@ Level Headed
 **Powers:** Banish (plane shift self), Barrier (fire), Detect Arcana
 (sense magic), Invisibility, Intangibility (gaseous form)
 **Special Abilities**
+
 - **Armour +2:** Crimson skin.
 - **Slams:** Str+d6; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -132,6 +137,7 @@ Dodge, Frenzy, Level Headed
 Manipulation (water), Flight (wind walk), Invisibility, Intangibility
 (gaseous form), Obscure (illusion)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -160,6 +166,7 @@ Dodge, Level Headed
 **Powers:** Banish (plane shift self), Beast Friend, Invisibility,
 Intangibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 5" and Climb 3.
 - **Resistance:** -2 damage from fire.
@@ -178,6 +185,7 @@ Dodge, Level Headed
 **Powers:** Banish (plane shift self), Beast Friend, Detect Arcana
 (sense magic), Invisibility, Intangibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flaming Aura:** Anyone attacking the creature with unarmed or
 natural weapons suffers 2d6 fire damage.
@@ -198,6 +206,7 @@ Level Headed
 storm), Detect Arcana (sense magic), Invisibility, Intangibility
 (gaseous form)
 **Special Abilities**
+
 - **Slams:** Str+d6; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -225,6 +234,7 @@ Level Headed
 Detect Arcana (see invisibility), Elemental Manipulation (water),
 Invisibility, Intangibility (gaseous form), Obscure (illusion)
 **Special Abilities**
+
 - **Armour +2:** Blue-green skin.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -249,6 +259,7 @@ Improved Sweep, Strong Willed
 (earthquake), Blind (glitterdust), Disguise (illusion), Elemental
 Manipulation (earth)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -276,6 +287,7 @@ Level Headed
 (sense magic), Detect Arcana (see invisibility), Elemental Manipulation
 (water), Invisibility, Intangibility (gaseous form), Obscure (illusion)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -295,6 +307,7 @@ d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 13 (3)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Skin.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -320,6 +333,7 @@ Level Headed, Strong Willed
 Flight (wind walk), Invisibility, Intangibility (gaseous form), Obscure
 (illusion)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -332,4 +346,3 @@ but automatically inflicts 2d6 damage in the same way as a swarm.
 - **Flight:** Flying Pace of 9" and Climb 3.
 - **Immunity:** Acid.
 - **Size +3:** Increases Toughness by +3.
-

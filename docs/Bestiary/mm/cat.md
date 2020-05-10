@@ -1,4 +1,4 @@
-Cat
+# Cat
 
 Cats are small furry mammals with flexible bodies, fast reflexes, and
 retractable claws.
@@ -10,6 +10,7 @@ d6
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 3
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str.
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 7
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Go for the Throat.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -47,6 +49,7 @@ d8, Swimming d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d6.
 - **Bite:** Str+d6; Grab.
@@ -71,6 +74,7 @@ Vigor d10
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -94,6 +98,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claw:** Str+d4.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -115,6 +120,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Skin.
 - **Bite:** Str+d6; Grab.
 - **Claws:** Str+d6.
@@ -138,6 +144,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 14 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8; Grab.
@@ -162,6 +169,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -187,6 +195,7 @@ Vigor d10
 d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Rusty brown fur.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4; Grab.
@@ -208,6 +217,7 @@ Tracking d12+1, Swimming d12
 **Charisma:** -; **Pace:** 8; **Parry:** 8; **Toughness:** 16 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Golden fur.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -235,6 +245,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claw:** Str+d4; Grab.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -258,6 +269,7 @@ Vigor d10
 d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -282,6 +294,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 12 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Reddish-orange fur.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6; Grab.
@@ -305,6 +318,7 @@ Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 14 (2)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8; Grab.
@@ -328,6 +342,7 @@ Vigor d12+1
 **Skills:** Fighting d8, Notice d8, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Short fur.
 - **Bite:** Str+d4; Grab; Bleed.
 - **Claws:** Str+d4; Grab.
@@ -348,6 +363,7 @@ Vigor d12+3
 **Skills:** Fighting d8, Notice d10, Stealth d10, Swimming d12
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 15 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Grab; Bleed.
 - **Claws:** Str+d8; Grab.
@@ -371,6 +387,7 @@ Vigor d12+1
 **Skills:** Fighting d8, Notice d8, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab; Bleed.
 - **Claws:** Str+d4; Grab.
@@ -383,4 +400,3 @@ to foe.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

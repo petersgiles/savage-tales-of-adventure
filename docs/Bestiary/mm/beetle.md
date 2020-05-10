@@ -1,4 +1,4 @@
-Beetle
+# Beetle
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Carapace.
 - **Bite:** Str+d10; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -28,6 +29,7 @@ d8
 **Skills:** Fighting d4, Stealth d6
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Green carapace.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -45,6 +47,7 @@ Vigor d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -61,6 +64,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Greenish-gray carapace.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -76,6 +80,7 @@ Vigor d12
 **Skills:** Fighting d6, Climbing d10, Notice d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -97,6 +102,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Green carapace.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -111,6 +117,7 @@ d6
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Mindless:** Immune to mind-affecting magic.
@@ -126,6 +133,7 @@ Vigor d10
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -142,6 +150,7 @@ Vigor d12+2
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 20 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -160,6 +169,7 @@ Vigor d10
 **Skills:** Fighting d4
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Carapace.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -178,6 +188,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 8; **Parry:** 9; **Toughness:** 24 (5)
 **Edges:** Frenzy, Sweep
 **Special Abilities**
+
 - **Armour +5:** Red carapace.
 - **Claws:** Str+d8; Constrict.
 - **Bite:** Str+d8.
@@ -200,6 +211,7 @@ Vigor d12
 **Skills:** Fighting d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (3)
 **Special Abilities**
+
 - **Armour +3:** Grayish-brown carapace.
 - **Horns:** Str+d6.
 - **Bite:** Str+d6.
@@ -216,6 +228,7 @@ Vigor d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Carapace.
 - **Bite:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -235,6 +248,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6; Gnaw.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -254,6 +268,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -270,6 +285,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -286,6 +302,7 @@ Vigor d8
 **Skills:** Fighting d6, Climbing d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -303,6 +320,7 @@ Vigor d10
 **Skills:** Fighting d6, Stealth d4, Swimming d10
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Carapace.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -313,4 +331,3 @@ that's in contact with the water.
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Immunity:** Mind-affecting effects.
 - **Weakness:** Water dependency.
-

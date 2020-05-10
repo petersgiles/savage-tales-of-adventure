@@ -1,4 +1,4 @@
-Sagari
+# Sagari
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 6
 **Edges:** Quick
 **Special Abilities**
+
 - **Bite:** Str.
 - **Tentacle:** Str; Reach 1".
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -15,4 +16,3 @@ d12
 - **Size -2:** Three feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

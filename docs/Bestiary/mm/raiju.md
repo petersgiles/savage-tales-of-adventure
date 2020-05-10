@@ -1,4 +1,4 @@
-Raiju
+# Raiju
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d10
 Headed, Quick
 **Powers:** Blast (lightning storm), Obscure (fog)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4; Electricity.
 - **Tail Slap:** Str+d4; Electricity.
@@ -29,6 +30,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claw:** Str+d4; Fire.
 - **Tail Slap:** Str+d4; Fire.
@@ -40,4 +42,3 @@ by Banish.
 - **Immunity:** Fire.
 - **Resistance:** -2 damage from electricity.
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Mudbog
+# Mudbog
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 11
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Engulf:** This creature may engulf creatures it moves over, as long
 as it doesn't make any other attacks the same round. Victims who fail
@@ -21,4 +22,3 @@ shots.
 bonuses.
 - **Resistance:** -2 damage from fire.
 - **Size +2:** Increases Toughness by +2.
-

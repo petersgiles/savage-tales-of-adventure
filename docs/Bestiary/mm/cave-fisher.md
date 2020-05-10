@@ -1,4 +1,4 @@
-Cave fisher
+# Cave fisher
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12
 **Gear:** Filament (Throwing; range 3/6/12; Str+d6; Drag)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ Vigor d12
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Immunity:** Mind-affecting effects.
-

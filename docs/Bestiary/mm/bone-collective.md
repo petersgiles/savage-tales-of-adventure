@@ -1,4 +1,4 @@
-Bone collective
+# Bone collective
 
 Bone collectives are composite creatures formed from thousands of
 tiny bones. They can coalesce together into a humanoid form, or spread
@@ -15,6 +15,7 @@ within a MBT), Intimidation d12+3, Climbing d8, Notice d12+4, Knowledge
 Headed
 **Powers:** Stun (distraction), Puppet (undead)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,4 +28,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Poison:** Claw inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
-

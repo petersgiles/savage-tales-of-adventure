@@ -1,4 +1,4 @@
-Redcap
+# Redcap
 
 No description for this creature yet.
 
@@ -10,7 +10,7 @@ Knowledge (Nature) d12, Stealth d12+1
 **Gear:** Leather armour (+1), medium scythe (Str+d8)
 **Edges:** Level Headed, Sweep
 **Special Abilities**
+
 - **Kick:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Size -1:** Three feet tall; Toughness -1.
-

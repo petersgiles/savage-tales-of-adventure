@@ -1,4 +1,4 @@
-Gashadokuru
+# Gashadokuru
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 8; **Toughness:** 24 (5)
 **Edges:** Level Headed, Sweep, Improved Sweep
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8.
@@ -32,4 +33,3 @@ bleeding and death magic.
 - **Size +8:** Thirty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Fire whale
+# Fire whale
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 20 (3)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8.
@@ -21,4 +22,3 @@ by Banish.
 - **Size +8:** Thirty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

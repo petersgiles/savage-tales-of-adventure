@@ -1,4 +1,4 @@
-Possessor
+# Possessor
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Stealth d10, Survival d10, Spellcasting d12
 Headed
 **Powers:** Detect Arcana (sense magic), Mind Reading
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1".
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -18,4 +19,3 @@ Headed
 -1.
 - **Flight:** Flying Pace of 6" and Climb 0.
 - **Weakness:** Sonic (double damage).
-

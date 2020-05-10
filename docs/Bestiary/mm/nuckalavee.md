@@ -1,4 +1,4 @@
-Nuckalavee
+# Nuckalavee
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Survival d10
 **Edges:** Ambidextrous, Frenzy, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Hooves:** Str+d4.
 - **Bite:** Str+d6.
@@ -19,4 +20,3 @@ against offensive magic.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d8 acid damage.
 - **Size +3:** Increases Toughness by +3.
-

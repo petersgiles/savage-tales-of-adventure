@@ -1,4 +1,4 @@
-Hoar spirit
+# Hoar spirit
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Alertness, Frenzy
 **Special Abilities**
+
 - **Armour +2:** Pale skin.
 - **Claws:** Str+d4; Cold; Glaciate.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Glaciate:** Make a Vigor roll or suffer a level of Fatigue.
-

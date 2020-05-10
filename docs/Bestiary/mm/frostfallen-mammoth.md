@@ -1,4 +1,4 @@
-Frostfallen mammoth
+# Frostfallen mammoth
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+3
 **Skills:** Fighting d10
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 24 (4)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Horns:** Str+d8; Cold.
 - **Slam:** Str+d8; Cold.
@@ -25,4 +26,3 @@ bleeding and death magic.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

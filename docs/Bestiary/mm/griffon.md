@@ -1,4 +1,4 @@
-Griffon
+# Griffon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Talons:** Str+d6.
@@ -30,6 +31,7 @@ Vigor d12
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Smite (Good), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +2:** Black fur.
 - **Bite:** Str+d6.
 - **Talons:** Str+d6.
@@ -41,4 +43,3 @@ to foe.
 - **Immunity:** Poison.
 - **Resistances:** -2 damage from acid, cold, electricity and fire.
 - **Size +2:** Increases Toughness by +2.
-

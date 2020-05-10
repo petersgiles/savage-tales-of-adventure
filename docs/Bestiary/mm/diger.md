@@ -1,4 +1,4 @@
-Diger
+# Diger
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Stealth d6, Swimming d10
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d6; Acid; Paralysis.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -25,4 +26,3 @@ bonuses.
 - **Paralysis:** Victims must make a Vigor roll or be paralysed until
 they next draw a Joker or hearts for initiative.
 - **Size +2:** Increases Toughness by +2.
-

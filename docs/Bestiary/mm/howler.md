@@ -1,4 +1,4 @@
-Howler
+# Howler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 10 (1)
 **Edges:** Combat Reflexes, Level Headed, War Cry
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Quills:** Str+d6; Pain.
@@ -17,4 +18,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Size +2:** Increases Toughness by +2.
-

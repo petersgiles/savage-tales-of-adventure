@@ -1,4 +1,4 @@
-Yithian
+# Yithian
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Persuasion d12+1, Spellcasting d12
 **Edges:** Alertness, Arcane Background (Magic), Frenzy, Strong Willed
 **Powers:** Entangle, Mind Reading
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Pincers:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ surfaces with Pace 4".
 bonuses.
 - **Resistances:** -2 damage from acid, cold and fire.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Sard
+# Sard
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+2, Spellcasting d6
 **Powers:** Blast (lightning storm), Bolt (lightning bolt), Obscure
 (fog)
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8; Electricity.
 - **Thorns:** Throwing; range 3/6/12; Str+d6; Poison.
@@ -32,4 +33,3 @@ against offensive magic.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

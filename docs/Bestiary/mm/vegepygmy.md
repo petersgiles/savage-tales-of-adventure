@@ -1,4 +1,4 @@
-Vegepygmy
+# Vegepygmy
 
 Vegepygmies are carnivorous plants that look like short humanoids
 with mottled green skin. They cannot speak, but communicate by thumping
@@ -10,6 +10,7 @@ or tapping on solid surfaces.
 **Gear:** Spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ d10
 **Gear:** Spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -50,6 +52,7 @@ Stealth d12+1, Survival d6, Throwing d6
 **Gear:** Masterwork spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy, Sweep
 **Special Abilities**
+
 - **Armour +2:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -70,6 +73,7 @@ or tapping on solid surfaces.
 **Gear:** Spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -90,6 +94,7 @@ d12
 **Gear:** Spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -108,6 +113,7 @@ or tapping on solid surfaces.
 **Gear:** Spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Vegetable-like skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -116,4 +122,3 @@ and extra damage from called shots.
 - **Immunity:** Electricity.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Agogwe
+# Agogwe
 
 The agogwe is an agile ape with a well-earned reputation for stealing
 things.
@@ -8,6 +8,7 @@ d10
 **Skills:** Fighting d8, Climbing d8, Notice d10, Stealth d12
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Mottled fur.
 - **Bite:** Str+d4.
 - **Slams:** Str+d4.
@@ -16,4 +17,3 @@ d10
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 7".
 - **Size -1:** Reduces Toughness by -1.
-

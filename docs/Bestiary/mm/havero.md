@@ -1,4 +1,4 @@
-Havero
+# Havero
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Vigor d12+3
 **Edges:** Combat Reflexes, Level Headed, Quick, Sweep, Improved Sweep,
 Strong Willed
 **Special Abilities**
+
 - **Armour +9:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 20").
 - **Madness:** Anyone attempting to read, control or contact the mind of
@@ -35,6 +36,7 @@ Vigor d12+1
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 18 (3)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacle:** Str+d8; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -49,4 +51,3 @@ smell-based effects.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

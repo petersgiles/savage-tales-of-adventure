@@ -1,4 +1,4 @@
-Roper
+# Roper
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+4
 **Gear:** Strands (Throwing; range 3/6/12; Str+d6; Strength)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -33,10 +34,10 @@ d10, Throwing d8
 **Gear:** Strands (Throwing; range 3/6/12; Str+d6; Strength)
 **Edges:** Level Headed, Marksman
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
 40" that's in contact with the ground.
-

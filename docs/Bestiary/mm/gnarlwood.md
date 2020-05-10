@@ -1,4 +1,4 @@
-Gnarlwood
+# Gnarlwood
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+2
 Frenzy, Level Headed, Quick, Sweep
 **Powers:** Summon Ally (skeletons and zombies)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Claws:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ against offensive magic.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Grodair
+# Grodair
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+2, Throwing d6
 **Gear:** Water blast (Throwing; range 3/6/12; Str+d6; Push)
 **Edges:** Combat Reflexes, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Tentacles:** Str+d4; Reach 1"; Go for the Throat.
@@ -21,4 +22,3 @@ by Banish.
 - **Amphibious:** Swimming Pace of 14", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

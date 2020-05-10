@@ -1,4 +1,4 @@
-Bat
+# Bat
 
 Bats are small mammals with webbed wings capable of sustained
 flight.
@@ -9,6 +9,7 @@ Vigor d4
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 1
 **Hindrances:** Small (M)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -26,6 +27,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -43,6 +45,7 @@ Vigor d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (piercing shriek)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d6.
 - **Tail Lash:** Str+d6.
@@ -63,10 +66,10 @@ Notice d12, Innate Powers d12
 **Edges:** Arcane Background (Super Powers), Quick
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Blindsense:** Can sense and approximately pinpoint things within
 4", attacks using blindsense are made at -2.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
 - **Flight:** Flying Pace of 7" and Climb 2.
-

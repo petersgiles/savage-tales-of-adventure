@@ -1,4 +1,4 @@
-Leucrotta
+# Leucrotta
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** +2; **Pace:** 9; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Hooves:** Str+d4.
@@ -20,4 +21,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 surfaces with Pace 6".
 - **Immunities:** Disease and poison.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Stirge
+# Stirge
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d6
 **Skills:** Fighting d6, Stealth d12, Tracking d4
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 3
 **Special Abilities**
+
 - **Touch:** Str; Attach.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,6 +27,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 4
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Bite:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,4 +35,3 @@ Vigor d6
 raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 7" and Climb 0.
 - **Size -1:** Reduces Toughness by -1.
-

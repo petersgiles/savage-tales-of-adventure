@@ -1,4 +1,4 @@
-Metallic silver dragon
+# Metallic silver dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Persuasion d10, Repair d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 7 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -29,6 +30,7 @@ Persuasion d12, Repair d12
 **Charisma:** +1; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -51,6 +53,7 @@ Willed
 **Powers:** Detect Arcana (sense magic)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -73,6 +76,7 @@ Strong Willed
 **Powers:** Detect Arcana (sense magic), Flight (feather fall)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -97,6 +101,7 @@ Strong Willed
 (feather fall), Healing
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -127,6 +132,7 @@ Willed
 fall), Healing, Obscure (fog cloud)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -157,6 +163,7 @@ Strong Willed
 fall), Healing, Invisibility, Obscure (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -189,6 +196,7 @@ Flight (feather fall), Healing, Invisibility, Obscure (fog cloud),
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -221,6 +229,7 @@ Flight (feather fall), Greater Healing, Healing, Invisibility, Obscure
 (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -254,6 +263,7 @@ Dispel, Flight (feather fall), Greater Healing, Healing, Invisibility,
 Obscure (fog), Obscure (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -285,6 +295,7 @@ Dispel, Flight (feather fall), Greater Healing, Healing, Invisibility,
 Obscure (fog), Obscure (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -317,6 +328,7 @@ Dispel, Flight (feather fall), Greater Healing, Healing, Invisibility,
 Obscure (fog), Obscure (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -333,4 +345,3 @@ Agility roll at -2 or suffer 2d12 cold damage.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

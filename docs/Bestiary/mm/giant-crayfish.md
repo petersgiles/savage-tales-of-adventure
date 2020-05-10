@@ -1,4 +1,4 @@
-Giant crayfish
+# Giant crayfish
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Aquatic:** Swimming Pace of 13", and cannot drown.
 - **Weakness:** Water dependency.
 - **Size +2:** Increases Toughness by +2.
-

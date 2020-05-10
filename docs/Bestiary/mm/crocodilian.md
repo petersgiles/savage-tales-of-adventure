@@ -1,4 +1,4 @@
-Crocodilian
+# Crocodilian
 
 Alligators are territorial animals with a heavy body and slow
 metabolism. They are capable of short bursts of speed.
@@ -8,6 +8,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8, Stealth d8, Swimming d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Grab.
 - **Tail Slap:** Str+d4.
@@ -26,6 +27,7 @@ d10
 **Skills:** Fighting d4-2, Stealth d10, Swimming d8
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,6 +41,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d8, Stealth d6, Swimming d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Tail Slap:** Str+d6.
@@ -59,6 +62,7 @@ Vigor d12+3
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 23 (4)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tail Slap:** Str+d8.
@@ -89,6 +93,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 11 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -106,6 +111,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 17 (3)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tail Slap:** Str+d8.
@@ -127,6 +133,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 22 (3)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Constrict.
 - **Tail Slap:** Str+d8.
@@ -138,4 +145,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

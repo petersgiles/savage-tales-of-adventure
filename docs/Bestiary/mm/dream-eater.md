@@ -1,4 +1,4 @@
-Dream eater
+# Dream eater
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12, Repair d10, Stealth d12, Spellcasting d10
 **Edges:** Arcane Background (Magic)
 **Powers:** Puppet
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ creatures.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunity:** Poison.
 - **Resistances:** -2 damage from cold, electricity and fire.
-

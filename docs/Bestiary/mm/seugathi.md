@@ -1,4 +1,4 @@
-Seugathi
+# Seugathi
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d10, Spellcasting d8
 **Powers:** Armor, Confusion, Dispel, Fear (phantasmal killer), Flight
 (levitate), Mind Reading, Puppet
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -22,4 +23,3 @@ against offensive magic.
 - **Immunities:** Poison and mind-affecting effects.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Fourteen feet long; Toughness +2.
-

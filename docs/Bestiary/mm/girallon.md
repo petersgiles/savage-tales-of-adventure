@@ -1,4 +1,4 @@
-Girallon
+# Girallon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6; Rend.
@@ -38,6 +39,7 @@ Willed, Two-Fisted
 Invisibility, Obscure (darkness), Puppet, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** White fur.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -51,4 +53,3 @@ against offensive magic.
 - **Immunities:** Electricity and poison.
 - **Resistances:** -2 damage from acid, cold and fire.
 - **Size +3:** Nine feet tall; Toughness +3.
-

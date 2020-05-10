@@ -1,4 +1,4 @@
-Mothman
+# Mothman
 
 No description for this creature yet.
 
@@ -11,10 +11,10 @@ Spellcasting d12
 **Powers:** Deflection (blur), Fear (phantasmal killer), Invisibility,
 Mind Reading, Puppet
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 9" and Climb 2.
 - **Warping Gaze:** All creatures within 12" must make a Spirit roll to
 resist.
-

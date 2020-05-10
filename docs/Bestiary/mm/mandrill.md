@@ -1,4 +1,4 @@
-Mandrill
+# Mandrill
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -16,4 +17,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Size -1:** Reduces Toughness by -1.
-

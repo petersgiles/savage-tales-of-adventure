@@ -1,4 +1,4 @@
-Bonesucker
+# Bonesucker
 
 The bonesucker looks a bit like a tree trunk, with tentacles instead
 of branches, and a ring of eyes near the top. They usually live in caves
@@ -12,6 +12,7 @@ Swimming d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Dodge, Frenzy, Improved Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d6; Reach 1"; Constrict; Liquefy Bones.
 - **Darkvision:** No vision penalties for darkness (range 18").
@@ -22,4 +23,3 @@ bonuses.
 - **Liquefy Bones:** Make a Vigor roll each round when pinned or suffer
 a level of Fatigue.
 - **Size +2:** Ten feet tall; Toughness +2.
-

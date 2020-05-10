@@ -1,4 +1,4 @@
-False spider
+# False spider
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Pincers:** Str+d4; Constrict.
 - **Bite:** Str+d4.
@@ -25,6 +26,7 @@ Vigor d8
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Pincers:** Str+d4; Constrict.
 - **Bite:** Str+d4.
@@ -33,4 +35,3 @@ Vigor d8
 that, they require a raise on an opposed Strength roll to escape.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
-

@@ -1,4 +1,4 @@
-Satyr
+# Satyr
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Spellcasting d8
 **Powers:** Fear, Light (dancing lights), Puppet, Puppet (living
 humanoids only), Slumber, Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,6 +32,7 @@ Spellcasting d8
 **Powers:** Fear, Light (dancing lights), Puppet, Puppet (living
 humanoids only), Slumber, Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -41,4 +43,3 @@ against offensive magic.
 - **Immunities:** Disease, poison, shapechanging and paralysis.
 - **Resistances:** -2 damage from cold and electricity.
 - **Very Tough:** +1 Toughness.
-

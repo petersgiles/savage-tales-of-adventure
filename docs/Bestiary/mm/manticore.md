@@ -1,4 +1,4 @@
-Manticore
+# Manticore
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -28,6 +29,7 @@ Vigor d12+2
 d12, Throwing d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 14 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -48,6 +50,7 @@ d12+1
 d8, Throwing d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Cold.
 - **Claws:** Str+d6; Cold.
@@ -71,6 +74,7 @@ d12+2
 d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Claws:** Str+d6; Poison.
@@ -85,4 +89,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Poison:** Bite, claws and spikes inflict lethal poison if foe is
 Shaken or wounded.
 - **Size +2:** Increases Toughness by +2.
-

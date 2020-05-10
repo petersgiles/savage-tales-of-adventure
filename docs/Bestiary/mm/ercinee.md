@@ -1,4 +1,4 @@
-Ercinee
+# Ercinee
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Light (dancing lights)
 **Special Abilities**
+
 - **Armour +2:** Radiant feathers.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -16,4 +17,3 @@ d6
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Flight:** Flying Pace of 11" and Climb 2.
 - **Size +2:** Increases Toughness by +2.
-

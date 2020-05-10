@@ -1,4 +1,4 @@
-Caulborn
+# Caulborn
 
 The caulborn are a telepathic humanoid race of prophets and
 historians. Their pale skin is hairless, and a fleshy hood of skin
@@ -17,6 +17,7 @@ Spellcasting d12
 **Powers:** Banish (plane shift self), Confusion (hypnotic pattern),
 Detect Arcana (sense magic), Entangle, Mind Reading, Stun (daze)
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -39,6 +40,7 @@ Vigor d12+1
 **Powers:** Detect Arcana (sense magic), Mind Reading, Speak Language
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +1:** Wet flesh.
 - **Blindsense:** Can sense and approximately pinpoint things within
 12", attacks using blindsense are made at -2.
@@ -48,4 +50,3 @@ by Banish.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

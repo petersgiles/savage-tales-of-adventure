@@ -1,4 +1,4 @@
-Ethereal marauder
+# Ethereal marauder
 
 No description for this creature yet.
 
@@ -7,8 +7,8 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

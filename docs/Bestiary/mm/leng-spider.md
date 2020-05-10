@@ -1,4 +1,4 @@
-Leng spider
+# Leng spider
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Marksman, Strong Willed
 **Powers:** Disguise (illusion), Dispel, Invisibility, Obscure
 (illusion), Speak Language
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -49,6 +50,7 @@ Marksman, Strong Willed
 **Powers:** Disguise (illusion), Dispel, Invisibility, Obscure
 (illusion), Speak Language
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -67,4 +69,3 @@ surfaces with Pace 7".
 - **Size +8:** Eighteen feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Cavern lizard
+# Cavern lizard
 
 Cavern lizards are large magical beasts with gray scales and bulging
 azure eyes. They are solitary and highly aggressive, hunting down prey
@@ -11,6 +11,7 @@ Tracking d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Gray scales.
 - **Bite:** Str+d6; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ raise on an opposed Strength roll to escape.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Size +2:** Ten feet long; Toughness +2.
-

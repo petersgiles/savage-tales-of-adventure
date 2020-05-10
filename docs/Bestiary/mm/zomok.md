@@ -1,4 +1,4 @@
-Zomok
+# Zomok
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Sweep, Strong Willed
 **Powers:** Barrier (thorns), Entangle (plant growth), Puppet (plants
 only)
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Claws:** Str+d8.
 - **Bite:** Str+d8.
@@ -37,4 +38,3 @@ and extra damage from called shots.
 - **Size +10:** Thirty-five feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

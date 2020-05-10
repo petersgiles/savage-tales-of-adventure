@@ -1,4 +1,4 @@
-Willow dusk
+# Willow dusk
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 23 (5)
 **Edges:** Frenzy, Improved Frenzy, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Slams:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -28,4 +29,3 @@ and extra damage from called shots.
 - **Size +8:** Twenty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

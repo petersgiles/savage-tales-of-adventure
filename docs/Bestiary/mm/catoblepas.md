@@ -1,4 +1,4 @@
-Catoblepas
+# Catoblepas
 
 The catoblepas is a large aggressive beast with short antlers on its
 boar-like head, and heavy body covered in spines.
@@ -10,6 +10,7 @@ d12+2
 **Edges:** Ambidextrous, Hard to Kill, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Horns:** Str+d6.
@@ -21,4 +22,3 @@ d12+2
 Agility roll at -2 or suffer 2d8 damage.
 - **Poison:** Inflict lethal poison if foe is Shaken or wounded.
 - **Size +2:** Fifteen feet long; Toughness +2.
-

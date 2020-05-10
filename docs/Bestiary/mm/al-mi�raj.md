@@ -1,4 +1,4 @@
-Al-mi�raj
+# Al-mi�raj
 
 The al-mi�raj looks like a large rabbit with long brightly-coloured
 fur and a gold or black unicorn horn projecting from its head.
@@ -9,6 +9,7 @@ d8
 d6
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Horn:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -39,6 +40,7 @@ d8, Psionics d4
 **Powers:** Elemental Manipulation (air), Flight (levitate),
 Light/Obscure (control light), Telekinesis
 **Special Abilities**
+
 - **Horns:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -56,4 +58,3 @@ planes.
 against offensive magic.
 - **Immunity:** Poison.
 - **Size -1:** Reduces Toughness by -1.
-

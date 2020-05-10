@@ -1,4 +1,4 @@
-Shedu
+# Shedu
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Knowledge (Planes) d12, Persuasion d12, Spellcasting d12
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Deflection (forcefield), Dispel, Healing
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Hooves:** Str+d4.
@@ -23,4 +24,3 @@ invisibility, etc.
 against offensive magic.
 - **Resistances:** -2 damage from electricity and fire.
 - **Size +3:** Increases Toughness by +3.
-

@@ -1,4 +1,4 @@
-Stormghost
+# Stormghost
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Improved Dodge, Level Headed
 **Powers:** Blast (ice storm), Invisibility, Obscure (fog), Obscure
 (darkness), Obscure (fog cloud), Pummel (wind)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Electricity.
@@ -32,4 +33,3 @@ Gang Up bonuses.
 - **Size +4:** Eight feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

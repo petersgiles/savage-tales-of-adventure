@@ -1,4 +1,4 @@
-Shambling mound
+# Shambling mound
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 14 (3)
 **Edges:** Frenzy, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,6 +30,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Frenzy, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d6; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -41,4 +43,3 @@ and extra damage from called shots.
 - **Immunity:** Electricity.
 - **Resistance:** -2 damage from fire.
 - **Size +3:** Increases Toughness by +3.
-

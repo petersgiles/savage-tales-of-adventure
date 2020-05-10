@@ -1,4 +1,4 @@
-Metallic brass dragon
+# Metallic brass dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 5 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -31,6 +32,7 @@ Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -53,6 +55,7 @@ Spellcasting d8
 **Powers:** Beast Friend, Detect Arcana (sense magic), Light (dancing
 lights), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -77,6 +80,7 @@ Repair d12, Spellcasting d8
 magic), Environmental Protection (heat and cold), Light (dancing
 lights), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -102,6 +106,7 @@ magic), Detect Arcana (see invisibility), Disguise (shapechange),
 Environmental Protection (heat and cold), Light (dancing lights),
 Invisibility, Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -131,6 +136,7 @@ Environmental Protection (heat and cold), Light (dancing lights),
 Invisibility, Mind Reading, Puppet, Puppet (living humanoids only),
 Speak Language
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -166,6 +172,7 @@ and cold), Light (dancing lights), Invisibility, Mind Reading, Puppet,
 Puppet (living humanoids only), Speak Language
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -201,6 +208,7 @@ and cold), Light (dancing lights), Invisibility, Mind Reading, Obscure
 (illusion), Puppet, Puppet (living humanoids only), Speak Language
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -237,6 +245,7 @@ Obscure (illusion), Puppet, Puppet (living humanoids only), Speak
 Language
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -274,6 +283,7 @@ Obscure (fog), Puppet, Puppet (living humanoids only), Speak Language,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -309,6 +319,7 @@ Obscure (illusion), Obscure (fog), Puppet, Puppet (living humanoids
 only), Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -346,6 +357,7 @@ Obscure (illusion), Obscure (fog), Puppet, Puppet (living humanoids
 only), Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -364,4 +376,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

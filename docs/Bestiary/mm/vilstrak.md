@@ -1,4 +1,4 @@
-Vilstrak
+# Vilstrak
 
 No description for this creature yet.
 
@@ -8,7 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 8 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

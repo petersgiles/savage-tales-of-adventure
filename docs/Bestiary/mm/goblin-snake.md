@@ -1,4 +1,4 @@
-Goblin snake
+# Goblin snake
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 Tracking d6, Swimming d6
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -16,4 +17,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Burrow:** Can burrow and reappear within 1".
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
 - **Size -1:** Reduces Toughness by -1.
-

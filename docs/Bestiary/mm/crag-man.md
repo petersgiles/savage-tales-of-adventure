@@ -1,4 +1,4 @@
-Crag man
+# Crag man
 
 No description for this creature yet.
 
@@ -9,8 +9,8 @@ d12
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Tremorsense:** Can sense and accurately pinpoint anything within
 20" that's in contact with the ground.
-

@@ -1,4 +1,4 @@
-Ecstasy feeder
+# Ecstasy feeder
 
 No description for this creature yet.
 
@@ -9,9 +9,9 @@ d8
 **Gear:** Leather armour (+1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Claws:** Str+d4; Ecstasy Toxin; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Grab:** Pin your opponent if you hit with a raise, they require a
 raise on an opposed Strength roll to escape.
 - **Very Tough:** +1 Toughness.
-

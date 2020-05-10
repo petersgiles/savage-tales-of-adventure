@@ -1,4 +1,4 @@
-Spider eater
+# Spider eater
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Pincers:** Str+d6.
@@ -18,4 +19,3 @@ d12+2
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Flight:** Flying Pace of 9" and Climb 1.
 - **Size +3:** Fourteen feet long; Toughness +3.
-

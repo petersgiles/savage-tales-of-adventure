@@ -1,4 +1,4 @@
-Ceratioidi
+# Ceratioidi
 
 No description for this creature yet.
 
@@ -11,10 +11,10 @@ Swimming d10, Throwing d4
 Str+d6)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Luminescent flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Immunity:** Mind-affecting effects.
 - **Size +1:** Seven feet tall; Toughness +1.
-

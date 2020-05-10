@@ -1,4 +1,4 @@
-Baregara
+# Baregara
 
 Baregaras are large ape-like beasts with red fur and twisted horns.
 They have a huge gaping maw in the centre of their chest.
@@ -13,6 +13,7 @@ Stealth d12+1, Survival d12+1, Swimming d12, Spellcasting d10
 **Powers:** Detect Arcana (see invisibility), Dispel, Invisibility,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Blood-red fur.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Grab.
@@ -30,4 +31,3 @@ creatures.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

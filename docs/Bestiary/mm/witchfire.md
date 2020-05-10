@@ -1,4 +1,4 @@
-Witchfire
+# Witchfire
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Dodge, Level Headed, Quick
 **Powers:** Disguise (illusion), Light (dancing lights), Lower Trait
 (Strength), Invisibility, Summon Ally
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Fire; Witchflame.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -24,4 +25,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Witchflame:** Make a Spirit roll or suffer a level of Fatigue.
 - **Witchflame:** Make a Spirit roll or suffer a level of Fatigue.
-

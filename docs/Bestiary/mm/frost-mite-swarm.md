@@ -1,4 +1,4 @@
-Frost mite swarm
+# Frost mite swarm
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Notice d12, Stealth d12+1, Innate Powers d12
 Willed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
@@ -21,4 +22,3 @@ damage.
 - **Weakness:** Fire (double damage).
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Very Tough:** +1 Toughness.
-

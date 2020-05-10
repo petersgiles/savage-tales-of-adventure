@@ -1,4 +1,4 @@
-Divine herald
+# Divine herald
 
 No description for this creature yet.
 
@@ -15,6 +15,7 @@ Level Headed, Quick, Strong Willed
 (illusion), Dispel, Entangle, Greater Healing, Healing, Light (dancing
 lights), Invisibility, Mind Reading, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Gaze.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -50,6 +51,7 @@ Deflection (forcefield), Detect Arcana (see invisibility), Dispel, Fear,
 Greater Healing, Healing, Invisibility
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Metallic skin.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -82,6 +84,7 @@ Spellcasting d12
 **Powers:** Banish (plane shift self), Disguise (illusion), Dispel,
 Fear, Obscure (fog), Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail:** Str+d6; Poison.
@@ -95,4 +98,3 @@ creatures.
 - **Poison:** Tail and poison gout inflict lethal poison if foe is
 Shaken or wounded.
 - **Size +3:** Fourteen feet tall; Toughness +3.
-

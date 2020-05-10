@@ -1,4 +1,4 @@
-Zhyen
+# Zhyen
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Environmental Protection (heat and cold)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Melee Touch:** Str; Acid; Cold; Electricity; or Fire Damage.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ Spellcasting d6
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

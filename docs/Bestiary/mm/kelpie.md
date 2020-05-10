@@ -1,4 +1,4 @@
-Kelpie
+# Kelpie
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** +2; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Alertness, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Transparent skin.
 - **Slams:** Str+d4; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ raise on an opposed Strength roll to escape.
 breathe air and survive indefinitely on land.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Resistance:** -2 damage from fire.
-

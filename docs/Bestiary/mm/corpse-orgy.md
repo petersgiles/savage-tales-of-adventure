@@ -1,4 +1,4 @@
-Corpse orgy
+# Corpse orgy
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+4, Stealth d10, Survival d10
 **Charisma:** +1; **Pace:** 6; **Parry:** 8; **Toughness:** 16 (4)
 **Edges:** Frenzy, Improved Frenzy, Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 - **Immunities:** Sleep, poison, shapechanging, paralysis and Gang Up
 bonuses.
 - **Size +3:** Increases Toughness by +3.
-

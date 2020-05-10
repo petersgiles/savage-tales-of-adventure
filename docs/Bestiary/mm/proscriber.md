@@ -1,4 +1,4 @@
-Proscriber
+# Proscriber
 
 No description for this creature yet.
 
@@ -16,6 +16,7 @@ Sweep
 Barrier (wind), Blast (fire storm), Detect Arcana (sense magic), Dispel,
 Lower Trait (curse), Obscure (fog), Obscure (darkness)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -40,6 +41,7 @@ Sweep
 Trait (Strength), Detect Arcana (sense magic), Dispel, Fear, Lower Trait
 (curse), Invisibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -66,6 +68,7 @@ Sweep
 (fire storm), Boost Trait (bless), Detect Arcana (sense magic), Dispel,
 Healing, Invisibility
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
@@ -75,4 +78,3 @@ against offensive magic.
 creatures.
 - **Immunity:** Poison.
 - **Resistances:** -2 damage from cold, electricity and fire.
-

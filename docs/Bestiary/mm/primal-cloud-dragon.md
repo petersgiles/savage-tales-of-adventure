@@ -1,4 +1,4 @@
-Primal cloud dragon
+# Primal cloud dragon
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 (Planes) d8, Persuasion d10, Stealth d12, Swimming d8
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 7 (2)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -25,6 +26,7 @@ d10
 (Planes) d10, Persuasion d12, Stealth d10, Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -46,6 +48,7 @@ d8
 **Powers:** Obscure (fog cloud)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -71,6 +74,7 @@ Spellcasting d8
 humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -96,6 +100,7 @@ d8
 humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -126,6 +131,7 @@ d12, Spellcasting d10
 cloud), Puppet (living humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -156,6 +162,7 @@ d12, Spellcasting d10
 cloud), Pummel (wind), Puppet (living humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -186,6 +193,7 @@ invisibility), Light (dancing lights), Invisibility, Obscure (fog
 cloud), Pummel (wind), Puppet (living humanoids only)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -216,6 +224,7 @@ invisibility), Light (dancing lights), Invisibility, Obscure (fog
 cloud), Pummel (wind), Puppet, Puppet (living humanoids only), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -248,6 +257,7 @@ Invisibility, Obscure (fog cloud), Pummel (wind), Puppet, Puppet (living
 humanoids only), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Sonic.
 - **Claws:** Str+d8.
@@ -282,6 +292,7 @@ Invisibility, Obscure (fog), Obscure (fog cloud), Pummel (wind), Puppet,
 Puppet (living humanoids only), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8; Sonic.
 - **Claws:** Str+d8.
@@ -314,6 +325,7 @@ walk), Light (dancing lights), Invisibility, Obscure (fog), Obscure (fog
 cloud), Pummel (wind), Puppet, Puppet (living humanoids only), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8; Sonic.
 - **Claws:** Str+d8.
@@ -330,4 +342,3 @@ Agility roll at -2 or suffer 2d12 lightning damage.
 - **Size +15:** Increases Toughness by +15.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

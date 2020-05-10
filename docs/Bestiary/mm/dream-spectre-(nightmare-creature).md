@@ -1,4 +1,4 @@
-Dream spectre (nightmare creature)
+# Dream spectre (nightmare creature)
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** +2; **Pace:** -; **Parry:** 6; **Toughness:** 9
 **Edges:** Alertness, Combat Reflexes, Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Charisma Damage.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -21,4 +22,3 @@ modifiers, disease, poison, and extra damage from called shots.
 creatures.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

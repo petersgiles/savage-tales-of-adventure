@@ -1,4 +1,4 @@
-Shark
+# Shark
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 9 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -27,6 +28,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 22 (4)
 **Edges:** Level Headed, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -58,6 +60,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 18 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -79,6 +82,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -98,6 +102,7 @@ Vigor d8
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -115,6 +120,7 @@ Vigor d12
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 16 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Blindsense:** Can sense and approximately pinpoint things within
@@ -127,4 +133,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Naga
+# Naga
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Repair d10, Stealth d12+1
 **Charisma:** +2; **Pace:** 7; **Parry:** 6; **Toughness:** 12 (2)
 **Edges:** Alertness, Dodge, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Sting:** Str+d6; Poison.
@@ -26,6 +27,7 @@ Stealth d12+1, Shooting d6
 **Charisma:** +4; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Alertness, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Spit:** Shooting; range 3/6/12; 2d4; Poison.
@@ -43,6 +45,7 @@ d8, Repair d8, Stealth d12
 **Charisma:** +2; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Assassin, Dodge, Quick
 **Special Abilities**
+
 - **Armour +2:** Black scales.
 - **Bite:** Str+d6; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -65,6 +68,7 @@ Deflection (blink between dimensions), Detect Arcana (sense magic),
 Detect Arcana (see invisibility), Dispel, Lower Trait (Strength),
 Invisibility, Puppet, Puppet (living humanoids only), Stun (daze)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bites:** Str+d8; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -87,6 +91,7 @@ Stealth d12, Swimming d10
 **Charisma:** +2; **Pace:** 7; **Parry:** 6; **Toughness:** 13 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -105,6 +110,7 @@ d10
 **Charisma:** +4; **Pace:** 6; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +2:** Patterned scales.
 - **Bite:** Str+d6; Poison.
 - **Tail Slap:** Str+d6.
@@ -113,4 +119,3 @@ d10
 breathe air and survive indefinitely on land.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
 - **Size +2:** Ten feet long; Toughness +2.
-

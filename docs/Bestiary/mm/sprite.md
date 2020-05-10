@@ -1,4 +1,4 @@
-Sprite
+# Sprite
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d6
 **Edges:** Alertness, Arcane Background (Magic)
 **Powers:** Light (dancing lights), Stun (daze)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 9" and Climb 3.
 - **Size -2:** Reduces Toughness by -2.
@@ -27,8 +28,8 @@ Intimidation d10, Notice d12, Stealth d12+4, Spellcasting d4
 **Edges:** Alertness, Arcane Background (Magic), Dodge, Level Headed
 **Powers:** Stun (distraction), Stun (daze)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Split:** May split into two SBT swarms, each with -2 Toughness.
 - **Flight:** Flying Pace of 9" and Climb 3.
-

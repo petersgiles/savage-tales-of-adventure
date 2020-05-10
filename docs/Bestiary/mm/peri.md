@@ -1,4 +1,4 @@
-Peri
+# Peri
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ d12+4, Stealth d12+4, Spellcasting d12
 Dodge, Strong Willed
 **Powers:** Barrier (fire), Deflection (forcefield)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Wings:** Str+d4; Burn.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -29,4 +30,3 @@ creatures.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Electricity and fire.
 - **Resistances:** -2 damage from acid and cold.
-

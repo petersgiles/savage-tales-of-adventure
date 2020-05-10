@@ -1,4 +1,4 @@
-Rusalka
+# Rusalka
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Headed, Strong Willed
 **Powers:** Deflection (blur), Entangle, Invisibility, Obscure (fog
 cloud), Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Staggering Touch:** Str+d4; Stagger.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ that, they require a raise on an opposed Strength roll to escape.
 breathe air and survive indefinitely on land.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Fire.
-

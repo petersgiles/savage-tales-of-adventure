@@ -1,4 +1,4 @@
-Tophet
+# Tophet
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+1
 **Skills:** Fighting d12
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 16 (4)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Slams:** Str+d8.
@@ -30,4 +31,3 @@ disease, poison, and extra damage from called shots.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

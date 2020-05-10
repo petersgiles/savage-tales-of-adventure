@@ -1,4 +1,4 @@
-Cockatrice
+# Cockatrice
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 4
 **Edges:** Dodge
 **Special Abilities**
+
 - **Bite:** Str+d4; Petrification.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,6 +23,7 @@ d8
 **Skills:** Fighting d8, Notice d8
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Thinning feathers.
 - **Bite:** Str+d4; Fire.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,4 +33,3 @@ d8
 roll to resist.
 - **Immunity:** Fire.
 - **Size -1:** Reduces Toughness by -1.
-

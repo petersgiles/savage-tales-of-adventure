@@ -1,4 +1,4 @@
-Yeth hound
+# Yeth hound
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d8
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Sinister Bite; Go for the Throat.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ by Banish.
 - **Evil:** Affected by powers and abilities that work on evil
 creatures.
 - **Sinister Bite:** Make a Spirit roll or suffer a level of Fatigue.
-

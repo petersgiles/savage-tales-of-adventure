@@ -1,4 +1,4 @@
-Ankou
+# Ankou
 
 The ankou appears as a large skeletal figure with black wings and
 sharp talons. A fiery glow radiates from its chest, and its yellow eyes
@@ -14,6 +14,7 @@ d12
 Frenzy, Level Headed
 **Powers:** Burst (prismatic spray), Obscure (darkness), Teleport
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8.
 - **Tail:** Str+d8; Bleed.
@@ -33,4 +34,3 @@ they become Shaken (this can cause a wound)
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

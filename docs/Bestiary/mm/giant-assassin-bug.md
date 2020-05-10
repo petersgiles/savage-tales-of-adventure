@@ -1,4 +1,4 @@
-Giant assassin bug
+# Giant assassin bug
 
 This massive predatory insect actively hunts and feeds on living
 creatures.
@@ -9,6 +9,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Dull carapace.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4; Liquefy Organs.
@@ -21,4 +22,3 @@ Vigor d10
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
 - **Immunity:** Mind-affecting effects.
-

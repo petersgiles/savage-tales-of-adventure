@@ -1,4 +1,4 @@
-Sphinx
+# Sphinx
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Improved Sweep, War Cry
 Arcana (sense magic), Fear, Healing, Lower Trait (curse), Mind Reading
 (speak with dead)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -35,6 +36,7 @@ d12
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Beast Friend
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6.
 - **Horns:** Str+d6.
@@ -56,6 +58,7 @@ Strong Willed
 **Powers:** Detect Arcana (sense magic), Detect Arcana (see
 invisibility), Dispel, Fear, Invisibility, Slumber
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -73,6 +76,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -82,4 +86,3 @@ d10
 to foe.
 - **Flight:** Flying Pace of 9" and Climb -1.
 - **Size +2:** Nine feet long; Toughness +2.
-

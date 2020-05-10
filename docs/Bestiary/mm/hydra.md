@@ -1,4 +1,4 @@
-Hydra
+# Hydra
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -42,6 +43,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -76,6 +78,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -111,6 +114,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -146,6 +150,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -181,6 +186,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -216,6 +222,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -251,6 +258,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -286,6 +294,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -326,6 +335,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -368,6 +378,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -411,6 +422,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -454,6 +466,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -497,6 +510,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -540,6 +554,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -583,6 +598,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -626,6 +642,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -666,6 +683,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -708,6 +726,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -751,6 +770,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 16 (2)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -794,6 +814,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -837,6 +858,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -880,6 +902,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -923,6 +946,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Combat Reflexes, Quick, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bites:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -957,4 +981,3 @@ damage once.
 - **Size +5:** Increases Toughness by +5.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

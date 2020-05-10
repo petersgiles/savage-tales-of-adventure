@@ -1,4 +1,4 @@
-Adaro
+# Adaro
 
 The adaro are fierce carnivorous sharkmen, who hunt the tropical seas
 with their sharp teeth and poisoned spears.
@@ -11,6 +11,7 @@ Tracking d8, Swimming d12+1, Throwing d6
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1; Poison), spear (Throwing;
 range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Amphibious:** Swimming Pace of 13", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Poison:** Spear inflicts lethal poison if foe is Shaken or wounded.
-

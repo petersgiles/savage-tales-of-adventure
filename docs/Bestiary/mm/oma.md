@@ -1,4 +1,4 @@
-Oma
+# Oma
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+4
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 36 (7)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Bite:** Str+d8; Electricity; Grab.
 - **Tail Slap:** Str+d8.
@@ -31,4 +32,3 @@ smell-based effects.
 - **Size +19:** 150 feet long; Toughness +19.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

@@ -1,4 +1,4 @@
-Graven guardian
+# Graven guardian
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Vigor d10
 **Edges:** Arcane Background (Magic)
 **Powers:** Quickness
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ against offensive magic.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

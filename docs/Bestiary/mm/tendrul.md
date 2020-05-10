@@ -1,4 +1,4 @@
-Tendrul
+# Tendrul
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 14 (2)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Constrict.
 - **Tail Slap:** Str+d6.
@@ -21,4 +22,3 @@ that, they require a raise on an opposed Strength roll to escape.
 breathe air and survive indefinitely on land.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Twelve feet long; Toughness +3.
-

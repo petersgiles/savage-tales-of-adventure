@@ -1,4 +1,4 @@
-Cave leech
+# Cave leech
 
 Cave leeches are massive semi-translucent leeches with eight
 whip-like tentacles surrounding their circular maw of razor-sharp
@@ -10,6 +10,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy, Improved Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Constrict.
 - **Bite:** Str+d4; Constrict; Draining.
@@ -22,4 +23,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Natural Swimmer:** Swimming Pace of 6", and +2 to resist drowning.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
 - **Very Tough:** +1 Toughness.
-

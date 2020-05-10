@@ -1,4 +1,4 @@
-Myceloid
+# Myceloid
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ and extra damage from called shots.
 - **Weakness:** Electricity (double damage).
 - **Resistances:** -2 damage from cold, fire and sonic.
 - **Disease:** Make a Vigor roll or become afflicted.
-

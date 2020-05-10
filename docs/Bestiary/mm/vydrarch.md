@@ -1,4 +1,4 @@
-Vydrarch
+# Vydrarch
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+1
 **Edges:** Ambidextrous, Frenzy, Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Inky scales.
 - **Bites:** Str+d8; Grab.
 - **Tail Slap:** Str+d8; Poison Spines.
@@ -30,4 +31,3 @@ breathe air and survive indefinitely on land.
 - **Size +10:** Forty feet long; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

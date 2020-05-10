@@ -1,4 +1,4 @@
-Thunder beast
+# Thunder beast
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+2
 **Skills:** Fighting d6, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 20 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -20,4 +21,3 @@ Agility roll at -2 or suffer 2d12 resists damage.
 - **Size +8:** Twenty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

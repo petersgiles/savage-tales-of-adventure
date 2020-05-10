@@ -1,4 +1,4 @@
-Vampire rose
+# Vampire rose
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 8 (2)
 **Gear:** Stalk (Str+d8; Grab)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -18,4 +19,3 @@ raise on an opposed Strength roll to escape.
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Size -1:** Three feet tall; Toughness -1.
-

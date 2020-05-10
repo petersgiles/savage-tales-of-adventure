@@ -1,4 +1,4 @@
-Great sea anemone
+# Great sea anemone
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 15
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Tendrils:** Str+d8; Reach 1"; Paralysis; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Grab:** Pin your opponent if you hit with a raise, they require a
@@ -29,4 +30,3 @@ they next draw a Joker or hearts for initiative.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

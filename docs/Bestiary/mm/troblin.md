@@ -1,4 +1,4 @@
-Troblin
+# Troblin
 
 The cross between a goblin and a troll, troblins have a tendancy to
 mutate in horrible ways when they regenerate, sometimes even growing
@@ -10,6 +10,7 @@ d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (1)
 **Gear:** Greatclub (Str+d8)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ d10
 damage.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Very Tough:** +1 Toughness.
-

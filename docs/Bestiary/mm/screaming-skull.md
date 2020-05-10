@@ -1,4 +1,4 @@
-Screaming skull
+# Screaming skull
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d6
 **Powers:** Bolt (magic missile)
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ disease, poison, and extra damage from called shots.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

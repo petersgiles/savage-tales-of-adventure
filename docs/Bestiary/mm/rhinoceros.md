@@ -1,4 +1,4 @@
-Rhinoceros
+# Rhinoceros
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12+1
 **Skills:** Fighting d6, Notice d10, Tracking d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -24,6 +25,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 16 (3)
 **Edges:** Hard to Kill
 **Special Abilities**
+
 - **Armour +3:** Brown fur.
 - **Horn:** Str+d8.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -42,6 +44,7 @@ Vigor d12+2
 **Skills:** Fighting d10, Notice d12+3, Tracking d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 17 (3)
 **Special Abilities**
+
 - **Armour +3:** Brown fur.
 - **Horn:** Str+d8.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -54,4 +57,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Fifteen feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

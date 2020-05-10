@@ -1,4 +1,4 @@
-Cold rider
+# Cold rider
 
 No description for this creature yet.
 
@@ -11,10 +11,10 @@ d12
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Blast (ice storm), Bolt (ray of frost), Slumber
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Immunity:** Cold.
 - **Weaknesses:** Fire (double damage) and sonic (double damage).
-

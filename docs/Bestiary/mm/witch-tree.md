@@ -1,4 +1,4 @@
-Witch tree
+# Witch tree
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Spellcasting d8
 Frenzy, Level Headed, Quick, Strong Willed
 **Powers:** Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +3:** Thick skin.
 - **Tendrils:** Str+d8; Reach 1"; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,4 +25,3 @@ against offensive magic.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

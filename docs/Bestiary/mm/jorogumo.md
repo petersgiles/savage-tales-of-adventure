@@ -1,4 +1,4 @@
-Jorogumo
+# Jorogumo
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Strong Willed
 **Powers:** Entangle, Lower Trait (curse), Mind Reading, Puppet, Puppet
 (living humanoids only), Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Poison.
 - **Claws:** Str+d4.
@@ -25,4 +26,3 @@ surfaces with Pace 8".
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Immunity:** Poison.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

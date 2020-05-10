@@ -1,4 +1,4 @@
-Stench kow
+# Stench kow
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d12
 **Skills:** Fighting d6, Notice d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Horns:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ by Banish.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunities:** Fire, cold and poison.
 - **Size +2:** Eight feet long; Toughness +2.
-

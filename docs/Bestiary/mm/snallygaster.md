@@ -1,4 +1,4 @@
-Snallygaster
+# Snallygaster
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 8 (1)
 **Gear:** Beak (Str+d8; Bleed)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tentacles:** Str+d4; Reach 1"; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 - **Bleed:** On a raise, the victim starts Bleeding Out. They must make
 a Vigor roll each round, on a raise they stop bleeding, on a failure
 they become Shaken (this can cause a wound)
-

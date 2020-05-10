@@ -1,4 +1,4 @@
-Golden cat
+# Golden cat
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Golden fur.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -19,4 +20,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 4".
 - **Size -1:** Reduces Toughness by -1.
-

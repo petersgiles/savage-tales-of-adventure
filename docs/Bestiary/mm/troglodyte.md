@@ -1,4 +1,4 @@
-Troglodyte
+# Troglodyte
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 8 (2)
 **Gear:** Club (Str+d8), javelin (Throwing; range 3/6/12; Str+d6)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claw:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 18").
@@ -20,6 +21,7 @@ d12
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 10 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -35,6 +37,7 @@ d10
 **Edges:** Arcane Background (Miracles)
 **Powers:** Elemental Manipulation (earth)
 **Special Abilities**
+
 - **Armour +2:** Scaly skin.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -43,4 +46,3 @@ d10
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Immunity:** Poison.
 - **Weakness:** Light sensitive.
-

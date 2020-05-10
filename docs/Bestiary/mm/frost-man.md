@@ -1,4 +1,4 @@
-Frost man
+# Frost man
 
 No description for this creature yet.
 
@@ -9,7 +9,7 @@ d4
 **Gear:** Leather armour (+1), morningstar (Str+d6), longbow (Shooting;
 range 15/30/60; 2d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunity:** Cold.
 - **Weakness:** Fire (double damage).
-

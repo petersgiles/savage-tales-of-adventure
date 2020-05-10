@@ -1,4 +1,4 @@
-Frost worm
+# Frost worm
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 21 (4)
 **Edges:** Combat Reflexes, Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -32,6 +33,7 @@ d12+5, Vigor d12+3
 **Charisma:** -; **Pace:** 6; **Parry:** 8; **Toughness:** 21 (4)
 **Edges:** Combat Reflexes, Level Headed, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Cold.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -47,4 +49,3 @@ Agility roll at -2 or suffer 2d12 cold damage.
 - **Size +8:** Thirty-five feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

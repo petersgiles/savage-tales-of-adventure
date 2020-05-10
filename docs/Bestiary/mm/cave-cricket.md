@@ -1,4 +1,4 @@
-Cave cricket
+# Cave cricket
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 6 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Kicks:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -15,4 +16,3 @@ d8
 - **Fearless:** Immune to fear and Intimidation.
 - **Immunity:** Mind-affecting effects.
 - **Size -1:** Three feet long; Toughness -1.
-

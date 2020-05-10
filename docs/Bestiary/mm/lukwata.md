@@ -1,4 +1,4 @@
-Lukwata
+# Lukwata
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+4, Vigor d12+1
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 19 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -23,4 +24,3 @@ against offensive magic.
 - **Size +8:** Twenty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

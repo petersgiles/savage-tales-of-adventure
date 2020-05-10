@@ -1,4 +1,4 @@
-Abyss gigas
+# Abyss gigas
 
 The abyss gigas is a towering eyeless giant, with hairless ebon skin
 and a gaping maw.
@@ -15,6 +15,7 @@ d10, Spellcasting d12
 **Powers:** Dispel, Fear, Obscure (darkness), Puppet (living humanoids
 only), Telekinesis
 **Special Abilities**
+
 - **Armour +4:** Ebon skin.
 - **Bite:** Str+d8; Wrenching Spasms.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -29,4 +30,3 @@ Fatigue.
 - **Size +10:** Fifty feet tall; Toughness +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

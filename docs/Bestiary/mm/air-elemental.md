@@ -1,4 +1,4 @@
-Air elemental
+# Air elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 6 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -30,6 +31,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 7 (1)
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -52,6 +54,7 @@ d10
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 10 (1)
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -75,6 +78,7 @@ Vigor d12
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -101,6 +105,7 @@ d12
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -127,6 +132,7 @@ Stealth d12+2
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -142,4 +148,3 @@ extra damage from called shots.
 - **Size +7:** Forty feet long; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

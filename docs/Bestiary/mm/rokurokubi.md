@@ -1,4 +1,4 @@
-Rokurokubi
+# Rokurokubi
 
 No description for this creature yet.
 
@@ -9,9 +9,9 @@ d12+2, Stealth d12+3
 **Charisma:** +4; **Pace:** 6; **Parry:** 9; **Toughness:** 12 (3)
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d4; Curse.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Immunity:** Sleep.
-

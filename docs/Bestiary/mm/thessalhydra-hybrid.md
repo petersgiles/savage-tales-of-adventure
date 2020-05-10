@@ -1,4 +1,4 @@
-Thessalhydra hybrid
+# Thessalhydra hybrid
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d12+3
 **Edges:** Combat Reflexes, Level Headed, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Metallic scales.
 - **Serpentine Bites:** Str+d8; Acid.
 - **Bite:** Str+d8; Acid.
@@ -49,6 +50,7 @@ Vigor d12+1
 **Edges:** Combat Reflexes, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Serpentine Bites:** Str+d6; Acid.
 - **Bite:** Str+d6; Acid.
@@ -72,4 +74,3 @@ in this case).
 resist.
 - **Immunity:** Acid.
 - **Size +3:** Twelve feet long; Toughness +3.
-

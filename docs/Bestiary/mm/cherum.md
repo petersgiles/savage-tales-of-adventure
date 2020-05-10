@@ -1,4 +1,4 @@
-Cherum
+# Cherum
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+9, Knowledge (Religion) d12+2, Survival d12+2
 **Edges:** Alertness, Dodge, Hard to Kill, Level Headed, Quick, Sweep,
 Improved Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +7:** Burning flesh.
 - **Bite:** Str+d8; Fire; Grab.
 - **Claws:** Str+d8; Fire.
@@ -33,4 +34,3 @@ against offensive magic.
 - **Size +16:** Seventy feet tall; Toughness +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

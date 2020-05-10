@@ -1,4 +1,4 @@
-Dybbuk
+# Dybbuk
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+3, Stealth d12+5, Spellcasting d10
 Headed, Strong Willed
 **Powers:** Mind Reading, Puppet, Speak Language, Telekinesis
 **Special Abilities**
+
 - **Pain Touch Touch:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -21,4 +22,3 @@ modifiers, disease, poison, and extra damage from called shots.
 against offensive magic.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

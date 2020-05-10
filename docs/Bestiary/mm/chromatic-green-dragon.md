@@ -1,4 +1,4 @@
-Chromatic green dragon
+# Chromatic green dragon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Survival d8, Swimming d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 6 (1)
 **Edges:** Alertness, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -28,6 +29,7 @@ Stealth d10, Survival d10, Swimming d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 9 (2)
 **Edges:** Alertness, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -51,6 +53,7 @@ Stealth d8, Survival d10, Swimming d12+3, Spellcasting d8
 Strong Willed
 **Powers:** Entangle
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -77,6 +80,7 @@ Strong Willed
 Entangle, Light (dancing lights), Puppet (living humanoids only), Summon
 Ally
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -105,6 +109,7 @@ Strong Willed
 Entangle, Light (dancing lights), Puppet (living humanoids only), Summon
 Ally
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -134,6 +139,7 @@ Strong Willed
 Disguise (shapechange), Entangle, Light (dancing lights), Puppet, Puppet
 (living humanoids only), Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -166,6 +172,7 @@ Mind Reading, Puppet, Puppet (living humanoids only), Quickness, Summon
 Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -201,6 +208,7 @@ Light (dancing lights), Invisibility, Mind Reading, Puppet, Puppet
 (living humanoids only), Quickness, Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -237,6 +245,7 @@ Reading, Puppet, Puppet (living humanoids only), Quickness, Summon Ally,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -273,6 +282,7 @@ Reading, Puppet, Puppet (living humanoids only), Quickness, Summon Ally,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -306,6 +316,7 @@ Invisibility, Mind Reading, Puppet, Puppet (living humanoids only),
 Quickness, Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -343,6 +354,7 @@ Light (dancing lights), Invisibility, Mind Reading, Puppet, Puppet
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -360,4 +372,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +16:** Increases Toughness by +16.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

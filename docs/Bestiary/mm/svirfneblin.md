@@ -1,4 +1,4 @@
-Svirfneblin
+# Svirfneblin
 
 No description for this creature yet.
 
@@ -12,8 +12,8 @@ Survival d6, Tracking d6, Shooting d4, Spellcasting d6
 **Edges:** Arcane Background (Magic), Beast Master, Woodsman
 **Powers:** Conceal Arcana, Deflection (blur), Disguise (illusion)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

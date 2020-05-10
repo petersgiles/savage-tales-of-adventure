@@ -1,4 +1,4 @@
-Centaur
+# Centaur
 
 Centaurs have the upper body of a humanoid, and the lower body of a
 horse.
@@ -12,8 +12,8 @@ d6, Persuasion d6, Survival d8, Throwing d4
 Parry), spear (Throwing; range 3/6/12; Str+d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Hooves:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Fast Runner:** Roll d8 when running instead of d6.
 - **Size +2:** Seven feet tall; Toughness +2.
-

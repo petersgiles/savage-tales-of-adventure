@@ -1,4 +1,4 @@
-Pukwudgie
+# Pukwudgie
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ Frenzy, Strong Willed
 **Powers:** Conceal Arcana, Detect Arcana (sense magic), Lower Trait
 (Strength), Invisibility, Summon Ally (skeletons and zombies)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Poison.
 - **Quills:** Throwing; range 15/30/60; Str+d6; Poison; SBT.
@@ -21,4 +22,3 @@ Frenzy, Strong Willed
 - **Poison:** Claws and quills inflict lethal poison if foe is Shaken or
 wounded.
 - **Size -1:** 3½ feet tall; Toughness -1.
-

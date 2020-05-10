@@ -1,4 +1,4 @@
-Trollkin
+# Trollkin
 
 The trollkin are big and brutish half-trolls. They tend to be
 self-serving and aggressive, but aren't necessarily evil or hostile.
@@ -10,6 +10,6 @@ self-serving and aggressive, but aren't necessarily evil or hostile.
 javelin (Throwing; range 3/6/12; Str+d6)
 **Edges:** Ambidextrous
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
-

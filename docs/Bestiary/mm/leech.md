@@ -1,4 +1,4 @@
-Leech
+# Leech
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d8
 **Skills:** Fighting d4, Stealth d4, Tracking d4, Swimming d8
 **Charisma:** -; **Pace:** 1; **Parry:** 4; **Toughness:** 6
 **Special Abilities**
+
 - **Bite:** Str+d4; Attach.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -28,6 +29,7 @@ Stealth d12, Swimming d10, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -35,4 +37,3 @@ Stealth d12, Swimming d10, Innate Powers d10
 - **Aquatic:** Swimming Pace of 10", and cannot drown.
 - **Immunity:** Mind-affecting effects.
 - **Poison:** Swarm inflicts lethal poison if foe is Shaken or wounded.
-

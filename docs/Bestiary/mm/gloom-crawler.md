@@ -1,4 +1,4 @@
-Gloom crawler
+# Gloom crawler
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 16 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Inky-black flesh.
 - **Bite:** Str+d8.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -23,4 +24,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +6:** Thirty feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

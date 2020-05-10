@@ -1,4 +1,4 @@
-Qlippoth
+# Qlippoth
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ Tracking d12+2, Spellcasting d4
 **Edges:** Arcane Background (Magic), Level Headed, Quick
 **Powers:** Teleport
 **Special Abilities**
+
 - **Armour +5:** Flesh.
 - **Bite:** Str+d8; Bleed; Rotting Curse.
 - **Claws:** Str+d8; Bleed.
@@ -47,6 +48,7 @@ Vigor d12+2
 **Powers:** Banish (plane shift self), Confusion, Dispel, Obscure
 (darkness)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Con Damage.
 - **Bite:** Str+d8; Poison.
@@ -76,6 +78,7 @@ No description for this creature yet.
 **Edges:** Arcane Background (Magic), Quick
 **Powers:** Detect Arcana (sense magic), Divination
 **Special Abilities**
+
 - **Bite:** Str; Spores.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -102,6 +105,7 @@ Dodge, Level Headed
 **Powers:** Shrink, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claw:** Str+d4; Bleed.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -137,6 +141,7 @@ Repair d12+6, Stealth d10, Spellcasting d12
 **Powers:** Banish (plane shift self), Bolt (magic missile), Dispel,
 Flight (wind walk), Greater Healing, Teleport
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Wings:** Str+d8.
@@ -169,6 +174,7 @@ Vigor d12+2
 Frenzy
 **Powers:** Fear, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bites:** Str+d4; Acid.
 - **Bite:** Str+d4; Acid.
@@ -191,6 +197,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Puppet (living humanoids only), Speak Language, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tentacles:** Str+d6; Reach 1"; Constrict.
@@ -218,6 +225,7 @@ Quick
 **Powers:** Banish (plane shift self), Deflection (displacement),
 Dispel, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Stings:** Str+d8; Ability Drain.
 - **Tentacles:** Str+d8; Reach 1"; Acid.
@@ -239,4 +247,3 @@ creatures.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

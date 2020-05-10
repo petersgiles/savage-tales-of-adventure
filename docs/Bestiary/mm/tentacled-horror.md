@@ -1,4 +1,4 @@
-Tentacled horror
+# Tentacled horror
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** +4; **Pace:** 6; **Parry:** 7; **Toughness:** 18 (3)
 **Edges:** Frenzy, Improved Frenzy, Quick, Sweep, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
 - **Bite:** Str+d8.
@@ -24,4 +25,3 @@ damage.
 - **Size +6:** Two feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

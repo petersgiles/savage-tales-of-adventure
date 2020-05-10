@@ -1,4 +1,4 @@
-Hyena
+# Hyena
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d8, Stealth d6, Tracking d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Tan-colored fur.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,6 +23,7 @@ Vigor d10
 **Skills:** Fighting d6, Notice d8, Stealth d8, Tracking d8
 **Charisma:** -; **Pace:** 8; **Parry:** 5; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d6; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,6 +41,7 @@ Vigor d12+1
 d10
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 15 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d8; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -50,4 +53,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Size +4:** Eight feet long; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

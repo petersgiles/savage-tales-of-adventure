@@ -1,4 +1,4 @@
-Demiurge
+# Demiurge
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d8
 **Charisma:** +4; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Alertness, Combat Reflexes, Level Headed, Quick
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -23,4 +24,3 @@ against offensive magic.
 roll to resist.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

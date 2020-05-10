@@ -1,4 +1,4 @@
-Qallupilluk
+# Qallupilluk
 
 No description for this creature yet.
 
@@ -12,6 +12,7 @@ d10, Survival d10, Swimming d12+2, Throwing d6, Spellcasting d8
 **Powers:** Divination (commune with nature), Entangle (sleet storm),
 Puppet (living humanoids only), Puppet (animals only)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -19,4 +20,3 @@ Puppet (living humanoids only), Puppet (animals only)
 - **Amphibious:** Swimming Pace of 14", and cannot drown, but can also
 breathe air and survive indefinitely on land.
 - **Resistances:** -2 damage from cold and fire.
-

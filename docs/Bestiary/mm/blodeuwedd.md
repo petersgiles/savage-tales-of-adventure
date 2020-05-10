@@ -1,4 +1,4 @@
-Blodeuwedd
+# Blodeuwedd
 
 The blodeuwedd are a type of fae related to dryads, and magically
 bond with grasslands and plains, although unlike dryads they can leave
@@ -18,6 +18,7 @@ Dodge, Frenzy
 **Powers:** Entangle (plant growth), Light (dancing lights), Obscure
 (illusionary terrain), Slumber
 **Special Abilities**
+
 - **Armour +1:** Skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -40,8 +41,8 @@ Dodge, Frenzy, Level Headed, Strong Willed
 lights), Obscure (illusionary terrain), Puppet (plants only), Shape
 Change (plant creatures), Slumber, Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +2:** Skin.
 - **Claws:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Change Form:** Can assume an alternate form as a normal action.
-

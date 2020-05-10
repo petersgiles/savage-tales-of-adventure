@@ -1,4 +1,4 @@
-Fetch
+# Fetch
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 11 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Pale skin.
 - **Claws:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weakness:** Fire (double damage).
 - **Very Tough:** +1 Toughness.
-

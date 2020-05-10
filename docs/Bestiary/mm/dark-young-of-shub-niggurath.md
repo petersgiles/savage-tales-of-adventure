@@ -1,4 +1,4 @@
-Dark young of shub-niggurath
+# Dark young of shub-niggurath
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Knowledge (Nature) d12+1, Repair d12+1, Stealth d10, Spellcasting d10
 Frenzy, Level Headed, Quick
 **Powers:** Entangle, Puppet (plants only)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -24,4 +25,3 @@ that, they require a raise on an opposed Strength roll to escape.
 - **Size +8:** Thirty feet tall; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

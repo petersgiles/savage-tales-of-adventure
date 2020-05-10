@@ -1,4 +1,4 @@
-Mother of oblivion
+# Mother of oblivion
 
 No description for this creature yet.
 
@@ -15,6 +15,7 @@ Willed
 Puppet (living humanoids only), Voice on the Wind (dream message)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Natural armour.
 - **Bite:** Str+d8; Energy Drain Levels; Dc.
 - **Tentacles:** Str+d8; Reach 1"; Constrict.
@@ -34,4 +35,3 @@ petrification, Gang Up bonuses, mind-affecting effects and death magic.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

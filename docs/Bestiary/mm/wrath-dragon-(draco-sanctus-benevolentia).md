@@ -1,4 +1,4 @@
-Wrath dragon (draco sanctus benevolentia)
+# Wrath dragon (draco sanctus benevolentia)
 
 No description for this creature yet.
 
@@ -15,6 +15,7 @@ blades), Boost Trait (bless), Detect Arcana (sense magic), Dispel, Fear,
 Greater Healing, Invisibility, Summon Ally, Banish (undead)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -34,4 +35,3 @@ Agility roll at -2 or suffer 2d12 fire damage.
 - **Size +8:** Thirty feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

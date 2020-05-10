@@ -1,4 +1,4 @@
-Crystallis
+# Crystallis
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d12+2
 **Edges:** Alertness, Sweep, Strong Willed
 **Tactics:** No melee attacks
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -18,4 +19,3 @@ by Banish.
 extra damage from called shots.
 - **Hardy:** A second Shaken result doesn't become a wound.
 - **Size +3:** Thirteen feet tall; Toughness +3.
-

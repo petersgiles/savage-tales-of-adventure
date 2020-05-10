@@ -1,4 +1,4 @@
-Minotaur
+# Minotaur
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Survival d10
 **Charisma:** -; **Pace:** 6; **Parry:** 4; **Toughness:** 11 (2)
 **Gear:** Greataxe (Str+d10; Parry -1)
 **Special Abilities**
+
 - **Armour +2:** Shaggy fur.
 - **Horns:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,6 +27,7 @@ Survival d10, Shooting d4
 **Gear:** Greataxe (Str+d10; Parry -1), minotaur double crossbow
 (Shooting; range 15/30/60; 2d8; AP 2)
 **Special Abilities**
+
 - **Armour +2:** Shaggy fur.
 - **Horns:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -42,6 +44,7 @@ Survival d10
 **Charisma:** +1; **Pace:** 6; **Parry:** 4; **Toughness:** 15 (3)
 **Gear:** Greataxe (Str+d10; Parry -1)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horns:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -67,6 +70,7 @@ crossbow (Shooting; range 15/30/60; 2d8; AP 2; Sidebar)
 **Powers:** Barrier (stone), Elemental Manipulation (earth), Obscure
 (fog cloud)
 **Special Abilities**
+
 - **Horns:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Gore:** +4 damage when first moving adjacent to foe.
@@ -84,6 +88,7 @@ d12+1
 **Edges:** Arcane Background (Magic)
 **Powers:** Smite (Good), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,4 +97,3 @@ d12+1
 - **Immunity:** Poison.
 - **Resistances:** -2 damage from acid, cold, electricity and fire.
 - **Size +3:** Increases Toughness by +3.
-

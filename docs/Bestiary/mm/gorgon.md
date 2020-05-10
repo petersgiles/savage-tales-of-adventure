@@ -1,4 +1,4 @@
-Gorgon
+# Gorgon
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 15 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Horn:** Str+d6.
 - **Hooves:** Str+d4.
@@ -33,6 +34,7 @@ d12+4
 Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly flesh.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -66,6 +68,7 @@ d12+3
 Sweep
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly flesh.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -86,4 +89,3 @@ or be permanently turned to stone.
 - **Size +4:** Ten feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

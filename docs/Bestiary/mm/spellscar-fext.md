@@ -1,4 +1,4 @@
-Spellscar fext
+# Spellscar fext
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Stealth d12+1
 **Charisma:** +4; **Pace:** 6; **Parry:** 7; **Toughness:** 12 (2)
 **Edges:** Combat Reflexes, Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -18,4 +19,3 @@ modifiers, disease, poison, and extra damage from called shots.
 against offensive magic.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

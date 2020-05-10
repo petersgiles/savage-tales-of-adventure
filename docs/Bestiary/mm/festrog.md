@@ -1,4 +1,4 @@
-Festrog
+# Festrog
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d10
 d4, Tracking d6
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Bite:** Str+d4; Feed.
 - **Claws:** Str+d4.
@@ -29,6 +30,7 @@ d6
 **Charisma:** +2; **Pace:** 5; **Parry:** 5; **Toughness:** 16 (2)
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Graygreen flesh.
 - **Bite:** Str+d6; Feed; Go for the Throat.
 - **Claws:** Str+d6.
@@ -44,4 +46,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

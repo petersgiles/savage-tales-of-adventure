@@ -1,4 +1,4 @@
-Hodag
+# Hodag
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8, Swimming d8
 **Edges:** Ambidextrous, Strong Willed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -20,4 +21,3 @@ d8, Swimming d8
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Burrow:** Can burrow and reappear within 4".
 - **Size +2:** Increases Toughness by +2.
-

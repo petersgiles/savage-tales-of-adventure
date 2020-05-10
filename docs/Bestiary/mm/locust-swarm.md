@@ -1,4 +1,4 @@
-Locust swarm
+# Locust swarm
 
 No description for this creature yet.
 
@@ -10,9 +10,9 @@ Notice d6, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
 - **Swarm:** +2 Parry, immune to most weapons.
 - **Flight:** Flying Pace of 6" and Climb -1.
-

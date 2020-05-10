@@ -1,4 +1,4 @@
-Eurypterid
+# Eurypterid
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 7 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Sting:** Str+d4; Poison.
@@ -29,6 +30,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 11 (2)
 **Edges:** Frenzy, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d6.
 - **Sting:** Str+d6; Poison.
@@ -53,6 +55,7 @@ d6
 **Charisma:** -; **Pace:** 5; **Parry:** 2; **Toughness:** 5 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4.
 - **Sting:** Str+d4; Poison.
@@ -75,6 +78,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 19 (4)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +4:** Carapace.
 - **Claws:** Str+d8.
 - **Sting:** Str+d8; Poison.
@@ -99,6 +103,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 4; **Parry:** 7; **Toughness:** 24 (5)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +5:** Natural armour.
 - **Claws:** Str+d8.
 - **Sting:** Str+d8; Poison.
@@ -114,4 +119,3 @@ breathe air and survive indefinitely on land.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

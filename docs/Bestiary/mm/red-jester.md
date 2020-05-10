@@ -1,4 +1,4 @@
-Red jester
+# Red jester
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Throwing d10
 3/6/12; Str+d6; See Below)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -19,4 +20,3 @@ against offensive magic.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Merriment:** Make a Spirit roll or suffer a level of Fatigue.
-

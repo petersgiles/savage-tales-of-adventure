@@ -1,4 +1,4 @@
-Duppy
+# Duppy
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** +4; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Level Headed, Quick
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Negative Energy; Draining.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -20,4 +21,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Weaknesses:** Resurrection vulnerability and powerless in sunlight.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
-

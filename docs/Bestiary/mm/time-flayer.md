@@ -1,4 +1,4 @@
-Time flayer
+# Time flayer
 
 No description for this creature yet.
 
@@ -11,9 +11,9 @@ Survival d12+2
 **Gear:** Greatsword (Str+d10; Parry -1)
 **Edges:** Dodge, Improved Dodge, Level Headed, Quick
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
 by Banish.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

@@ -1,4 +1,4 @@
-Soucouyant
+# Soucouyant
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ d12+2, Spellcasting d8
 Dodge, Level Headed
 **Powers:** Detect Arcana (sense magic), Slumber, Wall Walker
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4; Grab.
@@ -20,4 +21,3 @@ raise on an opposed Strength roll to escape.
 - **Arcane Resistance:** +3 to resist opposed magic, and +3 armour
 against offensive magic.
 - **Immunities:** Fire, sleep, disease and fear.
-

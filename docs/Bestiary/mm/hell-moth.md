@@ -1,4 +1,4 @@
-Hell moth
+# Hell moth
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 14 (2)
 **Edges:** Hard to Kill, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -26,4 +27,3 @@ roll to escape.
 - **Resistance:** -4 damage from fire.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

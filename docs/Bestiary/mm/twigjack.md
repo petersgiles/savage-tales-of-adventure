@@ -1,4 +1,4 @@
-Twigjack
+# Twigjack
 
 Twigjacks are small humanoid fey formed from vines and brambles, with
 mossy hair and knotholes for eyes, and jagged mouths filled with
@@ -13,6 +13,7 @@ Stealth d12+2, Lockpicking d8
 **Gear:** Spear (Str+d6; Reach 1"; Parry +1)
 **Edges:** Assassin
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -22,4 +23,3 @@ difficult ground.
 - **Size -2:** Reduces Toughness by -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

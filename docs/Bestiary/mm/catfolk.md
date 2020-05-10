@@ -1,4 +1,4 @@
-Catfolk
+# Catfolk
 
 Catfolk are lean cat-like humanoids who live in hunter-gatherer
 tribes.
@@ -12,5 +12,5 @@ Stealth d8, Survival d6, Tracking d6, Shooting d6
 (Shooting; range 15/30/60; 2d6)
 **Edges:** Beast Master, Woodsman
 **Special Abilities**
-- **Low Light Vision:** No penalties for dim or dark lighting.
 
+- **Low Light Vision:** No penalties for dim or dark lighting.

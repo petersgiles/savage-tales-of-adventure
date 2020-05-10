@@ -1,4 +1,4 @@
-Drekavac
+# Drekavac
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Intangibility (gaseous form)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Chilling Grasp Touch:** Str+d4; Cold; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -21,4 +22,3 @@ modifiers, disease, poison, and extra damage from called shots.
 bleeding and death magic.
 - **Disease:** Make a Vigor roll or become afflicted.
 - **Size -1:** Reduces Toughness by -1.
-

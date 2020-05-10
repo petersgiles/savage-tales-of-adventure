@@ -1,4 +1,4 @@
-Ifrit
+# Ifrit
 
 No description for this creature yet.
 
@@ -8,6 +8,6 @@ d8
 **Charisma:** +2; **Pace:** 6; **Parry:** 2; **Toughness:** 6
 **Gear:** Scimitar (Str+d6)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistance:** -1 damage from fire.
-

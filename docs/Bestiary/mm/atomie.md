@@ -1,4 +1,4 @@
-Atomie
+# Atomie
 
 Atomies are one-foot tall fae with green skin and dragonfly wings.
 They sometimes serve as scouts or guards for other fae creatures.
@@ -12,9 +12,9 @@ d8
 **Edges:** Arcane Background (Magic), Assassin, Level Headed
 **Powers:** Beast Friend, Light (dancing lights), Invisibility, Shrink
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Flight:** Flying Pace of 8" and Climb 2.
 - **Size -2:** One foot tall; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

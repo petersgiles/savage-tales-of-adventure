@@ -1,4 +1,4 @@
-Magma elemental
+# Magma elemental
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 6 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -27,6 +28,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slam:** Str+d4; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -46,6 +48,7 @@ d10
 **Charisma:** -; **Pace:** 5; **Parry:** 6; **Toughness:** 11 (2)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d6; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -66,6 +69,7 @@ d12
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -89,6 +93,7 @@ Stealth d8
 **Charisma:** -; **Pace:** 5; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -112,6 +117,7 @@ d12+1, Knowledge (Planes) d12+1, Stealth d10
 **Charisma:** -; **Pace:** 5; **Parry:** 8; **Toughness:** 19 (4)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Slams:** Str+d8; Burn.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -125,4 +131,3 @@ extra damage from called shots.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Bog scum
+# Bog scum
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+4
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 18
 **Edges:** Sweep, Improved Sweep
 **Special Abilities**
+
 - **Slam:** Str+d10; Acid; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Constrict:** Pin opponent on a raise, inflict Str+d6 per round after
@@ -26,4 +27,3 @@ Up bonuses.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

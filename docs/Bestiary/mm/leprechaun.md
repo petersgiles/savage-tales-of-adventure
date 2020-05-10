@@ -1,4 +1,4 @@
-Leprechaun
+# Leprechaun
 
 No description for this creature yet.
 
@@ -11,8 +11,8 @@ d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Light (dancing lights), Invisibility
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Arcane Resistance:** +2 to resist opposed magic, and +2 armour
 against offensive magic.
 - **Size -1:** Reduces Toughness by -1.
-

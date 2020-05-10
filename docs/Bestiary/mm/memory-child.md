@@ -1,4 +1,4 @@
-Memory child
+# Memory child
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d8
 **Edges:** Alertness, Arcane Background (Magic), Quick, Strong Willed
 **Powers:** Mind Reading
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Touch:** Str+d4; Thought Consumption.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ d8
 by Banish.
 - **Very Tough:** +1 Toughness.
 - **Size -1:** Reduces Toughness by -1.
-

@@ -1,4 +1,4 @@
-Bulette
+# Bulette
 
 Bulettes are fierce and cunning predators who burrow below the
 surface of the earth, their armoured fin leaving a trail behind them,
@@ -12,6 +12,7 @@ Vigor d12+1
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 17 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -41,6 +42,7 @@ d12+3, Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 19 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -57,4 +59,3 @@ to foe.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

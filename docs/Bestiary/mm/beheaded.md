@@ -1,4 +1,4 @@
-Beheaded
+# Beheaded
 
 The belching head has been animated through dark magic.
 
@@ -8,6 +8,7 @@ Vigor d6
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 5
 **Gear:** Ranged touch (Throwing; range 3/6/12; Str+d6; Ranged Touch)
 **Special Abilities**
+
 - **Slam:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -28,6 +29,7 @@ d6
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 5
 **Special Abilities**
+
 - **Slam:** Str; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -48,6 +50,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 12 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -67,6 +70,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d4; Petrifying Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -87,6 +91,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d4; Burn; Petrifying Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -108,6 +113,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d4; Grab; Petrifying Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -130,6 +136,7 @@ d8
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Bite:** Str+d4; Petrifying Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -150,6 +157,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** +4; **Pace:** -; **Parry:** 5; **Toughness:** 10 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Petrifying Bite.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -170,6 +178,7 @@ Vigor d6
 **Skills:** Fighting d4-2
 **Charisma:** -; **Pace:** -; **Parry:** 2; **Toughness:** 5
 **Special Abilities**
+
 - **Slam:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
@@ -193,6 +202,7 @@ Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Mindless:** Immune to mind-affecting magic.
 - **Fearless:** Immune to fear and Intimidation.
@@ -202,4 +212,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 7" and Climb 3.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

@@ -1,4 +1,4 @@
-Demon
+# Demon
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Strong Willed
 **Powers:** Detect Arcana (see invisibility), Dispel, Invisibility,
 Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Basalt-colored skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -43,6 +44,7 @@ d10
 **Powers:** Disguise (illusion), Mind Reading, Puppet, Puppet (living
 humanoids only), Teleport
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 24").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -67,6 +69,7 @@ Level Headed, Strong Willed
 **Powers:** Detect Arcana (see invisibility), Dispel, Invisibility,
 Obscure (darkness), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -92,6 +95,7 @@ d12+2
 **Powers:** Detect Arcana (see invisibility), Dispel, Fear,
 Invisibility, Obscure (darkness), Teleport
 **Special Abilities**
+
 - **Armour +3:** Slate skin.
 - **Slam:** Str+d8.
 - **Bite:** Str+d8.
@@ -126,6 +130,7 @@ Sweep, Strong Willed, Two-Fisted
 Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -168,6 +173,7 @@ Headed, Sweep, Strong Willed, Two-Fisted
 Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -203,6 +209,7 @@ Knowledge (Planes) d10, Stealth d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +1:** Blue-gray skin.
 - **Hoof:** Str+d4; Fire.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -232,6 +239,7 @@ d10
 **Powers:** Detect Arcana (sense magic), Fear, Flight (levitate), Mind
 Reading
 **Special Abilities**
+
 - **Armour +2:** Blue skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -255,6 +263,7 @@ Cry
 **Powers:** Detect Arcana (see invisibility), Invisibility, Obscure
 (darkness), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Reddish-black fur.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -285,6 +294,7 @@ d12+7, Survival d12+2, Spellcasting d8
 Willed
 **Powers:** Fear, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8; Daze.
@@ -315,6 +325,7 @@ Tracking d12+5, Spellcasting d12
 Headed
 **Powers:** Confusion, Invisibility, Puppet, Quickness, Speak Language
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Bite:** Str+d4; Siphon.
 - **Slams:** Str+d4.
@@ -345,6 +356,7 @@ Sweep
 **Powers:** Dispel, Invisibility, Obscure (darkness), Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +4:** Writhing flesh.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -373,6 +385,7 @@ No description for this creature yet.
 **Edges:** Arcane Background (Magic), Frenzy
 **Powers:** Fear, Summon Ally
 **Special Abilities**
+
 - **Armour +1:** Demonic flesh.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -398,6 +411,7 @@ Spellcasting d12
 **Edges:** Arcane Background (Magic), Combat Reflexes, Level Headed
 **Powers:** Deflection (blur), Summon Ally (animals and elementals)
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Bite:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -427,6 +441,7 @@ Stealth d6
 **Charisma:** +1; **Pace:** 6; **Parry:** 6; **Toughness:** 14 (3)
 **Edges:** Frenzy, Level Headed, Quick, Sweep
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -458,6 +473,7 @@ Sweep
 **Powers:** Detect Arcana (sense magic), Obscure (darkness), Summon
 Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Stings:** Str+d8; Poison.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -485,6 +501,7 @@ Vigor d12+4
 **Powers:** Confusion, Disguise (illusion), Dispel, Summon Ally,
 Teleport
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Pincers:** Str+d8.
 - **Claws:** Str+d8.
@@ -515,6 +532,7 @@ d8
 **Powers:** Confusion, Detect Arcana (see invisibility), Invisibility,
 Obscure (darkness), Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bite:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -539,6 +557,7 @@ Throwing d6, Spellcasting d6
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Obscure (darkness), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +1:** Demonic flesh.
 - **Bite:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -564,6 +583,7 @@ Stealth d12, Tracking d12+1, Spellcasting d10
 Frenzy, Improved Frenzy, Level Headed, Strong Willed
 **Powers:** Pummel (wind), Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bites:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -594,6 +614,7 @@ d12+2, Repair d12, Stealth d8, Swimming d12+4, Spellcasting d8
 Sweep
 **Powers:** Intangibility (gaseous form), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Scaly flesh.
 - **Bite:** Str+d8; Grab.
 - **Claws:** Str+d8; Grab.
@@ -626,6 +647,7 @@ Vigor d12
 **Powers:** Mind Reading, Puppet, Puppet (living humanoids only), Speak
 Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -648,6 +670,7 @@ d12+3, Knowledge (Planes) d12, Stealth d12, Spellcasting d10
 **Powers:** Puppet (living humanoids only), Quickness, Summon Ally,
 Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -672,6 +695,7 @@ d12+1, Spellcasting d10
 Sweep
 **Powers:** Dispel, Fear, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -705,6 +729,7 @@ Two-Fisted
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -733,6 +758,7 @@ Vigor d12+2
 **Edges:** Arcane Background (Magic), Quick, Sweep
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Sting:** Str+d6; Poison.
 - **Claws:** Str+d6; Grab.
@@ -762,6 +788,7 @@ d12, Survival d12, Spellcasting d10
 Headed, Sweep
 **Powers:** Obscure (darkness), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
@@ -786,6 +813,7 @@ Spellcasting d12
 Willed
 **Powers:** Blast (lightning storm), Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -817,6 +845,7 @@ d12+1, Persuasion d8, Stealth d12+2, Survival d12, Spellcasting d8
 **Edges:** Arcane Background (Magic), Frenzy, Sweep, Strong Willed
 **Powers:** Confusion, Obscure (darkness), Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Bluish-black skin.
 - **Claws:** Str+d4.
 - **Sting:** Str+d4; Poison.
@@ -840,6 +869,7 @@ Spellcasting d10
 **Edges:** Alertness, Arcane Background (Magic), Sweep
 **Powers:** Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Blackish-blue scales.
 - **Bite:** Str+d6; Constrict.
 - **Sting:** Str+d6; Poison.
@@ -874,6 +904,7 @@ Dodge, Frenzy, Level Headed, Quick
 **Powers:** Elemental Manipulation (water), Intangibility (gaseous
 form), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Slams:** Str+d4; Acid; Grab.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -902,6 +933,7 @@ d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Slam:** Str+d6; Acid; Grab.
 - **Claws:** Str+d6; Acid.
@@ -932,6 +964,7 @@ Stealth d6, Survival d6, Spellcasting d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Slam:** Str+d4; Acid; Grab.
 - **Claws:** Str+d4; Acid.
@@ -960,6 +993,7 @@ d12+2, Knowledge (Planes) d12+1, Spellcasting d6
 Frenzy, Sweep, Improved Sweep, Strong Willed, Two-Fisted
 **Powers:** Summon Ally
 **Special Abilities**
+
 - **Armour +4:** Ebony skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -984,6 +1018,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Sweep, Strong Willed
 **Powers:** Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Bite:** Str+d8; Regurgitate.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -1010,6 +1045,7 @@ d6, Stealth d12, Spellcasting d6
 **Edges:** Arcane Background (Magic), Frenzy, Level Headed
 **Powers:** Detect Arcana (sense magic), Divination, Fear, Invisibility
 **Special Abilities**
+
 - **Armour +1:** Demonic flesh.
 - **Claws:** Str; Poison.
 - **Bite:** Str.
@@ -1039,6 +1075,7 @@ Survival d4, Spellcasting d6
 **Powers:** Detect Arcana (see invisibility), Invisibility, Speak
 Language, Summon Ally
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Horns:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1066,6 +1103,7 @@ Level Headed
 Ally, Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Pale flesh.
 - **Claws:** Str+d4; Grab.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1096,6 +1134,7 @@ Headed, Quick
 **Powers:** Fear, Obscure (darkness), Summon Ally, Telekinesis,
 Teleport
 **Special Abilities**
+
 - **Claws Touch:** Str+d4; Cold.
 - **Bite Touch:** Str+d4; Cold.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1126,6 +1165,7 @@ Dodge, Quick
 **Powers:** Invisibility, Summon Ally, Telekinesis, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Demonic flesh.
 - **Bite:** Str+d8; Strength Drain.
 - **Claws:** Str+d8.
@@ -1162,6 +1202,7 @@ Spellcasting d8
 **Edges:** Arcane Background (Magic), Level Headed, Quick, Sweep
 **Powers:** Dispel, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bite:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1189,6 +1230,7 @@ Spellcasting d6
 **Edges:** Arcane Background (Magic), Dodge, Frenzy
 **Powers:** Detect Arcana (sense magic)
 **Special Abilities**
+
 - **Armour +1:** Demonic flesh.
 - **Claws:** Str.
 - **Bite:** Str.
@@ -1218,6 +1260,7 @@ d8
 **Powers:** Detect Arcana (see invisibility), Dispel, Invisibility,
 Obscure (darkness), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Claws:** Str+d6; Bleed.
 - **Bite:** Str+d6; Draining.
@@ -1251,6 +1294,7 @@ Willed
 **Powers:** Intangibility, Mind Reading, Puppet, Puppet (living
 humanoids only), Speak Language, Summon Ally, Teleport
 **Special Abilities**
+
 - **Armour +2:** Demonic flesh.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1277,6 +1321,7 @@ Spellcasting d12
 **Edges:** Arcane Background (Magic), Strong Willed
 **Powers:** Blast (earthquake), Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Claws:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -1311,6 +1356,7 @@ d8, Spellcasting d8
 **Edges:** Arcane Background (Magic)
 **Powers:** Summon Ally, Wall Walker
 **Special Abilities**
+
 - **Armour +1:** Demonic flesh.
 - **Bite:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -1341,6 +1387,7 @@ Vigor d12+3
 Headed, Quick, Sweep
 **Powers:** Summon Ally, Telekinesis, Teleport
 **Special Abilities**
+
 - **Armour +3:** Feathers.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6.
@@ -1374,6 +1421,7 @@ Dodge, Level Headed, Sweep, Two-Fisted
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Demonic flesh.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 24").
@@ -1402,6 +1450,7 @@ Survival d12
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 20 (3)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Demonic flesh.
 - **Bite:** Str+d8; Poison.
 - **Claws:** Str+d8.
@@ -1420,4 +1469,3 @@ creatures.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

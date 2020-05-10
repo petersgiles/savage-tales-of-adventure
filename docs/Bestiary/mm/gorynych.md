@@ -1,4 +1,4 @@
-Gorynych
+# Gorynych
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Strong Willed
 **Powers:** Disguise (shapechange), Dispel, Light (dancing lights),
 Lower Trait (curse), Puppet (living humanoids only)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bites:** Str+d8.
 - **Claws:** Str+d8.
@@ -30,4 +31,3 @@ Agility roll at -2 or suffer 2d10 fire damage.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

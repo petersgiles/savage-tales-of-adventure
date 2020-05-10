@@ -1,4 +1,4 @@
-Shobhad
+# Shobhad
 
 No description for this creature yet.
 
@@ -12,8 +12,8 @@ Survival d8, Throwing d6
 **Edges:** Combat Reflexes, Level Headed, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Resistance:** -1 damage from cold.
 - **Size +2:** Twelve feet tall; Toughness +2.
-

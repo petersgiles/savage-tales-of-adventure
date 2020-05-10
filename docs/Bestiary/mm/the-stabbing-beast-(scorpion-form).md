@@ -1,4 +1,4 @@
-The stabbing beast (scorpion form)
+# The stabbing beast (scorpion form)
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ d10, Stealth d12+7, Throwing d12
 Strong Willed, Two-Fisted
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d8; Bleed; Constrict.
 - **Sting:** Str+d8; Bleed; Poison.
@@ -37,4 +38,3 @@ they become Shaken (this can cause a wound)
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

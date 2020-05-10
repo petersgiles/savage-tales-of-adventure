@@ -1,4 +1,4 @@
-Spectre
+# Spectre
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Str+d4; Energy Drain.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Ethereal:** Intangible and can only be hurt by magical attacks.
@@ -21,4 +22,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 11" and Climb 3.
 - **Weaknesses:** Resurrection vulnerability and powerless in sunlight.
 - **Energy Drain:** Make a Vigor roll or suffer a level of Fatigue.
-

@@ -1,4 +1,4 @@
-Calikang
+# Calikang
 
 Calikangs are six-armed giants with blue skin, and are often
 recruited to serve as guardians.
@@ -14,6 +14,7 @@ Parry)
 **Powers:** Bolt (lightning bolt)
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Blue skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Truevision:** Can see through illusions, shapechanging,
@@ -25,4 +26,3 @@ Agility roll at -2 or suffer 2d10 day damage.
 - **Size +4:** Fourteen feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

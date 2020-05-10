@@ -1,4 +1,4 @@
-Lightning elemental
+# Lightning elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d6
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 4
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Slam:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -28,6 +29,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 6
 **Edges:** Dodge, Level Headed
 **Special Abilities**
+
 - **Slam:** Str+d4; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -47,6 +49,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 9 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d6; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -68,6 +71,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 13 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d8; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -92,6 +96,7 @@ Vigor d10
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 14 (1)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slams:** Str+d8; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -117,6 +122,7 @@ Vigor d10
 **Edges:** Combat Reflexes, Dodge, Improved Dodge, Frenzy, Level Headed,
 Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d8; Electricity.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -131,4 +137,3 @@ to foe.
 - **Size +7:** Increases Toughness by +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

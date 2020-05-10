@@ -1,4 +1,4 @@
-Rat
+# Rat
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d6
 Swimming d10
 **Charisma:** -; **Pace:** 4; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -28,6 +29,7 @@ Vigor d6
 **Skills:** Fighting d6, Climbing d10, Stealth d10, Tracking d4
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -55,6 +57,7 @@ Tracking d8, Swimming d6, Psionics d8
 **Powers:** Bolt (mind thrust), Detect Arcana (sense psionics), Mind
 Reading, Stun (psionic daze)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -75,6 +78,7 @@ Vigor d8
 Tracking d6, Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 2; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -94,6 +98,7 @@ d8
 Swimming d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -119,6 +124,7 @@ Vigor d6
 Swimming d6
 **Charisma:** -; **Pace:** 1; **Parry:** 2; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str; Disease.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -140,6 +146,7 @@ Vigor d8
 d10
 **Charisma:** -; **Pace:** 6; **Parry:** 2; **Toughness:** 5
 **Special Abilities**
+
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -156,6 +163,7 @@ Vigor d6
 Swimming d10
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 3
 **Special Abilities**
+
 - **Bite:** Str.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -176,6 +184,7 @@ d6
 **Skills:** Fighting d6, Climbing d6, Notice d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 4
 **Special Abilities**
+
 - **Bite:** Str+d4; Ethereal Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -191,6 +200,7 @@ Vigor d6
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 5 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Brownish fur.
 - **Bite:** Str+d4; Spores.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -214,6 +224,7 @@ Powers d12
 **Edges:** Arcane Background (Super Powers), Level Headed
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -224,4 +235,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 surfaces with Pace 4".
 - **Natural Swimmer:** Swimming Pace of 5", and +2 to resist drowning.
 - **Disease:** Make a Vigor roll or become afflicted.
-

@@ -1,4 +1,4 @@
-Therianthrope
+# Therianthrope
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 7 (1)
 **Gear:** Longspear (Str+d6; Reach 1"; Parry +1)
 **Special Abilities**
+
 - **Armour +1:** Blackish-gray fur.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -24,6 +25,7 @@ d6
 Tracking d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 6 (1)
 **Special Abilities**
+
 - **Armour +1:** Reddish fur.
 - **Bite:** Str+d4; As Short Sword.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -44,6 +46,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 8 (1)
 **Gear:** Longsword (Str+d8)
 **Special Abilities**
+
 - **Armour +1:** Dark fur.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -63,6 +66,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 12 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Brown fur.
 - **Bite:** Str+d6; Grab.
 - **Claws:** Str+d6.
@@ -87,6 +91,7 @@ d6
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 6 (1)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Brownish-yellow feathers.
 - **Talons:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -103,6 +108,7 @@ d8
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (1)
 **Gear:** Bastard sword (Str+d8; Go for the Throat)
 **Special Abilities**
+
 - **Armour +1:** Gray fur.
 - **Bite:** Str+d4; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -122,6 +128,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 12 (2)
 **Gear:** Longsword (Str+d8; Go for the Throat)
 **Special Abilities**
+
 - **Armour +2:** Gray fur.
 - **Bite:** Str+d6; Go for the Throat.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -135,4 +142,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Sickness Gaze:** All creatures within 12" must make a Spirit roll
 to resist.
 - **Size +2:** Increases Toughness by +2.
-

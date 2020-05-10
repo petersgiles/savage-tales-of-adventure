@@ -1,4 +1,4 @@
-Moon-beast
+# Moon-beast
 
 No description for this creature yet.
 
@@ -14,6 +14,7 @@ Level Headed, Quick, Strong Willed
 Dispel, Mind Reading, Obscure (illusion), Puppet (living humanoids
 only)
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Claws:** Str+d6.
 - **Tentacles:** Str+d6; Reach 1".
@@ -29,4 +30,3 @@ against offensive magic.
 - **Immunities:** Cold, poison and gaze attacks.
 - **Resistance:** -6 damage from electricity.
 - **Size +3:** Nine feet long; Toughness +3.
-

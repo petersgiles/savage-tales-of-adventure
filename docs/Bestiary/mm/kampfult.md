@@ -1,4 +1,4 @@
-Kampfult
+# Kampfult
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Tendrils:** Str+d4; Reach 1"; Constrict.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -15,4 +16,3 @@ d8
 that, they require a raise on an opposed Strength roll to escape.
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
-

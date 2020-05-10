@@ -1,4 +1,4 @@
-Baobhan sith
+# Baobhan sith
 
 The baobhan sith are fey who live in remote locations and feed on the
 blood of the living. They appear as beautiful elven women, and use their
@@ -13,9 +13,9 @@ d12, Stealth d12, Spellcasting d10
 Improved Dodge, Frenzy
 **Powers:** Entangle, Mind Reading, Puppet
 **Special Abilities**
+
 - **Armour +2:** White skin.
 - **Claws:** Str+d4.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Hardy:** A second Shaken result doesn't become a wound.
-

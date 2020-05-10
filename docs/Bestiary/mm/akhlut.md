@@ -1,4 +1,4 @@
-Akhlut
+# Akhlut
 
 The akhlut looks like a huge wolf-like beast, with a dorsal fin
 rising from its back. The akhlut transforms into an orca when fully
@@ -14,6 +14,7 @@ Swimming d12+1, Spellcasting d4
 Willed
 **Powers:** Obscure (fog)
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Bite:** Str+d8; Cold; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -39,4 +40,3 @@ than the swallower.
 - **Size +8:** Twenty-two feet long; Toughness +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

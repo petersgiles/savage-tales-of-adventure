@@ -1,4 +1,4 @@
-Ray
+# Ray
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d8, Notice d6, Swimming d12
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 10 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tail Slap:** Str+d6.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -22,6 +23,7 @@ Vigor d6
 **Skills:** Fighting d4, Notice d6, Tracking d6, Swimming d10
 **Charisma:** -; **Pace:** -; **Parry:** 4; **Toughness:** 4
 **Special Abilities**
+
 - **Sting:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Tremorsense:** Can sense and accurately pinpoint anything within
@@ -41,6 +43,7 @@ d8
 d10
 **Charisma:** -; **Pace:** -; **Parry:** 5; **Toughness:** 7 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Sting:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -62,6 +65,7 @@ d12
 **Edges:** Ambidextrous
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Sting:** Str+d6; Poison.
 - **Wing:** Str+d6.
@@ -75,4 +79,3 @@ strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Poison:** Sting inflicts lethal poison if foe is Shaken or wounded.
 - **Very Tough:** +1 Toughness.
 - **Size +3:** Increases Toughness by +3.
-

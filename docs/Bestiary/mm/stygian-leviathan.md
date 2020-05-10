@@ -1,4 +1,4 @@
-Stygian leviathan
+# Stygian leviathan
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+3
 **Edges:** Hard to Kill, Level Headed, Quick, Sweep, Improved Sweep,
 Strong Willed
 **Special Abilities**
+
 - **Armour +6:** Gray flesh.
 - **Bite:** Str+d8; Grab.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
@@ -30,4 +31,3 @@ than the swallower.
 - **Size +17:** Increases Toughness by +17.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

@@ -1,4 +1,4 @@
-Soul reaper
+# Soul reaper
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Survival d12+1, Spellcasting d12
 Improved Sweep
 **Powers:** Detect Arcana (see invisibility), Invisibility
 **Special Abilities**
+
 - **Armour +4:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Invisible:** Enemies suffer -4 to their attacks.
@@ -27,4 +28,3 @@ bleeding and death magic.
 - **Size +4:** Twelve feet tall; Toughness +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

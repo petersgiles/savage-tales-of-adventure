@@ -1,4 +1,4 @@
-Yellow musk creeper
+# Yellow musk creeper
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6
 **Charisma:** -; **Pace:** 1; **Parry:** 5; **Toughness:** 8 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Tendril:** Str+d4; Reach 1".
 - **Tremorsense:** Can sense and accurately pinpoint anything within 6"
@@ -25,8 +26,8 @@ Vigor d8
 **Gear:** Longsword (Str+d8)
 **Edges:** Quick
 **Special Abilities**
+
 - **Armour +1:** Yellow skin.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
-

@@ -1,4 +1,4 @@
-Ratling
+# Ratling
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Stealth d12, Swimming d6, Spellcasting d8
 **Powers:** Beast Friend, Detect Arcana (sense magic), Divination, Fear,
 Invisibility, Speak Language, Summon Ally, Teleport, Wall Walker
 **Special Abilities**
+
 - **Bite:** Str; Bleed.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -25,4 +26,3 @@ they become Shaken (this can cause a wound)
 - **Size -2:** Two feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

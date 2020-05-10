@@ -1,4 +1,4 @@
-Angelic guardian
+# Angelic guardian
 
 An angellic guardian looks like a metal statue of an angel with a
 burning crown, and its wings are razor-sharp.
@@ -9,6 +9,7 @@ Vigor d10
 **Charisma:** -; **Pace:** 6; **Parry:** 5; **Toughness:** 9 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Slams:** Str+d4.
 - **Wings:** Str+d4.
@@ -22,4 +23,3 @@ disease, poison, and extra damage from called shots.
 - **Breath Weapon:** All targets within a Cone Template must make an
 Agility roll at -2 or suffer 2d6 fire damage.
 - **Immunity:** Fire.
-

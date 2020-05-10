@@ -1,4 +1,4 @@
-Corpse candle
+# Corpse candle
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d8
 **Charisma:** +2; **Pace:** -; **Parry:** 5; **Toughness:** 7
 **Edges:** Alertness, Dodge, Level Headed
 **Special Abilities**
+
 - **Incorporeal Touch:** Victims must make a Strength roll or suffer a
 level of Fatigue.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Natural Swimmer:** Swimming Pace of 8", and +2 to resist drowning.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

@@ -1,4 +1,4 @@
-Gravity elemental
+# Gravity elemental
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d8
 **Charisma:** -; **Pace:** -; **Parry:** 6; **Toughness:** 5
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Special Abilities**
+
 - **Slam:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -30,6 +31,7 @@ d10
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Slams:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -51,6 +53,7 @@ d12
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Edges:** Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Slams:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -73,6 +76,7 @@ Vigor d12+1
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed
 **Special Abilities**
+
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -97,6 +101,7 @@ Vigor d12+1
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -121,6 +126,7 @@ Vigor d12+1
 **Gear:** Missile (Throwing; range 3/6/12; Str+d6; Damage By Type)
 **Edges:** Dodge, Improved Dodge, Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Slams:** Str+d8.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Extraplanar:** Not native to the material plane, and can be targeted
@@ -135,4 +141,3 @@ extra damage from called shots.
 - **Size +6:** Increases Toughness by +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

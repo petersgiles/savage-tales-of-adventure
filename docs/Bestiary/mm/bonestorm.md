@@ -1,4 +1,4 @@
-Bonestorm
+# Bonestorm
 
 The bonestorm is a swirling vortex of human bone fragments. If it
 spends a full round covering one or more corpses, it strips the flesh
@@ -13,6 +13,7 @@ Innate Powers d12
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Flesh.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Swirling Winds:** Any Medium creatures moving adjacent must make a
@@ -26,4 +27,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Flight:** Flying Pace of 8" and Climb 3.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

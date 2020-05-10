@@ -1,4 +1,4 @@
-Phantom armor
+# Phantom armor
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d10
 **Gear:** Heavy flail (Str+d6)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -25,6 +26,7 @@ No description for this creature yet.
 **Gear:** Masterwork longsword (Str+d8), medium shield (+1 Parry)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -39,6 +41,7 @@ d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 7 (1)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -63,6 +66,7 @@ d10
 (Shooting; range 15/30/60; 2d6)
 **Edges:** Dodge, Improved Dodge, Level Headed
 **Special Abilities**
+
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Undead:** +2 Toughness, +2 to recover from Shaken, ignore wound
 modifiers, disease, poison, and extra damage from called shots.
@@ -70,4 +74,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Size +2:** Increases Toughness by +2.
-

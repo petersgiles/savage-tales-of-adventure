@@ -1,4 +1,4 @@
-Darkmantle
+# Darkmantle
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d8
 **Edges:** Arcane Background (Magic), Level Headed
 **Powers:** Obscure (darkness)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str+d4; Constrict.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -18,4 +19,3 @@ Vigor d8
 that, they require a raise on an opposed Strength roll to escape.
 - **Flight:** Flying Pace of 6" and Climb -1.
 - **Size -1:** Reduces Toughness by -1.
-

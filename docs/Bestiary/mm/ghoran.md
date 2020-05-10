@@ -1,4 +1,4 @@
-Ghoran
+# Ghoran
 
 No description for this creature yet.
 
@@ -11,8 +11,8 @@ d10
 **Powers:** Disguise (illusion), Puppet (living humanoids only), Stun
 (daze)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
-

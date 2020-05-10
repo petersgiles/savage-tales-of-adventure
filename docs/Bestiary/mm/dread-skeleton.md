@@ -1,4 +1,4 @@
-Dread skeleton
+# Dread skeleton
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Shooting d6
 crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -24,4 +25,3 @@ modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Cold, sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
 - **Size +3:** Increases Toughness by +3.
-

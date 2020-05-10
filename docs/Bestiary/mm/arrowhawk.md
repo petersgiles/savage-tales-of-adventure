@@ -1,4 +1,4 @@
-Arrowhawk
+# Arrowhawk
 
 The arrowhawk has a ten-foot long serpentlike body, with two pairs of
 wings. Two sets of eyes surround its serrated beak. Its eggs naturally
@@ -11,6 +11,7 @@ d12, Survival d10, Shooting d8
 **Charisma:** -; **Pace:** -; **Parry:** 7; **Toughness:** 8 (2)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Electricity Ray:** Shooting; range 12/24/48; 2d6.
@@ -20,4 +21,3 @@ by Banish.
 - **Flight:** Flying Pace of 9" and Climb 3.
 - **Immunities:** Electricity, acid and poison.
 - **Resistances:** -2 damage from cold and fire.
-

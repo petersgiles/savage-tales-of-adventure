@@ -1,4 +1,4 @@
-Chromatic black dragon
+# Chromatic black dragon
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Swimming d12
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 5 (1)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +1:** Scaly hide.
 - **Bite:** Str.
 - **Claws:** Str.
@@ -31,6 +32,7 @@ Swimming d12+1
 **Charisma:** -; **Pace:** 9; **Parry:** 5; **Toughness:** 8 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -53,6 +55,7 @@ Swimming d12+2
 **Charisma:** -; **Pace:** 9; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Alertness, Level Headed
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -75,6 +78,7 @@ Swimming d12+3, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Obscure (darkness)
 **Special Abilities**
+
 - **Armour +3:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -97,6 +101,7 @@ Swimming d12+4, Spellcasting d8
 **Edges:** Alertness, Arcane Background (Magic), Level Headed
 **Powers:** Detect Arcana (sense magic), Obscure (darkness)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -123,6 +128,7 @@ d12+1, Stealth d12+1, Swimming d12+5, Spellcasting d8
 **Powers:** Armor, Detect Arcana (sense magic), Light (dancing lights),
 Obscure (darkness)
 **Special Abilities**
+
 - **Armour +4:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -152,6 +158,7 @@ d12+2, Stealth d12+2, Swimming d12+6, Spellcasting d8
 Arcana (sense magic), Light (dancing lights), Obscure (darkness), Summon
 Ally
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8.
 - **Claws:** Str+d8.
@@ -184,6 +191,7 @@ Headed
 Light (dancing lights), Obscure (darkness), Summon Ally
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +5:** Scaly hide.
 - **Bite:** Str+d8; Acid.
 - **Claws:** Str+d8.
@@ -219,6 +227,7 @@ Light (dancing lights), Invisibility, Obscure (darkness), Summon Ally,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +6:** Scaly hide.
 - **Bite:** Str+d8; Acid.
 - **Claws:** Str+d8.
@@ -252,6 +261,7 @@ Light (dancing lights), Invisibility, Obscure (darkness), Summon Ally,
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d8; Acid.
 - **Claws:** Str+d8.
@@ -285,6 +295,7 @@ Light (dancing lights), Invisibility, Obscure (darkness), Puppet (living
 humanoids only), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +7:** Scaly hide.
 - **Bite:** Str+d10; Acid.
 - **Claws:** Str+d10.
@@ -318,6 +329,7 @@ Light (dancing lights), Invisibility, Obscure (darkness), Puppet (living
 humanoids only), Summon Ally, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +8:** Scaly hide.
 - **Bite:** Str+d10; Acid.
 - **Claws:** Str+d10.
@@ -334,4 +346,3 @@ Agility roll at -2 or suffer 2d12 acid damage.
 - **Size +10:** Increases Toughness by +10.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

@@ -1,4 +1,4 @@
-Remorhaz
+# Remorhaz
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+2
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 18 (3)
 **Edges:** Sweep
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -31,4 +32,3 @@ than the swallower.
 - **Size +6:** Twenty-five feet long; Toughness +6.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

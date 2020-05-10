@@ -1,4 +1,4 @@
-Smoke dragon
+# Smoke dragon
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 **Charisma:** -; **Pace:** 4; **Parry:** 5; **Toughness:** 7 (2)
 **Edges:** Alertness
 **Special Abilities**
+
 - **Armour +2:** Scaly hide.
 - **Bite:** Str+d4.
 - **Claws:** Str+d4.
@@ -17,4 +18,3 @@ against offensive magic.
 Agility roll at -2 or suffer 2d4 nauseated damage.
 - **Immunities:** Sleep and paralysis.
 - **Size -1:** Three feet long; Toughness -1.
-

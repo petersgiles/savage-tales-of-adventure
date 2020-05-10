@@ -1,4 +1,4 @@
-Lycanthrope (wererat)
+# Lycanthrope (wererat)
 
 No description for this creature yet.
 
@@ -11,6 +11,7 @@ Stealth d8, Tracking d8, Swimming d6, Shooting d6
 crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Assassin, Dodge, Thief
 **Special Abilities**
+
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
 6", halved for upwind and doubled for downwind, doubled again for very
@@ -28,6 +29,7 @@ Stealth d8, Tracking d8, Swimming d8, Shooting d6
 crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 **Edges:** Assassin, Dodge, Thief
 **Special Abilities**
+
 - **Bite:** Str+d4; Disease; Curse of Dc.
 - **Low Light Vision:** No penalties for dim or dark lighting.
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -35,4 +37,3 @@ crossbow (Shooting; range 15/30/60; 2d6; AP 2)
 strong scents). Only adjacent creatures can be pinpointed accurately.
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Disease:** Make a Vigor roll or become afflicted.
-

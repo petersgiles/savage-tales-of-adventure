@@ -1,4 +1,4 @@
-Moonflower
+# Moonflower
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ d12+2
 **Edges:** Ambidextrous, Level Headed
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d8; Grab.
 - **Tentacles:** Str+d8; Reach 1".
@@ -24,4 +25,3 @@ and extra damage from called shots.
 - **Size +7:** Twenty feet tall; Toughness +7.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

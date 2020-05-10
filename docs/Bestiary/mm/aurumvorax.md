@@ -1,4 +1,4 @@
-Aurumvorax
+# Aurumvorax
 
 Aurumvoraxes are aggressive dog-sized predators with golden fur and
 eight legs. As well as meat, aurumvoraxes also eat precious metals, and
@@ -10,6 +10,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 6; **Parry:** 7; **Toughness:** 9 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Golden fur.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4; Grab.
@@ -25,4 +26,3 @@ raise on an opposed Strength roll to escape.
 - **Immunity:** Poison.
 - **Resistance:** -2 damage from fire.
 - **Size -1:** Three feet long; Toughness -1.
-

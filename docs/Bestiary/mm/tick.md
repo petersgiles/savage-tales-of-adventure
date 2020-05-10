@@ -1,4 +1,4 @@
-Tick
+# Tick
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ d10
 **Skills:** Fighting d4, Climbing d8, Stealth d8, Tracking d4
 **Charisma:** -; **Pace:** 5; **Parry:** 4; **Toughness:** 8 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4; Grab; Attach; Disease.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -33,6 +34,7 @@ Climbing d10, Tracking d4, Innate Powers d10
 **Edges:** Arcane Background (Super Powers)
 **Powers:** Stun (distraction)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Darkvision:** No vision penalties for darkness (range 12").
 - **Scent:** Can navigate, track and detect creatures by scent (range
@@ -46,4 +48,3 @@ surfaces with Pace 6".
 - **Immunity:** Mind-affecting effects.
 - **Draining:** Make a Vigor roll or suffer a level of Fatigue.
 - **Disease:** Make a Vigor roll or become afflicted.
-

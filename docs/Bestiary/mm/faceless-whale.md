@@ -1,4 +1,4 @@
-Faceless whale
+# Faceless whale
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12+4
 **Charisma:** -; **Pace:** -; **Parry:** 8; **Toughness:** 35 (7)
 **Edges:** Hard to Kill, Strong Willed
 **Special Abilities**
+
 - **Armour +7:** Natural armour.
 - **Bite:** Str+d8.
 - **Tail Slap:** Str+d8.
@@ -27,4 +28,3 @@ than the swallower.
 - **Size +18:** Seventy feet long; Toughness +18.
 - **Gargantuan:** -4 to attack medium-sized foes, they receive +4 to
 their attacks. Counts as having Heavy Armour and Heavy Weapons.
-

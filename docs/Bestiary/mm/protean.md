@@ -1,4 +1,4 @@
-Protean
+# Protean
 
 No description for this creature yet.
 
@@ -13,6 +13,7 @@ Reflexes, Level Headed, Strong Willed
 **Powers:** Dispel, Quickness, Speak Language, Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite:** Str+d6.
 - **Claws:** Str+d6.
@@ -47,6 +48,7 @@ Quick, Strong Willed
 Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +4:** Scales.
 - **Bite:** Str+d8; Warpwave.
 - **Claws:** Str+d8; Warpwave.
@@ -83,6 +85,7 @@ Level Headed, Quick
 **Powers:** Obscure (fog cloud), Teleport
 **Tactics:** Two Weapons
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d6.
 - **Tail Slap:** Str+d6; Confusion.
@@ -114,6 +117,7 @@ d6
 **Edges:** Arcane Background (Magic)
 **Powers:** Deflection (blur), Divination, Light (dancing lights)
 **Special Abilities**
+
 - **Bite:** Str.
 - **Tail Slap:** Str; Confusion.
 - **Darkvision:** No vision penalties for darkness (range 6").
@@ -130,4 +134,3 @@ shots.
 - **Size -2:** Two feet long; Toughness -2.
 - **Small:** +2 to attack medium-sized foes, they receive -2 to their
 attacks.
-

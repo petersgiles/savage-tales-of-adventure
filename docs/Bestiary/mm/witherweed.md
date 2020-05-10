@@ -1,4 +1,4 @@
-Witherweed
+# Witherweed
 
 No description for this creature yet.
 
@@ -9,6 +9,7 @@ Vigor d10
 **Gear:** Fronds (Str+d8; Dex)
 **Edges:** Frenzy, Improved Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Blindsight:** Ignore sight-based penalties and gaze attacks.
 - **Mindless:** Immune to mind-affecting magic.
@@ -16,4 +17,3 @@ Vigor d10
 - **Plant:** +2 to recover from Shaken, ignore wound modifiers, poison,
 and extra damage from called shots.
 - **Size +2:** Increases Toughness by +2.
-

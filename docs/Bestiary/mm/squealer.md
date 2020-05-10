@@ -1,4 +1,4 @@
-Squealer
+# Squealer
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ Vigor d12
 **Charisma:** -; **Pace:** 7; **Parry:** 7; **Toughness:** 13 (2)
 **Edges:** Frenzy, Level Headed, Sweep
 **Special Abilities**
+
 - **Armour +2:** Long fur.
 - **Claws:** Str+d6.
 - **Bite:** Str+d6; Grab.
@@ -18,4 +19,3 @@ raise on an opposed Strength roll to escape.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 6".
 - **Size +3:** Nine feet tall; Toughness +3.
-

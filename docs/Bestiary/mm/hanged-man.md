@@ -1,4 +1,4 @@
-Hanged man
+# Hanged man
 
 No description for this creature yet.
 
@@ -10,6 +10,7 @@ d4
 **Gear:** Rope (Throwing; range 3/6/12; Str+d6; Entangle)
 **Edges:** Frenzy, Level Headed
 **Special Abilities**
+
 - **Armour +1:** Pale skin.
 - **Claws:** Str+d4.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -17,4 +18,3 @@ d4
 modifiers, disease, poison, and extra damage from called shots.
 - **Immunities:** Sleep, paralysis, mind-affecting effects, aging,
 bleeding and death magic.
-

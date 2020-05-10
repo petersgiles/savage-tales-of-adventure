@@ -1,4 +1,4 @@
-Phantom fungus
+# Phantom fungus
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ Vigor d10
 **Skills:** Fighting d6, Climbing d10, Notice d10, Stealth d8
 **Charisma:** -; **Pace:** 5; **Parry:** 5; **Toughness:** 9 (2)
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Bite:** Str+d4.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -17,4 +18,3 @@ Vigor d10
 and extra damage from called shots.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

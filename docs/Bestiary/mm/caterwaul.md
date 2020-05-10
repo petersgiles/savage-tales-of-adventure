@@ -1,4 +1,4 @@
-Caterwaul
+# Caterwaul
 
 Caterwauls are semi-intelligent humanoid felines, although they often
 drop to all fours when moving quickly.
@@ -10,6 +10,7 @@ d10
 **Charisma:** -; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (1)
 **Edges:** Dodge
 **Special Abilities**
+
 - **Armour +1:** Blue fur.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -24,4 +25,3 @@ raise on an opposed Strength roll to escape.
 to foe.
 - **Wall Walker:** Can automatically move across vertical or inverted
 surfaces with Pace 5".
-

@@ -1,4 +1,4 @@
-Lurking ray
+# Lurking ray
 
 No description for this creature yet.
 
@@ -7,6 +7,7 @@ No description for this creature yet.
 d8
 **Charisma:** -; **Pace:** 4; **Parry:** 4; **Toughness:** 5 (1)
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Slam:** Str; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -38,6 +39,7 @@ Tracking d10
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 19 (3)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -68,6 +70,7 @@ Tracking d12+3
 **Charisma:** -; **Pace:** 4; **Parry:** 6; **Toughness:** 20 (3)
 **Edges:** Combat Reflexes, Level Headed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Slam:** Str+d8; Constrict.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -90,4 +93,3 @@ shots.
 - **Size +8:** Increases Toughness by +8.
 - **Huge:** -4 to attack medium-sized foes, they receive +4 to their
 attacks.
-

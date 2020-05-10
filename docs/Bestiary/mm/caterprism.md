@@ -1,4 +1,4 @@
-Caterprism
+# Caterprism
 
 Caterprisms resemble crystal caterpillars, with twelve thin legs,
 hexagonal body segments, and large faceted eyes.
@@ -10,6 +10,7 @@ d8
 **Charisma:** -; **Pace:** 6; **Parry:** 6; **Toughness:** 13 (3)
 **Edges:** Strong Willed
 **Special Abilities**
+
 - **Armour +3:** Natural armour.
 - **Bite Touch:** Str+d6.
 - **Darkvision:** No vision penalties for darkness (range 12").
@@ -19,4 +20,3 @@ by Banish.
 extra damage from called shots.
 - **Burrow:** Can burrow and reappear within 5".
 - **Size +2:** Two feet long; Toughness +2.
-

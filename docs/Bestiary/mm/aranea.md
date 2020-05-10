@@ -1,4 +1,4 @@
-Aranea
+# Aranea
 
 The aranea normally appears as a human-sized humpbacked spider, but
 it also has the ability to shapechange into a specific humanoid form, or
@@ -10,6 +10,7 @@ d8
 **Charisma:** +1; **Pace:** 8; **Parry:** 6; **Toughness:** 8 (2)
 **Edges:** Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Permanent armour spell.
 - **Bite:** Str+d4; Poison.
 - **Low Light Vision:** No penalties for dim or dark lighting.
@@ -21,4 +22,3 @@ Agility as the arcane skill.
 surfaces with Pace 6".
 - **Change Form:** Can assume an alternate form as a normal action.
 - **Poison:** Bite inflicts lethal poison if foe is Shaken or wounded.
-

@@ -1,4 +1,4 @@
-Bear
+# Bear
 
 Black bears are omnivores and generally not very aggressive.
 
@@ -9,6 +9,7 @@ d10
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 8 (1)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +1:** Natural armour.
 - **Claws:** Str+d4; Grab.
 - **Bite:** Str+d4.
@@ -28,6 +29,7 @@ Vigor d12+2
 **Charisma:** -; **Pace:** 7; **Parry:** 6; **Toughness:** 15 (2)
 **Edges:** Frenzy, Level Headed, Strong Willed
 **Special Abilities**
+
 - **Armour +2:** Matted fur.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -51,6 +53,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 13 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Brown fur.
 - **Claws:** Str+d6; Grab.
 - **Bite:** Str+d6.
@@ -73,6 +76,7 @@ d12
 **Charisma:** -; **Pace:** 7; **Parry:** 5; **Toughness:** 15 (2)
 **Edges:** Frenzy
 **Special Abilities**
+
 - **Armour +2:** Natural armour.
 - **Claws:** Str+d8; Grab.
 - **Bite:** Str+d8.
@@ -86,4 +90,3 @@ raise on an opposed Strength roll to escape.
 - **Size +4:** Increases Toughness by +4.
 - **Large:** -2 to attack medium-sized foes, they receive +2 to their
 attacks.
-

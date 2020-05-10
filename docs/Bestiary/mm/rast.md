@@ -1,4 +1,4 @@
-Rast
+# Rast
 
 No description for this creature yet.
 
@@ -8,6 +8,7 @@ d12
 **Charisma:** -; **Pace:** 1; **Parry:** 6; **Toughness:** 10 (2)
 **Edges:** Level Headed
 **Special Abilities**
+
 - **Armour +2:** Puffed flesh.
 - **Bite:** Str+d4; Grab.
 - **Claws:** Str+d4.
@@ -21,4 +22,3 @@ raise on an opposed Strength roll to escape.
 to resist.
 - **Immunity:** Fire.
 - **Weakness:** Cold (double damage).
-
