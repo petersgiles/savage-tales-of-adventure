@@ -7,7 +7,7 @@ Traditional Japanese storytelling technique called kishotenketsu. Essentially, i
 - **Ki**,  or introduction. E.g. There's this really amazing magical city.
 - **Sho**, or development. E.g. They practice human sacrifice, which most players will try to stop.
 - **Ten**, or twist/divergence/false appearance. E.g. The sacrifices were actually keeping a tarrasque miles below the city from waking.
-- **Ketsu**, or resolution. E.g. You must now fight a tarrasque, or otherwise solve the problem (see edit)
+- **Ketsu**, or resolution. E.g. You must now fight a tarrasque, or otherwise solve the problem
 
 ## Example
 
